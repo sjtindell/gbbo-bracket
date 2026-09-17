@@ -16,7 +16,7 @@ Parsed into CSVs:
 | `data/processed/baker_episode.csv` | 1,170 | HIGH/LOW/SAFE/SB/OUT/WINNER/RUNNER_UP, technical rank, bake names |
 | `data/processed/history_stats.json` | 1 | Winner ages, week-1 rates, bread-week SB→final |
 
-Handshake columns exist and are **empty** (0/1,170). `technical_set_by` is sparse (Paul 27, Prue 21, blank 107). S17 has Cake Week as a heading only: 12 baker rows, 0 technical ranks, `n_eliminated=0` because nothing has aired.
+Handshake columns exist and are **empty** (0/1,170). Wikipedia already encodes some of them in the cache as `{{longlisted}}` / `#E7E7FF` on bake cells (44 cells, mostly S8–S13). That is not salmon; salmon in our parser is an OUT colour fallback and should not be used for handshakes. `technical_set_by` is sparse (Paul 27, Prue 21, blank 107). S17 has Cake Week as a heading only: 12 baker rows, 0 technical ranks, `n_eliminated=0` because nothing has aired. Infobox parse left `winner_name` as garbage (`== Episode 1: Cake ===`).
 
 Technical ranks are good for S2–S7, S9, S12–S16. Weak where Wikipedia tables omit them: **S8 44%, S10 16%, S11 52%**. S1 69%. That is why winner vs field technical percentiles (0.575 vs 0.451) are directional, not a law.
 
@@ -34,8 +34,8 @@ S17 bios in `gbbo/s17.py` are **hand-extracted facts** (age, job, hometown, a fe
 | --- | --- | --- |
 | TVmaze show 2950 / 17x01 | Calendar, Cake Week briefs | Calendar only so far |
 | CRAN `bakeoff` 0.2.0 / apreshill | Teaching dataset S1–10 | HIGH/LOW collapsed to IN |
-| monica-m-kim/Great-British-Bake-Off (MIT) | Handshake + ingredients S3–16 | Not merged yet |
-| nathangiusti/BakeOff | Human −1/0/+1 valence, theme difficulty | No license; Netflix numbering; ideas only |
+| monica-m-kim/Great-British-Bake-Off (MIT) | `signature_handshake` / `showstopper_handshake` S3–16, plus ingredients | Outcome is IN/OUT (HIGH/LOW collapsed). Not merged yet. |
+| nathangiusti/BakeOff | Human −1/0/+1 on bake/flavour/looks, handshakes, Claude transcript scores | No license; Netflix numbering; transcripts are Netflix VTT. Ideas only. |
 | dantaki/DeepBake | Wiki HIGH/LOW/SB/tech → NN | n=16; we are not training a net |
 | Times / @GBBOData 2025 | Trifecta ~69% to final; most-credentialed finalist ~36% | Instagram, no public CSV |
 | OLBG 16 Sep 2026 table | Theoretical 6/4 Shannon | Overround ~335%; unofficial surnames |
@@ -62,8 +62,11 @@ No Series 17 winner contract on Polymarket, Kalshi, Metaculus, or PredictIt. UK 
 
 | Source | Extra fields | Risk | Verdict |
 | --- | --- | --- | --- |
-| Wikipedia **bake-table cell colours** already in our wikitext cache | Handshake (salmon) on signature/showstopper, S8+ | CC BY-SA | Parse it; we already downloaded it |
-| monica-m-kim CSVs | `signature_handshake`, `showstopper_handshake` S3–16 | MIT | Merge into empty handshake columns |
+| Wikipedia `{{longlisted}}` / `#E7E7FF` already in our wikitext cache | Handshake on signature/showstopper (partial, S8–S13 heavy) | CC BY-SA | Parse it; we already downloaded it |
+| monica-m-kim CSVs | Handshake Yes/No S3–16 (~1,700 rows); ingredients where she could watch | MIT | Merge handshake only; skip copying ingredient lists if we do not need them |
+| nathangiusti `judging/human/data.csv` | Per-bake −1/0/+1 valence + handshake (Netflix S5+) | Unclear license; built on transcripts | Copy the *schema*, not the files. Fill our weekly YAML after each episode. |
+| Guardian Stuart Heritage, 7 Sep 2026 | Bio ranking “worst to best” | Opinion, copyright | Read, do not ingest as data |
+| Telegraph first look, 7 Sep 2026 | Cake Week briefs: stout cake, coffee-walnut technical, self-portrait; dropped cakes | Copyright; facts OK | Pre-air modifier for Ep 1 |
 | hollywoodhandshakes.com / sebzapata lists | Handshake through ~S14 | No license; stills are LP copyright | Cross-check names only, no images |
 | TVmaze episode `summary` | Pre-air challenge briefs | CC BY-SA | Store facts (stout cake, coffee-walnut technical, self-portrait) |
 | Radio Times listings | Next-week theme **before** wiki updates | Copyright; facts OK | Weekly notes, not a scrape |
