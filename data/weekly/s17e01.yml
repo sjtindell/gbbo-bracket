@@ -1,0 +1,13 @@
+series: 17
+episode: 1
+theme: Cake
+star_baker: null
+eliminated: []
+high: []
+low: []
+technical: {}
+n_eliminated: 1
+spoiler_ok: false
+notes: |
+  Fill after watching or after you are willing to be spoiled.
+  YAML wins over Wikipedia if both exist.

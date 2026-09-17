@@ -1,0 +1,1175 @@
+series,episode,baker_id,baker_short,result,technical_rank,n_in_technical,signature_name,showstopper_name,handshake_signature,handshake_showstopper,appeared
+1,1,1-annetha,Annetha,HIGH,2,6,Light Jamaican Black Cake with Strawberries and Cream,"Red, White & Blue Chocolate Cake with Cigarellos, Fresh Fruit, and Cream",,,1
+1,1,1-david,David,LOW,3,6,Chocolate Orange Cake,"Black Forest Floor Gateau with Chocolate Leaves, Fallen Fruit, and Chocolate Mushrooms",,,1
+1,1,1-edd,Edd,HIGH,1,6,Caramel Cinnamon and Banana Cake,UNKNOWN,,,1
+1,1,1-jonathan,Jonathan,SAFE,9,6,Carrot Cake with Lime and Cream Cheese Icing,Three Tiered White and Dark Chocolate with Almond and Cherry,,,1
+1,1,1-lea,Lea,OUT,10,6,Cranberry and Pistachio Cake with Orange Flower Water Icing,Raspberries and Cream-filled Chocolate Cake with Chocolate-dipped Fresh Fruit,,,1
+1,1,1-louise,Louise,LOW,,6,Carrot and Orange Cake,Never Fail Chocolate Sponge Cake with Fresh Fruit,,,1
+1,1,1-mark,Mark,OUT,,6,Sticky Marmalade Tea Loaf,Heart-shaped Chocolate and Beetroot Cake,,,1
+1,1,1-miranda,Miranda,HIGH,8,6,Triple Layered Brownie Meringue Cake with Raspberry Cream,Three Tiered Chocolate Fudge Cake with Handmade Chocolate Button Decorations,,,1
+1,1,1-ruth,Ruth,HIGH,,6,Lemon Drizzle Cake with Fresh Cream and freshly made Lemon Curd,Classic Chocolate Sponge wrapped in a Chocolate Collar topped with Handmade White and Dark Chocolate Truffles,,,1
+1,2,1-annetha,Annetha,OUT,7,8,Rose Petal Shortbread,Pink Swirl Macarons Eclairs,,,1
+1,2,1-david,David,LOW,8,8,Cheddar Cheese and Fresh Rosemary Biscuits,Choux Pastry Swans Plain Meringues,,,1
+1,2,1-edd,Edd,HIGH,6,8,Oatmeal Raisin Cookies,Pink Macarons Passion Fruit Meringues,,,1
+1,2,1-jonathan,Jonathan,HIGH,1,8,Honey and Candied Ginger Cookies,Meringues with Whiskey Cream and Chocolate,,,1
+1,2,1-louise,Louise,OUT,4,8,Stained Glass Window Shortbread,"Strawberry, Mint, and Cream Meringue Baskets Chocolate Eclairs Orange, Yellow and Pink Macarons",,,1
+1,2,1-miranda,Miranda,HIGH,3,8,Fresh Vanilla Biscuits with Royal Icing,Pistachio Macarons,,,1
+1,2,1-ruth,Ruth,SAFE,5,8,Peanut Shortbread with Salted Peanut Caramel,Almond Macaron with Violet Buttercream Raspberries and Cream Eclairs,,,1
+1,3,1-david,David,LOW,4,6,Chilli Bread,Walnut and Seed Roll Red Berry and Almond Bun Tomato and Herb Rolls,,,1
+1,3,1-edd,Edd,HIGH,1,6,Olive Bread,"Tomato, Mozzarella, and Chorizo Rolls Chelsea Buns Hot Cross Buns",,,1
+1,3,1-jonathan,Jonathan,OUT,6,6,"Anchovy, Sweet Paprika and Oregano Bread","Sticky Lemon Honey Buns Olive and Anchovy Rolls Sun-Dried Tomato and Fresh Herb Rolls Stilton, Walnut and Braeburn Apple Rolls Cinnamon, Cardamom, and Sultana Chelsea Buns with Icing",,,1
+1,3,1-miranda,Miranda,SAFE,3,6,Walnut and Apricot Bread,Lemon Iced Buns Chocolate and Orange Buns Cranberry Buns with Icing Sugar,,,1
+1,3,1-ruth,Ruth,HIGH,2,6,Maple and Pecan Bread,Chocolate and Orange Panettone Cranberry Bagels,,,1
+1,4,1-david,David,OUT,5,5,Pear and Walnut Pudding,Apple and Blackberry Crumble Rhubarb and Orange Betty Suet Pear,,,1
+1,4,1-edd,Edd,LOW,3,5,Apple and Plum Pudding,Apple and Cinnamon Crumble Nutella Banana Brioche Bread Pudding Rhubarb and Strawberry Suet Layer,,,1
+1,4,1-miranda,Miranda,HIGH,1,5,Sticky Toffee Pudding,Queen of Puddings Chocolate Pear Roly Poly Strawberry and Rhubarb Crumble,,,1
+1,4,1-ruth,Ruth,HIGH,4,5,Peach and Blueberry Boy Bait,Apple and Ginger Crumble Rhubarb Suet Pudding Cherry Queen of Puddings,,,1
+1,5,1-edd,Edd,HIGH,2,4,"Chicken, Ham, Leek and Tarragon Pie",Almond Sweet Tart with Ginger and Chocolate Yorkshire Curd Tart Chickpea and Salami Pâté Red and Yellow Pepper Tart Asparagus Gruyere Quiche,,,1
+1,5,1-miranda,Miranda,LOW,1,4,"Summery Salmon, Cod and Prawn Fish Pie",Chocolate Pastry filled with Orange Cheesecake Chocolate Pastry filled with Milk Chocolate Ganache Strawberry Tart with Red Currant Glaze Cheesy Crab Bites Broad Bean and Tomato Pastry Hearts Pancetta and Leek Risotto Canapés,,,1
+1,5,1-ruth,Ruth,HIGH,3,4,Minced Beef Pie,Raspberry and Dark Chocolate Tart Creme Patisserie and Cherry Tart Citrus Curd Tart with Creme Brulee Top Roasted Tomato Canapés Asparagus Pastry Twirls,,,1
+1,6,1-edd,Edd,WINNER,,0,Cinnamon and Banana Cakes,Chocolate and Ginger Tarts Lemon Scones with Passion Fruit Curd Raspberry Choux Buns Finger Sandwiches,,,1
+1,6,1-miranda,Miranda,OUT,,0,Lemon Cupcakes,n/a,,,1
+1,6,1-ruth,Ruth,RUNNER_UP,,0,"Mint, Ginger and Blackberry Cakes",Red Pepper and Cheese Quiche Tarts Sultana Scones Vanilla and Lemon Choux Buns Finger Sandwiches,,,1
+1,1,1-jas,Jas,SAFE,,,,,,,1
+1,2,1-jas,Jas,SAFE,,,,,,,1
+1,3,1-jas,Jas,LOW,,,,,,,1
+1,4,1-jas,Jas,SAFE,,,,,,,1
+1,5,1-jas,Jas,OUT,,,,,,,1
+2,1,2-ben,Ben,SAFE,2,12,Rhubarb and Custard Cupcakes After Dinner Cupcakes,Vanilla Sponge with White Chocolate and Raspberry Buttercream,,,1
+2,1,2-holly,Holly,SB,1,12,Cherry Bakewell Inspired Cupcakes Ginger Cupcakes with Fig Truffle,Novelty Farm Cake,,,1
+2,1,2-ian,Ian,SAFE,10,12,Apple and Cinnamon Cupcakes,UNKNOWN,,,1
+2,1,2-janet,Janet,SAFE,8,12,Raspberry and Cream Cupcakes,Chocolate Marble Cake with Dark and White Chocolate Truffles,,,1
+2,1,2-jason,Jason,SAFE,6,12,Lemon Meringue Cupcakes Apple and Cinnamon Cupcakes,UNKNOWN,,,1
+2,1,2-jo,Jo,HIGH,11,12,Chocolate and Orange Cupcakes Orange and Cardamom Cupcakes,Chocolate and Strawberry Cake,,,1
+2,1,2-keith,Keith,OUT,12,12,Earl Grey Cupcakes,Chocolate and Sour Cream Cake,,,1
+2,1,2-mary-anne,Mary-Anne,SAFE,4,12,Banoffee Cupcakes,Chocolate and Raspberry Opera Cake,,,1
+2,1,2-robert,Robert,LOW,3,12,Blackberry and Vanilla Cupcakes with Liquorice Frosting,Genoise Layered Mousse Cake with Chocolate Ganache,,,1
+2,1,2-simon,Simon,LOW,9,12,Guinness and Chocolate Cupcakes,Two-Tiered Chocolate Courgette Cake,,,1
+2,1,2-urvashi,Urvashi,SAFE,7,12,Cherry Blossom Cupcakes Japanese Lime Cupcakes,Orange Blossom Celebration Cake,,,1
+2,1,2-yasmin,Yasmin,SAFE,5,12,Cardamom and Pomegranate Cupcakes Lemon Meringue Cupcakes,Three Tier Passion Cake,,,1
+2,2,2-ben,Ben,SAFE,1,11,"Chorizo, Pepper and Gruyere Quiche",Lemon Meringue Tarts,,,1
+2,2,2-holly,Holly,SAFE,4,11,Pesto Quiche,Milk Chocolate and Pistachio Tarts Trifle Tarts,,,1
+2,2,2-ian,Ian,HIGH,2,11,"Stilton, Spinach and New Potato Quiche with Paprika and Walnut Pastry",UNKNOWN,,,1
+2,2,2-janet,Janet,SAFE,8,11,Quiche Printanière,Red Fruit Tarts Chocolate and Cherry Tarts,,,1
+2,2,2-jason,Jason,SB,3,11,Salmon and Pak Choi Quiche,Mint Chocolate Tarts Blueberry Bakewell Tarts,,,1
+2,2,2-jo,Jo,LOW,10,11,"Caramelised Onion, Gruyere and Thyme Quiche",Raspberry and Mascarpone Tarts with Lemon and Almond Pastry Honey and Almond Tarts with Sweetcrust,,,1
+2,2,2-mary-anne,Mary-Anne,SAFE,9,11,"Roasted Cauliflower, Cheese and Caramelised Onion Quiche",Butterscotch Brulée Tarts in Pecan Pastry Apple Rose Tarts,,,1
+2,2,2-robert,Robert,LOW,5,11,Smoked Bacon and Kale Quiche,"Chocolate, Fennel and Ginger Tarts Creme Patisserie and Poached Pear Tarts in Almond Pastry",,,1
+2,2,2-simon,Simon,OUT,11,11,Smoked Haddock and Watercress Quiche,"Passion Fruit and Ricotta Tarts Salted Chocolate, Stem Ginger and Mascarpone Cream Tarts",,,1
+2,2,2-urvashi,Urvashi,SAFE,7,11,"Crab, Coriander and Coconut Quiche",Strawberry and Basil Tarts Elderflower and Honeycomb Tarts,,,1
+2,2,2-yasmin,Yasmin,SAFE,6,11,Smoked Haddock and Watercress Quiche,Chocolate and Orange Tarts in Cinnamon-Orange Pastry Blueberry and Hazelnut Tarts in Hazelnut Pastry,,,1
+2,3,2-ben,Ben,SAFE,3,10,"Walnut, Raisin and Rosemary Loaf",UNKNOWN,,,1
+2,3,2-holly,Holly,SAFE,6,10,Picnic Loaf,Stilton and Walnut Rolls,,,1
+2,3,2-ian,Ian,OUT,10,10,"Courgette, Caerphilly Cheese and Thyme Loaf",Walnut and Raisin Rolls Cracked Wheat Logs,,,1
+2,3,2-janet,Janet,LOW,8,10,Zupfe Loaf with Gruyère Cheese,Apple and Walnut Granary Rolls Red Onion Cottage Rolls,,,1
+2,3,2-jason,Jason,SAFE,7,10,Cheese and Onion Tear and Share Loaf,UNKNOWN,,,1
+2,3,2-jo,Jo,SAFE,1,10,"Stromboli Flavoured with Mozarella, Ham, and Picante Pepper",Spiced Orange Rolls Pumpkin Seed Rolls,,,1
+2,3,2-mary-anne,Mary-Anne,HIGH,5,10,Ploughman's Loaf,Herb and Walnut Breads Chocolate and Chilli Buns,,,1
+2,3,2-robert,Robert,LOW,4,10,Rye and Coriander Seed Loaf,Blueberry Brioche Rolls Lemon and Poppy Seed Rolls,,,1
+2,3,2-urvashi,Urvashi,OUT,9,10,Salt and Peppercorn Loaf,Chilli and Halloumi Rolls Lemon and Coriander Mini Loaves,,,1
+2,3,2-yasmin,Yasmin,SB,2,10,Egyptian Dukkah Loaf with Mixed Spices,Pesto Bread Sweet Coconut Rolls,,,1
+2,4,2-ben,Ben,OUT,5,8,Stem Ginger Nuts,Chocolate and Almond Macarons Pine Nut Macarons Pistachio Macarons,,,1
+2,4,2-holly,Holly,SB,3,8,Strawberry and Custard Melts,"'Chocolate bars of my youth' (Caramel Macarons, Mint Chocolate Macarons and Chocolate Orange Macarons)",,,1
+2,4,2-janet,Janet,SAFE,4,8,Christmas Marzipan Biscuits,Raspberry Macarons Blackcurrant Macarons Almond Macarons,,,1
+2,4,2-jason,Jason,SB,1,8,Lebkuchen,"Mocktail Macarons (Mojito, Cranberry Cooler, and Piña Colada)",,,1
+2,4,2-jo,Jo,SAFE,8,8,Lavender Biscuits,Blueberry Macarons Coconut Macarons Strawberry Macarons,,,1
+2,4,2-mary-anne,Mary-Anne,HIGH,2,8,Melting Moments,Blackcurrant and Mint Macarons Gooseberry and Elderflower Macarons Hazelnut Macarons,,,1
+2,4,2-robert,Robert,SAFE,7,8,Chocolate and Ginger Oat Biscuits,Strawberry and Lime Macarons Lemon Macarons Chocolate and Cardamom Macarons,,,1
+2,4,2-yasmin,Yasmin,LOW,6,8,Chocolate Chip and Pistachio Biscotti,Chocolate and Lime Macarons Coffee and Walnut Macarons Pineapple and Coconut Macarons,,,1
+2,5,2-holly,Holly,SAFE,4,7,"Stilton, Potato and Caramelised Onion Pie",Lime Meringue Pie,,,1
+2,5,2-janet,Janet,SB,1,7,Chicken and Chestnut Pie,Rhubarb Meringue Pie,,,1
+2,5,2-jason,Jason,OUT,7,7,Brown Down Chicken Pie,Plum Meringue Pie,,,1
+2,5,2-jo,Jo,SAFE,6,7,Salmon and Asparagus Pie,Apple and Raspberry Meringue Pie,,,1
+2,5,2-mary-anne,Mary-Anne,HIGH,2,7,Chicken and Bacon Pie,Midnight Meringue Pie,,,1
+2,5,2-robert,Robert,OUT,3,7,Chicken and Mushroom Pie,Rhubarb & Custard Meringue Pie,,,1
+2,5,2-yasmin,Yasmin,LOW,5,7,Family Fish Pie,Peach and Raspberry Meringue Pie,,,1
+2,6,2-holly,Holly,LOW,3,5,Father Christmas' Baked Cheesecake,Hansel and Gretel's Croquembouche,,,1
+2,6,2-janet,Janet,HIGH,5,5,Rhubarb and Ginger Baked Cheesecake,Orange and Nougatine Croquembouche,,,1
+2,6,2-jo,Jo,SB,1,5,Rum and Raisin Baked Cheesecake,Limoncello and White Chocolate Croquembouche,,,1
+2,6,2-mary-anne,Mary-Anne,HIGH,4,5,Tutti Frutti Curd Baked Cheesecake,Orange and Praline Croquembouche with Cardamom Caramel,,,1
+2,6,2-yasmin,Yasmin,OUT,2,5,Baked Amaretto Cheesecake,Rose Croquembouche,,,1
+2,7,2-holly,Holly,HIGH,1,4,"White Chocolate, Hazelnut and Raspberry Génoise Mousse Cake","Apricot, Macadamia and White Chocolate Pinwheels Almond Croissants Apple, Raisin and Cinnamon Plaits",,,1
+2,7,2-janet,Janet,OUT,4,4,Chocolate Amaretto Mousse Cake,Pain Aux Raisin Plain Croissant Pain Au Chocolat,,,1
+2,7,2-jo,Jo,HIGH,3,4,Raspberry & Strawberry Mousse Cake,Pain Aux Raisin Chocolate Twists Banana and Raisin Pastries,,,1
+2,7,2-mary-anne,Mary-Anne,LOW,2,4,Chocolate and Orange Mousse Cake,Raspberry Rose Danishes Praline Spirals Alsatian Plaited Danishes,,,1
+2,8,2-holly,Holly,RUNNER_UP,2,3,Banoffee Inspired Mille Feuille,Strawberry and Cream Meringue Nest Gooseberry and Elderflower 'Bakewell' Tarts Neapolitan Ice-Cream Sandwich,,,1
+2,8,2-jo,Jo,WINNER,1,3,Raspberry and Blueberry Mille Feuille,"Mini Victoria Sandwiches Raspberry, White Chocolate and Pistachio Mini Meringues Mini Banoffee Pie with Banana Mousse",,,1
+2,8,2-mary-anne,Mary-Anne,RUNNER_UP,3,3,Lemon and Ginger Mille Feuille,Fruit Tarts with Elderflower Custard Strawberry and Rhubarb Cheesecakes Black Fruit Meringue with Everlasting Syllabub,,,1
+3,1,3-brendan,Brendan,SAFE,10,12,"Plum, Sour Cherry & Walnut Upside Down Cake",St. Patrick's Day Cake with Hidden Irish Flag*,,,1
+3,1,3-cathryn,Cathryn,HIGH,5,12,"Apple, Hazelnut and Calvados Upside Down Cake",Hidden Cupcake Cake,,,1
+3,1,3-danny,Danny,SAFE,7,12,"Plum, Ginger & Orange Upside Down Cake",Nectar Cake with Hidden Beehive*,,,1
+3,1,3-james,James,SAFE,2,12,"Parsnip, Pear and Pecan Upside Down Cake","""Simmer Dim"" Sunset Cake",,,1
+3,1,3-john,John,SAFE,11,12,Toffee Apple Upside Down Cake*,Hidden Pink Hearts Cake,,,1
+3,1,3-manisha,Manisha,SAFE,6,12,"Vanilla, Peach and Raspberry Upside Down Cake",White Chocolate Cake with a Red Velvet and White Chocolate Mousse Heart,,,1
+3,1,3-natasha,Natasha,OUT,12,12,Pineapple & Passion Fruit Upside Down Cake,Mother's Day Layered Rose Cake,,,1
+3,1,3-peter,Peter,SAFE,3,12,"Pear, Muscat & Chocolate Upside Down Cake",Jubilee Cake,,,1
+3,1,3-ryan,Ryan,SAFE,8,12,Kumquat and Orange Polenta Upside Down Cake,Hidden Flowerbed Mousse Cake,,,1
+3,1,3-sarah-jane,Sarah-Jane,SAFE,1,12,"Pear, Chocolate and Hazelnut Upside Down Cake",Hidden Crown Cake,,,1
+3,1,3-stuart,Stuart,LOW,9,12,Tomato and Ginger Upside Down Cake,Lemon and Pistachio Union Flag Cake,,,1
+3,1,3-victoria,Victoria,SB,4,12,Pear and Pecan Upside Down Cake,Blackbird Pie Cake,,,1
+3,2,3-brendan,Brendan,HIGH,4,11,Middle Eastern Taboon Bread Indian Roti,Chocolate and Vanilla Bagels Cumin and Gruyere Bagels,,,1
+3,2,3-cathryn,Cathryn,SAFE,8,11,"Spiced Mango Naan Lime, Coriander and Chilli Tortillas","Cranberry and Orange Bagels Chipotle, Chilli, and Smoked Cheddar Bagels",,,1
+3,2,3-danny,Danny,SAFE,3,11,Lime Coriander and Coconut Tortillas Zaatar Naan with Dukkah,UNKNOWN,,,1
+3,2,3-james,James,HIGH,2,11,"Tomato, Garlic, and Parmesan Flatbreads Tattie Scones","Orange, Mint and Chocolate Bagels 'Millers' Sourdough Bagels",,,1
+3,2,3-john,John,SB,1,11,"Coriander and Chilli Rotis Garlic, Pomegranate and Potato Pitas","Fig, Walnut and Gruyere Bagels Blueberry and White Chocolate Bagels",,,1
+3,2,3-manisha,Manisha,SAFE,6,11,Indian Flatbreads Italian Flatbreads,UNKNOWN,,,1
+3,2,3-peter,Peter,OUT,11,11,Fennel and Nigella Seed Naan Bannock Bread,Rosemary and Sea Salt Bagels Apple and Cinnamon Bagels,,,1
+3,2,3-ryan,Ryan,SAFE,5,11,Shanghai Spring Onion Flatbread Garlic and Coriander Naan,Cinnamon and Date Bagels Tarragon and Rosemary Bagels,,,1
+3,2,3-sarah-jane,Sarah-Jane,SAFE,10,11,Coconut Roti Oatcakes,UNKNOWN,,,1
+3,2,3-stuart,Stuart,LOW,9,11,Bombay Bread Chorizo and Spring Onion Naan,Cinnamon and Cranberry Bagels Tomato and Thyme Bagels,,,1
+3,2,3-victoria,Victoria,LOW,7,11,Coriander and Lemon Naan Garlic and Parsnip Chapatis,Saffron and Golden Raisin Bagels Porcini Bagels,,,1
+3,3,3-brendan,Brendan,LOW,9,10,Apple and Ginger Tarte Tatin,"Blackberry, Nectarine and Dragon Fruit Tart",,,1
+3,3,3-cathryn,Cathryn,SAFE,3,10,"Plum, Cherry and Five Spice Tarte Tatin","Raspberry, Pistachio and Lemon Tart",,,1
+3,3,3-danny,Danny,SAFE,2,10,Savoury Pear and Roquefort Tarte Tatin,"Pineapple, Coconut and Frangipane Tart",,,1
+3,3,3-james,James,SB,1,10,Apple and Lavender Tarte Tatin,"Rose, Lychee and Raspberry Fruit Tart",,,1
+3,3,3-john,John,SAFE,6,10,Apple and Vanilla Tarte Tatin with Walnut Praline,"Berries, Grapes, Pomegranate, and Dragon Fruit Tart",,,1
+3,3,3-manisha,Manisha,SAFE,10,10,"Cinnamon, Apple and Pear Tarte Tatin",Rum and Tropical Fruit Tart,,,1
+3,3,3-ryan,Ryan,SAFE,5,10,Spiced Pear Tarte Tatin,UNKNOWN,,,1
+3,3,3-sarah-jane,Sarah-Jane,SAFE,8,10,Caramelised Banana Tarte Tatin,French Apple Tart with Blackberry and Cassis Jam,,,1
+3,3,3-stuart,Stuart,HIGH,7,10,Pear and Almond Tarte Tatin,Raspberry Triple Chocolate Layered Tart,,,1
+3,3,3-victoria,Victoria,OUT,4,10,"Fig, Walnut and Pink Peppercorn Tarte Tatin",Tropical Fruit Tart with Black Pepper Crust,,,1
+3,4,3-brendan,Brendan,SB,1,9,Clementine and Chestnut Torte,"Pear, Chocolate and Hazelnut Dacquoise",,,1
+3,4,3-cathryn,Cathryn,SAFE,3,9,"White Chocolate, Macadamia and Coffee Torte","Gooseberry, Almond and Honey Meringue",,,1
+3,4,3-danny,Danny,HIGH,2,9,"Blackberry, White Chocolate, Lemon and Elderflower Torte","'Monte Bianco' Chestnut, Chocolate and Coffee Dacquoise",,,1
+3,4,3-james,James,SAFE,5,9,"Hazelnut, Chocolate and Passionfruit Torte","Fig, Chestnut, Cherry and Chocolate Layered Meringue",,,1
+3,4,3-john,John,SAFE,6,9,'Torte Noir' Black Forest Torte with Boozy Cream,Elderflower and Bramble Berry Pavlova,,,1
+3,4,3-manisha,Manisha,LOW,9,9,"Almond, Chocolate and Cherry Torte",Tiramisu Layered Meringue Dessert,,,1
+3,4,3-ryan,Ryan,LOW,7,9,Green Tea Opera Torte,"Strawberry, Rose and Pistachio Meringue",,,1
+3,4,3-sarah-jane,Sarah-Jane,SAFE,4,9,Chocolate and Almond Truffle Torte,Hazelnut Tiramisu Layered Meringue,,,1
+3,4,3-stuart,Stuart,OUT,8,9,Black Forest Torte,Choca Blocka Mocha Meringue,,,1
+3,5,3-brendan,Brendan,HIGH,3,8,Salmon Coulibiac in a Scandinavian Pastry,All American Chiffon Pie,,,1
+3,5,3-cathryn,Cathryn,SAFE,1,8,Full English Wellington,Chocolate and Peanut Butter Pumpkin Pie,,,1
+3,5,3-danny,Danny,LOW,7,8,"Chickpea, Spinach & Mushroom Wellington",Trick or Treat Pumpkin Pie,,,1
+3,5,3-james,James,SAFE,6,8,Four Pig Wellington,Sweet Potato Pie,,,1
+3,5,3-john,John,SAFE,2,8,Venison and Haggis Wellington,Star Spangled Pecan Pie,,,1
+3,5,3-manisha,Manisha,OUT,5,8,Lamb Wellington with Rosemary and Mint,Banana Scotch Pie,,,1
+3,5,3-ryan,Ryan,SB,8,8,Curry Spiced Seabass Wellington,Key Lime Pie,,,1
+3,5,3-sarah-jane,Sarah-Jane,LOW,4,8,Beef Wellington with Parma Ham and Gorgonzola Cheese,Chocolate and Banana Cream Pie,,,1
+3,6,3-brendan,Brendan,SB,1,7,"Rhubarb, Strawberry and Ginger Puddings Sticky Toffee Puddings","Spinach, Cheese and Walnut Strudel",,,1
+3,6,3-cathryn,Cathryn,SAFE,3,7,Chocolate Walnut Whip Puddings Elderflower Sponges,Roasted Vegetable Couscous and Sheep Cheese Strudel,,,1
+3,6,3-danny,Danny,HIGH,2,7,Banoffee Puddings with Walnut Butterscotch Sauce Jubilee Chocolate Fondants,"Leek, Potato, Pistachio and Gruyère Strudel",,,1
+3,6,3-james,James,LOW,7,7,Banana and Clove Puddings Clootie Dumplings,"Strawberry, Rhubarb and Ginger Strudel",,,1
+3,6,3-john,John,LOW,5,7,Spicy Toffee Puddings Raspberry and White Chocolate Puddings,Did not complete due to injury,,,1
+3,6,3-ryan,Ryan,SAFE,6,7,Chocolate Fondants Sticky Ginger and Date Puddings,"Apple, Sour Cherry, Raisin and Mixed Nuts Strudel",,,1
+3,6,3-sarah-jane,Sarah-Jane,LOW,4,7,Sticky Toffee Puddings Granny's Saucy Lemon Puddings,Sweet Strudel with Sour Cherries,,,1
+3,7,3-brendan,Brendan,HIGH,4,7,Chelsea Bunskis,Black Forest Christmas Stollen,,,1
+3,7,3-cathryn,Cathryn,LOW,5,7,Lady Arundel's Manchet Buns,Bonfire Night Tear 'N' Share Brioche,,,1
+3,7,3-danny,Danny,SB,2,7,Bakewell Chelsea Buns,European Christmas Wreath,,,1
+3,7,3-james,James,LOW,1,7,Easter Chelsea Buns,Whisky Kugelhopf-Brioche Baba,,,1
+3,7,3-john,John,LOW,3,7,Cherry and Almond Saffron Buns,Marzipan Stollen,,,1
+3,7,3-ryan,Ryan,OUT,6,7,Lardy Cakes,Char Siu Bao,,,1
+3,7,3-sarah-jane,Sarah-Jane,OUT,7,7,"Orange, Nutmeg and Saffron Buns",Sour Cherry and Dark Chocolate Christmas Plait,,,1
+3,8,3-brendan,Brendan,SAFE,2,5,Multi-Seed Savoury Crackers,Fantasy Gingerbread Bird House,,,1
+3,8,3-cathryn,Cathryn,OUT,5,5,Cheese and Pickle Crackers,Gingerbread Buckingham Palace,,,1
+3,8,3-danny,Danny,LOW,4,5,Spiced Almond Drinks Crackers,Gingerbread Big Ben,,,1
+3,8,3-james,James,SB,1,5,"Smoky Cayenne, Cumin and Chilli Crackers",Gingerbread Barn,,,1
+3,8,3-john,John,HIGH,3,5,Asian Spice Crackers,Gingerbread Roman Coliseum,,,1
+3,9,3-brendan,Brendan,HIGH,3,4,Coffee Meringue and Hazelnut Creams Apricot and Pistachio Friands Lime Curd Choux Pastry Cygnets,Gateau St. Honoré,,,1
+3,9,3-danny,Danny,OUT,4,4,Blackberry and Peppermint Macarons Miniature Raspberry and Basil Financiers Orange and White Chocolate Langues de Chat,Rosewater and Lychee Gateau St. Honoré,,,1
+3,9,3-james,James,SB,1,4,"Lemon and Rhubarb Tartlets Chocolate Indulgence Petits Fours Chilli, Lime and Raspberry Macarons","Coffee, Caramel and Hazelnut Paris–Brest",,,1
+3,9,3-john,John,LOW,2,4,Lemon Madeleines White Chocolate and Raspberry Tartlets Dark Chocolate and Cherry Macarons,Gateau St. Honoré a la Passion,,,1
+3,10,3-brendan,Brendan,RUNNER_UP,3,3,Potato and Pepper Pithivier,Family Reunion Chiffon Cake,,,1
+3,10,3-james,James,RUNNER_UP,1,3,Spanish Pithivier with Chorizo and Red Pepper,United Chiffon Cakes,,,1
+3,10,3-john,John,WINNER,2,3,Italian Sausage and Roasted Vegetable Pithivier,Heaven and Hell Chiffon Cake,,,1
+4,1,4-ali,Ali,LOW,11,13,Rose and Pistachio Cake,"Chocolate, Raspberry and Passion Fruit Engagement Cake",,,1
+4,1,4-beca,Beca,SAFE,8,13,Grapefruit Sandwich Cake,Chocolate Cherry Indulgence,,,1
+4,1,4-christine,Christine,SAFE,3,13,"Strawberry, Vanilla and Rosewater Summer Basket",Chocolate and Orange 'Fripperous' Hat Cake,,,1
+4,1,4-deborah,Deborah,SAFE,9,13,Pineapple Cake,'Coffee Time',,,1
+4,1,4-frances,Frances,HIGH,7,13,Giant Jam Sandwich,Secret Squirrel Cake,,,1
+4,1,4-glenn,Glenn,SAFE,4,13,Strawberries and Cream Cake,Almond and Espresso Chocolate Cake,,,1
+4,1,4-howard,Howard,HIGH,6,13,Passion Fruit and Coconut Cake,Black Forest Revisited,,,1
+4,1,4-kimberley,Kimberley,SAFE,10,13,Blood Orange Cake,"Chocolate, Raspberry & Basil Layer Cake",,,1
+4,1,4-lucy,Lucy,SAFE,2,13,Timperley Early Cake,Thyme 'Wildwood' Cake,,,1
+4,1,4-mark,Mark,SAFE,5,13,Lemon and Poppy Seed Cake,Chocolate Monster,,,1
+4,1,4-robert,Robert,SB,1,13,Pecan and Apple Cake,Raspberry Chocolate Cake,,,1
+4,1,4-ruby,Ruby,LOW,12,13,Rhubarb and Custard Sandwich Cake,Chocolate and Ginger Night Sky Cake,,,1
+4,1,4-toby,Toby,OUT,13,13,Spiced and Iced Carrot Cake,Two Tiered Chocolate Cake,,,1
+4,2,4-ali,Ali,SAFE,9,12,Italian Grissini,Sweet and Savoury Yin Yang Bread,,,1
+4,2,4-beca,Beca,LOW,11,12,Fennel and Chilli Breadsticks,Five Strand Christmas Wreath,,,1
+4,2,4-christine,Christine,SAFE,4,12,Mediterranean Breadsticks with Oregano,Double Plaited Loaf,,,1
+4,2,4-deborah,Deborah,SAFE,8,12,Fennel and Chili Breadsticks,Walnut Fleur Loaf,,,1
+4,2,4-frances,Frances,SAFE,2,12,Giant Matchsticks,Sailor's Knot,,,1
+4,2,4-glenn,Glenn,SAFE,7,12,Rosemary and Parmesan Grissini,Harvest Crown,,,1
+4,2,4-howard,Howard,SAFE,10,12,Moroccan Breadsticks,Picasso Sun Bread,,,1
+4,2,4-kimberley,Kimberley,HIGH,1,12,Nigella Seed and Parmesan Breadsticks,Peace Bread,,,1
+4,2,4-lucy,Lucy,OUT,12,12,Grissini with Salt,Roasted Tomato Bread,,,1
+4,2,4-mark,Mark,LOW,6,12,Rosemary & Raisin Breadsticks,Sage & Garlic Plait,,,1
+4,2,4-robert,Robert,LOW,5,12,Twisty Rye Bread Sticks,Tribute Loaf,,,1
+4,2,4-ruby,Ruby,SB,3,12,Mexican Breadsticks,White Chocolate and Orange Peacock Bread,,,1
+4,3,4-ali,Ali,SAFE,5,11,"Coconut, Raspberry and Lemon Meringue Trifle",Vanilla Latte Mini Cakes Lime & Mint Shortbread Pops,,,1
+4,3,4-beca,Beca,SAFE,10,11,Orange and Ginger Trifle,Limoncello and Blueberry Bursts Millionaire Shortbread,,,1
+4,3,4-christine,Christine,SB,4,11,Caribbean Pina Colada Trifle,Ninety Niners Sachertorte Parcels,,,1
+4,3,4-deborah,Deborah,OUT,9,11,Tropical TrifleA,Canelé Cherry and Chocolate Cakes Rose Cookies,,,1
+4,3,4-frances,Frances,HIGH,8,11,Apple and Blackberry Crumble Trifle,'Ballet Bites' Ginger Nutcrackers Sugar Plum Fairy Cakes,,,1
+4,3,4-glenn,Glenn,SAFE,1,11,Raspberry and Almond Trifle,Billionaire Bouchées Orange Financiers,,,1
+4,3,4-howard,Howard,LOW,7,11,Caramel and Apple TrifleA,Black Coffee and Cardamom Cakes White Stilton and Pear Biscuits,,,1
+4,3,4-kimberley,Kimberley,SAFE,6,11,"Peach, Almond and Ginger Trifle",Chocolate Pistachio Financiers Lemon Bergamot Biscuits,,,1
+4,3,4-mark,Mark,OUT,11,11,"Ginger, Mango and Passion Fruit Trifle",Rose and Pistachio Macarons Chocolate and Raspberry Bites,,,1
+4,3,4-robert,Robert,SAFE,2,11,Rhubarb and Orange Trifle,Almond Friands Turón Macarons,,,1
+4,3,4-ruby,Ruby,HIGH,3,11,Desert Island Trifle,Lemon Shortbread and White Chocolate Seashells Blackberry and Chocolate Layer Cakes,,,1
+4,4,4-ali,Ali,OUT,8,9,Apple and Ginger Pie with a Pecan and Walnut Shortcrust Pastry,"Orange, Cardamom and Date M'Hanncha",,,1
+4,4,4-beca,Beca,SAFE,2,9,Mamgu's Cherry-Apple Tart,Moroccan Vegetable Filo Feast,,,1
+4,4,4-christine,Christine,SAFE,7,9,"Granny Rogers' Apple, Plum & Cinnamon Country Pie",Roasted Vegetable Filo Pie with Feta Cheese,,,1
+4,4,4-frances,Frances,SAFE,1,9,Peach Pie In the Sky,Cherry Tree Baklava Filo Pie,,,1
+4,4,4-glenn,Glenn,LOW,9,9,Apple & Maple Syrup Pie,Spanakopita,,,1
+4,4,4-howard,Howard,SAFE,5,9,Apple Pie with Sage Pastry,Fresh Fig and Feta Filo Flan,,,1
+4,4,4-kimberley,Kimberley,SB,4,9,Pecan and Rosemary Caramel Apple Pie,"Chicken, Bacon and Butternut Squash Pie",,,1
+4,4,4-robert,Robert,LOW,3,9,Apple and Pear Pie with Thyme,Spanakopita with St George's Mushrooms,,,1
+4,4,4-ruby,Ruby,HIGH,6,9,Apple and Marzipan Pie,"Rose, Almond and Raspberry Filo Pie",,,1
+4,5,4-beca,Beca,SAFE,5,8,"Chocolate, Cherry and Hazelnut Brownies",Tiered Macaron and Sugar Dough Biscuit Centrepiece,,,1
+4,5,4-christine,Christine,SB,1,8,Mixed Berry and Almond Crumble Traybake,Shortbread Bavarian Clock Tower,,,1
+4,5,4-frances,Frances,SAFE,3,8,Millionaire Banoffee Bonus,Biscuit Buttons and Beads,,,1
+4,5,4-glenn,Glenn,HIGH,2,8,Apricot and Pistachio Tiffin,Shortbread and Macaron Helter-Skelter,,,1
+4,5,4-howard,Howard,SAFE,8,8,Breakfast Traybake,Japanese Pagoda Tea Tower,,,1
+4,5,4-kimberley,Kimberley,LOW,7,8,Cherry and Almond Bakewell Florentine Slice,Black and White Viennese Biscuit Stack,,,1
+4,5,4-robert,Robert,OUT,4,8,Blueberry & Orange Traybake,Orange and Lemon Biscuit Dalek,,,1
+4,5,4-ruby,Ruby,LOW,6,8,Blackberry and Lemon Bakewell Slice,'Dropped Ice Cream' Biscuit Centrepiece,,,1
+4,6,4-beca,Beca,SAFE,6,7,Bara Brith,Chocolate and Rum-Soaked Prune Brioches Cardamom Spiced Lemon Iced Buns,,,1
+4,6,4-christine,Christine,SAFE,4,7,Oxford Nutty Fruit Loaf,Schnecken Buns Vanilla Custard Skolebrød,,,1
+4,6,4-frances,Frances,HIGH,2,7,Chai Tea Loaf,Hot Cross Brioches Rhubarb and Custard Kolaches,,,1
+4,6,4-glenn,Glenn,LOW,5,7,Devonshire Panettone,Almond and Apricot Brioches Sticky Caramel Kanelbullen,,,1
+4,6,4-howard,Howard,OUT,7,7,Date & Hemp Yorkshire Loaf,Peachy Buns German Baumschnecken,,,1
+4,6,4-kimberley,Kimberley,SAFE,3,7,Chai Spiced Ginger and Date Tea Loaf,Double Chocolate and Hazelnut Brioches Danish Kanelsnurrer,,,1
+4,6,4-ruby,Ruby,SB,1,7,Citrus Tea Loaf,Twisted Swedish Kanelbullar Saffron St. Lucia Buns,,,1
+4,7,4-beca,Beca,HIGH,1,6,Spring Lamb and Vegetable Suet Pudding with Redcurrant Gravy,Nectarine and Frangipane Squares Chocolate and Hazelnut Vol-au-vents Strawberries and Cream Mille-feuille,,,1
+4,7,4-christine,Christine,LOW,6,6,Spotted Dick 'With a Kick' and Vanilla Custard Ice Cream,Eccles Cakes Fresh Fruit Baskets Lemon Cream Eton Mess Mille-feuille,,,1
+4,7,4-frances,Frances,SB,5,6,Figgy Roll-y Poly Pudding with Caramelised Walnut and Honey Ice-Cream,French Framboise Cream Horns Sheet Music Mille-feuille Bass Clef Palmiers,,,1
+4,7,4-glenn,Glenn,OUT,3,6,Prune and Armagnac Pudding with Boozy Butterscotch Sauce,Caramelised Apple and Marzipan Tartlets Chocolate Elephant Ears Passion Fruit Mille-feuille,,,1
+4,7,4-kimberley,Kimberley,SAFE,4,6,Barberry and Apple Spotted Dick with Maple Syrup and White Chocolate Custard,"Pear, Malt and Butterscotch Mille-feuille Blackberry and Lemon Verbena Crème Brûlee Custard Tarts Fig, Orange and Thyme Galette",,,1
+4,7,4-ruby,Ruby,SAFE,2,6,Plum Jam Roly Poly with Ginger Ice Cream,Raspberry and Passion Fruit Mille-feuille Caramelised Apple Lattice Portuguese Custard Tarts,,,1
+4,8,4-beca,Beca,LOW,4,5,"Potato, Spelt and Rosemary Focaccia",Spiced Butternut Squash and Pecan 'Cheese' Cake,,,1
+4,8,4-christine,Christine,OUT,5,5,"Multi-Seeded Loaf with Pumpkin, Sesame and Sunflower Seeds",Sweet Potato Guitar with Passion Fruit Icing and Marshmallow Fondant,,,1
+4,8,4-frances,Frances,LOW,3,5,'Chelsea Flour Show' Bun Bouquet,Hidden Carrot Cake,,,1
+4,8,4-kimberley,Kimberley,HIGH,2,5,Wild Garlic Pesto and Parma Ham Spelt Loaf,Butternut Squash and Spice Cake Toadstool House,,,1
+4,8,4-ruby,Ruby,SB,1,5,Mango and Nigella Seed Spelt Cob,Carrot Cake and Pistachio Garden Plot,,,1
+4,9,4-beca,Beca,OUT,3,4,Stilton and Walnut Macarons Beetroot and Salmon Choux Puffs Welsh Rarebit Tartlets,Banoffee Opera Cake,,,1
+4,9,4-frances,Frances,HIGH,2,4,Légume Canapés: Chantenay Carrots Choux Pastry Tomatoes Cauliflower Cheese Scones,Great British Soap Opera Cake,,,1
+4,9,4-kimberley,Kimberley,SB,1,4,Pea Purée Tarts Crab and Wasabi Profiteroles Steamed Buns with Barbecue Chicken,Passion Fruit and Lime Opera Cake,,,1
+4,9,4-ruby,Ruby,LOW,4,4,"Beetroot Jelly on Poppy Seed Biscuits Spinach, Parmesan and Egg Tartlets Choux Buns with Goat's Cheese and Caramelised Onions","Chocolate, Almond Praline and Saffron Opera Cake",,,1
+4,10,4-frances,Frances,WINNER,3,3,Rainbow Picnic Pie,Midsummer Night's Dream Wedding Cake,,,1
+4,10,4-kimberley,Kimberley,RUNNER_UP,1,3,Chicken and Pig Pie,Languages of Love Wedding Cake,,,1
+4,10,4-ruby,Ruby,RUNNER_UP,2,3,Picnic Basket Pie,"Raspberry, Lemon and Passion Fruit Wedding Cake",,,1
+5,1,5-chetna,Chetna,SAFE,3,12,"Cardamom, Pistachio and Coffee Swiss Roll",Tiered Victoria Sponges with Lemon Curd and Raspberry Cream,,,1
+5,1,5-claire,Claire,OUT,8,12,Chocolatey Orangey Swiss Roll,Mini Chocolate and Cherry Cakes,,,1
+5,1,5-diana,Diana,SAFE,5,12,Mum's Sunday Tea Lemon Curd Swiss Roll,Chocolate Ganache Surprises,,,1
+5,1,5-enwezor,Enwezor,SAFE,9,12,Raspberry and Lemon Swiss Roll,Coffee and Walnut Battenberg Squares,,,1
+5,1,5-iain,Iain,LOW,4,12,Apricot and Basil Swiss Roll with Mascarpone and White Chocolate Cream,"Lemon Drizzle Cakes with Mascarpone Filling, Drizzled Icing and Candied Lemon",,,1
+5,1,5-jordan,Jordan,LOW,12,12,Kawaii Frasier Swiss Roll,Lemon Drizzle Cakes with Blueberry and Lemon Curd,,,1
+5,1,5-kate,Kate,SAFE,6,12,Red Velvet and White Chocolate Swiss Roll,Mini Tiered Victoria Sponges,,,1
+5,1,5-luis,Luis,SAFE,7,12,Spanish Swiss Roll,Raspberry and Lemon Genoise Slices with Lemon Drizzles,,,1
+5,1,5-martha,Martha,HIGH,2,12,Tiramisu Swiss Roll,Mini Lemon and Thyme Drizzle Cakes,,,1
+5,1,5-nancy,Nancy,SB,1,12,Coffee and Hazelnut Swiss Roll,Jaffa Orange Cakes,,,1
+5,1,5-norman,Norman,SAFE,11,12,Black Forest Swiss Roll,Almond and Raspberry Mini Cakes,,,1
+5,1,5-richard,Richard,HIGH,10,12,Pistachio and Strawberry Swiss Roll,Miniature Coffee and Walnut Cakes,,,1
+5,2,5-chetna,Chetna,SAFE,8,11,Fenugreek and Carom Crackers,Day On The Beach,,,1
+5,2,5-diana,Diana,SAFE,7,11,Parmesan Triangles,"Express, First Class",,,1
+5,2,5-enwezor,Enwezor,OUT,9,11,Pumpkin and Sunflower Seed Savoury Biscuits,Space Adventure Moon Scene,,,1
+5,2,5-iain,Iain,SAFE,11,11,Za'atar and Fig Biscuits,Wild West Scene,,,1
+5,2,5-jordan,Jordan,SAFE,6,11,"Sourdough, Parmesan and Chilli Biscuits",Monster Attack,,,1
+5,2,5-kate,Kate,SAFE,4,11,Parmesan and Apple Biscuits,Tea Time,,,1
+5,2,5-luis,Luis,HIGH,3,11,Black Olive and Rosemary Biscuits with Caramelised Onion Glaze,George Versus The Dragon,,,1
+5,2,5-martha,Martha,SAFE,5,11,Caramelised Onion and Goat's Cheese Sandwich Biscuits,Ski Village Scene,,,1
+5,2,5-nancy,Nancy,SAFE,2,11,Fennel and Rye Thins,Hansel and Gretel Scene,,,1
+5,2,5-norman,Norman,LOW,10,11,Farthing Biscuits,Zulu Boats at Dawn,,,1
+5,2,5-richard,Richard,SB,1,11,Rosemary Seeded Crackers,Pirates!,,,1
+5,4,5-chetna,Chetna,SAFE,3,9,"Rhubarb, Strawberry and Orange Puddings","Mango, Raspberry and Coconut Baked Alaska",,,1
+5,4,5-diana,Diana,SAFE,9,9,Orange and Lemon Curd Pots,Raspberry Ripple Alaska Swan,,,1
+5,4,5-iain,Iain,OUT,6,9,"Chocolate, Lime and Raspberry Fondants","Chocolate, Black Sesame Seed and Coffee Caramel Baked Alaska*",,,1
+5,4,5-kate,Kate,HIGH,7,9,Chocolate and Salted Caramel Molten Puddings,"Pistachio, Raspberry and Chocolate Baked Alaska",,,1
+5,4,5-luis,Luis,HIGH,2,9,Pears in Puddings,Bakewell Alaska,,,1
+5,4,5-martha,Martha,SAFE,1,9,Peanut Butter Chocolate Fondants,Key Lime Baked Alaska,,,1
+5,4,5-nancy,Nancy,SAFE,4,9,Pistachio Puddings with Chocolate Sauce,Summer Pudding Alaska,,,1
+5,4,5-norman,Norman,LOW,8,9,Mini Sticky Toffee Puddings,Baked Alaska with Strawberry Surprise,,,1
+5,4,5-richard,Richard,SB,5,9,Black Forest Chocolate Fondants,Tiramisu Baked Alaska,,,1
+5,5,5-chetna,Chetna,SAFE,2,7,Rice Custard Tart with Mangoes and Raspberries,Fusion Tiered Pies,,,1
+5,5,5-diana,Diana,SAFE,,7,"colspan=""4"" Withdrew",,,,1
+5,5,5-kate,Kate,SB,3,7,Rhubarb and Custard Tart,"Rhubarb, Prune and Apple Pies",,,1
+5,5,5-luis,Luis,SAFE,6,7,Tropical Manchester Tart,Four Fruity Seasons Tower,,,1
+5,5,5-martha,Martha,LOW,1,7,"Pistachio, Apricot and Honey Custard Tart",Three Little Pigs Pie,,,1
+5,5,5-nancy,Nancy,HIGH,4,7,Chocolate Crusted Passion Fruit Tart,Trio of Apple Pies,,,1
+5,5,5-norman,Norman,OUT,5,7,Tarte au Citron,Pieful Tower,,,1
+5,5,5-richard,Richard,LOW,7,7,Fig and Orange Tart,Three Course Autumn Pie Feast,,,1
+5,6,5-chetna,Chetna,SB,2,6,Orange Savarin with Cinnamon Cream,Almond Liqueur Dobos Torte with Chocolate Caramel Buttercream,,,1
+5,6,5-kate,Kate,LOW,6,6,"Pecan, Chocolate and Sour Cherry Yeast Cake",Trio of Dobos Tortes,,,1
+5,6,5-luis,Luis,HIGH,3,6,Apple and Cinnamon Kugelhopf with Honeyed Apples,The Cage on the Rocky Hill,,,1
+5,6,5-martha,Martha,SAFE,4,6,Dark Chocolate and Almond Liqueur Savarin,Chess-Themed Chocolate and Salted Caramel Dobos Torte,,,1
+5,6,5-nancy,Nancy,HIGH,1,6,Rum Punch Savarin with Coconut Cream and Tropical Fruits,Chocolate and Caramel Dobos Torte,,,1
+5,6,5-richard,Richard,LOW,5,6,Fruity Guglhupf with an Orange Glaze,Sugar Forest Dobos Torte,,,1
+5,7,5-chetna,Chetna,SAFE,6,6,Crispy Lentil Kachori,Chocolate and Mango & Lemon Meringue Éclairs,,,1
+5,7,5-kate,Kate,OUT,4,6,Spinach and Paneer Spicy Samosa,Neapolitan & Lemon Meringue Éclairs,,,1
+5,7,5-luis,Luis,SAFE,5,6,Childhood Empanadas,Stars and Stripes Éclairs,,,1
+5,7,5-martha,Martha,LOW,3,6,Mini Beef Wellingtons,Rhubarb and Custard & Maple Syrup and Bacon Éclairs,,,1
+5,7,5-nancy,Nancy,HIGH,2,6,Spicy Duck Pasties,Smoked Salmon and Horseradish & Raspberry Ripple Éclairs,,,1
+5,7,5-richard,Richard,SB,1,6,Minted Lamb Pasties,Stair of Éclairs,,,1
+5,8,5-chetna,Chetna,SAFE,1,5,Date and Walnut Swirl Bread,Chocolate Mousse Filled Doughnuts Braided Doughnuts,,,1
+5,8,5-luis,Luis,HIGH,2,5,Black Forest Cherry Tree,Cocktail Doughnuts,,,1
+5,8,5-martha,Martha,OUT,5,5,Spiced Plum Iced Bread Swirl,Glazed Lemon & Poppyseed Doughnuts Chocolate & Passion Fruit Doughnuts,,,1
+5,8,5-nancy,Nancy,LOW,3,5,Lincolnshire Plum Braid,Doughnut Family Tree,,,1
+5,8,5-richard,Richard,SB,4,5,Fruit Swedish Tea Ring,Rhubarb and Custard and Toffee Apple Doughnuts,,,1
+5,9,5-chetna,Chetna,OUT,4,4,Chocolate Orange Baklava Masala Chai Baklava,"Chocolate, Orange & Nut Entremets Cappuccino Entremets",,,1
+5,9,5-luis,Luis,HIGH,1,4,Indian Rose Baklava Halwa Baklava Rolls,"Chocolate Mousse & Cherry Entremets Pomegranate, Fig & Pistachio Sponge",,,1
+5,9,5-nancy,Nancy,LOW,3,4,Coffee and Chocolate Baklava Breakfast Baklava,Raspberry Nonnettes Lime and Passion Fruit Entremets,,,1
+5,9,5-richard,Richard,SB,2,4,Rose and Pistachio Baklava Walnut and Almond Baklava,Hazelnut Mocha Entremets Pink Grapefruit Entremets,,,1
+5,10,5-luis,Luis,RUNNER_UP,2,3,"Apple, Walnut, Raisin and Cheshire Cheese Chaussons Pain au Chocolat Blanc with Raspberries and Cream Cheese",Village in Chocolate,,,1
+5,10,5-nancy,Nancy,WINNER,1,3,Apple and Lemon Kites Raspberry and Almond Croissants,Red Windmill,,,1
+5,10,5-richard,Richard,RUNNER_UP,3,3,Pear Pain au Chocolat Pain au Lait,Mill on the Hill,,,1
+5,3,5-nancy,Nancy,SAFE,,,,,,,1
+5,3,5-luis,Luis,SB,,,,,,,1
+5,3,5-richard,Richard,SAFE,,,,,,,1
+5,3,5-chetna,Chetna,SAFE,,,,,,,1
+5,3,5-martha,Martha,SAFE,,,,,,,1
+5,3,5-kate,Kate,HIGH,,,,,,,1
+5,3,5-norman,Norman,LOW,,,,,,,1
+5,3,5-diana,Diana,SAFE,,,,,,,1
+5,3,5-iain,Iain,SAFE,,,,,,,1
+5,3,5-jordan,Jordan,OUT,,,,,,,1
+6,1,6-alvin,Alvin,SAFE,2,12,Orange Vanilla and Fig Madeira Cake,Black Forest Gateau,,,1
+6,1,6-dorret,Dorret,LOW,5,12,Madeira Cake with Candied Lemons,Enchanted Forest Gateau,,,1
+6,1,6-flora,Flora,HIGH,6,12,Blood Orange Madeira Cake,Black Forest Gateau,,,1
+6,1,6-ian,Ian,SAFE,8,12,Somewhere West of Madeira Cake,Black Forest Cherry Tree,,,1
+6,1,6-marie,Marie,SB,3,12,Zingy Citrus Madeira Cake,A Walk in the Black Forest,,,1
+6,1,6-mat,Mat,SAFE,7,12,Gin and Tonic Madeira Cake,Black Forest Gateau,,,1
+6,1,6-nadiya,Nadiya,HIGH,12,12,Orange and Green Cardamom Madeira Cake,Quadruple Chocolate Black Forest Gateau,,,1
+6,1,6-paul,Paul,SAFE,10,12,"Lemon, Ginger and Caraway Seed Madeira Cake",Black Forest Chocolate Creation,,,1
+6,1,6-sandy,Sandy,SAFE,9,12,Madeira Cake with Almond Liqueur and Chopped Apricots,Black Forest Gateau,,,1
+6,1,6-stu,Stu,OUT,11,12,Marley Madeira Cake,Purple Forest Gateau,,,1
+6,1,6-tamal,Tamal,HIGH,4,12,Pistachio and Rose Madeira Cake,Black Forest Gateau in a Chocolate Shell,,,1
+6,1,6-ugn,Ugnė,LOW,1,12,Lemon and Thyme Madeira Cake,Falling Cup Gateau,,,1
+6,2,6-alvin,Alvin,SAFE,6,11,"Jackfruit, Pistachio and Macadamia Biscotti",Gingerbread Box filled with Brandy Snaps,,,1
+6,2,6-dorret,Dorret,LOW,1,11,Almond and Apricot Biscotti with Amber Sugar Crystals,Box of Frogs,,,1
+6,2,6-flora,Flora,SAFE,2,11,Wedding Biscotti,Honey and Earl Grey Tea Box,,,1
+6,2,6-ian,Ian,SB,3,11,"Orange, Rosemary and Almond Biscotti",Sandwich de la Confiture,,,1
+6,2,6-marie,Marie,OUT,11,11,Biscotti Italiano,Russian Box,,,1
+6,2,6-mat,Mat,HIGH,5,11,"Pistachio, Cranberry and White Chocolate Biscotti",Gingerbread Fire Engine,,,1
+6,2,6-nadiya,Nadiya,SAFE,9,11,"Coconut, Fennel and Pistachio Biscotti",Box of Fortunes,,,1
+6,2,6-paul,Paul,SAFE,10,11,"Chocolate, Hazelnut and Fig Biscotti",Memory Box,,,1
+6,2,6-sandy,Sandy,HIGH,4,11,Chocolate Chunk and Hazelnut Biscotti,Sundried Tomato Cheese Biscuit Box,,,1
+6,2,6-tamal,Tamal,SAFE,8,11,"Cinnamon, Maple and Cranberry Biscotti",Chessboard Box,,,1
+6,2,6-ugn,Ugnė,SAFE,7,11,White Wine Biscotti,Baby Climbing into the Cookie Box,,,1
+6,3,6-alvin,Alvin,HIGH,4,10,"Prosciutto, Manchego and Balsamic Onion Soda Breads",Cornucopia,,,1
+6,3,6-dorret,Dorret,OUT,6,10,Walnut and Stilton Soda Breads,Unmade Bread,,,1
+6,3,6-flora,Flora,SAFE,2,10,Fig and Hazelnut Rye Breads,Herb Couture,,,1
+6,3,6-ian,Ian,SB,1,10,Wild Garlic Pesto Soda Breads,Flour Power,,,1
+6,3,6-mat,Mat,LOW,8,10,"Jalapeño, Mexican Cheddar and Smoked Salt Soda Breads",Curry Inspired Brighton Pavilion,,,1
+6,3,6-nadiya,Nadiya,SAFE,9,10,Mexican Bread with Warm Tomato Salsa,Snake Charmer's Basket,,,1
+6,3,6-paul,Paul,SAFE,10,10,Cranberry and Orange Sweet Soda Breads,King of the Jungle,,,1
+6,3,6-sandy,Sandy,SAFE,7,10,Soda Breads with Smoked Bacon and Onion,Basket of Bread Flowers with a Walnut and Blue Cheese Centre,,,1
+6,3,6-tamal,Tamal,SAFE,3,10,"Fig, Cheese and Walnut Breads",Breadcycle,,,1
+6,3,6-ugn,Ugnė,SAFE,5,10,Chocolate Quick Breads with Salted Caramel Sauce,Easter Basket,,,1
+6,4,6-alvin,Alvin,LOW,9,9,Blackberry Crème Brûlées,Tower of Fruits Cheesecakes,,,1
+6,4,6-flora,Flora,SAFE,3,9,Rhubarb and Ginger Crème Brûlées,Elderflower and Granola Cheesecakes,,,1
+6,4,6-ian,Ian,SB,4,9,Pomegranate Two Ways Crème Brûlées,Trio of Spicy and hide=y Baked Cheesecakes,,,1
+6,4,6-mat,Mat,SAFE,7,9,Coconut Crème Brûlées,Chocolate Bar Cheesecakes,,,1
+6,4,6-nadiya,Nadiya,HIGH,8,9,Cinnamon Tea Crème Brûlées,Fizzy Pop Cheesecakes,,,1
+6,4,6-paul,Paul,SAFE,1,9,Almond Crème Brûlées,Berry Cheesecake Tower,,,1
+6,4,6-sandy,Sandy,OUT,6,9,Pontefract Crème Brûlées,"Cassata, Whisky and Orange & Apple Pie Cheesecakes",,,1
+6,4,6-tamal,Tamal,HIGH,5,9,Rhubarb and Ginger Crème Brûlées,"Mango, Hazelnut and Rosemary Cheesecake Trio",,,1
+6,4,6-ugn,Ugnė,SAFE,2,9,Marula Fruit and Coffee Liqueur Crème Brûlées,"Lime, Coconut and Hazelnut Cheesecakes",,,1
+6,5,6-alvin,Alvin,SAFE,8,8,Pineapple Upside Down Cake,"Buko Pandan, Mango and Passion Fruit Ice Cream Roll",,,1
+6,5,6-flora,Flora,LOW,3,8,"Pistachio, Apple and Cardamom Madeleine Cake",Chocolate and Pear Bûche,,,1
+6,5,6-ian,Ian,SAFE,5,8,Honey and Flowers Cake,Dessert Island,,,1
+6,5,6-mat,Mat,SAFE,4,8,Sugar Free Carrot Cake,Raspberry & Coconut Ice Cream Roll,,,1
+6,5,6-nadiya,Nadiya,SB,1,8,Naked Blueberry and Caraway Crunch Cake,Chocolate and Strawberry Lime Ice Cream Roll,,,1
+6,5,6-paul,Paul,HIGH,2,8,Carrot & Pecan Cake,hide=y Island Getaway,,,1
+6,5,6-tamal,Tamal,SAFE,7,8,Honey and Grapefruit Polenta Cake,Passion Fruit and Pineapple Ice Cream Roll,,,1
+6,5,6-ugn,Ugnė,OUT,6,8,Chocolate and Hazelnut Sugar-Free Cake,"Chocolate, Peanut Butter and Grape Jam Roll",,,1
+6,6,6-alvin,Alvin,OUT,6,7,Plum Frangipane Tart,Smoked Salmon En Croûte and Vermouth Chicken à la King vol-au-vents,,,1
+6,6,6-flora,Flora,HIGH,2,7,Apricot and Rosemary Frangipane Tart,Asparagus and Parma Ham and Praline and Chocolate vol-au-vents,,,1
+6,6,6-ian,Ian,SAFE,3,7,Pear and Raspberry Frangipane Tart,vol-au-vents Terre et Mer,,,1
+6,6,6-mat,Mat,SB,1,7,Piña Colada Frangipane Tart,His 'n' Hers vol-au-vents,,,1
+6,6,6-nadiya,Nadiya,LOW,4,7,"Bay Leaf, Rong Tea and Pear Tart",Bengali Korma and Clementine with Cod vol-au-vents,,,1
+6,6,6-paul,Paul,SAFE,5,7,Christmas Frangipane Tart,Savoury and Sweet Bouchées,,,1
+6,6,6-tamal,Tamal,SAFE,7,7,Spiced Pear Frangipane Tart,Fennel and Rosemary Pulled Pork and Chicken and Coriander vol-au-vents,,,1
+6,7,6-flora,Flora,SAFE,4,6,Game Pie with Shallot and Apple Chutney,"Raspberry, Pomegranate and Champagne Charlotte Russe",,,1
+6,7,6-ian,Ian,HIGH,5,6,Roadkill Pie,Victoria's Crown Charlotte Russe,,,1
+6,7,6-mat,Mat,OUT,6,6,Raised Venison and Pigeon Pie,Strawberry Charlotte Russe,,,1
+6,7,6-nadiya,Nadiya,HIGH,1,6,Aromatic Raised Game Pie,Mango and Raspberry Charlotte Russe,,,1
+6,7,6-paul,Paul,LOW,2,6,Not a Boaring Pie,Charlotte Rose,,,1
+6,7,6-tamal,Tamal,SB,3,6,Middle Eastern Game Pie,"Spiced Blackberry, Raspberry and Cardamom Charlotte Russe",,,1
+6,8,6-flora,Flora,LOW,3,5,Peach & Lemon Thyme and Smoked Almond & Butterscotch Cream Horns,Lime & Basil and Coconut & White Chocolate Religieuse à l'ancienne,,,1
+6,8,6-ian,Ian,SAFE,2,5,Mont Blanc & Black Forest Gâteau Horns,Nun with Hidden Passions,,,1
+6,8,6-nadiya,Nadiya,SB,1,5,Rose Pistachio and Mocha Hazelnut Horns,Bubble Gum and Peppermint Cream Religieuse à l'ancienne,,,1
+6,8,6-paul,Paul,OUT,5,5,Café Tipple & Banana Crunch-away Horns,Religieuse à l'ancienne,,,1
+6,8,6-tamal,Tamal,HIGH,4,5,Lime & Mascarpone and Malt Cream Horns,Passionfruit & Mango and Pistachio & Raspberry Religieuse à l'ancienne,,,1
+6,9,6-flora,Flora,OUT,1,4,Passion Fruit and Chocolate Tart,Cocoa Carousel,,,1
+6,9,6-ian,Ian,LOW,3,4,Chocolate and Bay Tart,Chocolate Well,,,1
+6,9,6-nadiya,Nadiya,SB,4,4,Peanut Salted Caramel and Chocolate Tart,Peacock in Nan's Door,,,1
+6,9,6-tamal,Tamal,HIGH,2,4,Chocolate New York Pie,Chocolate Bell Tower,,,1
+6,10,6-ian,Ian,RUNNER_UP,2,3,Elderflower and Lemon & Spiced Buns,Colossal Curvy Carrot Cake,,,1
+6,10,6-nadiya,Nadiya,WINNER,1,3,Cardamom and Almond Buns & Nutmeg and Sour Cherry Fingers,My Big Fat British Wedding Cake,,,1
+6,10,6-tamal,Tamal,RUNNER_UP,3,3,Cinnamon and Apple & Toffee and Marmalade Iced Buns,Sticky Toffee Pudding Cake,,,1
+6,1,6-paul,Paul,SAFE,,0,,,,,1
+6,2,6-paul,Paul,LOW,,0,,,,,1
+6,3,6-paul,Paul,HIGH,,0,,,,,1
+6,4,6-paul,Paul,LOW,,0,,,,,1
+7,1,7-andrew,Andrew,SAFE,12,12,Lemon and Rosemary Drizzle Cake,'Ultimate Indulgence' Mirror Glaze Cake,,,1
+7,1,7-benjamina,Benjamina,HIGH,6,12,"Pistachio, Cardamom and Lemon Drizzle Cake",White Chocolate Mirror Glaze with Salted Praline Buttercream,,,1
+7,1,7-candice,Candice,LOW,5,12,Raspberry and Rhubarb Drizzle Custard Bundt Cake,"Mirror Mirror On The Wall, Who Is The Shiniest Cake Of Them All?",,,1
+7,1,7-jane,Jane,SB,7,12,Lemon and Poppy Seed Drizzle Cake,Chocolate Orange Mirror Cake,,,1
+7,1,7-kate,Kate,SAFE,4,12,Berry Best Apple and Bramble Drizzle Cake,One Swallow Does Not Make A Summer Cake,,,1
+7,1,7-lee,Lee,OUT,11,12,St. Clements Orange and Lemon Drizzle Cake,Strawberry Surprise Mirror Cake,,,1
+7,1,7-louise,Louise,SAFE,9,12,Orange Liqueur and Lemonade Drizzle Cake,White Chocolate Trifle Mirror Glaze Cake,,,1
+7,1,7-michael,Michael,SAFE,3,12,"Lime, Ginger and Honey Drizzle Cake",Matcha Tea Chocolate Mirror Glaze,,,1
+7,1,7-rav,Rav,SAFE,8,12,Ginger Spice Yuzu Drizzle Cake,Colombian Mocha Mirror Glaze Cake,,,1
+7,1,7-selasi,Selasi,HIGH,1,12,Citrus and Spice Drizzle Cake,"Raspberry, Sloe and White Chocolate Mirror Glaze Cake",,,1
+7,1,7-tom,Tom,SAFE,2,12,G&T Drizzle Cake,Black Forest Broken Mirror,,,1
+7,1,7-val,Val,LOW,10,12,Mum's Orange and Lemon Drizzle,Chocolate Sponge with Four Fruit Frosting,,,1
+7,2,7-andrew,Andrew,HIGH,4,11,Beehive Biscuits,Punting in Cambridge,,,1
+7,2,7-benjamina,Benjamina,SAFE,3,11,Bouquet Biscuits,"New York, New York",,,1
+7,2,7-candice,Candice,SB,8,11,"Salted Caramel, Chocolate Iced Shiny Hearts",Gingerbread Pub with Sticky Ginger Carpet,,,1
+7,2,7-jane,Jane,SAFE,2,11,Flower Pot Iced Biscuits,Hastings Old Town Fishing Net Shops and Boat,,,1
+7,2,7-kate,Kate,SAFE,1,11,"""A Biscuit for the Broads""","""I Promise I will do my best""",,,1
+7,2,7-louise,Louise,OUT,10,11,Baa Bara Brith Biscuits,Gingerbread Wedding,,,1
+7,2,7-michael,Michael,SAFE,9,11,"Malt, Chocolate and Orange Iced ""Beer"" Biscuits",Trip to See Santa in Lapland,,,1
+7,2,7-rav,Rav,SAFE,6,11,Union Jack Bunting Biscuits,Gingerbread Christmas Fairground,,,1
+7,2,7-selasi,Selasi,SAFE,11,11,"""Wheelie Hot Iced Biscuits""",Stained Glass Window Gingerbread Church,,,1
+7,2,7-tom,Tom,SAFE,7,11,Chai Frappelatteccino Biscuits,Tom and Pod's Near Death Experience,,,1
+7,2,7-val,Val,LOW,5,11,Sunday Treat Iced Ice Cream Cone Biscuits,From Holland to New York via Yorkshire,,,1
+7,3,7-andrew,Andrew,HIGH,2,10,Chocolate Barmbrack Bread,Braided Harvest Bread Basket,,,1
+7,3,7-benjamina,Benjamina,SAFE,6,10,"Chocolate, Tahini and Almond Babka",Braided Bread Heart,,,1
+7,3,7-candice,Candice,LOW,3,10,"Chocolate, Salted Caramel & Pecan Brittle Brioche Bread",Italian Light and Dark Rye Twist,,,1
+7,3,7-jane,Jane,SAFE,9,10,Chocolate and Cranberry Couronne,Chorizo and Chilli Flower with Parmesan and Pesto Centre,,,1
+7,3,7-kate,Kate,HIGH,8,10,Cobbled Loaf,The Corn Maiden,,,1
+7,3,7-michael,Michael,OUT,7,10,Chocolate and Chilli Swirl Plait,Cypriot Dove and Olive Branch Plaited Loaf with Houmous,,,1
+7,3,7-rav,Rav,SAFE,10,10,"Chocolate, Cardamom and Hazelnut Loaf",Three Tier Diwali Bread Centrepiece,,,1
+7,3,7-selasi,Selasi,SAFE,5,10,"Chocolate, Orange and Cinnamon Bread",Bedouin Escape Tear and Share Bread,,,1
+7,3,7-tom,Tom,SB,4,10,Chocolate Orange and Chilli Swirl Bread,Jörmungandr and Mjölnir,,,1
+7,3,7-val,Val,LOW,1,10,Double Chocolate Cinnamon Twist Loaf,"""And They All Went Into The Ark To Get Out Of The Rain""",,,1
+7,4,7-andrew,Andrew,HIGH,4,9,Yorkshire 'Tapas' Puddings,Churros Window Box,,,1
+7,4,7-benjamina,Benjamina,SB,1,9,"Red Onion Chutney, Brie and Bacon Yorkshire Puddings",Tropical Churros,,,1
+7,4,7-candice,Candice,SAFE,2,9,Yorkshire Wellingtons,Two-Way Peanut Butter Churros,,,1
+7,4,7-jane,Jane,SAFE,3,9,Meat and Two Veg Yorkshires,Pistachio and White Chocolate Churros,,,1
+7,4,7-kate,Kate,OUT,7,9,Christmas Dinner Compromise,Hot Cross Bunny Churros,,,1
+7,4,7-rav,Rav,LOW,9,9,Thai Tofu Panang Yorkshires,Three Dip Matcha Pistachio Churros,,,1
+7,4,7-selasi,Selasi,SAFE,8,9,Perfect Sunday Roast Accompaniment,Lemon and Anise Churros,,,1
+7,4,7-tom,Tom,LOW,5,9,West Yorkshire Fusion Puddings,Fennel Churros Snake In The Grass,,,1
+7,4,7-val,Val,SAFE,6,9,Mum's Chilli Yorkshire Puddings,Orange Chocolate Churros,,,1
+7,5,7-andrew,Andrew,SAFE,6,8,Mum and Dad's Breakfast Pastries,Spicy Chorizo Squash Parcels Baklava Bites,,,1
+7,5,7-benjamina,Benjamina,SAFE,5,8,'Good Morning America' Swirls Peanut Butter and Banana Pinwheels,Plantain and Spinach Samosas Chai Pear Cups,,,1
+7,5,7-candice,Candice,SB,2,8,"Danish Pastry Croque Monsieur Kites Cinnamon Apple, Vanilla Crème Rose Danish","Sausage, Black Pudding and Apple Rounds Banoffee Whiskey Cups",,,1
+7,5,7-jane,Jane,HIGH,1,8,"Orange Pain au Raisin Raspberry, Chocolate and Almond Danish","Roquefort, Fig and Walnut Parcels Cherry and Chocolate Cones",,,1
+7,5,7-rav,Rav,SAFE,8,8,"Cinnamon Swirls Pecan, Walnut and Maple Plaits",Chinese Style Prawn Filo Tartlets Spiced White Chocolate and Hazelnut Samosas,,,1
+7,5,7-selasi,Selasi,SAFE,3,8,"Rhubarb, Mango and Ginger Plait Pineapple and Coconut Pinwheels","Parma Ham, Asparagus and Cheese Filo Cigars Coffee Cream Filo Cups",,,1
+7,5,7-tom,Tom,LOW,4,8,Mega Breakfast Bonanzas (Granola Spirals and Wheat Foldovers),Yin and Yang Amuse-bouche,,,1
+7,5,7-val,Val,OUT,7,8,"Pecan and Maple Syrup Pinwheels Apple, Sultana and Cinnamon Swirls","Caramelised Red Onion, Goats Cheese Tartlets Mincemeat and Apple Spiced Parcels",,,1
+7,6,7-andrew,Andrew,LOW,6,7,Tangy Lime and Ginger Meringue Pie,Spring Elderflower Trio,,,1
+7,6,7-benjamina,Benjamina,SAFE,2,7,Grapefruit and Ginger Meringue Pie,Floral Tea Cake,,,1
+7,6,7-candice,Candice,HIGH,5,7,"Lime, Coconut and Lemongrass Sugar Meringue Pie",Four Seasons Cake,,,1
+7,6,7-jane,Jane,SAFE,4,7,Lime and Coconut Meringue Pie,Three Tier Orange Cake with a Floral Chocolate Collar,,,1
+7,6,7-rav,Rav,OUT,3,7,Mandarin Margarita Meringue Pie,Blossom Cake,,,1
+7,6,7-selasi,Selasi,HIGH,7,7,"Grapefruit, Orange and Mint Meringue Pie",Three Tiered Ombré Floral Cake,,,1
+7,6,7-tom,Tom,SB,1,7,Blood Orange Halloween Pumpkin Pie,Floral Tea Cake,,,1
+7,7,7-andrew,Andrew,SB,1,6,Tropical Holiday Roulade,Childhood Ice Cream Mousse Cakes,,,1
+7,7,7-benjamina,Benjamina,HIGH,3,6,Piña Colada Roulade,Apple Crumble Mousse Cake Chocolate Coffee Mousse Cake,,,1
+7,7,7-candice,Candice,SAFE,2,6,Crowd Pleaser Roulade,Blackberry and Raspberry Bubbles After Dinner Mousse,,,1
+7,7,7-jane,Jane,SAFE,4,6,Chocolate and Hazelnut Roulade,"Chocolate, Coffee, and Vanilla Joconde Cakes Blackcurrant and Vanilla Ombré Mousses",,,1
+7,7,7-selasi,Selasi,LOW,6,6,Summer Picnic Roulade,"Lemon, Raspberry and Passionfruit and Chocolate and Mint Mini Mousse Cakes",,,1
+7,7,7-tom,Tom,OUT,5,6,Millionaire's Roulade,Hipster Picnic,,,1
+7,8,7-andrew,Andrew,SAFE,2,5,Da Vinci Inspired Geared Pies,Jousting Knights Marchpane,,,1
+7,8,7-benjamina,Benjamina,OUT,4,5,Mexican Adventure,Tudor Garden,,,1
+7,8,7-candice,Candice,SB,1,5,Cheesy Cheeky Fish Pies,Peacock,,,1
+7,8,7-jane,Jane,HIGH,5,5,Tudor Rose Pies,Swans,,,1
+7,8,7-selasi,Selasi,LOW,3,5,Bouquet of Flowers,Fruity Tudor Marchpane,,,1
+7,9,7-andrew,Andrew,SB,2,4,Cheesy Elephant Ears Herby Treble Clefs,Philharmonic Fondants,,,1
+7,9,7-candice,Candice,HIGH,3,4,"Red Onion, Cambozola and Walnut Palmiers Mushroom, Streaky Bacon, and Parmesan Palmiers",Chocolate Praline Fondant Fancies Cherry Bakewell Fondant Fancies,,,1
+7,9,7-jane,Jane,LOW,1,4,"Pesto and Sundried Tomato Palmiers Goats Cheese, Olive and Parma Ham Palmiers",Pistachio and Raspberry Fondant Fancies Lemon Curd Surprise Fondant Fancies,,,1
+7,9,7-selasi,Selasi,OUT,4,4,"Sundried Tomato, Onion, Peppers and Parmesan Palmiers Salmon, Spinach and Mushroom Palmiers",Lime and Ginger Fondant Fancies Pink Velvet and Raspberry Prosecco Fondant Fancies,,,1
+7,10,7-andrew,Andrew,RUNNER_UP,1,3,Crunchy Caramel Cassis Crown,Family and Friends' Favourites Picnic,,,1
+7,10,7-candice,Candice,WINNER,2,3,Queen Victoria's Mango and Strawberry Crown,Picnic for Pearly Kings and Queens,,,1
+7,10,7-jane,Jane,RUNNER_UP,3,3,"Red, White and Blue Meringue Crown",Family Favourites Feast,,,1
+8,1,8-chris,Chris,LOW,12,12,Tropical Fresh Fruit Cake,'Raised Pork Pie and Egg Surprise' Cake,,,1
+8,1,8-flo,Flo,HIGH,9,12,Citrus Layer Cake,'One in a Melon' Cake,,,1
+8,1,8-james,James,SAFE,2,12,"Orange, Rhubarb & Ginger Crumble Cake",'Mock-accino and Croissant' Cake,,,1
+8,1,8-julia,Julia,SAFE,3,12,Courgette and Lemon Cake,'Russian Doll' Cake,,,1
+8,1,8-kate,Kate,SAFE,1,12,Moroccan Strawberry and Rose Cake,'Chocolate Terrarium' Cake,,,1
+8,1,8-liam,Liam,SAFE,8,12,Apple and Almond Crumble Maple Loaf,'Stackin' Sunday' Cake,,,1
+8,1,8-peter,Peter,OUT,10,12,Coconut Cake,'Bread on a Breadboard' Cake,,,1
+8,1,8-sophie,Sophie,HIGH,5,12,Pineapple and Coconut Sandwich Cake,'Champagne Bottle and Bucket' Cake,,,1
+8,1,8-stacey,Stacey,LOW,11,12,Granny Smith Apple and Walnut Cake,'Black Evening Clutch Bag' Cake,,,1
+8,1,8-steven,Steven,SB,6,12,Bonfire Night]] Cake,'A Baker's Lunch' Cake,,,1
+8,1,8-tom,Tom,SAFE,7,12,Gilded Pear and Cardamom Cake,'Stack of Books' Cake,,,1
+8,1,8-yan,Yan,SAFE,4,12,Windfall Apple Crumble Cake,'Banana-ramen' Cake,,,1
+8,2,8-chris,Chris,OUT,11,11,Chocolate Chia Seed Biscuits with Whisky Caramel Filling,'The Great British Sail Off' Game,,,1
+8,2,8-flo,Flo,LOW,10,11,Gin Jam Butties,'Pick My Bones' Game,,,1
+8,2,8-james,James,SAFE,3,11,Rhubarb and Custard Whirls,'Coppit' Game,,,1
+8,2,8-julia,Julia,SAFE,4,11,Middle Eastern Delight Sandwich Biscuits,'A British Baking' Game,,,1
+8,2,8-kate,Kate,LOW,8,11,Coconut Seashells for a Titanic Afternoon Tea,'Jungle' Game,,,1
+8,2,8-liam,Liam,SAFE,7,11,Coffee Malted Pecan Shorties,'Classroom Classics' Game,,,1
+8,2,8-sophie,Sophie,HIGH,2,11,Lemon Limoncino Sandwich Biscuits,'Snakes and Ladders' Game,,,1
+8,2,8-stacey,Stacey,LOW,9,11,Sparkly Chocolate and Marshmallow Fluff Cookies,'Get to School' Game,,,1
+8,2,8-steven,Steven,SB,6,11,Amarpressi Biscuits,'Check Bake' Game,,,1
+8,2,8-tom,Tom,HIGH,5,11,Coffee and Amaretto Kisses,'Drain Pipes and Ladders' Game,,,1
+8,2,8-yan,Yan,SAFE,1,11,'Mrs. Marian's PB 'n' B' Biscuits,'Adventures in Bakeland' Game,,,1
+8,3,8-flo,Flo,OUT,7,10,Cinnamon and Orange Teacakes,'Davy Jones' Locker' Bread Sculpture,,,1
+8,3,8-james,James,SAFE,9,10,Nordic Teacakes,'Owl in the Woods' Bread Sculpture,,,1
+8,3,8-julia,Julia,SB,2,10,Earl Grey Dried Fruit Teacakes,'The Snail Under a Mushroom' Bread Sculpture,,,1
+8,3,8-kate,Kate,SAFE,10,10,Blueberry Buns,'Kraken' Bread Sculpture,,,1
+8,3,8-liam,Liam,LOW,5,10,Jamaican Spiced Teacakes,'Kneadapolitan' Bread Sculpture,,,1
+8,3,8-sophie,Sophie,SAFE,6,10,Tagine Teacakes,'Picnic Basket' Bread Sculpture,,,1
+8,3,8-stacey,Stacey,SAFE,1,10,Cranberry and Cinnamon Teacakes,'Ascot Hat' Bread Sculpture,,,1
+8,3,8-steven,Steven,HIGH,3,10,Madras Cocktail Teacakes,'The Bag I Knead' Bread Sculpture,,,1
+8,3,8-tom,Tom,SAFE,4,10,Orange and Cranberry Teacakes,'Pink & Yellow Rose Centrepiece' Bread Sculpture,,,1
+8,3,8-yan,Yan,SAFE,8,10,'Mrs P's' Masala Chai Spiced Teacakes,'Basil the Vegetarian Dragon with his Pumpkin Hoard' Bread Sculpture,,,1
+8,4,8-sophie,Sophie,SAFE,,,,,,,1
+8,5,8-sophie,Sophie,SB,,,,,,,1
+8,6,8-sophie,Sophie,HIGH,,,,,,,1
+8,7,8-sophie,Sophie,HIGH,,,,,,,1
+8,8,8-sophie,Sophie,SAFE,,,,,,,1
+8,9,8-sophie,Sophie,SB,,,,,,,1
+8,10,8-sophie,Sophie,WINNER,,,,,,,1
+8,4,8-kate,Kate,SB,,,,,,,1
+8,5,8-kate,Kate,SAFE,,,,,,,1
+8,6,8-kate,Kate,SAFE,,,,,,,1
+8,7,8-kate,Kate,LOW,,,,,,,1
+8,8,8-kate,Kate,LOW,,,,,,,1
+8,9,8-kate,Kate,HIGH,,,,,,,1
+8,10,8-kate,Kate,RUNNER_UP,,,,,,,1
+8,4,8-steven,Steven,SAFE,,,,,,,1
+8,5,8-steven,Steven,SAFE,,,,,,,1
+8,6,8-steven,Steven,SAFE,,,,,,,1
+8,7,8-steven,Steven,SB,,,,,,,1
+8,8,8-steven,Steven,HIGH,,,,,,,1
+8,9,8-steven,Steven,LOW,,,,,,,1
+8,10,8-steven,Steven,RUNNER_UP,,,,,,,1
+8,4,8-stacey,Stacey,SAFE,,,,,,,1
+8,5,8-stacey,Stacey,HIGH,,,,,,,1
+8,6,8-stacey,Stacey,LOW,,,,,,,1
+8,7,8-stacey,Stacey,LOW,,,,,,,1
+8,8,8-stacey,Stacey,SB,,,,,,,1
+8,9,8-stacey,Stacey,OUT,,,,,,,1
+8,4,8-liam,Liam,HIGH,,,,,,,1
+8,5,8-liam,Liam,LOW,,,,,,,1
+8,6,8-liam,Liam,SB,,,,,,,1
+8,7,8-liam,Liam,HIGH,,,,,,,1
+8,8,8-liam,Liam,OUT,,,,,,,1
+8,4,8-yan,Yan,SAFE,,,,,,,1
+8,5,8-yan,Yan,SAFE,,,,,,,1
+8,6,8-yan,Yan,HIGH,,,,,,,1
+8,7,8-yan,Yan,OUT,,,,,,,1
+8,4,8-julia,Julia,SAFE,,,,,,,1
+8,5,8-julia,Julia,LOW,,,,,,,1
+8,6,8-julia,Julia,OUT,,,,,,,1
+8,4,8-james,James,LOW,,,,,,,1
+8,5,8-james,James,OUT,,,,,,,1
+8,4,8-tom,Tom,OUT,,,,,,,1
+9,1,9-antony,Antony,SAFE,12,12,Turmeric and Caraway Goosnargh Cakes,"""Kilimanjaro Selfie""",,,1
+9,1,9-briony,Briony,HIGH,2,12,Apple Cider Empire Biscuits,"""Bristol Biscuit Selfie""",,,1
+9,1,9-dan,Dan,SAFE,4,12,Lemon and Strawberry Shrewsburys,"""New Dad in Palm Springs""",,,1
+9,1,9-imelda,Imelda,OUT,11,12,Cherry and White Chocolate Oatmeal Biscuits,"""Seaside Selfie""",,,1
+9,1,9-jon,Jon,SAFE,5,12,Aberffraw 'Creams',"""A Sailing Selfie by the Sea""",,,1
+9,1,9-karen,Karen,SAFE,6,12,Yorkshire Perkins,"Rosewater and Cardamom ""Holiday Selfie""",,,1
+9,1,9-kim-joy,Kim-Joy,SAFE,10,12,Orange Blossom York Biscuits,"""Me at Miyajima Shrine""",,,1
+9,1,9-luke,Luke,SAFE,8,12,Yorkshire Gingernuts,"""What Happens In Vegas...!""",,,1
+9,1,9-manon,Manon,SB,3,12,Hazelnut Cornish Shortbread,Matcha and White Chocolate Ganache Japanese Selfie,,,1
+9,1,9-rahul,Rahul,SAFE,7,12,Fennel and Coconut Pitcaithly Bannock,"""First Spring in the UK""",,,1
+9,1,9-ruby,Ruby,LOW,1,12,Masala Chai Devon Flats,"""Gingerbread Marathon Selfie""",,,1
+9,1,9-terry,Terry,LOW,9,12,Lake District Ginger Shortbread,"""Brandy Snap Selfie""",,,1
+9,2,9-antony,Antony,SAFE,9,11,Cardamom and Coconut Burfi Traybake,"Pistachio, Saffron and Rose Cake",,,1
+9,2,9-briony,Briony,LOW,5,11,Turron and Orange Traybake,Chocolate Fudge and Salted Caramel Creation,,,1
+9,2,9-dan,Dan,HIGH,3,11,Black Forest]] Slice,Dark Chocolate and Raspberry Birthday Cake,,,1
+9,2,9-jon,Jon,HIGH,1,11,Lemon Meringue Traybake,Hawaiian Shirt Pina Colada Cake,,,1
+9,2,9-karen,Karen,SAFE,11,11,Almond and Marzipan Traybake with Rhubarb Jam,Strawberry Fayre Chocolate Cake,,,1
+9,2,9-kim-joy,Kim-Joy,SAFE,4,11,Pandan Chiffon Cake with Palm Sugar Cream,Yuzu and Raspberry Genoise Cat Cake,,,1
+9,2,9-luke,Luke,OUT,7,11,Lemon and Poppy Seed Traybake,Raspberry and White Chocolate Collar Cake,,,1
+9,2,9-manon,Manon,SAFE,6,11,Rosemary and Honey Traybake,Almond Princess Cake,,,1
+9,2,9-rahul,Rahul,SB,2,11,Lemon and Cardamom Traybake,Chocolate Orange Layer Cake,,,1
+9,2,9-ruby,Ruby,SAFE,10,11,Boozy Black Forest Traybake,"Chocolate Orange ""Jackson Pollock"" Collar Cake",,,1
+9,2,9-terry,Terry,LOW,8,11,Rum and Raisin Traybake,Champagne and Strawberries Eiffel Tower Collar Cake,,,1
+9,3,9-antony,Antony,OUT,8,10,Decadent Breakfast Chelsea Buns,Chocolate and Orange Adventure Korovai,,,1
+9,3,9-briony,Briony,LOW,9,10,Balsamic Strawberry Chelsea Buns,Happily Ever After Korovai,,,1
+9,3,9-dan,Dan,HIGH,6,10,Sticky Spiced Orange Chelsea Buns,Wedding Korovai,,,1
+9,3,9-jon,Jon,SAFE,2,10,Cardiff City vs Chelsea Buns,Korovai Dydd Dewi Sant,,,1
+9,3,9-karen,Karen,SAFE,5,10,Peak District Christmas Chelsea Buns,French Breakfast Wedding Korovai,,,1
+9,3,9-kim-joy,Kim-Joy,SAFE,10,10,Pistachio and Cardamom Tangzhong Chelsea Buns,"Orange, Cinnamon and Cranberry 'Kit-ovai'",,,1
+9,3,9-manon,Manon,SAFE,3,10,"Apricot, Cranberry and Marzipan Chai Chelsea Buns",Fabergé Inspired Traditional Korovai,,,1
+9,3,9-rahul,Rahul,SB,4,10,Mango and Cranberry Chelsea Buns,Garden Wedding Korovai,,,1
+9,3,9-ruby,Ruby,SAFE,7,10,"Gujarela Chelsea Buns with Dates, Almonds and Raisins",Mama and Papa's Belated Wedding Korovai,,,1
+9,3,9-terry,Terry,SAFE,1,10,Tangy Citrus Sticky Chelsea Buns,Garden Korovai,,,1
+9,4,9-briony,Briony,LOW,5,8,Treacle Tart Roulade,Blood Orange & Amaretto Sticky Toffee Sphere,,,1
+9,4,9-dan,Dan,SB,1,8,Florida Roulade,Dan and the Giant Peach,,,1
+9,4,9-jon,Jon,HIGH,3,8,Mango and Passion Fruit Roulade,Lucy and Hannah's Ballet Cake,,,1
+9,4,9-karen,Karen,LOW,7,8,Coffee Cream and Praline Roulade,Chateau Du Chambord Framboise,,,1
+9,4,9-kim-joy,Kim-Joy,SAFE,6,8,'Sweet Dreams' Roulade,Melting Chocolate Galaxy,,,1
+9,4,9-manon,Manon,SAFE,8,8,Amarene and Kirsch Cherry Roulade,White Chocolate Renaissance Surprise,,,1
+9,4,9-rahul,Rahul,HIGH,4,8,Rhubarb and Custard Roulade,Opera Cake with Kalash Inspired Dome,,,1
+9,4,9-ruby,Ruby,SAFE,2,8,Pina Colada Roulade,Chocolate Egg,,,1
+9,4,9-terry,Terry,SAFE,,8,"colspan=""3"" Did not compete",,,,1
+9,5,9-briony,Briony,LOW,6,9,Honey and Apricot Ginger Cake,Turmeric Latte Chandelier,,,1
+9,5,9-dan,Dan,SAFE,2,9,Ginger and Lemon Drip Cake,Birthday Kaleidoscope for Constance,,,1
+9,5,9-jon,Jon,LOW,7,9,Family Christmas Ginger Cake,Birthday Chandelier for Emily's 21st,,,1
+9,5,9-karen,Karen,OUT,9,9,Bonfire Night Ginger Cake,Pontefract Girls' School Reunion,,,1
+9,5,9-kim-joy,Kim-Joy,SB,4,9,Stem Ginger Cake with Poached Pears,Christmas Spiced Ice Chandelier,,,1
+9,5,9-manon,Manon,HIGH,5,9,Italian Meringue Ginger Cake,Art Deco Spiced Biscuit Chandelier,,,1
+9,5,9-rahul,Rahul,HIGH,3,9,Bonfire Night Caramel Ginger Cake,Durga Puja Cardamom Chandelier,,,1
+9,5,9-ruby,Ruby,SAFE,1,9,Jamaican Me Crazy Ginger Cake,Peacock Chandelier,,,1
+9,5,9-terry,Terry,OUT,8,9,Caramelised Pear and Stem Ginger Cake,12 Days of Christmas Chandelier,,,1
+9,6,9-briony,Briony,SB,1,7,Home Comforts,"""Down the Rabbit Hole"" Banquet Pie",,,1
+9,6,9-dan,Dan,OUT,6,7,Festive Samosas,Salmon Coulibiac,,,1
+9,6,9-jon,Jon,SAFE,2,7,"A Romantic Dinner For Two, Samosa Style",Welsh Dragon Pie,,,1
+9,6,9-kim-joy,Kim-Joy,SAFE,5,7,Flavours of India,Silke the Vegetarian Mermaid,,,1
+9,6,9-manon,Manon,LOW,4,7,Samosas for Mum,"""What Has Poppy Eaten?""",,,1
+9,6,9-rahul,Rahul,HIGH,3,7,Paneer Singara and Misti Singara,Butterfly Pie,,,1
+9,6,9-ruby,Ruby,HIGH,7,7,Traditional Samosas,Kohinoor Crown,,,1
+9,7,9-briony,Briony,SAFE,5,6,French Onion Tartlets Celeriac & Apple Tartlets,Hazelnut Mocha Cake,,,1
+9,7,9-jon,Jon,OUT,4,6,Garlic Mushroom Tartlets Falafel & Hummus Tartlets,Only Fools Eat Horses Cake,,,1
+9,7,9-kim-joy,Kim-Joy,SB,6,6,Broccoli & Tomato Quiches Mascarpone Squirrel Tartlets,Lavender & Lemon Fox Cake,,,1
+9,7,9-manon,Manon,SAFE,2,6,Summer & Winter Tartlets,Spiced Apple Cake,,,1
+9,7,9-rahul,Rahul,HIGH,1,6,Coriander Posto & Veg Tartlets Ghugni Chaat Tartlets,Chocolate & Coconut Layer Cake with Raspberry Jam,,,1
+9,7,9-ruby,Ruby,LOW,3,6,Sage & Butternut Tartlets 'Cheesy Greens' Tartlets,"Chocolate, Lemon & Coconut Cake",,,1
+9,8,9-briony,Briony,HIGH,1,5,Spanish & West Country Smørrebrød,Nana Pat Kagekone,,,1
+9,8,9-kim-joy,Kim-Joy,LOW,2,5,Bumblebee Eggs & Fish Smørrebrød,Off to the Opera Kagekone,,,1
+9,8,9-manon,Manon,OUT,4,5,Cheese and Fruit Smørrebrød,Birthday Girl Kagekone,,,1
+9,8,9-rahul,Rahul,LOW,5,5,Smoked Salmon & Roasted Vegetable Smørrebrød,Indian King Kagemand,,,1
+9,8,9-ruby,Ruby,SB,3,5,Post-Gym Smørrebrød,Sister Kagekone,,,1
+9,9,9-briony,Briony,OUT,3,4,Mojito Madeleines Espresso Martini Madeleines,British Tea to French Pâtisserie Window,,,1
+9,9,9-kim-joy,Kim-Joy,HIGH,2,4,Ginger and Lemon Madeleines Orange Bunny Madeleines,Flavourite Flavours Window Display,,,1
+9,9,9-rahul,Rahul,LOW,4,4,Lemon and Raspberry Madeleines Orange Curd Madeleines,Classic Tribute to Pâtisserie Window,,,1
+9,9,9-ruby,Ruby,SB,1,4,Pick Your Own Madeleines,Parisian Un Bouquet de Fleurs Window Display,,,1
+9,10,9-kim-joy,Kim-Joy,RUNNER_UP,1,3,Amaretto Diplomat Filled Doughnuts Lemon Ring Doughnuts,Lost City of Atlantis Dessert Landscape,,,1
+9,10,9-rahul,Rahul,WINNER,2,3,Mango Créme Pâtissière Filled Doughnuts Spiced Orange Ring Doughnuts,Edible Rock Garden,,,1
+9,10,9-ruby,Ruby,RUNNER_UP,3,3,Dulce De Leche Filled Doughnuts Raspberry and Cardamom Ring Doughnuts,Magical Edible Landscape,,,1
+10,1,10-alice,Alice,SAFE,5,13,Gingerbread Fruit Cake Wreath,Like a Child in a Sweetshop Cake,,,1
+10,1,10-amelia,Amelia,SAFE,4,13,Christmas Cake,Carousel Birthday Cake,,,1
+10,1,10-david,David,SAFE,10,13,Squishy Squashy Fruit Cake,Snakey Birthday Cakey,,,1
+10,1,10-dan,Dan,OUT,9,13,Jamaican Rum Cake,Pirate Island Cake,,,1
+10,1,10-helena,Helena,SAFE,12,13,Fruit Bat Cake,Away with the Fairies Cake,,,1
+10,1,10-henry,Henry,SAFE,1,13,Wood Street Cake,Secret Woodland Cake,,,1
+10,1,10-jamie,Jamie,LOW,13,13,Easter Simnel Cake,Salted Caramel Schnauzer Birthday Cake,,,1
+10,1,10-michael,Michael,SAFE,11,13,Cup of Chai Cake,Treasure Chest Cake,,,1
+10,1,10-michelle,Michelle,SB,6,13,Bara Brith Teulu Ni (Our Family's Bara Brith),Tŷ Tylwyth Teg (Fairy House Cake),,,1
+10,1,10-phil,Phil,SAFE,8,13,Spiced Fruit Cake with Rum Glaze,Retro Rocket Cake,,,1
+10,1,10-priya,Priya,SAFE,7,13,Sunshine Fruit Cake,Once Upon a Time Cake,,,1
+10,1,10-rosie,Rosie,SAFE,2,13,Spicy Chai Loaf,Magical Jungle Cake,,,1
+10,1,10-steph,Steph,HIGH,3,13,Great Grandma's Fruit Cake,A Sundae on the Beach Cake,,,1
+10,2,10-david,David,HIGH,,,,,,,1
+10,3,10-david,David,SAFE,,,,,,,1
+10,4,10-david,David,HIGH,,,,,,,1
+10,5,10-david,David,HIGH,,,,,,,1
+10,6,10-david,David,HIGH,,,,,,,1
+10,7,10-david,David,HIGH,,,,,,,1
+10,8,10-david,David,HIGH,,,,,,,1
+10,9,10-david,David,LOW,,,,,,,1
+10,10,10-david,David,WINNER,,,,,,,1
+10,2,10-alice,Alice,SB,,,,,,,1
+10,3,10-alice,Alice,LOW,,,,,,,1
+10,4,10-alice,Alice,SAFE,,,,,,,1
+10,5,10-alice,Alice,SAFE,,,,,,,1
+10,6,10-alice,Alice,HIGH,,,,,,,1
+10,7,10-alice,Alice,SAFE,,,,,,,1
+10,8,10-alice,Alice,SAFE,,,,,,,1
+10,9,10-alice,Alice,SB,,,,,,,1
+10,10,10-alice,Alice,RUNNER_UP,,,,,,,1
+10,2,10-steph,Steph,SAFE,,,,,,,1
+10,3,10-steph,Steph,HIGH,,,,,,,1
+10,4,10-steph,Steph,SB,,,,,,,1
+10,5,10-steph,Steph,SB,,,,,,,1
+10,6,10-steph,Steph,SB,,,,,,,1
+10,7,10-steph,Steph,HIGH,,,,,,,1
+10,8,10-steph,Steph,SB,,,,,,,1
+10,9,10-steph,Steph,HIGH,,,,,,,1
+10,10,10-steph,Steph,RUNNER_UP,,,,,,,1
+10,2,10-rosie,Rosie,HIGH,,,,,,,1
+10,3,10-rosie,Rosie,SAFE,,,,,,,1
+10,4,10-rosie,Rosie,SAFE,,,,,,,1
+10,5,10-rosie,Rosie,LOW,,,,,,,1
+10,6,10-rosie,Rosie,LOW,,,,,,,1
+10,7,10-rosie,Rosie,LOW,,,,,,,1
+10,8,10-rosie,Rosie,LOW,,,,,,,1
+10,9,10-rosie,Rosie,OUT,,,,,,,1
+10,2,10-henry,Henry,SAFE,,,,,,,1
+10,3,10-henry,Henry,LOW,,,,,,,1
+10,4,10-henry,Henry,SAFE,,,,,,,1
+10,5,10-henry,Henry,HIGH,,,,,,,1
+10,6,10-henry,Henry,LOW,,,,,,,1
+10,7,10-henry,Henry,SB,,,,,,,1
+10,8,10-henry,Henry,OUT,,,,,,,1
+10,2,10-michael,Michael,SAFE,,,,,,,1
+10,3,10-michael,Michael,SB,,,,,,,1
+10,4,10-michael,Michael,LOW,,,,,,,1
+10,5,10-michael,Michael,SAFE,,,,,,,1
+10,6,10-michael,Michael,LOW,,,,,,,1
+10,7,10-michael,Michael,OUT,,,,,,,1
+10,2,10-priya,Priya,SAFE,,,,,,,1
+10,3,10-priya,Priya,SAFE,,,,,,,1
+10,4,10-priya,Priya,LOW,,,,,,,1
+10,5,10-priya,Priya,LOW,,,,,,,1
+10,6,10-priya,Priya,OUT,,,,,,,1
+10,2,10-helena,Helena,SAFE,,,,,,,1
+10,3,10-helena,Helena,SAFE,,,,,,,1
+10,4,10-helena,Helena,SAFE,,,,,,,1
+10,5,10-helena,Helena,OUT,,,,,,,1
+10,2,10-michelle,Michelle,SAFE,,,,,,,1
+10,3,10-michelle,Michelle,SAFE,,,,,,,1
+10,4,10-michelle,Michelle,SAFE,,,,,,,1
+10,5,10-michelle,Michelle,OUT,,,,,,,1
+10,2,10-phil,Phil,SAFE,,,,,,,1
+10,3,10-phil,Phil,SAFE,,,,,,,1
+10,4,10-phil,Phil,OUT,,,,,,,1
+10,2,10-amelia,Amelia,LOW,,,,,,,1
+10,3,10-amelia,Amelia,OUT,,,,,,,1
+10,2,10-jamie,Jamie,OUT,,,,,,,1
+11,1,11-dave,Dave,SAFE,9,12,Chocolate Espresso Martini Battenberg,'Three Flavours of Tom DeLonge',,,1
+11,1,11-hermine,Hermine,HIGH,5,12,Chocolate & Orange Battenberg,'Ode to Lupita',,,1
+11,1,11-laura,Laura,SAFE,6,12,'Celebration of Summer' Battenberg,Lemon & Elderflower Freddie,,,1
+11,1,11-linda,Linda,LOW,12,12,Ambulance Battenberg,Lemon & Orange Bob Marley,,,1
+11,1,11-loriea,Loriea,OUT,10,12,'Hot Summer's Day Treats' Battenberg,'Flavours of Jamaica' A Tribute to Miss Lou,,,1
+11,1,11-lottie,Lottie,SAFE,4,12,Rhubarb and Custard Battenberg,Coconut & Lime Louis Theroux,,,1
+11,1,11-mak,Mak,SAFE,8,12,East India Battenberg,Tribute to Bill Bryson,,,1
+11,1,11-marc,Marc,LOW,11,12,Bittersweet Battenberg,Chocolate & Vanilla Ziggy,,,1
+11,1,11-mark,Mark,SAFE,7,12,Turkish Bazaar Inspired Battenberg,'Origin-ger of the Species' by Charles Darwin,,,1
+11,1,11-peter,Peter,SB,2,12,Gluten Free Chocolate & Orange Battenberg,'In Honour of Sir Chris',,,1
+11,1,11-rowan,Rowan,SAFE,3,12,'The Magic Flute' Battenberg,'Let Them Eat Cake' A Tribute To Marie Antoinette,,,1
+11,1,11-sura,Sura,HIGH,1,12,Lemon and Orange Battenberg,'Ode to Attenborough',,,1
+11,3,11-dave,Dave,LOW,9,10,Chilli Chocolate & Cheesy Bacon Soda Breads,'Grateful For My Home and Little Family',,,1
+11,3,11-hermine,Hermine,SAFE,7,10,My Favourite Flavours Soda Bread,A Journey Back to France,,,1
+11,3,11-laura,Laura,SAFE,6,10,Nana Peg's Nicely Spiced & Cherrylicious Soda Breads,Showstopping Musical Theatre Inspired Showstopper,,,1
+11,3,11-linda,Linda,SAFE,1,10,Bara Cyflym Quick Bread,'Fruits of our Labour' Black Olive Bread & Tiger Bread,,,1
+11,3,11-lottie,Lottie,SAFE,5,10,Blueberry Breakfast & Summertime Soda Breads,My House In Bread,,,1
+11,3,11-marc,Marc,SB,2,10,Cornish Soda Breads,The Dharma Wheel Bread Sheaf,,,1
+11,3,11-mark,Mark,SAFE,3,10,Sausage & Stout Sodas,Orchard County Bread with Sweet Apple and Savoury Wild Garlic,,,1
+11,3,11-peter,Peter,LOW,4,10,Black Pudding & Ginger Beer Soda Breads,Edinburgh Cityscape Bread Plaque,,,1
+11,3,11-rowan,Rowan,OUT,10,10,Flavours of Italy,Worcestershire Pear Tree,,,1
+11,3,11-sura,Sura,HIGH,8,10,Middle Eastern Inspired Soda Breads,Mama's Tomato Vine Harvest Loaf,,,1
+11,4,11-dave,Dave,SAFE,8,9,Honeycomb Explosion Brownies,Strawberry Splash White Chocolate Fraisier Cake,,,1
+11,4,11-hermine,Hermine,SAFE,5,9,"Raspberry, White Chocolate & Pistachio Brownies",Lemon & White Chocolate Cake,,,1
+11,4,11-laura,Laura,SAFE,2,9,Salted Caramel Brownie S'mores,Chocolate Heaven Cake,,,1
+11,4,11-linda,Linda,SAFE,1,9,'Treats of Christmas Past',English Rose Cake,,,1
+11,4,11-lottie,Lottie,LOW,9,9,'Have Your Cake and Eat It' Brownies,Nana and Papa's Sapphire Anniversary Cake,,,1
+11,4,11-marc,Marc,SAFE,6,9,Praline Brownies,White Chocolate & Raspberry Buttercream Celebration Cake,,,1
+11,4,11-mark,Mark,SB,3,9,'Gimmie S'more' Brownies,'A Baking Show Birthday',,,1
+11,4,11-peter,Peter,HIGH,4,9,Upside Down Brownies,Graduation Cake,,,1
+11,4,11-sura,Sura,OUT,7,9,Double Chocolate Marshmallow Brownies,Strawberry & White Chocolate Celebration Cake,,,1
+11,5,11-dave,Dave,HIGH,5,8,Thai Basil Chicken Pasties,"Chocolate, Mango and Lime Tart",,,1
+11,5,11-hermine,Hermine,HIGH,2,8,Moroccan Tagine Pasties,Lime Confit & Lemon Meringue Tart,,,1
+11,5,11-laura,Laura,SB,6,8,Proper Tasty Pasties,Kent Garden Tart,,,1
+11,5,11-linda,Linda,OUT,8,8,Spicy Indian Pasties,Gypsy Tart,,,1
+11,5,11-lottie,Lottie,SAFE,4,8,Toad-In-The-Hole-Less Pasties,Apple Tree Tart,,,1
+11,5,11-marc,Marc,LOW,7,8,Cornish Fish Pasties,Posh Apple & Blackberry Pie,,,1
+11,5,11-mark,Mark,LOW,3,8,Aloo Gobi & Paneer Pasties,Mes-SAGE in a Bottle,,,1
+11,5,11-peter,Peter,HIGH,1,8,Kedgeree Pasties,Blackberry & Lemon Tart,,,1
+11,2,11-peter,Peter,SAFE,,,,,,,1
+11,6,11-peter,Peter,SAFE,,,,,,,1
+11,7,11-peter,Peter,SAFE,,,,,,,1
+11,8,11-peter,Peter,LOW,,,,,,,1
+11,9,11-peter,Peter,SB,,,,,,,1
+11,10,11-peter,Peter,WINNER,,,,,,,1
+11,2,11-dave,Dave,SB,,,,,,,1
+11,6,11-dave,Dave,HIGH,,,,,,,1
+11,7,11-dave,Dave,SAFE,,,,,,,1
+11,8,11-dave,Dave,SAFE,,,,,,,1
+11,9,11-dave,Dave,HIGH,,,,,,,1
+11,10,11-dave,Dave,RUNNER_UP,,,,,,,1
+11,2,11-laura,Laura,SAFE,,,,,,,1
+11,6,11-laura,Laura,LOW,,,,,,,1
+11,7,11-laura,Laura,LOW,,,,,,,1
+11,8,11-laura,Laura,HIGH,,,,,,,1
+11,9,11-laura,Laura,LOW,,,,,,,1
+11,10,11-laura,Laura,RUNNER_UP,,,,,,,1
+11,2,11-hermine,Hermine,SAFE,,,,,,,1
+11,6,11-hermine,Hermine,LOW,,,,,,,1
+11,7,11-hermine,Hermine,SB,,,,,,,1
+11,8,11-hermine,Hermine,SB,,,,,,,1
+11,9,11-hermine,Hermine,OUT,,,,,,,1
+11,2,11-marc,Marc,HIGH,,,,,,,1
+11,6,11-marc,Marc,HIGH,,,,,,,1
+11,7,11-marc,Marc,HIGH,,,,,,,1
+11,8,11-marc,Marc,OUT,,,,,,,1
+11,2,11-lottie,Lottie,SAFE,,,,,,,1
+11,6,11-lottie,Lottie,SB,,,,,,,1
+11,7,11-lottie,Lottie,OUT,,,,,,,1
+11,2,11-mark,Mark,HIGH,,,,,,,1
+11,6,11-mark,Mark,OUT,,,,,,,1
+11,2,11-linda,Linda,SAFE,,,,,,,1
+11,2,11-sura,Sura,SAFE,,,,,,,1
+11,2,11-rowan,Rowan,LOW,,,,,,,1
+11,2,11-mak,Mak,OUT,,,,,,,1
+12,1,12-amanda,Amanda,LOW,12,12,'Cherry Soldier' Mini Rolls,Elderflower & Lemon Surf Explosion,,,1
+12,1,12-chigs,Chigs,SAFE,11,12,Strawberries & Cream Mini Rolls,'Where it all Began',,,1
+12,1,12-crystelle,Crystelle,HIGH,8,12,'Chai and Chai Again' Mini Rolls,'Bouq-cake' of Flowers,,,1
+12,1,12-freya,Freya,SAFE,2,12,Vegan Lemon & Raspberry Mini Rolls,'Flower Potty',,,1
+12,1,12-george,George,LOW,3,12,Chocolate & Hazelnut Mini Rolls,Greek Table,,,1
+12,1,12-giuseppe,Giuseppe,HIGH,10,12,Easter Mini Rolls,'Jack and The Beanstalk',,,1
+12,1,12-jairzeno,Jairzeno,LOW,9,12,Lime & Passion Fruit Mini Rolls,'Kick the Can' Cake,,,1
+12,1,12-j-rgen,Jürgen,SB,6,12,Schwarzwald Mini Rolls,'Night Time Reading',,,1
+12,1,12-lizzie,Lizzie,SAFE,4,12,Zoo Mini Rolls,Nana's Peaches & Cream,,,1
+12,1,12-maggie,Maggie,HIGH,1,12,'Knit & Natter' Mini Rolls,Ice-cream Cornet,,,1
+12,1,12-rochica,Rochica,SAFE,7,12,Colin Rolls,Apple Cake,,,1
+12,1,12-tom,Tom,OUT,5,12,Black Forest Mini Rolls,Classically Spectacular Showstopper,,,1
+12,2,12-amanda,Amanda,LOW,4,11,'Open Sesame' Brandy Snaps,Carousel Rocking Horse,,,1
+12,2,12-chigs,Chigs,HIGH,7,11,'Espresso Martini' Brandy Snaps,Snooker Table,,,1
+12,2,12-crystelle,Crystelle,SAFE,10,11,'Apple of My P-eye' Brandy Snaps,Vanity Playset,,,1
+12,2,12-freya,Freya,SAFE,3,11,'Brandy Snapuccinos','Winnie',,,1
+12,2,12-george,George,HIGH,8,11,Cypriot Brandy Snaps,'Paul & Prue Airlines',,,1
+12,2,12-giuseppe,Giuseppe,HIGH,2,11,Gianduja Snaps,Reversi Board Game,,,1
+12,2,12-jairzeno,Jairzeno,OUT,9,11,"Chocolate, Passion Fruit & Pineapple Brandy Snaps",Tall Ship,,,1
+12,2,12-j-rgen,Jürgen,SB,1,11,'A Cup of Chai' Brandy Snaps,'Grandpa's Windmill',,,1
+12,2,12-lizzie,Lizzie,SAFE,6,11,Fast-Food Apple Pie Brandy Snaps,'Paint a Truck',,,1
+12,2,12-maggie,Maggie,LOW,5,11,Blackcurrant Brandy Snaps,Beach Playset,,,1
+12,2,12-rochica,Rochica,SAFE,11,11,Coffee Brandy Snaps,Gingerbread Pinball Game,,,1
+12,3,12-amanda,Amanda,SAFE,3,10,'Chasing Grainbows' Focaccia,'I Just FISH We Had More Time',,,1
+12,3,12-chigs,Chigs,SAFE,6,10,Spanish Cheesy Meaty Focaccia,Honey Milk Bread Picnic Basket,,,1
+12,3,12-crystelle,Crystelle,SAFE,9,10,Feta & Grape Focaccia with Fennel & Walnut,'Bready' for Sunday Roast,,,1
+12,3,12-freya,Freya,HIGH,4,10,Mexican Fajita Focaccia,'Under the Sea' Milk Bread Display,,,1
+12,3,12-george,George,SAFE,7,10,Greek Inspired Focaccia,'The Very Hungry Koala',,,1
+12,3,12-giuseppe,Giuseppe,SB,1,10,'Breakfast in Gaeta' Focaccia,'Your Five-a-Day',,,1
+12,3,12-j-rgen,Jürgen,SAFE,5,10,'Kipper-caccia' Focaccia,'The Baby',,,1
+12,3,12-lizzie,Lizzie,HIGH,2,10,'Final Furlong' Focaccia,Pig Banquet,,,1
+12,3,12-maggie,Maggie,LOW,8,10,Classic Focaccia,'Things You'd Find in a Rock Pool',,,1
+12,3,12-rochica,Rochica,OUT,10,10,"Roast Garlic Focaccia with Tomato, Feta & Pesto",Birdcage,,,1
+12,4,12-amanda,Amanda,LOW,8,9,'Chocolate Pav-Love','Adam's Temptation' Imprimé Dessert,,,1
+12,4,12-chigs,Chigs,SB,3,9,Tropical Pavlova,Black Forest Imprimé Dessert,,,1
+12,4,12-crystelle,Crystelle,SAFE,5,9,'Kiwi Lime Pie' Pam-lova,"'Una Piña Colada, Por Favor'",,,1
+12,4,12-freya,Freya,LOW,6,9,Peach Melba Vegan Pavlova,Chocolate & Orange Imprimé Dessert,,,1
+12,4,12-george,George,SAFE,7,9,Lemon Curd & Biscuit Cream Pavlova,Peanut Butter & Chocolate Imprimé Dessert,,,1
+12,4,12-giuseppe,Giuseppe,HIGH,4,9,'Every Day at the Beach' Pavlova,Red Fruit & Pistachio Imprimé Dessert,,,1
+12,4,12-j-rgen,Jürgen,HIGH,1,9,'Passover Pavlova','Passtyme with Good Companye',,,1
+12,4,12-lizzie,Lizzie,SAFE,2,9,Easter Pavlova,Liverpool Skyline Imprimé Dessert,,,1
+12,4,12-maggie,Maggie,OUT,9,9,Traditional Pavlova,Paris Skyline Imprimé Dessert,,,1
+12,5,12-amanda,Amanda,SAFE,8,8,Spritzgebäck & Glühweinplätzchen,Rum. Plum & Raisin Cake,,,1
+12,5,12-chigs,Chigs,SAFE,2,8,Marzipan Hausfreunde & Almond Mandelhörnchen,Lemon & Mixed Peel Cake,,,1
+12,5,12-crystelle,Crystelle,HIGH,7,8,Chocolate Engelsaugen & Pistachio Heidesand,Bavarian Brioche,,,1
+12,5,12-freya,Freya,OUT,5,8,Lebkuchen & Zimtsterne,Upside-down Cake,,,1
+12,5,12-george,George,LOW,6,8,Cherry Marzipan Biscuits & Aniseed Springerle,Chocolate & Tahini Anniversary Cake,,,1
+12,5,12-giuseppe,Giuseppe,SB,1,8,Bethmännchen & Italian Linzer Augen,Amarena Cherry Cake,,,1
+12,5,12-j-rgen,Jürgen,HIGH,4,8,Tee-Sterne & Milchkaffee-Gipfele,Beer Soaked Cake,,,1
+12,5,12-lizzie,Lizzie,SAFE,3,8,Mandelhörnchen & Cheeky Boys,Bavarian Fairy Tale,,,1
+12,6,12-amanda,Amanda,OUT,5,7,Sweet & Savoury Chouxnuts,'Fancy Terrine Pie',,,1
+12,6,12-chigs,Chigs,SAFE,3,7,'Oo La La Chouxnuts','Leicester Pork Pie',,,1
+12,6,12-crystelle,Crystelle,SB,2,7,Mango Maracujá & Miso Caramel Chouxnuts,'Lily Nana's Pickle Cottage',,,1
+12,6,12-george,George,LOW,6,7,Classic Chouxnuts,'Christmas Dinner',,,1
+12,6,12-giuseppe,Giuseppe,HIGH,4,7,Bellissima Chouxnuts,'Laura's Terrine Pie',,,1
+12,6,12-j-rgen,Jürgen,SAFE,1,7,'Exotic Flavour & 70's Colour','Lunch in Freiburg',,,1
+12,6,12-lizzie,Lizzie,SAFE,7,7,Caramel & Floral Chouxnuts,'Neptune Pie',,,1
+12,7,12-chigs,Chigs,HIGH,3,6,"Chocolate, Coconut & Ginger Caramel Tart",'Caramel Mistake',,,1
+12,7,12-crystelle,Crystelle,HIGH,4,6,"Apple, Pecan & Miso Caramel Tart",'Grandad Greg's Cactus Garden',,,1
+12,7,12-george,George,OUT,6,6,Caramel Custard & Banana Tart,Salted Caramel Almond & Hazelnut Dacquoise,,,1
+12,7,12-giuseppe,Giuseppe,HIGH,1,6,Apricot & Hazelnut Caramel Tart,Salted Caramel & Praline Dessert,,,1
+12,7,12-j-rgen,Jürgen,SB,2,6,Triple Nut Caramel Delight,'Caramel Contrasts',,,1
+12,7,12-lizzie,Lizzie,LOW,5,6,'My Tart Will Go On','Roses Really Smell Like Caramel',,,1
+12,8,12-chigs,Chigs,SB,1,5,Mum's Tropical Delight,Gluten-Free Red Velvet Cake,,,1
+12,8,12-crystelle,Crystelle,LOW,5,5,Tahini and Miso Coffee Ice Cream Sandwiches,'My Nana's Cascading Dress' Gluten-Free Cake,,,1
+12,8,12-giuseppe,Giuseppe,SAFE,2,5,Ginger and Orange Ice Cream Sandwich,Gluten-Free Black Forest Cake,,,1
+12,8,12-j-rgen,Jürgen,HIGH,4,5,'Meet My Favourites',Ultimate Gluten-Free Birthday Cake,,,1
+12,8,12-lizzie,Lizzie,OUT,3,5,Best Thing About Walks,Gluten-Free ‘Extraordinary' Cake,,,1
+12,9,12-chigs,Chigs,HIGH,4,3,Raspberry & Chocolate Slices,'The Apple Doesn't Fall Far from the Tree',,,1
+12,9,12-crystelle,Crystelle,SB,,3,,,,,1
+12,9,12-giuseppe,Giuseppe,LOW,2,3,Tiramisu Slices,'Leaning Tower of Pisa',,,1
+12,9,12-j-rgen,Jürgen,OUT,1,3,Murder at the Opera,'Torii Gate in the Sea',,,1
+12,10,12-chigs,Chigs,RUNNER_UP,2,3,'Take Two',Party Treats,,,1
+12,10,12-crystelle,Crystelle,RUNNER_UP,1,3,"Pistachio, Cardamom & Orange Carrot Cake",Crazy Tea Party,,,1
+12,10,12-giuseppe,Giuseppe,WINNER,3,3,'Torta Camilla','What Is the Hatter with Me',,,1
+13,1,13-abdul,Abdul,SAFE,6,12,'Cake-y Cacti','Summer In Pakistan',,,1
+13,1,13-carole,Carole,SAFE,8,12,'To Bee or not to Bee','Little House In The Country',,,1
+13,1,13-dawn,Dawn,HIGH,3,12,"Lime, Coconut & Tamarind Spring Cakes",'Nan's House',,,1
+13,1,13-james,James,SAFE,12,12,Sticky Toffee Apple Candles,'Last House On The Loch',,,1
+13,1,13-janusz,Janusz,SB,7,12,Pistachio & Cherry Vodka Liquor Wuzetka,'Home Is Where The Flowers Grow',,,1
+13,1,13-kevin,Kevin,SAFE,4,12,Mini Persian Love Cakes,'Ba-Na-Na That's My Hame',,,1
+13,1,13-maisam,Maisam,LOW,5,12,Pistachio Cakes with Raspberry Buttercream,'My Childhood Home',,,1
+13,1,13-maxy,Maxy,SAFE,10,12,'Mango Magic Mess','At My Mama's',,,1
+13,1,13-rebs,Rebs,LOW,11,12,Hazelnut Mocha Latte Mini Cakes,'Piña Colada Cottage',,,1
+13,1,13-sandro,Sandro,HIGH,2,12,'A Bitesize of Love','Best Time Ever' Cake,,,1
+13,1,13-syabira,Syabira,HIGH,1,12,"Coconut, Pandan & Caramel Mousse Cake",'Happiest Childhood Memory',,,1
+13,1,13-will,Will,OUT,9,12,Ginger & Caramel Squares,'First London Family Home',,,1
+13,2,13-abdul,Abdul,HIGH,11,11,'Fudgetastic Maca-Cones','Parrot-astic' Biscuits,,,1
+13,2,13-carole,Carole,LOW,4,11,'Just A Mouthful','Macaron Masquerade',,,1
+13,2,13-dawn,Dawn,HIGH,9,11,'Toy Shop Yarns','Baroque-Punk' Mask,,,1
+13,2,13-james,James,HIGH,2,11,'Raccarons',Menacing Mask,,,1
+13,2,13-janusz,Janusz,SAFE,6,11,Miniature Melons,Cubist Mask,,,1
+13,2,13-kevin,Kevin,SAFE,8,11,Mint Choc Trip,Mythical Mask,,,1
+13,2,13-maisam,Maisam,OUT,7,11,Cute Carrots,Venetian Mask,,,1
+13,2,13-maxy,Maxy,SB,5,11,Baby Daisies,Masquerade,,,1
+13,2,13-rebs,Rebs,LOW,1,11,'Wee Branstons',Floral Fascinator,,,1
+13,2,13-sandro,Sandro,HIGH,3,11,'Cheat Day Treat',Carnival Costume,,,1
+13,2,13-syabira,Syabira,HIGH,10,11,Satay Macarons,"'Two Face, One Soul'",,,1
+13,3,13-abdul,Abdul,SAFE,,8,"colspan=""3"" Did not compete",,,,1
+13,3,13-carole,Carole,LOW,8,8,'Pizza Exceptional','Something Fishy' Smörgåstårta,,,1
+13,3,13-dawn,Dawn,LOW,6,8,Tex-Mex Pizza,Chicken Souvlaki Smörgåstårta,,,1
+13,3,13-james,James,SAFE,3,8,"'It Does Belong!' Ham, Mushroom and Pineapple Pizza",'The Most Pandastic' Smörgåstårta,,,1
+13,3,13-janusz,Janusz,SB,1,8,Full English Breakfast Pizza,'Fish and Chip Shop' Smörgåstårta,,,1
+13,3,13-kevin,Kevin,LOW,7,8,'Now Bring Us Some Figgy Pizza','I've Started So I'll Fin-ish' Smörgåstårta,,,1
+13,3,13-maxy,Maxy,SAFE,2,8,Sweet Rosemary Lamb Pizza,'Curvy Seafood' Smörgåstårta,,,1
+13,3,13-rebs,Rebs,SAFE,,8,"colspan=""3"" Did not compete",,,,1
+13,3,13-sandro,Sandro,HIGH,4,8,Sweet & Spicy Pizza,'Ultimate' Smörgåstårta,,,1
+13,3,13-syabira,Syabira,HIGH,5,8,Malaysian Prawn Sambal Pizza,Nasi Lemak Smörgåstårta,,,1
+13,4,13-abdul,Abdul,SAFE,6,10,Coconut & Raspberry Besos,'Day of the Dead' Tres Leches Cake,,,1
+13,4,13-carole,Carole,LOW,10,10,Orange & Anise Seed Pan Dulce,'Pastel de Chocolate Mexicano' Tres Leches Cake,,,1
+13,4,13-dawn,Dawn,HIGH,5,10,'Dark Chocolate & Chilli Kick' Conchas,'Blooming' Tres Leches Cake,,,1
+13,4,13-james,James,OUT,8,10,'Coffee Caramel Oyster' Conchas,Chocolate & Lime 'Many Leches' Cake,,,1
+13,4,13-janusz,Janusz,HIGH,7,10,Cacti Conchas,'Fruity Horchata' Tres Leches Cake,,,1
+13,4,13-kevin,Kevin,SAFE,4,10,'Sweet Breads are Made of These' Borrachitos,'Meci-Cocoa Pyramid' Tres Leches Cake,,,1
+13,4,13-maxy,Maxy,SB,1,10,'Bella Naranja' Conchas,'Cocoa Flower Fiesta' Tres Leches Cake,,,1
+13,4,13-rebs,Rebs,OUT,9,10,Lemon Conchas,'Mexican Tiramisu' Tres Leches Cake,,,1
+13,4,13-sandro,Sandro,HIGH,3,10,Filled Concha Buns,'It's a Fiesta' Tres Leches Cake,,,1
+13,4,13-syabira,Syabira,SAFE,2,10,Corn on the Cob Conchas,Sweetcorn & Cinnamon Tres Leches Cake,,,1
+13,5,13-abdul,Abdul,SAFE,2,8,Fig & Date Puddings,'A Little Galaxy' Mousse Dessert,,,1
+13,5,13-carole,Carole,OUT,6,8,'My Little Beauties','Strawberry Fields',,,1
+13,5,13-dawn,Dawn,LOW,7,8,'Traditional' Steamed Puddings,'Woodland' Mousse Dessert,,,1
+13,5,13-janusz,Janusz,HIGH,1,8,Piña Colada Puddings,‘Cake Within a Cake Surprise',,,1
+13,5,13-kevin,Kevin,SAFE,5,8,Clootie Dumplings,'What The Dog Dug',,,1
+13,5,13-maxy,Maxy,SAFE,3,8,Sticky Toffee Puddings,'Sunset Surprise',,,1
+13,5,13-sandro,Sandro,SB,4,8,Apple & Cherry Crumble Puddings,'It's a Mousse World',,,1
+13,5,13-syabira,Syabira,LOW,8,8,Watermelon Steamed Puddings,'Bee Positive',,,1
+13,6,13-abdul,Abdul,SAFE,7,7,Bonfire Cake,Witches Lantern,,,1
+13,6,13-dawn,Dawn,OUT,5,7,'Ukrainian Sharlotka','A Cat in a Fancy Hat' Lantern,,,1
+13,6,13-janusz,Janusz,SAFE,2,7,'Mum's Apple Cake','Halloween Horror Movie Popcorn' Lantern,,,1
+13,6,13-kevin,Kevin,LOW,3,7,'Apple Bobbing','Arachna-FOMO' Lantern,,,1
+13,6,13-maxy,Maxy,HIGH,6,7,Classic Apple & Walnut Cake,'Spoooooky' Lantern,,,1
+13,6,13-sandro,Sandro,SAFE,4,7,Creepy Apple Crumble Cake,'Dead Disco Ball' Lantern,,,1
+13,6,13-syabira,Syabira,SB,1,7,'Witch Apple','Itsy Bitsy Spider' Lantern,,,1
+13,7,13-abdul,Abdul,SAFE,4,6,"Cherry, Orange & Pistachio Floating Islands",Peach & Raspberry Mille-feuille,,,1
+13,7,13-janusz,Janusz,LOW,5,6,'Morning Vanilla Latte' Floating Islands,'Neapolitan' Custard Gateau,,,1
+13,7,13-kevin,Kevin,OUT,3,6,'Everything's Coming Up Roses' Floating Islands,'My Honey Valentine' Custard Gateau,,,1
+13,7,13-maxy,Maxy,SAFE,2,6,'Blueberry Lagoon' Floating Islands,'The Promised Land' Custard Gateau,,,1
+13,7,13-sandro,Sandro,HIGH,1,6,"Cherry, Almond & Hazelnut Floating Island",'Tribute to a Friend' Custard Gateau,,,1
+13,7,13-syabira,Syabira,SB,6,6,Mojito Floating Islands,'Piña Coladas Anyone?' Custard Gateau,,,1
+13,8,13-abdul,Abdul,HIGH,3,5,Coconut and Berry Vol-au-Vents,'Adventures of a Pie-rate' Pie Scene,,,1
+13,8,13-janusz,Janusz,SAFE,2,5,'Strawberries & Cream' Vol-au-Vents,'The Very Hungry Sausage Dog' Pie Scene,,,1
+13,8,13-maxy,Maxy,OUT,5,5,'Summertime Fine' Vol-au-Vents,'Spicy Twinkling Stars' Pie Scene,,,1
+13,8,13-sandro,Sandro,LOW,1,5,'Key-Lime' Vol-au-Vents,Caterpillar Pie Scene,,,1
+13,8,13-syabira,Syabira,SB,4,5,'Citrus Dreams' Vol-au-Vents,'Jack and the Beanstalk' Pie Scene,,,1
+13,9,13-abdul,Abdul,SB,2,4,'Pistachio Tiramisu' Mini-Charlottes,'To the Stars!' Krokan,,,1
+13,9,13-janusz,Janusz,OUT,3,4,'Plums in Chocolate' Mini-Charlottes,'Brighton Pride' Krokan,,,1
+13,9,13-sandro,Sandro,LOW,4,4,'Caramel Nutty' Mini-Charlottes,'Where it Started to How it's Going' Krokan,,,1
+13,9,13-syabira,Syabira,HIGH,1,4,'Peanut & Berries' Mini-Charlottes,'The DNA in You' Krokan,,,1
+13,10,13-abdul,Abdul,RUNNER_UP,1,3,Summer Picnic,'It's All About The Bees' Edible Sculpture,,,1
+13,10,13-sandro,Sandro,RUNNER_UP,3,3,Summer Picnic,'The World From Different Angles' Edible Sculpture,,,1
+13,10,13-syabira,Syabira,WINNER,2,3,Summer Picnic,'This is My Home' Edible Sculpture,,,1
+14,1,14-abbi,Abbi,HIGH,3,12,"Foraged Poppy Seed, Lemon & Blackcurrant Vertical Layer Cake",'Herbert the Herdwick' Cake,,,1
+14,1,14-amos,Amos,OUT,2,12,Blood Orange & Dark Chocolate Vertical Layer Cake,'Orca on a Wave' Cake,,,1
+14,1,14-cristy,Cristy,HIGH,6,12,'Lemon Meringue' Vertical Layer Cake,'Raspberry Ripple' Duck Cake,,,1
+14,1,14-dan,Dan,SB,1,12,Rhubarb & Custard Vertical Layer Cake,'Bruno' Cake,,,1
+14,1,14-dana,Dana,LOW,12,12,'Salted Caramel Latte' Vertical Layer Cake,'My Amazing Gracie' Cake,,,1
+14,1,14-josh,Josh,SAFE,8,12,'Tropical' Vertical Layer Cake,'Mum's Highland Cow' Cake,,,1
+14,1,14-keith,Keith,HIGH,4,12,'Dad's Chocolate Orange' Vertical Layer Cake,'Maisie' Cake,,,1
+14,1,14-matty,Matty,SAFE,7,12,'Tiramisu' Vertical Layer Cake,'Marty the Cocker Spaniel' Cake,,,1
+14,1,14-nicky,Nicky,LOW,10,12,'St. Clements' Vertical Layer Cake,'Always Beavering Around' Cake,,,1
+14,1,14-rowan,Rowan,SAFE,9,12,Chocolate & Raspberry Vertical Layer Cake,'Cosmopolitan Lobster' Cake,,,1
+14,1,14-saku,Saku,SAFE,5,12,Chaminda's Favourite Vertical Layer Cake,'Tikiri the Turtle' Cake,,,1
+14,1,14-tasha,Tasha,SAFE,11,12,Black Sesame & Yuzu Vertical Layer Cake,Robin Cake,,,1
+14,2,14-abbi,Abbi,SAFE,1,11,'Flavours of Tunisia' Marshmallow Biscuits,'Dim Sum Brunch' Illusion Biscuits,,,1
+14,2,14-cristy,Cristy,SAFE,9,11,'Nanny June's' Marshmallow Biscuits,'Family Charcuterie Board' Illusion Biscuits,,,1
+14,2,14-dan,Dan,SAFE,2,11,'Waterwheel' Marshmallow Biscuits,'Cheese & Onion Pie' Illusion Biscuits,,,1
+14,2,14-dana,Dana,SAFE,7,11,'Mallow-Dramatic' Marshmallow Biscuits,'Friday Night Takeaway' Illusion Biscuits,,,1
+14,2,14-josh,Josh,HIGH,6,11,'Black Forest' Marshmallow Biscuits,'JJ's Burger & Fries' Illusion Biscuits,,,1
+14,2,14-keith,Keith,OUT,11,11,'Letter from America' Marshmallow Biscuits,'Seaside Meal Deal' Illusion Biscuits,,,1
+14,2,14-matty,Matty,SAFE,5,11,'Half-Time' Marshmallow Biscuits,'Cheeseboard' Illusion Biscuits,,,1
+14,2,14-nicky,Nicky,LOW,4,11,'Tasty Teatime Treat' Marshmallow Biscuits,'A Home from Home Steak Pie' Illusion Biscuits,,,1
+14,2,14-rowan,Rowan,SAFE,3,11,"Lemon, Rosemary & Violet Marshmallow Biscuits",‘Charcuterie Board’ Illusion Biscuits,,,1
+14,2,14-saku,Saku,SAFE,10,11,Pistachio & Raspberry Marshmallow Biscuits,'Sri Lankan Breakfast Feast' Illusion Biscuits,,,1
+14,2,14-tasha,Tasha,SB,8,11,'After-School Treat' Marshmallow Biscuits,'Japanese Katsu & Matcha' Illusion Biscuits,,,1
+14,3,14-abbi,Abbi,OUT,8,10,'Country Kitchen' Cottage Loaf,'My Favourite Tree' Plaited Centrepiece,,,1
+14,3,14-cristy,Cristy,SAFE,6,10,"Cranberry, Rosemary & Walnut Cottage Loaf",Honey & Chocolate Plaited Centrepiece,,,1
+14,3,14-dan,Dan,LOW,10,10,Wild Garlic Cottage Loaf,'Stuffed Crust Pizza' Plaited Centrepiece,,,1
+14,3,14-dana,Dana,SAFE,3,10,'Bread-ley Cooper' Cottage Loaf,'Tea Beside the Sea' Plaited Centrepiece,,,1
+14,3,14-josh,Josh,HIGH,4,10,'Nduja' Pizza Cottage Loaf,'Tiger Mascot' Plaited Centrepiece,,,1
+14,3,14-matty,Matty,SAFE,7,10,Olive & Tomato Cottage Loaf,'The Hammers' Plaited Centrepiece,,,1
+14,3,14-nicky,Nicky,SAFE,5,10,Roast Garlic & Rosemary Cottage Loaf,'Angus the Highland Cow' Plaited Centrepiece,,,1
+14,3,14-rowan,Rowan,LOW,9,10,Olive & Tomato Cottage Loaf,'A Bread Rowan Tree' Plaited Centrepiece,,,1
+14,3,14-saku,Saku,SAFE,1,10,Cinnamon & Orange Cottage Loaf,'Peacock on a Branch' Plaited Centrepiece,,,1
+14,3,14-tasha,Tasha,SB,2,10,Roast Garlic and Rosemary Malted Cottage Loaf,'Medusa' Plaited Centrepiece,,,1
+14,4,14-cristy,Cristy,LOW,7,8,Cherry & Chocolate Torte,'For Love' Chocolate Box Cake,,,1
+14,4,14-dan,Dan,HIGH,1,8,Chilli and Chocolate Torte,'A Treasure Chest of Delight' Chocolate Box Cake,,,1
+14,4,14-dana,Dana,SAFE,5,8,'I Cherry-ish You' Chocolate Torte,'Once Upon a Time' Chocolate Box Cake,,,1
+14,4,14-josh,Josh,SAFE,6,8,Raspberry & Chocolate Torte,'Chemistry Centenary' Chocolate Box Cake,,,1
+14,4,14-matty,Matty,SB,2,8,Hazelnut & Chocolate Torte,Chocolate Box Cake,,,1
+14,4,14-nicky,Nicky,HIGH,4,8,'Dreamy' Chocolate Torte,'This is No Ordinary Chocolate Box' Cake,,,1
+14,4,14-rowan,Rowan,SAFE,3,8,'Mocha' Chocolate Torte,'Grandpa's Paints' Chocolate Box Cake,,,1
+14,4,14-saku,Saku,LOW,8,8,Chocolate & Raspberry Torte,'Time for Cricket' Chocolate Box Cake,,,1
+14,4,14-tasha,Tasha,SAFE,,8,"Ginger, Almond & Dark Chocolate Torte",Did not compete,,,1
+14,5,14-cristy,Cristy,SB,5,9,Creamy Mushroom & Leek Picnic Pies,'Autumnal Lattice' Decorative Pies,,,1
+14,5,14-dan,Dan,SAFE,1,9,Lamb Keema Picnic Pies,'Journey Around South America' Decorative Pies,,,1
+14,5,14-dana,Dana,LOW,2,9,'Spud-tacular' Picnic Pies,'The Apple of my Pie' Decorative Pies,,,1
+14,5,14-josh,Josh,HIGH,8,9,'Post-Match'’ Picnic Pies,'From Flour to Flower' Decorative Pies,,,1
+14,5,14-matty,Matty,SAFE,7,9,'Spanakopità' Picnic Pies,'Ski Trip' Decorative Pies,,,1
+14,5,14-nicky,Nicky,OUT,9,9,Pork & Cheese Picnic Pies,'Gran's Garden Trio' Decorative Pies,,,1
+14,5,14-rowan,Rowan,OUT,4,9,Pork & Sweet Potato Picnic Pies,'Lattice Fabulous' Decorative Pies,,,1
+14,5,14-saku,Saku,LOW,6,9,Spicy Tuna Picnic Pies,'Pie Chart' Decorative Pies,,,1
+14,5,14-tasha,Tasha,SAFE,3,9,"Sausage, Apple & Cranberry Picnic Pies",'Sea or Ski?' Decorative Pies,,,1
+14,6,14-cristy,Cristy,HIGH,1,7,"Maple, Pecan & Cinnamon Spiced Buns","Elderflower, Strawberry & Rhubarb Floral Dessert",,,1
+14,6,14-dan,Dan,SAFE,3,7,'Dreaming of Greece' Spiced Buns,'Sunny Meadows' Floral Dessert,,,1
+14,6,14-dana,Dana,OUT,6,7,'Bun in a Million' Spiced Buns,'Stop and Smell the Rosé' Floral Dessert,,,1
+14,6,14-josh,Josh,SB,2,7,Lemon & Blueberry Spiced Buns,"Rhubarb, Raspberry & Hibiscus Floral Dessert",,,1
+14,6,14-matty,Matty,LOW,4,7,'Rum Drunk' Spiced Buns,Blackberry & Elderflower Floral Dessert,,,1
+14,6,14-saku,Saku,LOW,5,7,Swedish Cinnamon Spiced Buns,Earl Grey & Hibiscus Floral Dessert,,,1
+14,6,14-tasha,Tasha,HIGH,7,7,'Yultide' Spiced Buns,Elderflower & Hibiscus Floral Dessert,,,1
+14,7,14-cristy,Cristy,LOW,4,6,Orange Crème Caramels,'Croquembouche' Meringue Bombe,,,1
+14,7,14-dan,Dan,SB,2,6,'Thai Green Curry' Crème Caramels,'Pale Blue Dot' Meringue Bombe,,,1
+14,7,14-josh,Josh,HIGH,3,6,'Nan's Favourite' Crème Caramels,"'Game, Set and Match' Meringue Bombe",,,1
+14,7,14-matty,Matty,SAFE,6,6,Chai Crème Caramels,'English Italian Summer' Meringue Bombe,,,1
+14,7,14-saku,Saku,OUT,5,6,'Mini Watalappan' Crème Caramels,'Flowers for my Bee' Meringue Bombe,,,1
+14,7,14-tasha,Tasha,SAFE,1,6,"Fig, Honey and Rosemary Crème Caramels",Plum and Ginger Meringue Bombe,,,1
+14,8,14-cristy,Cristy,OUT,2,5,Cranberry & Sage Sausage Rolls,'Marvellous Sweet Factory' Buffet,,,1
+14,8,14-dan,Dan,LOW,5,5,'Dumplings in Disguise' Sausage Rolls,'Prehistoric Party Poopers' Buffet,,,1
+14,8,14-josh,Josh,HIGH,4,5,Turkey & Cranberry ‘Christmas’ Sausage Rolls,'It's Christmas,,,1
+14,8,14-matty,Matty,SB,3,5,'Classic' Sausage Rolls,'Sports' Buffet,,,1
+14,8,14-tasha,Tasha,SAFE,1,5,'Cider in the Park' Sausage Rolls,'Birthdays on the Farm' Buffet,,,1
+14,9,14-dan,Dan,HIGH,3,4,Fancy Financiers,'Hypersonic' Millefoglie,,,1
+14,9,14-josh,Josh,SB,1,4,Perfect Pudding Financiers,"Lemon, Blackberry & Blackcurrant Millefoglie",,,1
+14,9,14-matty,Matty,LOW,2,4,'Pick Me Up' Financiers,'Taste of Italy' Millefoglie,,,1
+14,9,14-tasha,Tasha,OUT,4,4,'Fancy Fruit & Nut' Financiers,'Mango Mojito' Millefoglie,,,1
+14,10,14-dan,Dan,RUNNER_UP,2,3,"'He Who Dares, Éclairs!'",'Lemon Drizzle Memory Lane' Cake,,,1
+14,10,14-josh,Josh,RUNNER_UP,1,3,Tropical and Mocha Éclairs,'A Slice For All Seasons' Cake,,,1
+14,10,14-matty,Matty,WINNER,3,3,Black Forest and Banoffee Éclairs,'Final Celebration' Cake,,,1
+15,1,15-andy,Andy,SAFE,8,11,'My First Bake' Loaf Cake,'It's an Overnight Job' Illusion Cake,,,1
+15,1,15-christiaan,Christiaan,LOW,2,11,'Umami Apple' Loaf Cake,'Sweet Seams are Made With This' Illusion Cake,,,1
+15,1,15-dylan,Dylan,SAFE,4,11,'Sticky Rice' Loaf Cake,'Canopic Jar' Illusion Cake,,,1
+15,1,15-georgie,Georgie,HIGH,1,11,Vanilla & Chocolate Marble Loaf Cake,'Fanny the Chicken' Illusion Cake,,,1
+15,1,15-gill,Gill,SAFE,6,11,'It's All V's Fault' Loaf Cake,Crown Green Bowling Illusion Cake,,,1
+15,1,15-hazel,Hazel,LOW,10,11,'Raspberry Surprise' Loaf Cake,'Handbag' Illusion Cake,,,1
+15,1,15-illiyin,Illiyin,SAFE,7,11,'Cinnamon Roll' Loaf Cake,Vase Illusion Cake,,,1
+15,1,15-jeff,Jeff,SAFE,,11,'Guiding Star' Loaf Cake,Did not compete,,,1
+15,1,15-john,John,SB,3,11,Cherry & Chocolate Marble Loaf Cake,'The Perfect Brunch' Illusion Cake,,,1
+15,1,15-mike,Mike,SAFE,11,11,Lemon and Linseed Loaf Cake,'My Favourite Cake & Books' Illusion Cake,,,1
+15,1,15-nelly,Nelly,SAFE,5,11,Coconut Loaf Cake,'Retro 90's Shoes' Illusion Cake,,,1
+15,1,15-sumayah,Sumayah,HIGH,9,11,'Halwa Surprise' Loaf Cake,'Pato the Duck' Illusion Cake,,,1
+15,2,15-andy,Andy,SAFE,10,11,'PB & J' Viennese Whirls,'If Pigs Could Fly' Biscuit Puppet Theatre,,,1
+15,2,15-christiaan,Christiaan,HIGH,6,11,Floral Viennese Whirls,'Finding Home' Biscuit Puppet Theatre,,,1
+15,2,15-dylan,Dylan,SAFE,11,11,'Campfire Cookie' Viennese Whirls,'Rabbit In The Moon' Biscuit Puppet Theatre,,,1
+15,2,15-georgie,Georgie,LOW,9,11,Rhubarb & Custard Viennese Whirls,‘Welsh Festival' Biscuit Puppet Theatre,,,1
+15,2,15-gill,Gill,SAFE,4,11,'Two Desserts' Viennese Whirls,'The Gingerbread Man' Biscuit Puppet Theatre,,,1
+15,2,15-hazel,Hazel,OUT,5,11,Coffee Viennese Whirls,'Punch & Judy' Biscuit Puppet Theatre,,,1
+15,2,15-illiyin,Illiyin,LOW,8,11,Pistachio & White Chocolate Viennese Whirls,'Strawberry Fields Forever' Biscuit Puppet Theatre,,,1
+15,2,15-jeff,Jeff,SAFE,,11,'What's The Matter? Are You Not Feeling Well?' Viennese Whirls,,,,1
+15,2,15-john,John,SAFE,2,11,Irish Cream & Coffee Viennese Whirls,'Welsh Adventures' Biscuit Puppet Theatre,,,1
+15,2,15-mike,Mike,SAFE,1,11,Malted Brown Butter & Raspberry Viennese Whirls,'Go Farming' Biscuit Puppet Theatre,,,1
+15,2,15-nelly,Nelly,SAFE,7,11,'My First Dog' Viennese Whirls,'Forest Dance' Biscuit Puppet Theatre,,,1
+15,2,15-sumayah,Sumayah,SB,3,11,Cheese & Blackberry Viennese Whirls,'Enchanted Garden' Biscuit Puppet Theatre,,,1
+15,3,15-andy,Andy,LOW,3,10,'Maisie's Mini Salami' Savoury Buns,"'New York, Neeeeeeew Yoooork' Cornucopia",,,1
+15,3,15-christiaan,Christiaan,SAFE,8,10,Mushroom and Sage Pesto Savoury Buns,'Wildflower Delights' Cornucopia,,,1
+15,3,15-dylan,Dylan,SB,10,10,Gochujang & Garlic Savoury Buns,'Cat' Cornucopia,,,1
+15,3,15-georgie,Georgie,HIGH,7,10,'Pesto Brunch' Savoury Buns,'My Favourite Things' Cornucopia,,,1
+15,3,15-gill,Gill,SAFE,5,10,Bury Black Pudding Savoury Buns,'All Day Holiday' Cornucopia,,,1
+15,3,15-illiyin,Illiyin,SAFE,4,10,Jamaican Brown Chicken Savoury Buns,Bread Cornucopia,,,1
+15,3,15-john,John,OUT,9,10,'Yamas!' Savoury Buns,'Horn of Pride' Cornucopia,,,1
+15,3,15-mike,Mike,SAFE,6,10,'Baaa-o' Savoury Buns,'Zeus's Horn' Cornucopia,,,1
+15,3,15-nelly,Nelly,HIGH,1,10,'Ethnic Harmony' Savoury Buns,Cornucopia,,,1
+15,3,15-sumayah,Sumayah,SAFE,2,10,'Sunflower' Savoury Buns,'Friendship & Family' Cornucopia,,,1
+15,4,15-andy,Andy,SAFE,9,9,'A Bit Of A Fix' Caramel Biscuits,'Lonely Tree' Mousse Cake,,,1
+15,4,15-christiaan,Christiaan,SAFE,2,9,'Spiced Nut Stroopwafels' Caramel Biscuits,'Tropicaramel' Mousse Cake,,,1
+15,4,15-dylan,Dylan,HIGH,5,9,'Oats With Pineapple' Caramel Biscuits,Lemon Honey & Ginger Mousse Cake,,,1
+15,4,15-georgie,Georgie,SB,1,9,'Favourite Chocolate Bar' Caramel Biscuits,'Glass Rose Mirror' Mousse Cake,,,1
+15,4,15-gill,Gill,SAFE,8,9,'Fruit and Nut Millionaire' Caramel Biscuits,'Sticky Toffee' Mousse Cake,,,1
+15,4,15-illiyin,Illiyin,SAFE,4,9,'Almond Florentine' Caramel Biscuits,Caramel And White Chocolate Mousse Cake,,,1
+15,4,15-mike,Mike,OUT,7,9,'Dad's Favourite' Caramel Biscuits,Coffee Popcorn Mousse Cake,,,1
+15,4,15-nelly,Nelly,SAFE,6,9,'Good Old Times' Caramel Biscuits,'Behind Every Great Woman' Mousse Cake,,,1
+15,4,15-sumayah,Sumayah,LOW,3,9,Sesame Hibiscus Caramel Biscuits,'Banoffee Pecan' Mousse Cake,,,1
+15,5,15-andy,Andy,OUT,7,8,'Nan's Sweets' Frangipane Tarts,'All You Need Is Love' Paris-Brest,,,1
+15,5,15-christiaan,Christiaan,SAFE,2,8,Cashew & Black Sesame Frangipane Tarts,Orange & Pecan Paris-Brest,,,1
+15,5,15-dylan,Dylan,SAFE,1,8,Coffee and Dark Chocolate Frangipane Tarts,'Contrasts of Tea' Paris-Brest,,,1
+15,5,15-georgie,Georgie,SAFE,6,8,'Almond Bakewell' Frangipane Tarts,Pistachio and Raspberry Paris-Brest,,,1
+15,5,15-gill,Gill,SB,8,8,Pistachio & Blueberry Frangipane Tarts,Lemon & Thyme Paris-Brest,,,1
+15,5,15-illiyin,Illiyin,LOW,5,8,'Taste of the Tropics' Frangipane Tarts,'Crown of Nuttiness' Paris-Brest,,,1
+15,5,15-nelly,Nelly,SAFE,3,8,'Iceberg' Frangipane Tarts,Pistachio Paris-Brest,,,1
+15,5,15-sumayah,Sumayah,HIGH,4,8,Raspberry & Coconut Frangipane Tarts,'Tree of Life' Paris-Brest,,,1
+15,6,15-christiaan,Christiaan,SAFE,6,7,'Forest Cano-Pie','Roots of Samhain' Cake,,,1
+15,6,15-dylan,Dylan,LOW,4,7,Autumnal Apple Pie,Diwali Cake,,,1
+15,6,15-georgie,Georgie,SAFE,2,7,Pumpkin & Pecan Pie,'Tree Trunk Scene' Cake,,,1
+15,6,15-gill,Gill,HIGH,7,7,Blackberry & Apple 'Windy Day' Pie,Bonfire 'Parrot' Cake,,,1
+15,6,15-illiyin,Illiyin,SAFE,1,7,Autumnal Fruit Pie,'Day of the Dead' Cake,,,1
+15,6,15-nelly,Nelly,OUT,5,7,‘Out in Nature’ Pie,'Woman in Autumn' Cake,,,1
+15,6,15-sumayah,Sumayah,SB,3,7,Butternut & Pecan Pie,'Autumn Leaves' Harvest Cake,,,1
+15,7,15-christiaan,Christiaan,SAFE,3,6,'Smell The Roses' Meringue Nests,'Memphis Milano' Tiramisu,,,1
+15,7,15-dylan,Dylan,SB,1,6,'Coconut Illusion' Meringue Nests,'Concrete Box' Tiramisu,,,1
+15,7,15-georgie,Georgie,HIGH,2,6,'Aunty Meryl's' Plum Meringue Nests,'Old Italian' Tiramisu,,,1
+15,7,15-gill,Gill,LOW,4,6,'Just Peachy' Meringue Nests,'Coconut Latte Charlotte Russe' Tiramisu,,,1
+15,7,15-illiyin,Illiyin,LOW,5,6,Piña Colada Meringue Nests,'Jewelry Box' Tiramisu,,,1
+15,7,15-sumayah,Sumayah,OUT,6,6,'Pomegranate & Plenty More' Meringue Nests,'Batik Mousse Cake' Tiramisu,,,1
+15,8,15-christiaan,Christiaan,LOW,2,5,'I Got Choux Babe' Profiterole Stack,"Lemon, Hazelnut and Advocaat '70s Gâteau",,,1
+15,8,15-dylan,Dylan,HIGH,3,5,'Sci-Fi' Profiterole Stack,Mint Chocolate '70s Gâteau,,,1
+15,8,15-georgie,Georgie,SB,1,5,'Tribute to Freddie' Profiterole Stack,Vintage Black Forest '70s Gâteau,,,1
+15,8,15-gill,Gill,LOW,5,5,'70s Christmas Tree' Profiterole Stack,'Geoff's Cafe' '70s Gâteau,,,1
+15,8,15-illiyin,Illiyin,OUT,4,5,'Ode to the '70s Afro' Profiterole Stack,'Peach Melba' '70s Gâteau,,,1
+15,9,15-christiaan,Christiaan,SB,3,4,Rhubarb and Saffron Danish & Za'atar and Gruyère Swirls,'Sorrento Citrus' Entremets,,,1
+15,9,15-dylan,Dylan,HIGH,1,4,Hazelnut & Cinnamon Croissants,Avocado and Orange Entremets,,,1
+15,9,15-georgie,Georgie,LOW,4,4,Coffee and Hazelnut Pinwheels & Chocolate Pain Suisse,'Market Box Fruits' Entremets,,,1
+15,9,15-gill,Gill,OUT,2,4,'Pain Au Sausage Sandwich' and Banana & Custard Pastries,'Pick Your Own Car Keys' Entremets,,,1
+15,10,15-christiaan,Christiaan,RUNNER_UP,1,3,Curry & Coconut Scones,'Sculpted Summer' Hanging Cake,,,1
+15,10,15-dylan,Dylan,RUNNER_UP,3,3,Strawberry & Salmon Scones,'Colours of Murano' Hanging Cake,,,1
+15,10,15-georgie,Georgie,WINNER,2,3,'Afternoon Tea' Scones,'Summer Garden Celebration' Hanging Cake,,,1
+16,1,16-aaron,Aaron,SAFE,4,12,'Pure (But No) Honey' Swiss Roll,'Pastel Paradiso' Landscape Cake,,,1
+16,1,16-hassan,Hassan,OUT,10,12,"Chocolate, Coffee & Caramel Swiss Roll",'Japanese Bamboo Forest' Landscape Cake,,,1
+16,1,16-iain,Iain,SAFE,8,12,'Fift-Queen's University' Swiss Roll,'It's All Downhill From Here' Landscape Cake,,,1
+16,1,16-jasmine,Jasmine,SAFE,9,12,Lemon & Raspberry Swiss Roll,'Scottish Highland' Landscape Cake,,,1
+16,1,16-jessika,Jessika,HIGH,2,12,Coconut & Grapefruit Swiss Roll,'Birthday Morning' Landscape Cake,,,1
+16,1,16-leighton,Leighton,LOW,6,12,'Amalfi Coast Lemon Glade' Swiss Roll,"'The Green, Green Grass of Home' Landscape Cake",,,1
+16,1,16-lesley,Lesley,SAFE,5,12,'Lemons & Daisies' Swiss Roll,'Dad's Bob Ross' Landscape Cake,,,1
+16,1,16-nadia,Nadia,SAFE,7,12,'Cherry Amour' Swiss Roll,'My Island Dream' Landscape Cake,,,1
+16,1,16-nataliia,Nataliia,SB,3,12,'Ukrainian Passion Petal' Swiss Roll,'Ukraine' Landscape Cake,,,1
+16,1,16-pui,Pui,SAFE,11,12,Lemon & Matcha Swiss Roll,'Hong Kong Lion Rock' Landscape Cake,,,1
+16,1,16-toby,Toby,LOW,1,12,Rhubarb & Custard Swiss Roll,'PB and J-acob's Ladder' Landscape Cake,,,1
+16,1,16-tom,Tom,HIGH,12,12,'Tartan' Swiss Roll,'Icelandic' Landscape Cake,,,1
+16,2,16-aaron,Aaron,LOW,8,11,'Mini Winnies' Slice & Bake Biscuits,'Sugar in Spring' Biscuit Time Capsule,,,1
+16,2,16-iain,Iain,SAFE,5,11,'Mince Pie Cat-astrophe' Slice & Bake Biscuits,'If I Could Turn-table Back Time' Biscuit Time Capsule,,,1
+16,2,16-jasmine,Jasmine,HIGH,4,11,'Sail Around the World' Slice & Bake Biscuits,'Our Favourite Scottish Summers' Biscuit Time Capsule,,,1
+16,2,16-jessika,Jessika,SAFE,7,11,'Egg-cellent Brunch' Slice & Bake Biscuits,'Trails and Tales' Biscuit Time Capsule,,,1
+16,2,16-leighton,Leighton,OUT,10,11,'Orange Slices of Delight' Slice & Bake Biscuits,'Piano Memories' Biscuit Time Capsule,,,1
+16,2,16-lesley,Lesley,SAFE,9,11,'Cupcake' Slice & Bake Biscuits,'Happy Memories' Biscuit Time Capsule,,,1
+16,2,16-nadia,Nadia,SAFE,2,11,'Amma's Avos' Slice & Bake Biscuits,'Picnic Basket' Biscuit Time Capsule,,,1
+16,2,16-nataliia,Nataliia,SAFE,3,11,'Yorkshire Welcome' Slice & Bake Biscuits,'A Slice of Life' Biscuit Time Capsule,,,1
+16,2,16-pui,Pui,LOW,11,11,'Year of the Ox' Slice & Bake Biscuits,'Jumbo Boat' Biscuit Time Capsule,,,1
+16,2,16-toby,Toby,LOW,1,11,'Bex's Breakfast' Slice & Bake Biscuits,'Treasure Chest' Biscuit Time Capsule,,,1
+16,2,16-tom,Tom,SB,6,11,'Hagia Sophia' Slice & Bake Biscuits,'Granny's Cottage' Biscuit Time Capsule,,,1
+16,3,16-aaron,Aaron,SAFE,3,10,'Not For Everyone' Monkey Bread,'Flowers in Paradise' Sweet Bread,,,1
+16,3,16-iain,Iain,SAFE,6,10,'Irish Cheese Board' Monkey Bread,'It's A Samhain-derful Time of the Year' Sweet Bread,,,1
+16,3,16-jasmine,Jasmine,SB,1,10,'Mediterranean Mezze' Monkey Bread,'Midsummer Flower Crown' Sweet Bread,,,1
+16,3,16-jessika,Jessika,SAFE,7,10,'Picnic Season' Monkey Bread,"'Rain, Dance, Celebration' Sweet Bread",,,1
+16,3,16-lesley,Lesley,SAFE,9,10,'Family Favourite' Monkey Bread,'Korovai' Sweet Bread,,,1
+16,3,16-nadia,Nadia,HIGH,2,10,Italian Monkey Bread,'Gâteaux de Mariage de Rêve' Sweet Bread,,,1
+16,3,16-nataliia,Nataliia,LOW,8,10,'Family Table' Monkey Bread,'Three Generations Korovai' Sweet Bread,,,1
+16,3,16-pui,Pui,OUT,10,10,'Festival Basin' Monkey Bread,'Coconut Cocktail Wedding' Sweet Bread,,,1
+16,3,16-toby,Toby,SAFE,4,10,'Tre Scimmie (Three Monkeys)' Monkey Bread,'The Bread That Stolle Christmas' Sweet Bread,,,1
+16,3,16-tom,Tom,HIGH,5,10,'French Dègustation' Monkey Bread,'Cinnamon Tower' Sweet Bread,,,1
+16,4,16-aaron,Aaron,SAFE,2,9,'Lat Snacks' Flapjacks,'Four Hour Relay: Bake Edition' Summer Fête Stall,,,1
+16,4,16-iain,Iain,SAFE,3,9,'Banana Jacks' Flapjacks,'The Auld' Summer Fête Stall,,,1
+16,4,16-jasmine,Jasmine,SB,1,9,"Raspberry, Chocolate and Hazelnut Flapjacks",'My Favourite Games' Summer Fête Stall,,,1
+16,4,16-jessika,Jessika,OUT,7,9,'Red Wine Rendezvous' Flapjacks,'Prehistoric Pantry' Summer Fête Stall,,,1
+16,4,16-lesley,Lesley,SAFE,5,9,'Dan's Cherry Bakewell' Flapjacks,'Happy Memories of the 70's' Summer Fête Stall,,,1
+16,4,16-nadia,Nadia,SAFE,9,9,Cherry and Coconut Flapjacks,'Traditional Bake Sale' Summer Fête Stall,,,1
+16,4,16-nataliia,Nataliia,SAFE,8,9,'First Day' Flapjacks,'Rucksack Memories' Summer Fête Stall,,,1
+16,4,16-toby,Toby,HIGH,4,9,'Carrot Patch' Flapjacks,'Schooldays' Summer Fête Stall,,,1
+16,4,16-tom,Tom,HIGH,6,9,Apple Crumble Flapjacks,'Cocknowle' Summer Fête Stall,,,1
+16,5,16-aaron,Aaron,SB,3,8,'Caramel Tiramoussiato' Mousse Cups,'Pianola Grande' Chocolate Fondue,,,1
+16,5,16-iain,Iain,SAFE,7,8,'Kriek Craic' Mousse Cups,'Glenariff Park' Chocolate Fondue,,,1
+16,5,16-jasmine,Jasmine,HIGH,2,8,Chocolate Praline Mousse Cups,'Chocolate Tree' Chocolate Fondue,,,1
+16,5,16-lesley,Lesley,SAFE,1,8,'Tiramisu' Mousse Cups,'Death by Chocolate' Chocolate Fondue,,,1
+16,5,16-nadia,Nadia,OUT,8,8,'Summer Strawberry' Delight Mousse Cups,'Ladies Day' Chocolate Fondue,,,1
+16,5,16-nataliia,Nataliia,SAFE,6,8,'Granny's Garden' Mousse Cups,'Last Day of Pompeii' Chocolate Fondue,,,1
+16,5,16-toby,Toby,LOW,5,8,Chocolate Orange Mousse Cups,'Campsite Delight' Chocolate Fondue,,,1
+16,5,16-tom,Tom,HIGH,4,8,'Tiramousoooo' Chocolate Mousse Cups,'Ocean Scene' Chocolate Fondue,,,1
+16,6,16-aaron,Aaron,LOW,7,7,'Jamaican Beef Patty' Savoury Plait,'No One Gnomes' Sculpted Tart,,,1
+16,6,16-iain,Iain,SAFE,2,7,'Irish Stew-sage Roll' Savoury Plait,'Giant's Causeway' Sculpted Tart,,,1
+16,6,16-jasmine,Jasmine,SB,1,7,'Aunt Pom's Sausage Roll' Savoury Plait,'The Orchard' Sculpted Tart,,,1
+16,6,16-lesley,Lesley,HIGH,3,7,'Dad's Favourite' Savoury Plait,'Mabel's Bumblebee' Sculpted Tart,,,1
+16,6,16-nataliia,Nataliia,OUT,5,7,'Kyiv in a Crust' Savoury Plait,Swan Sculpted Tart,,,1
+16,6,16-toby,Toby,SAFE,4,7,'Sivell Place' Savoury Plait,'Rollercoast-tart' Sculpted Tart,,,1
+16,6,16-tom,Tom,SAFE,6,7,'Hong Kong Sausage Roll' Savoury Plait,'Risalamande' Sculpted Tart,,,1
+16,7,16-aaron,Aaron,SAFE,2,6,'Almost Mont Blanc' Meringue Pies,'Kitsune Sundae' Vacherin Glacé,,,1
+16,7,16-iain,Iain,SAFE,1,6,'Lucky Rhubarb' Meringue Pies,'Bingate Redemption' Vacherin Glacé,,,1
+16,7,16-jasmine,Jasmine,HIGH,4,6,Raspberry & Passion Fruit Meringue Pies,'Scallop Shell' Vacherin Glacé,,,1
+16,7,16-lesley,Lesley,OUT,6,6,Lemon & Raspberry Meringue Pies,'Wedding Cake' Vacherin Glacé,,,1
+16,7,16-toby,Toby,SB,3,6,'Apple Lattice' Meringue Pies,'Mango Tree' Vacherin Glacé,,,1
+16,7,16-tom,Tom,SAFE,5,6,Rhubarb & Strawberry Meringue Pies,'Family Forage' Vacherin Glacé,,,1
+16,8,16-aaron,Aaron,HIGH,5,5,'Basque in Sake' Cheesecake,'Trifle Haters' Trifle,,,1
+16,8,16-iain,Iain,OUT,2,5,'Christmas Box' Basque Cheesecake,'Triflemina' Trifle,,,1
+16,8,16-jasmine,Jasmine,SB,4,5,Mango and Passion Fruit Basque Cheesecake,Strawberry and Lemon Trifle,,,1
+16,8,16-toby,Toby,SAFE,3,5,White Chocolate and Passion Fruit Basque Cheesecake,'Nanny Mo's' Sherry Trifle,,,1
+16,8,16-tom,Tom,LOW,1,5,Black Sesame & Lemon Curd Basque Cheesecake,'Greek' Trifle,,,1
+16,9,16-aaron,Aaron,LOW,3,4,'Puddings Reimagined' Cream Horns,'Sloth' Macaron Centerpiece,,,1
+16,9,16-jasmine,Jasmine,SB,1,4,Mocha & Raspberry Pistachio Cream Horns,'Christmas Tree' Macaron Centerpiece,,,1
+16,9,16-toby,Toby,OUT,4,4,"Chocolate, Coffee & Lemon Meringue Pie Cream Horns",'Crate of Lemons' Macaron Centerpiece,,,1
+16,9,16-tom,Tom,LOW,2,4,Chocolate Orange & Lemon Raspberry Cream Horns,'The Beehive' Macaron Centerpiece,,,1
+16,10,16-aaron,Aaron,RUNNER_UP,2,3,Pear & Rhubarb Iced Finger Buns,'Final Tea Party' Table Cake,,,1
+16,10,16-jasmine,Jasmine,WINNER,3,3,Apricot & Strawberry Iced Finger Buns,'Summer Celebration' Table Cake,,,1
+16,10,16-tom,Tom,RUNNER_UP,1,3,Piña Colada & Hot Dog Iced Finger Buns,'All Roads Lead To The Tent' Table Cake,,,1
+17,1,17-clara,Clara,SAFE,,0,,,,,1
+17,1,17-connie,Connie,SAFE,,0,,,,,1
+17,1,17-danni,Danni,SAFE,,0,,,,,1
+17,1,17-gabe,Gabe,SAFE,,0,,,,,1
+17,1,17-gary,Gary,SAFE,,0,,,,,1
+17,1,17-mo,Mo,SAFE,,0,,,,,1
+17,1,17-molly,Molly,SAFE,,0,,,,,1
+17,1,17-moyin,Moyin,SAFE,,0,,,,,1
+17,1,17-nikki,Nikki,SAFE,,0,,,,,1
+17,1,17-shannon,Shannon,SAFE,,0,,,,,1
+17,1,17-tom,Tom,SAFE,,0,,,,,1
+17,1,17-yannis,Yannis,SAFE,,0,,,,,1

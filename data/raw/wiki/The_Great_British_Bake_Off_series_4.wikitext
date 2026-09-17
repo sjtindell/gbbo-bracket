@@ -1,0 +1,718 @@
+{{short description|Fourth series of The Great British Bake Off}}
+{{about|the fourth series, which aired as the second season of the PBS broadcast|the second series|The Great British Bake Off series 2}}
+{{Use dmy dates|date=August 2019}}
+{{Use British English|date=August 2019}}
+{{Infobox television season
+| image         =
+| caption       = British digital release{{ffdc|1=The Great British Bake Off (series 4) digital release.jpg|log=2025 July 17}}
+| series_number = 4
+| module1       = {{Infobox reality competition season
+ | presenter       = [[Mel Giedroyc]]<br>[[Sue Perkins]]
+ | judges          = [[Mary Berry]]<br>[[Paul Hollywood]]
+ | num_contestants = 13
+ | winner          = [[Frances Quinn]]
+ | runner_up       = Kimberley Wilson<br>[[Ruby Tandoh]]
+ | location        = [[Harptree Court]] (East Harptree, Somerset)
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 30
+}}
+| num_episodes  = 10
+| network       = [[BBC Two]]
+| first_aired   = {{start date|2013|8|20|df=y}}
+| last_aired    = {{end date|2013|10|22|df=y}}
+}}
+
+The '''fourth series''' of ''[[The Great British Bake Off]]'' began airing on 20 August 2013.<ref name="digital">{{cite news |url=http://www.digitalspy.co.uk/tv/s215/great-british-bake-off/news/a505011/great-british-bake-off-returns-first-look-at-series-four-watch.html |title= 'Great British Bake Off' returns: First look at series four – Watch |work=Digital Spy |date=8 August 2013  |author= Alex Fletcher }}</ref> [[Mel Giedroyc]] and [[Sue Perkins]] again presented the show and [[Mary Berry (food writer)|Mary Berry]] and [[Paul Hollywood]] returned as judges.<ref name="guardian">{{cite news |url=https://www.theguardian.com/tv-and-radio/2013/jul/20/bake-off-behind-the-scenes |title=Behind the scenes at The Great British Bake Off |author=Louise Carpenter |work=The Observer |date=20 July 2013 }}</ref> As with [[The Great British Bake Off (Series 3)|series three]], the competition was held at [[Harptree Court]] in [[East Harptree]], [[Somerset]].<ref name="somerset">{{cite web |url=http://www.thisissomerset.co.uk/Great-British-Bake-returns-screen-East-Harptree/story-19639200-detail/story.html |title=Great British Bake Off returns to the screen – and to East Harptree |author=Ben O'Brien |work=The Somerset Standard and Guardian |date=9 August 2013 }}</ref>
+
+13,000 amateur bakers applied to appear on the programme, and 100 were selected for screen test, with the best 60 advancing to a three-day audition.<ref name="guardian"/> From these, 13 contestants were chosen this year so the judges could eliminate two people whenever they wanted.<ref>{{cite web |url=http://www.express.co.uk/news/showbiz/420639/FIRST-LOOK-Great-British-Bake-off-is-back |title=FIRST LOOK: Great British Bake off is back! |author=Kelby McNally |date= 8 August 2013 |work=The Daily Express }}</ref>
+
+The winner of the ''Great British Bake Off'' 2013 was [[Frances Quinn]].<ref>{{cite news |url=https://www.theguardian.com/tv-and-radio/2013/oct/22/frances-quinn-wins-great-british-bake-off |title=Frances Quinn wins The Great British Bake Off |first=John|last= Plunkett|date= 22 October 2013 |work=The Guardian }}</ref>
+
+The fourth series was broadcast as the second season on [[PBS]] in the United States.
+
+== Bakers ==
+
+{{table alignment}}
+{| class="wikitable sortable col2center"
+|-
+! scope="col"|Baker
+! scope="col"|Age
+! scope="col" class="unsortable"|Occupation
+! scope="col" class="unsortable"|Hometown
+! scope="col" class="unsortable"|Links
+|-
+! scope="row"| Ali Imdad
+| 25 || Charity worker || [[Saltley]], [[Birmingham]] ||
+|-
+! scope="row"| [[Beca Lyne-Pirkis]]{{efn|Originally from [[Cardiff]], [[Wales]].}}
+| 31 || Military Wives' Choir Singer || [[Aldershot]], [[Hampshire]] ||<ref>{{cite web |url= http://becamurphlp.wordpress.com |title=Diet Starts Tomorrow… |author=Beca Lyne Pirkis }}</ref>
+|-
+! scope="row"| Christine Wallace
+| 66 || Director of an engraving company || [[Didcot]], [[Oxfordshire]] ||<ref>{{cite web |url=http://www.christinebakes.co.uk|title=Christine Bakes }}</ref>
+|-
+! scope="row"| Deborah Manger
+| 51 || Dentist || [[Peterborough]] ||<ref>{{cite web |url=http://deborahmanger.wordpress.com |title=Deborah Manger }}</ref>
+|-
+! scope="row"| [[Frances Quinn]]
+| 31 || Children's Clothes Designer || [[Market Harborough]], [[Leicestershire]] ||<ref>{{citation |url=http://francesquinn.co.uk |title=Quinntessential |author=Francis Quinn }}</ref>
+|-
+! scope="row"| Glenn Cosby
+| 37 || English Teacher || [[Teignmouth]], [[Devon]] ||<ref>{{cite web |url=http://glenncosby.co.uk/ |title=Glenn Cosby }}</ref>
+|-
+! scope="row"| Howard Middleton
+| 51 || Council Worker || [[Sheffield]] ||<ref>{{cite web |url=http://howardmiddleton.com/ |title=HoMi Baking |author=Howard Middleton }}</ref>
+|-
+! scope="row"| Kimberley Wilson
+| 30 || Psychologist || [[London]] ||<ref>{{Cite web|url=http://www.butimhungrynow.com/|title=butimhungrynow|website=butimhungrynow|access-date=2017-09-15}}</ref>
+|-
+! scope="row"| Lucy Bellamy
+| 38 || Horticulturist || [[Grimsby]], [[Lincolnshire]] ||<ref>{{cite web |url=http://www.lucy-bee.co.uk/ |title=Lucy B – Female Gardener |author=Lucy Bellamy }}</ref>
+|-
+! scope="row"| Mark Onley
+| 37 || Carpenter and Kitchen Fitter || [[Milton Keynes]] ||
+|-
+! scope="row"| Robert Smart
+| 54 || Space Satellite Designer  || [[Melbourn]], [[Cambridgeshire]] ||<ref>{{cite web |url=http://robsmartbakes.co.uk |title=Rob Smart Bakes |author=Rob Smart}}</ref>
+|-
+! scope="row"| [[Ruby Tandoh]]
+| 20 || History of Art and Philosophy Student || [[Southend]], [[Essex]] ||<ref>{{cite web |url=http://rubyandthekitchen.co.uk/ |title=Ruby and the Kitchen |author=Ruby Tandoh }}</ref>
+|-
+! scope="row"| Toby Waterworth
+| 30 || Web Programmer || [[Reading, Berkshire]] ||<ref>{{citation |url=https://www.facebook.com/tobybakedown |title=Bakedown |author=Toby Waterworth }}</ref>
+|}
+{{noteslist}}
+
+== Results summary ==
+
+{| class="wikitable" style="text-align:center"
+|+Elimination chart
+! scope="col"|Baker
+! scope="col"|1
+! scope="col"|2
+! scope="col"|3
+! scope="col"|4
+! scope="col"|5
+! scope="col"|6
+! scope="col"|7
+! scope="col"|8
+! scope="col"|9
+! scope="col"|10
+|-
+! scope="row" align="left"|Frances
+| style="background:cornflowerblue;"| {{color|white|HIGH}} || SAFE || style="background:cornflowerblue;"| {{color|white|HIGH}} || SAFE || SAFE || style="background:cornflowerblue;"| {{color|white|HIGH}} || style="background:LemonChiffon;"|SB || style="background:Plum;"| LOW || style="background:cornflowerblue;"| {{color|white|HIGH}} || style="background:Yellow;"|WINNER
+|-
+! scope="row" align="left"|Kimberley
+| SAFE || style="background:cornflowerblue;"| {{color|white|HIGH}} || SAFE || style="background:LemonChiffon;"|SB || style="background:Plum;"| LOW || SAFE || SAFE || style="background:cornflowerblue;"| {{color|white|HIGH}} ||style="background:LemonChiffon;"|SB  || rowspan="2" style="background:LimeGreen;" |{{nowrap|Runner-up}}
+|-
+! scope="row" align="left"|Ruby
+| style="background:Plum;"| LOW || style="background:LemonChiffon;"|SB || style="background:cornflowerblue;"| {{color|white|HIGH}} || style="background:cornflowerblue;"| {{color|white|HIGH}} || style="background:Plum;"| LOW || style="background:LemonChiffon;"|SB || SAFE || style="background:LemonChiffon;"|SB  || style="background:Plum;"| LOW 
+|-
+! scope="row" align="left"| Beca
+| SAFE || style="background:Plum;"| LOW || SAFE || SAFE || SAFE || SAFE || style="background:cornflowerblue;"| {{color|white|HIGH}} || style="background:Plum;"| LOW || style="background:OrangeRed;"|OUT || style="background:Silver;"| 
+|-
+! scope="row" align="left"|Christine
+| SAFE || SAFE || style="background:LemonChiffon;"|SB || SAFE || style="background:LemonChiffon;"|SB || SAFE || style="background:Plum;"| LOW || style="background:OrangeRed;"|OUT || colspan="2" style="background:Silver;"| 
+|-
+! scope="row" align="left"|Glenn
+| SAFE || SAFE || SAFE || style="background:Plum;"| LOW || style="background:cornflowerblue;"| {{color|white|HIGH}} || style="background:Plum;"| LOW || style="background:OrangeRed;"|OUT || colspan="3" style="background:Silver;"| 
+|-
+! scope="row" align="left"|Howard
+| style="background:cornflowerblue;"| {{color|white|HIGH}} || SAFE || style="background:Plum;"| LOW || SAFE || SAFE || style="background:OrangeRed;"|OUT ||  colspan="4" style="background:Silver;"|
+|-
+! scope="row" align="left"|Robert
+| style="background:LemonChiffon;"|SB || style="background:Plum;"| LOW || SAFE || style="background:Plum;"| LOW || style="background:OrangeRed;"|OUT || colspan="5" style="background:Silver;"|
+|-
+! scope="row" align="left"| Ali
+| style="background:Plum;"| LOW || SAFE || SAFE || style="background:OrangeRed;"|OUT || colspan="6" style="background:Silver;"|
+|-
+! scope="row" align="left"| Deborah
+| SAFE || SAFE || style="background:OrangeRed;"|OUT || colspan="7" style="background:Silver;"|
+|-
+! scope="row" align="left"| Mark
+| SAFE || style="background:Plum;"| LOW || style="background:OrangeRed;"|OUT || colspan="7" style="background:Silver;"|
+|-
+! scope="row" align="left"|Lucy
+| SAFE || style="background:OrangeRed;"|OUT || colspan="8" style="background:Silver;"|
+|-
+! scope="row" align="left"|Toby
+| style="background:OrangeRed;"|OUT || colspan="9" style="background:Silver;"|
+|}
+
+'''Colour key:'''
+
+{{legend|<!--default colour-->|outline=darkgray|Baker got through to the next round}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated}}
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|LemonChiffon|outline=darkgray|Baker was the Star Baker}}
+{{legend|cornflowerblue|outline=darkgray|Baker was one of the judges' favourite bakers that week, but did not win star baker.}}
+{{legend|LimeGreen|outline=darkgray|Baker was a series runner-up}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner}}
+
+== Episodes ==
+'''Colour key:'''
+{{legend|#FFC7C7|Baker was eliminated at conclusion of episode}}
+{{legend|#BFD|Baker was named "Star Baker" at conclusion of episode}}
+{{legend|#DFF|Baker was named runner-up for the series}}
+{{legend|gold|Baker won series}}
+=== Episode 1: Cakes ===
+The bakers were given 2 hours to make a [[Victoria Sandwich|sandwich cake]] with filling of their choice for the signature challenge. For their first technical challenge, the bakers were required to bake an [[angel food cake]] using Mary Berry's recipe in {{frac|2|1|2}} hours. For the showstopper, the challenge was to make a [[chocolate cake]] using at least two types of chocolate to decorate the cake. They were given 4 hours for this bake.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[Sandwich cake|Sandwich Cake]])</small>
+! scope="col"|Technical<br><small>([[Angel food cake|Angel Food Cake]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Chocolate Cake)</small>
+! scope="col"|Result
+|-
+! scope="row"| Ali
+| Rose and [[Pistachio]] Cake || 11th || Chocolate, Raspberry and Passion Fruit Engagement Cake || {{Safe}}
+|-
+! scope="row"| Beca
+| Grapefruit Sandwich Cake || 8th||Chocolate Cherry Indulgence || {{Safe}}
+|-
+! scope="row"| Christine
+| Strawberry, Vanilla and Rosewater Summer Basket || 3rd || Chocolate and Orange 'Fripperous' Hat Cake || {{Safe}}
+|-
+! scope="row"| Deborah
+| Pineapple Cake || 9th || 'Coffee Time' || {{Safe}}
+|-
+! scope="row"| Frances
+| Giant Jam Sandwich  || 7th || Secret Squirrel Cake || {{Safe}}
+|-
+! scope="row"| Glenn
+| Strawberries and Cream Cake || 4th || Almond and [[Espresso]] Chocolate Cake || {{Safe}}
+|-
+! scope="row"| Howard
+| [[Passion Fruit]] and Coconut Cake || 6th || [[Black Forest cake|Black Forest]] Revisited || {{Safe}}
+|-
+! scope="row"| Kimberley
+| [[Blood orange|Blood Orange]] Cake || 10th ||Chocolate, Raspberry & Basil Layer Cake || {{Safe}}
+|-
+! scope="row"| Lucy
+| [[Rhubarb|Timperley Early]] Cake || 2nd||[[Thyme]] 'Wildwood' Cake || {{Safe}}
+|-
+! scope="row"| Mark
+|  Lemon and Poppy Seed Cake || 5th||Chocolate Monster || {{Safe}}
+|-
+! scope="row"| Robert
+| Pecan and Apple Cake || 1st || Raspberry Chocolate Cake || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Ruby
+| Rhubarb and Custard Sandwich Cake || 12th || Chocolate and Ginger Night Sky Cake || {{Safe}}
+|-
+! scope="row"| Toby
+| Spiced and Iced Carrot Cake || 13th || Two Tiered Chocolate Cake || {{Eliminated}}
+|}
+
+=== Episode 2: Bread ===
+The bakers were asked to make, in 2 hours, 36 [[breadsticks]], all made using yeast, of at least {{convert|25|cm|in|abbr=on}} in length, and the breadsticks should be crisp and produce a good snap. For the technical challenge, the bakers have to make 8 [[English muffins]] using Paul's recipe in {{frac|2|3|4}} hours. For the final bake, an elaborately decorated loaf was set as the showstopper challenge to be completed in 4 hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(36 [[Bread sticks|Bread Sticks]])</small>
+! scope="col"|Technical<br><small>(8 [[English Muffins]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Decorative Loaf)</small>
+! scope="col"|Result
+|-
+! scope="row"| Ali
+| Italian [[Grissini]] || 9th || Sweet and Savoury [[Yin and yang|Yin Yang]] Bread || {{Safe}}
+|-
+! scope="row"| Beca
+| Fennel and Chilli Breadsticks || 11th || Five Strand Christmas Wreath || {{Safe}}
+|-
+! scope="row"| Christine
+| Mediterranean Breadsticks with [[Oregano]] || 4th || Double Plaited Loaf || {{Safe}}
+|-
+! scope="row"| Deborah
+| Fennel and Chili Breadsticks || 8th || Walnut Fleur Loaf || {{Safe}}
+|-
+! scope="row"| Frances
+| Giant Matchsticks || 2nd || Sailor's Knot || {{Safe}}
+|-
+! scope="row"| Glenn
+| Rosemary and Parmesan Grissini || 7th || Harvest Crown || {{Safe}}
+|-
+! scope="row"| Howard
+| Moroccan Breadsticks || 10th || Picasso Sun Bread || {{Safe}}
+|-
+! scope="row"| Kimberley
+| [[Nigella seed|Nigella Seed]] and Parmesan Breadsticks || 1st || Peace Bread || {{Safe}}
+|-
+! scope="row"| Lucy
+| Grissini with Salt || 12th || Roasted Tomato Bread || {{Eliminated}}
+|-
+! scope="row"| Mark
+| Rosemary & Raisin Breadsticks || 6th || Sage & Garlic Plait || {{Safe}}
+|- 
+! scope="row"| Robert
+| Twisty Rye Bread Sticks || 5th || Tribute Loaf || {{Safe}}
+|-
+! scope="row"| Ruby
+| Mexican Breadsticks || 3rd || White Chocolate and Orange Peacock Bread || {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 3: Desserts ===
+For their signature challenge, the bakers were asked to make a trifle of their own choice, using [[Ladyfinger (biscuit)|ladyfingers]], sponge or biscuit for the base and either jam or custard for the middle layer, to be done in 3 hours. For their technical challenge, the bakers were required to prepare, in {{frac|1|1|2}} hours, 6 [[Floating island (dessert)|floating islands]] using Mary Berry's recipe. For the show-stopper, the bakers were set the task of making 24 [[petit fours]], 12 biscuit based, and 12 sponge based, to be finished in 3 hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[Trifle]])</small>
+! scope="col"|Technical<br><small>(6 [[Floating island (dessert)|Floating Islands]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(24 [[Petit fours|Petit Fours]]: 12 Biscuit-based, 12 Sponge-based)</small>
+! scope="col"|Result
+|-
+! scope="row"| Ali
+| Coconut, Raspberry and Lemon Meringue Trifle || 5th || Vanilla Latte Mini Cakes<br>Lime & Mint Shortbread Pops || {{Safe}}
+|-
+! scope="row"| Beca
+| Orange and Ginger Trifle || 10th || [[Limoncello]] and Blueberry Bursts<br>[[Caramel shortbread|Millionaire Shortbread]] || {{Safe}}
+|-
+! scope="row"| Christine
+| Caribbean [[Pina Colada]] Trifle || 4th || Ninety Niners<br>[[Sachertorte]] Parcels || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Deborah
+| Tropical Trifle{{ref|1|A}} || 9th || [[Canelé]] Cherry and Chocolate Cakes<br>Rose Cookies || {{Eliminated}}
+|-
+! scope="row"| Frances
+| Apple and Blackberry Crumble Trifle || 8th || 'Ballet Bites' Ginger Nutcrackers<br>[[Sugar Plum Fairy]] Cakes || {{Safe}}
+|-
+! scope="row"| Glenn
+| Raspberry and Almond Trifle || 1st || Billionaire [[Coca (pastry)#Similar recipes along the Mediterranean|Bouchées]]<br>Orange [[Financier (cake)|Financiers]] || {{Safe}}
+|-
+! scope="row"| Howard
+| Caramel and Apple Trifle{{ref|1|A}} || 7th || Black Coffee and Cardamom Cakes<br>White [[Stilton cheese|Stilton]] and Pear Biscuits || {{Safe}}
+|-
+! scope="row"| Kimberley
+| Peach, Almond and Ginger Trifle || 6th || Chocolate Pistachio Financiers<br>Lemon [[Bergamot orange|Bergamot]] Biscuits || {{Safe}}
+|-
+! scope="row"| Mark
+| Ginger, Mango and Passion Fruit Trifle || 11th || Rose and Pistachio Macarons<br>Chocolate and Raspberry Bites || {{Eliminated}}
+|- 
+! scope="row"| Robert
+| Rhubarb and Orange Trifle || 2nd || Almond [[Friand]]s<br>[[Turrón|Turón]] Macarons || {{Safe}}
+|-
+! scope="row"| Ruby
+| Desert Island Trifle || 3rd || Lemon Shortbread and White Chocolate Seashells<br>Blackberry and Chocolate Layer Cakes || {{Safe}}
+|}
+{{note|1|A}} In this challenge, Deborah accidentally used Howard's custard. As a result, Howard used Deborah's custard in his trifle. This switch was revealed to Paul and Mary, who appropriately judged their custards separately in their respective trifles. The incident was dubbed Custardgate by the press.
+
+=== Episode 4: Pies and Tarts ===
+For the signature challenge the bakers are asked to bake a double-crusted [[fruit pie]] with a filling of their choice to be done in 2 hours. For their technical challenge, the bakers were required to bake a tart that has almost a 700-year history; the egg custard tart, that needs to be done in 2 hours. For the showstopper, the challenge was to make a filo pie centerpiece using the filo pastry that they had made from scratch to be done in 4 hours.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(Double-Crusted Fruit Pie)</small>
+! scope="col"|Technical<br><small>(12 [[Custard tart|Egg Custard Tarts]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Filo]] Pie)</small>
+! scope="col"|Result
+|-
+! scope="row"| Ali
+| Apple and Ginger Pie with a Pecan and Walnut Shortcrust Pastry || 8th || Orange, Cardamom and Date M'Hanncha || {{Eliminated}}
+|-
+! scope="row"| Beca
+| Mamgu's Cherry-Apple Tart || 2nd || Moroccan Vegetable Filo Feast || {{Safe}}
+|-
+! scope="row"| Christine
+| Granny Rogers' Apple, Plum & Cinnamon Country Pie || 7th || Roasted Vegetable Filo Pie with [[Feta|Feta Cheese]] || {{Safe}}
+|-
+! scope="row"| Frances
+| Peach Pie In the Sky || 1st || Cherry Tree [[Baklava]] Filo Pie || {{Safe}}
+|-
+! scope="row"| Glenn
+| Apple & Maple Syrup Pie || 9th || [[Spanakopita]] || {{Safe}}
+|-
+! scope="row"| Howard
+| Apple Pie with Sage Pastry || 5th || Fresh Fig and [[Feta]] Filo Flan || {{Safe}}
+|-
+! scope="row"| Kimberley
+| Pecan and Rosemary Caramel Apple Pie || 4th || Chicken, Bacon and [[Butternut squash|Butternut Squash]] Pie || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Robert
+| Apple and Pear Pie with Thyme || 3rd || [[Spanakopita]] with [[Calocybe gambosa|St George's Mushrooms]] || {{Safe}}
+|-
+! scope="row"| Ruby
+| Apple and Marzipan Pie || 6th || Rose, Almond and Raspberry Filo Pie || {{Safe}}
+|}
+
+=== Episode 5: Biscuits and Traybakes ===
+For the signature challenge, the bakers were asked to make their favourite traybake in 2 hours and cut into identical pieces. Everything made as part of the traybake, however, needed to be made from scratch. In the technical challenge, the bakers needed to make 18 [[tuile]]s using Mary Berry's recipe in {{frac|1|1|2}} hours. Half of the tuiles needed to be shaped in the traditional manner and piped in a concentric circle, and the other half rolled up and dipped in chocolate. In the last challenge, the baker had to make a biscuit tower at least {{convert|30|cm|in|abbr=on}} high, to be finished in 4 hours.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[Cookie|Traybake]])</small>
+! scope="col"|Technical<br><small>(18 [[Tuile]]s: 9 Original, 9 Dipped in Chocolate)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Biscuit Tower)</small>
+! scope="col"|Result
+|-
+! scope="row"| Beca
+| Chocolate, Cherry and Hazelnut Brownies || 5th || Tiered Macaron and Sugar Dough Biscuit Centrepiece || {{Safe}}
+|-
+! scope="row"| Christine
+| Mixed Berry and Almond Crumble Traybake || 1st || Shortbread Bavarian Clock Tower || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Frances
+| Millionaire [[Banoffee pie|Banoffee]] Bonus || 3rd || Biscuit Buttons and Beads{{efn|During the Showstopper round, Frances's tower tipped over while Mel was helping her measure it.}} || {{Safe}}
+|-
+! scope="row"| Glenn
+| Apricot and Pistachio [[Tiffin (confectionery)|Tiffin]] || 2nd || Shortbread and Macaron [[Helter skelter (ride)|Helter-Skelter]] || {{Safe}}
+|-
+! scope="row"| Howard
+| Breakfast Traybake  || 8th || Japanese [[Pagoda]] Tea Tower || {{Safe}}
+|- 
+! scope="row"| Kimberley
+| Cherry and Almond Bakewell [[Florentine biscuit|Florentine]] Slice || 7th || Black and White Viennese Biscuit Stack || {{Safe}}
+|-
+! scope="row"| Robert
+| Blueberry & Orange Traybake || 4th || Orange and Lemon Biscuit [[Dalek]] || {{Eliminated}}
+|-
+! scope="row"| Ruby
+| Blackberry and Lemon [[Bakewell tart|Bakewell]] Slice || 6th || 'Dropped Ice Cream' Biscuit Centrepiece || {{Safe}}
+|}
+{{notelist}}
+
+=== Episode 6: Sweet Dough ===
+In the first challenge, the bakers were required to make a sweet [[tea loaf]] using yeast, either in a tin or free form. They were given 3 hours for the task. For the technical challenge, the bakers baked an apricot couronne using Paul Hollywood's recipe in {{frac|2|3|4}} hours. For the showstopper, the bakers needed to make 2 different varieties of European sweet buns, 12 of each. The bakers were given 30 minutes to start in the first day, so a dough may be proofed overnight to be finished the following day in 4 hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[Tea loaf|Tea Loaf]])</small>
+! scope="col"|Technical<br><small>(Apricot Couronne)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(24 Sweet European Buns)</small>
+! scope="col"|Result
+|-
+! scope="row"| Beca
+| [[Bara brith|Bara Brith]]  || 6th || Chocolate and Rum-Soaked Prune [[Brioche]]s<br>Cardamom Spiced Lemon Iced Buns || {{Safe}}
+|- 
+! scope="row"| Christine
+| [[Oxford]] Nutty Fruit Loaf  || 4th || [[Schnecken|Schnecken Buns]]<br>Vanilla Custard [[Skolebrød]] || {{Safe}}
+|-
+! scope="row"| Frances
+| [[Chai tea|Chai Tea]] Loaf  || 2nd || [[Hot cross bun|Hot Cross]] Brioches<br>Rhubarb and Custard [[Kolach (cake)|Kolach]]es || {{Safe}}
+|-
+! scope="row"| Glenn
+| Devonshire [[Panettone]]  || 5th || Almond and Apricot Brioches<br/>Sticky Caramel [[Cinnamon roll|Kanelbullen]] || {{Safe}}
+|-
+! scope="row"| Howard
+| Date & [[Hemp]] Yorkshire Loaf || 7th || Peachy Buns<br>German Baumschnecken || {{Eliminated}}
+|- 
+! scope="row"| Kimberley
+| Chai Spiced Ginger and Date Tea Loaf || 3rd || Double Chocolate and Hazelnut Brioches<br>Danish Kanelsnurrer || {{Safe}}
+|-
+! scope="row"| Ruby
+| [[Citrus taxonomy|Citrus Tea]] Loaf || 1st || Twisted Swedish [[Kanelbullar]]<br>Saffron [[St. Lucia buns|St. Lucia Buns]] || {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 7: Pastry ===
+The bakers are challenged to bring the old fashioned [[suet pudding]] back up to date in 3 hours for the signature challenge. In the technical bake, the bakers are challenged to create 8 perfect [[religieuse]]: [[Choux pastry|choux]] buns topped with ganache and filled with crème patissiere then carefully balanced one on top of the other to be done in 2 hours. In the showstopper challenge, the bakers have 4 hours to make 3 different types of [[Puff pastry|puff pastries]]: one filled, one iced and one of their choice.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[Suet pudding|Suet Pudding]])</small>
+! scope="col"|Technical<br><small>(8 [[Religieuse]]s)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(36 sweet [[Puff pastry|puff pastries]]: 12 Filled, 12 Iced, 12 of Their Own Choice)</small>
+! scope="col"|Result
+|-
+! scope="row"| Beca
+| [[Spring lamb|Spring Lamb]] and Vegetable Suet Pudding with [[Redcurrant]] Gravy || 1st || Nectarine and [[Frangipane]] Squares<br>Chocolate and Hazelnut [[Vol-au-vent]]s<br>Strawberries and Cream [[Mille-feuille]] || {{Safe}}
+|- 
+! scope="row"| Christine
+| [[Spotted dick|Spotted Dick]] 'With a Kick' and Vanilla Custard Ice Cream || 6th || [[Eccles cake|Eccles Cakes]]<br>Fresh Fruit Baskets<br>Lemon Cream [[Eton mess|Eton Mess]] Mille-feuille || {{Safe}}
+|-
+! scope="row"| Frances
+| Figgy [[Jam roly-poly|Roll-y Poly]] Pudding with Caramelised Walnut and Honey Ice-Cream || 5th || French [[Framboise]] Cream Horns<br>Sheet Music Mille-feuille<br>Bass Clef [[Palmier]]s || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Glenn
+| Prune and [[Armagnac (brandy)|Armagnac]] Pudding with Boozy Butterscotch Sauce || 3rd || Caramelised Apple and Marzipan Tartlets<br>Chocolate [[Palmier|Elephant Ears]]<br>Passion Fruit Mille-feuille || {{Eliminated}}
+|-
+! scope="row"| Kimberley
+| [[Barberry]] and Apple [[Spotted Dick]] with Maple Syrup and White Chocolate Custard || 4th || Pear, [[Malt]] and Butterscotch Mille-feuille<br>Blackberry and Lemon [[Verbena]] [[Crème brûlée|Crème Brûlee]] Custard Tarts<br>Fig, Orange and Thyme [[Galette]] || {{Safe}}
+|- 
+! scope="row"| Ruby
+| Plum [[Jam Roly-Poly|Jam Roly Poly]] with Ginger Ice Cream || align="center" | 2nd || Raspberry and Passion Fruit Mille-feuille<br>Caramelised Apple [[Lattice (pastry)|Lattice]]<br>Portuguese Custard Tarts || {{Safe}}
+|}
+
+=== Episode 8: Alternative Ingredients (Quarterfinals) ===
+This week, in the quarter final, the theme for this week were bakes that were free (e.g. [[Gluten-free diet|gluten free]], dairy free). In the signature challenge, the bakers are challenged to bake a loaf that does not use traditional wheat flours, instead they must use flours such as [[spelt]], [[rye]], [[Potato starch|potato]] or [[tapioca]], all in 3 hours. The bakers are challenged in the technical bake to make a [[dacquoise]] which consists of three layers; coiled meringue, coffee custard and a hazelnut praline top, to be done in {{frac|2|3|4}} hours. For the showstopper, the bakers are pushed out of their comfort zones and asked to create novelty vegetable cakes which must be dairy free, to be completed in 4 hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(Wheat-Free Loaf)</small>
+! scope="col"|Technical<br><small>(Hazelnut [[Dacquoise]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Dairy-Free Vegetable Cake)</small>
+! scope="col"|Result
+|-
+! scope="row"| Beca
+| Potato, Spelt and Rosemary [[Focaccia]] || 4th || Spiced Butternut Squash and Pecan 'Cheese' Cake || {{Safe}}
+|-
+! scope="row"| Christine
+| Multi-Seeded Loaf with Pumpkin, Sesame and Sunflower Seeds || 5th || Sweet Potato Guitar with Passion Fruit Icing and Marshmallow Fondant || {{Eliminated}}
+|-
+! scope="row"| Frances
+| 'Chelsea Flour Show' Bun Bouquet|| 3rd || Hidden Carrot Cake || {{Safe}}
+|-
+! scope="row"| Kimberley
+| Wild Garlic [[Pesto]] and [[Prosciutto|Parma Ham]] Spelt Loaf || 2nd || Butternut Squash and Spice Cake Toadstool House || {{Safe}}
+|-
+! scope="row"| Ruby
+| Mango and [[Nigella seed|Nigella Seed]] [[Spelt]] Cob || 1st || Carrot Cake and Pistachio Garden Plot || {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 9: French week (Semi-final) ===
+This week's theme was all things [[French cuisine|French]].<ref>{{cite web |url= https://www.bbc.co.uk/programmes/b03dyxp9 |title=French Week |work=BBC}}</ref> In the signature challenge, the bakers are challenged to make 3 different types of savoury canapés; [[choux pastry]], [[Shortcrust pastry|shortcrust]] or [[Puff pastry|rough puff]] pastry, and a third pastry of their choice, to be done in {{frac|2|1|2}} hours. For the technical bake, the bakers are challenged to make a [[Charlotte (cake)|Charlotte Royale]] consisting of Swiss roll surrounding a [[Bavarian cream|bavarois]] in {{frac|2|1|2}} hours. It is set with gelatin to form a firm dome when turned out. In the showstopper challenge, the bakers are challenged to bake an iconic French patisserie, the [[opera cake]], in {{frac|2|1|2}} hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(36 [[Canapé]]s- 12 Choux, 12 Shortcrust/Rough Puff, 12 Any of their Choice)</small>
+! scope="col"|Technical<br><small>([[Charlotte (dessert)|Charlotte Royale]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Opera cake|Opera Cake]])</small>
+! scope="col"|Result
+|-
+! scope="row"| Beca
+| Stilton and Walnut [[Macaron]]s<br>Beetroot and Salmon Choux Puffs<br>[[Welsh rarebit|Welsh Rarebit]] Tartlets || 3rd || [[Banoffee pie|Banoffee]] Opera Cake || {{Eliminated}}
+|-
+! scope="row"| Frances
+| [[Legume|Légume]] Canapés:<br>[[Chantenay-Villedieu|Chantenay]] Carrots<br>Choux Pastry Tomatoes<br>Cauliflower Cheese Scones || 2nd || Great British Soap Opera Cake || {{Safe}}
+|-
+! scope="row"| Kimberley
+| Pea Purée Tarts<br>Crab and Wasabi [[Profiterole]]s<br>Steamed Buns with Barbecue Chicken|| 1st || Passion Fruit and Lime Opera Cake || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Ruby
+| Beetroot Jelly on Poppy Seed Biscuits<br>Spinach, Parmesan and Egg Tartlets<br>Choux Buns with Goat's Cheese and Caramelised Onions || 4th || Chocolate, Almond [[Praline (nut confection)|Praline]] and Saffron Opera Cake || {{Safe}}
+|}
+
+=== Episode 10: Final ===
+In the signature challenge, the final three are challenged to create a picnic pie in 3 hours. The pie must be savoury, the fillings have to create a creative design and has to be strong enough to be served out of the tin. For the technical challenge, the bakers are challenged to make 12 perfectly shaped pretzels; 6 savoury with rock salt and 6 sweet, flavoured with poppy seeds and topped with sweet orange zest and glaze, all to be done in 2<sup>1</sup>⁄<sub>2</sub> hours. For the final showstopper challenge of the series, the bakers are asked to bake the ultimate showpiece – a three-tiered wedding cake in 6 hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[Picnic pie|Picnic Pie]])</small>
+! scope="col"|Technical<br><small>(12 [[Pretzel]] – 6 Savory, 6 Sweet)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Three-Tiered Wedding Cake)</small>
+! scope="col"|Result
+|-
+! scope="row"| Frances
+| Rainbow Picnic Pie || 3rd || Midsummer Night's Dream Wedding Cake || {{sort|1|}}{{Won|color=gold|Winner}}
+|-
+! scope="row"| Kimberley
+| Chicken and Pig Pie || 1st || Languages of Love Wedding Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"| Ruby
+| Picnic Basket Pie || 2nd || Raspberry, Lemon and Passion Fruit Wedding Cake || {{sort|2.5|}}{{Runner-up}}
+|}
+
+=== Masterclasses ===
+Mary and Paul take over the tent and take on the challenges that they set for the bakers, showing what they would have done had they been in the bakers shoes.
+
+==== Episode 1 ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2
+! scope="col"|Bake 3
+|-
+! scope="row"| Mary
+| Spiced Whole Orange Cake with Orange Mascarpone Icing || Angel Food Cake with Lemon Curd || rowspan="2"| Chocolate Creation Showstopper
+|-
+! scope="row"| Paul
+| Olive Breadsticks || English Muffins
+|}
+
+==== Episode 2 ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2
+! scope="col"|Bake 3
+|-
+! scope="row"| Mary
+| Tipsy Trifle || Floating Islands || Wobbly Apricot Tart
+|-
+! scope="row"| Paul
+| Egg Custard Tarts || Spanakopita || {{n/a}}
+|}
+
+==== Episode 3 ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2
+! scope="col"|Bake 3
+|-
+! scope="row"| Mary
+| Ginger and Treacle Spiced Traybake || Tuiles with Chocolate Mousse || {{n/a}}
+|-
+! scope="row"| Paul
+| Iced Tea Loaf || Apricot Couronne || Brioche Tetes
+|}
+
+==== Episode 4 ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2
+! scope="col"|Bake 3
+|-
+! scope="row"| Mary
+| Sussex Pond Pudding with Apples ||  Religieuses || Opera Cake
+|-
+! scope="row"| Paul
+| Rye Bread || Pretzels || {{n/a}}
+|}
+
+==== Christmas Masterclass ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2
+! scope="col"|Bake 3
+|-
+! scope="row"| Mary
+|[[Mincemeat]] [[Streusel]]|| [[Tunis Cake]]|| [[Gingerbread house|Gingerbread House]]
+|-
+! scope="row"| Paul
+| [[Stollen]]|| [[Black bun|Black Bun]]|| Boxing Day pie
+|}
+
+==Controversy==
+Before the series started, there was speculation Paul Hollywood would not appear in the show after his marriage broke down.<ref>{{cite news |title=Next on menu after marriage break-up: Paul Hollywood puts his name on pants |url= http://www.thetimes.co.uk/tto/life/celebrity/article3870049.ece |archive-url= https://archive.today/20200226142405/http://www.thetimes.co.uk/tto/life/celebrity/article3870049.ece |url-status= dead |archive-date= 26 February 2020 |author=Alex Ralph |date=16 September 2013 |work=[[The Times]] }}</ref><ref>{{cite news |url= http://www.nydailynews.com/entertainment/tv-movies/american-baking-hot-rumor-on-set-romance-article-1.1356708 |title=Reported affair between judges Paul Hollywood and Marcela Valladolid adds spice to baking show |author=Don Kaplan |work=New York Daily News |date=29 May 2013 }}</ref> Mary Berry, however, was claimed to have supported Hollywood over rumours of his possible sacking by BBC; and the BBC denied the rumours and said that his job was safe.<ref>{{cite news |url=https://www.telegraph.co.uk/news/celebritynews/10082294/Paul-Hollywoods-job-on-The-Great-British-Bake-Off-is-safe-BBC-says.html |title=Paul Hollywood's job on The Great British Bake Off is safe, BBC says  |author=Sam Marsden |date=27 May 2013 |work=The Daily Telegraph }}</ref>
+
+During the series, there were accusations of Paul Hollywood's favouritism towards Ruby Tandoh,<ref>{{cite web |url=http://www.whatsontv.co.uk/tv-news/news/paul-hollywood-shocks-bake-off-fans-by-setting-them-straight-on-train |title=Paul Hollywood shocks Bake Off fans by setting them straight on train |work=What's on TV |date=9 October 2013 |access-date=11 October 2013 |archive-date=2 April 2015 |archive-url=https://web.archive.org/web/20150402194441/http://www.whatsontv.co.uk/tv-news/news/paul-hollywood-shocks-bake-off-fans-by-setting-them-straight-on-train |url-status=dead }}</ref> and personal attacks on Tandoh by various people including the chef [[Raymond Blanc]].<ref>{{cite news |url=https://www.independent.co.uk/arts-entertainment/tv/news/raymond-blanc-rows-with-great-british-bake-offs-ruby-tandoh-on-twitter-8894652.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/raymond-blanc-rows-with-great-british-bake-offs-ruby-tandoh-on-twitter-8894652.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title=Raymond Blanc rows with Great British Bake Off's Ruby Tandoh on Twitter |author=Liam O'Brien |date= 21 October 2013 |work=The Independent }}</ref><ref>{{cite news |title=The Great British Bake Off: why did our show attract so much vitriol? |url= https://www.theguardian.com/commentisfree/2013/oct/22/great-british-bake-off-ruby-dandoh |author=Ruby Tandoh |work=
+The Guardian |date= 22 October 2013 }}</ref><ref>{{cite news |url=https://www.theguardian.com/commentisfree/2013/oct/21/great-british-bake-off-ruby-tandoh-hostility |title=The Great British Bake-Off: Ruby Tandoh doesn't deserve this hostility |author=Sarah Ditum |work = The Guardian |date= 21 October 2013 }}</ref> Both Paul Hollywood and Ruby Tandoh denied the accusation.<ref>{{cite news |url=https://www.independent.co.uk/arts-entertainment/tv/news/paul-hollywood-denies-favouring-great-british-bake-offs-ruby-tandoh-i-think-kimberleys-far-prettier-8881047.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/paul-hollywood-denies-favouring-great-british-bake-offs-ruby-tandoh-i-think-kimberleys-far-prettier-8881047.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title=Paul Hollywood denies favouring Great British Bake Off's Ruby Tandoh: 'I think Kimberley's far prettier' |author=Daisy Wyatt |date= 15 October 2013 |work=The Independent }}</ref><ref>{{cite news |url=https://www.mirror.co.uk/tv/tv-news/great-british-bake-off-ruby-2369469 |title=Great British Bake Off beauty Ruby Tandoh definitely does NOT fancy silver fox Paul Hollywood |work= Daily Mirror | author=Carl Greenwood  |date= 14 October 2013 }}</ref>
+
+==Post-show careers==
+[[Frances Quinn]] wrote a book, ''Quinntessential Baking'', released on 17 August 2015.<ref>{{cite news |url=http://www.dailypost.co.uk/whats-on/food-drink-news/former-great-british-bake-winner-9886613 |title=Former Great British Bake Off winner Frances Quinn shares recipes for her yummy treats from new book|date= 29 August 2015|author=Georgia Morgan }}</ref><ref>{{cite news |url=https://www.telegraph.co.uk/foodanddrink/10729680/Frances-Quinn-Bake-Off-was-an-endurance-test.html |title=Frances Quinn: 'Bake Off was an endurance test' |author= Leah Hyslop |date=1 Apr 2014 |work=Daily Telegraph }}</ref>
+
+[[Ruby Tandoh]] has written three books, ''Crumb: The Baking Book'', published on 25 September 2014, ''Flavour: Eat What You Love'' in 2016<ref name="nyt-eat-what-you-love">{{cite news|last1=Rao|first1=Tejal|title=Ruby Tandoh Just Wants You to Eat What You Love|url=https://www.nytimes.com/2017/01/03/dining/ruby-tandoh-flavour-eat-what-you-love.html|accessdate=5 January 2017|work=The New York Times|date=3 January 2017}}</ref> and ''Eat Up: Food, Appetite and Eating What You Want'' in 2018.<ref>{{cite news |url=https://www.theguardian.com/books/2018/feb/05/ruby-tandoh-fine-to-enjoy-ready-meal-eat-up-interview |title=Ruby Tandoh: 'I want to remind people that it's fine to enjoy a ready meal'|first=Killian |last=Fox|work=The Guardian |date=5 February 2020 }}</ref>  She took half a year out from the university after the show, but has returned to complete her philosophy and history of art course at [[University College London]].<ref>{{cite news |url=https://www.telegraph.co.uk/foodanddrink/foodanddrinknews/11113772/Ruby-Tandoh-on-GBBO-Twitter-trolls-and-her-new-baking-book.html |title=Ruby Tandoh on GBBO, Twitter trolls and her new baking book |author=Siân Ranscombe |date= 26 September 2014 |work=The Daily Telegraph }}</ref> She wrote a column on baking for ''[[The Guardian]]''.<ref>{{cite news |url=https://www.theguardian.com/profile/ruby-tandoh |title=Ruby Tandoh |work=The Guardian }}</ref>
+
+[[Beca Lyne-Pirkis]] presented a Welsh language cookery show ''Becws'' for [[S4C]] starting 11 September 2014.<ref>{{cite news |url=http://www.walesonline.co.uk/whats-on/food-drink-news/im-happy-being-only-welshie-7535994 |title='I'm happy about being the only Welshie on the Great British Bake Off,' says Beca Lyne-Pirkis |date=30 July 2014 |author= Kate Rees |work=Wales Online }}</ref><ref>{{cite news |url=http://www.southwales-eveningpost.co.uk/Bake-s-Beca-new-baking-Becws/story-22863172-detail/story.html |title=Bake Off's Beca is back with new baking show Becws |author=Ruth Dawson |work= South Wales Evening Post  |date=2 September 2014 }}</ref> She later participated in the 2017 rendition of ''The Great Christmas Bake Off''.
+
+Glenn Cosby left teaching and launched his own touring stage show ''Bake It Big'' in 2014.<ref>{{cite web |url=http://www.foodheavenmag.com/bake-it-big-with-glenn-cosby-on-tour-this-summer/ |title=Bake it Big with Glenn Cosby – on tour this summer! |date=8 May 2014 |work=Food Heaven }}</ref><ref>{{cite news |url=http://www.exeterexpressandecho.co.uk/Great-British-Bake-star-Glenn-Cosby-returns-Bake/story-21226670-detail/story.html |title=Great British Bake Off star Glenn Cosby returns to Bake It Big |work=Exeter Express and Echo|date= 12 June 2014}}</ref> That same year, Cosby release his book ''Tasty Travels''.
+
+Ali Imdad has set up a bakery business, and become a full-time baker.<ref>{{cite news |url=http://www.birminghammail.co.uk/whats-on/great-british-bake-off-contestants-7545213 |title=Whatever happened to the Great British Bake Off bakers from the Midlands? |date=2 August 2014 |author= Roz Laws |work=Birmingham Mail }}</ref> He later participated in the 2016 rendition of ''The Great Christmas Bake Off''.
+
+Howard Middleton participated in the 2016 rendition of ''The Great New Year's Bake Off''.
+
+==Ratings==
+The show achieved some of the highest ratings seen on BBC Two. According to overnight data, the final episode was seen by 9.1 million viewers at its peak, and averaging over 8 million, more than twice the number of viewers on BBC One and ITV.<ref>{{cite news |url=https://www.theguardian.com/media/2013/oct/23/great-british-bake-off-final-frances-quinn |title=Great British Bake Off final: 9m watch Frances Quinn win |author=John Plunkett| work=The Guardian |date= 23 October 2013 }}</ref>  This episode is the highest-rated show ever on BBC2 under the ratings system first introduced in 2002, beating the previous record set by an episode of ''[[Top Gear (2002 TV series)|Top Gear]]'' in 2007.<ref>{{cite news |url=http://www.hollywoodreporter.com/news/bbcs-great-british-bake-ends-650312 |title=BBC's 'Great British Bake Off' Ends Season 4 With Record Ratings |author=Georg Szalai |work=The Hollywood Reporter }}</ref> The highest rating for BBC2 of all-time is The [[1985 World Snooker Championship|1985 Snooker World Championship]] Final which peaked with 18.5m viewers. Series 4 had an average of viewing figure of 7.4 million.<ref>{{cite news |url=http://www.broadcastnow.co.uk/ratings/bbc1-rises-to-the-challenge/5082034.article |title=BBC1 rises to the challenge|date=22 January 2015 |author= Stephen Price |work=Broadcast }}</ref> During the length of the series, the only programmes to have beaten the show on a Tuesday night were [[EastEnders]] and [[Emmerdale]].
+
+Official episode viewing figures are from [[BARB]].<ref>{{Cite web|url=http://www.barb.co.uk/whats-new/weekly-top-30|title=Weekly Top 30 Programmes|publisher=[[Broadcasters' Audience Research Board]]|accessdate=16 September 2015}}</ref>
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+! scope="col"|Weekly ranking<br />all channels<ref>{{Cite web|url=http://www.barb.co.uk/whats-new/weekly-top-10?_s=4|title=Weekly Top 10 Programmes|publisher=[[Broadcasters' Audience Research Board]]|accessdate=16 September 2015}}</ref>
+!Nightly ranking
+|-
+! scope="row"| 1
+| {{Start date|2013|08|20|df=y}} || 6.60 || rowspan="10" | 1 || 11
+| rowspan="3" |3
+|-
+! scope="row"| 2
+| {{Start date|2013|08|27|df=y}} || 6.65 || 12
+|-
+! scope="row"| 3
+| {{Start date|2013|09|3|df=y}} || 7.17 || 13
+|-
+! scope="row"| 4
+| {{Start date|2013|09|10|df=y}} || 6.82 || 18
+|1
+|-
+! scope="row"| 5
+| {{Start date|2013|09|17|df=y}} || 6.95 || 17
+|3
+|-
+! scope="row"| 6
+| {{Start date|2013|09|24|df=y}} || 7.32 || 16
+| rowspan="4" |2
+|-
+! scope="row"| 7
+| {{Start date|2013|10|1|df=y}} || 7.76 || 13
+|-
+! scope="row"| 8
+| {{Start date|2013|10|8|df=y}} || 7.41 || 12
+|-
+! scope="row"| 9
+| {{Start date|2013|10|15|df=y}} || 7.41 || 18
+|-
+! scope="row"| 10
+| {{Start date|2013|10|22|df=y}} || 9.45 || 4
+|1
+|}
+
+
+===Specials===
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off'', Class of 2012
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row" style="background:silver;"|
+| {{Start date|2013|10|22|df=y}} || 3.69 || 2
+|}
+
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off Masterclass''
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row"| 1
+| {{Start date|2013|10|29|df=y}} || 2.73 || 4
+|-
+! scope="row"| 2
+| {{Start date|2013|10|30|df=y}} || 2.27 || 10
+|-
+! scope="row"| 3
+| {{Start date|2013|10|31|df=y}} || 2.21 || 13
+|-
+! scope="row"| 4
+| {{Start date|2013|11|1|df=y}} || 1.69 || 24
+|}
+
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off'', Christmas Special
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row" style="background:silver;"|
+| {{Start date|2013|12|17|df=y}} || 3.39 || 2
+|}
+
+==References==
+{{reflist|2}}
+
+==External links==
+* {{BBC programme}}
+*[http://www.bbc.co.uk/programmes/b013pqnm Official Site]
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off, The}}
+[[Category:The Great British Bake Off|Series 4]]
+[[Category:2013 British television seasons]]

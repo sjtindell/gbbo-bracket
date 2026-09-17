@@ -1,0 +1,737 @@
+{{short description|Eleventh series of The Great British Bake Off}}
+{{Use British English|date=April 2017}}
+{{Use dmy dates|date=October 2019}}
+{{Infobox television season
+| image         = 
+| caption       = 
+| series_number = 11
+| module1       = {{Infobox reality competition season
+ | presenter       = [[Noel Fielding]]<br>[[Matt Lucas]]
+ | judges          = [[Paul Hollywood]]<br>[[Prue Leith]]
+ | num_contestants = 12
+ | winner          = [[Peter Sawkins]]
+ | runner_up       = Dave Friday<br>Laura Adlington
+ | location        = [[Down Hall]] Hotel, near [[Bishop's Stortford]]
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 30
+}}
+| num_episodes  = 10
+| network       = [[Channel 4]]
+| first_aired   = {{start date|df=y|2020|09|22}}
+| last_aired    = {{end date|df=y|2020|11|24}}
+}}
+
+The '''eleventh series''' of ''[[The Great British Bake Off]]'' began on 22 September 2020. It was presented by returning host [[Noel Fielding]] and new host [[Matt Lucas]], who replaced [[Sandi Toksvig]],<ref>{{cite news |url=https://www.independent.co.uk/arts-entertainment/tv/news/matt-lucas-great-british-bake-off-noel-fielding-sandi-toksvig-new-series-channel-4-a9393391.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/matt-lucas-great-british-bake-off-noel-fielding-sandi-toksvig-new-series-channel-4-a9393391.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title=Great British Bake Off: Matt Lucas to replace Sandi Toksvig as host of Channel 4 show|first=Adam |last=White |work=The Independent |date=11 March 2020 }}</ref> and was judged by returning judges [[Paul Hollywood]] and [[Prue Leith]]. The first three episodes were extended to 90 minutes instead of the usual 75 minutes. The bakers were announced on 15 September 2020.<ref name="bbc bakers">{{cite news |url=https://www.bbc.co.uk/news/entertainment-arts-54151631 |title=Great British Bake Off: 2020 contestants revealed|date=15 September 2020 |work=BBC }}</ref>
+
+Filming of the eleventh series was delayed by the [[COVID-19 pandemic in the United Kingdom|COVID-19 pandemic]]; originally scheduled to take place in April 2020, it was pushed back to July 2020.<ref>{{cite web |url=https://deadline.com/2020/07/the-great-british-bake-off-back-in-production-1202991744/ |title='The Great British Bake Off' Is Cooking Again After A Covid Delay & Will Premiere Later This Year |first= Jake |last=Kante|work=Deadline |date=22 July 2020}}</ref> Filming the series normally takes place over 12 or 13 weeks on the weekends, but due to the pandemic, the cast and crew had to live in a "self-contained biosphere" ([[Down Hall]] Hotel near [[Bishop's Stortford]] with a skeleton staff),<ref>{{cite news |url=https://www.essexlive.news/news/essex-news/great-british-bake-off-full-4515914 |title= Great British Bake Off: Full contestant line up revealed for 2020 show filmed in Essex|first=Alice |last=Cunningham|date= 15 September 2020|work=Essex Live}}</ref> and filming took place in a marquee tent in the garden of the hotel over a period of six weeks.<ref>{{cite web |url=https://www.radiotimes.com/news/tv/2020-09-14/great-british-bake-off-covid-scare/ |title=The Great British Bake Off filming was almost shut down after COVID scare |work=Radio Times |first=Patrick|last=Cremona|date= 14 September 2020}}</ref><ref>{{cite web |url=https://www.radiotimes.com/news/tv/2020-09-14/bake-off-2020/ |title=When is The Great British Bake Off on TV in 2020? |first=Kimberley |last=Bond|date= 14 September 2020|work=Radio Times }}</ref>  The contestants and crew had to undergo a period of self-isolation after filming had ended.
+
+The series was won by [[Peter Sawkins]], with Dave Friday and Laura Adlington finishing as the runners-up. Sawkins is the first [[Scottish people|Scottish]] winner of the programme, and also the youngest winner in the show's 10-year history, at the age of 20.<ref>{{cite web|url= https://www.theguardian.com/tv-and-radio/live/2020/nov/24/the-great-british-bake-off-2020-final-live|title= The Great British Bake Off 2020: final – as it happened|date=24 November 2020|work=Guardian|accessdate=25 November 2020}}</ref><ref>{{cite web|url= https://www.bbc.com/news/entertainment-arts-55056352|title= The Great British Bake Off crowns its 2020 winner|date=24 November 2020|work=BBC News|accessdate=25 November 2020}}</ref>
+
+Series 11 was released on [[Netflix]] in the [[United States of America|U.S.]] as Collection 8. It premiered on 25 September 2020, with each episode available three days after the UK air date.
+
+== Bakers ==
+{| class="wikitable sortable" style="text-align:center;"
+!scope="col"|Contestant
+!scope="col"|Age
+!scope="col"|Hometown
+!scope="col"|Occupation
+!scope="col"|Finish
+!scope="col"|Place
+|-
+! scope="row"| Loriea Campbell-Clarey
+| 27 
+| [[Durham, England|Durham]], [[England]]
+| Diagnostic radiographer<ref>{{cite web |url= https://www.instagram.com/loriea_cc/ |title= loriea_cc |work=Instagram}}</ref>
+|Episode 1
+|12th
+|-
+! scope="row"| Makbul "Mak" Patel
+| 51 
+| [[Manchester]], England
+| Accountant <ref>{{cite web |url=https://www.instagram.com/makbul_h_patel/?hl=en |title=makbul_h_patel |work=Instagram }}</ref>
+|Episode 2
+|11th
+|-
+! scope="row"| Rowan Williams
+| 55 
+| [[Pershore]], England 
+| Music teacher <ref>{{cite web |url=https://www.instagram.com/rowansbigbakes/ |title=rowansbigbakes|work=Instagram }}</ref>
+|Episode 3
+|10th
+|-
+! scope="row"| Sura Mitib
+| 31 
+| [[London]], England
+| Hospital pharmacy dispenser  <ref>{{cite web |url=https://www.instagram.com/surasbakes/ |title=surasbakes |work=Instagram }}</ref>
+|Episode 4
+|9th
+|-
+! scope="row"| Linda Rayfield
+| 61 
+| nowrap|[[Bexhill-on-Sea]], England 
+| nowrap|Retirement living team leader <ref>{{cite news |url= https://www.theargus.co.uk/news/18811101.linda-bexhill-eliminated-great-british-bake-off/ |title=Linda from Bexhill is eliminated from Great British Bake Off|first= Harry |last=Bullmore |work=The Argus |date=21 October 2020 }}</ref><ref>{{cite web |url=https://www.instagram.com/lindarayovsunshine/?hl=en |title=lindarayovsunshine|work=Instagram }}</ref>
+|Episode 5
+|8th
+|-
+! scope="row"| Mark Lutton
+| 32 
+| nowrap|[[Portadown]], [[Northern Ireland]] 
+| Project manager <ref>{{cite web |url=https://www.instagram.com/thebakingbuddha/ |title=thebakingbuddha |work=Instagram }}</ref>
+|Episode 6
+|7th
+|-
+! scope="row"| Lottie Bedlow
+| 31 
+| [[West Sussex]], England
+| Pantomime producer  <ref name=portsmouth />
+|Episode 7
+|6th
+|-
+! scope="row"| Marc Elliott
+| 51 
+| [[St Eval]], England
+| Bronze resin sculptor  <ref>{{cite news |url=https://www.falmouthpacket.co.uk/news/18721424.great-british-bake-off-cornwall-contestant-marc-elliott-st-eval/ |title=Great British Bake Off Cornwall contestant is Marc Elliott from St Eval |first= Emma |last=Ferguson|work= The Packet |date=15 November 2020 }}</ref>
+|Episode 8
+|5th
+|-
+! scope="row"| {{nowrap|Hermine Dossou}}
+| 39 
+| London, England
+| Accountant  <ref>{{cite web |url=https://www.instagram.com/bakealongwithhermine/?hl=en |title=bakealongwithhermine |work=Instagram }}</ref>
+|Episode 9
+|4th
+|-
+! scope="row"| Dave Friday
+| 30 
+| [[Waterlooville]], England
+| Armoured security guard  <ref name=portsmouth>{{cite news |url=https://www.portsmouth.co.uk/news/people/great-british-bake-waterlooville-security-guard-and-west-sussex-pantomime-producer-join-years-line-2971916 |title=Great British Bake Off: Waterlooville security guard and West Sussex pantomime producer join this year's line-up |first=Millie |last=Salkeld|date=15 September 2020|work=The News }}</ref>
+|rowspan="3"|Episode 10
+|rowspan="2"|{{sort|2.5|}}Runner-up
+|-
+! scope="row"| Laura Adlington
+| 31 
+| [[Gravesend]], England 
+| Digital manager  <ref>{{cite web |url=https://www.instagram.com/laura.adlington/ |title=laura.adlington|work=Instagram }}</ref><ref>{{cite web |url= https://thegreatbritishbakeoff.co.uk/bakers/laura/ |title=Laura |work=The Great British Bake Off}}</ref>
+|-
+! scope="row"| [[Peter Sawkins]]
+| 20 
+| [[Edinburgh]], [[Scotland]]
+| Accounting & finance student  <ref>{{cite web |url=https://www.instagram.com/peter_bakes/ |title=peter bakes|work=Instagram }}</ref>
+|1st
+|-
+|}
+
+== Results summary ==
+{| class="wikitable" style="text-align:center"
+|+ Elimination chart
+|-
+! scope="col"|Baker
+! scope="col"|1
+! scope="col"|2
+! scope="col"|3
+! scope="col"|4
+! scope="col"|5
+! scope="col"|6
+! scope="col"|7
+! scope="col"|8
+! scope="col"|9
+! scope="col"|10
+|-
+! scope="row"| Peter
+|style="background:LemonChiffon;"|SB
+|SAFE
+|style="background:Plum;"|LOW
+| style="background:Cornflowerblue;" | {{color|white|HIGH}}
+| style="background:Cornflowerblue;" | {{color|white|HIGH}}
+|SAFE
+|SAFE
+|style="background: plum;"| LOW
+|style="background:LemonChiffon;"|SB
+|style="background:Yellow;"|WINNER
+|-
+! scope="row"| Dave
+|SAFE
+|style="background:LemonChiffon;"|SB
+|style="background:Plum;"| LOW
+|SAFE
+| style="background:Cornflowerblue;" | {{color|white|HIGH}}
+| style="background:Cornflowerblue;" | {{color|white|HIGH}}
+|SAFE
+|SAFE
+| style="background:Cornflowerblue;" | {{color|white|HIGH}}
+|style="background:limegreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row"| Laura
+|SAFE
+|SAFE
+|SAFE
+|SAFE
+|style="background:LemonChiffon;"|SB
+|style="background:Plum;"| LOW
+|style="background:Plum;"| LOW
+|style="background:Cornflowerblue;"|{{color|white|HIGH}}
+|style="background:Plum;"|LOW
+|style="background:limegreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row"| Hermine
+|style="background:Cornflowerblue;"|{{color|white|HIGH}}
+|SAFE
+|SAFE
+|SAFE
+|style="background:Cornflowerblue;"|{{color|white|HIGH}}
+|style="background:Plum;"|LOW
+|style="background:LemonChiffon;"|SB
+|style="background:LemonChiffon;"|SB
+|style="background:orangered;"|OUT
+| colspan="1" style="background:darkgrey;"|
+|-
+! scope="row"| Marc
+|style="background:Plum;"|LOW
+|style="background:Cornflowerblue;"|{{color|white|HIGH}}
+|style="background:LemonChiffon;"|SB
+|SAFE
+|style="background:Plum;"|LOW
+|style="background:Cornflowerblue;"|{{color|white|HIGH}}
+|style="background:Cornflowerblue;"|{{color|white|HIGH}}
+|style="background:orangered;"|OUT
+| colspan="2" style="background:darkgrey;"|
+|-
+! scope="row"| Lottie
+|SAFE
+|SAFE
+|SAFE
+|style="background:Plum;"|LOW
+|SAFE
+|style="background:LemonChiffon;"|SB
+|style="background:orangered;"|OUT
+| colspan="3" style="background:darkgrey;"|
+|-
+! scope="row"| Mark
+|SAFE
+|style="background:Cornflowerblue;"|{{color|white|HIGH}}
+|SAFE
+|style="background:LemonChiffon;"|SB
+|style="background:Plum;"|LOW
+|style="background:orangered;"|OUT
+| colspan="4" style="background:darkgrey;"|
+|-
+! scope="row"| Linda
+|style="background:Plum;"|LOW
+|SAFE
+|SAFE
+|SAFE
+|style="background:orangered;"|OUT
+| colspan="5" style="background:darkgrey;"|
+|-
+! scope="row"| Sura
+|style="background:Cornflowerblue;"|{{color|white|HIGH}}
+|SAFE
+|style="background:Cornflowerblue;"|{{color|white|HIGH}}
+|style="background:orangered;"|OUT
+| colspan="6" style="background:darkgrey;"|
+|-
+! scope="row"| Rowan
+|SAFE
+|style="background:Plum;"|LOW
+|style="background:orangered;"|OUT
+| colspan="7" style="background:darkgrey;"|
+|-
+! scope="row"| Mak
+|SAFE
+|style="background:orangered;"|OUT
+| colspan="8" style="background:darkgrey;"|
+|-
+! scope="row"| Loriea
+|style="background:orangered;"|OUT
+| colspan="9" style="background:darkgrey;"|
+|}
+
+'''Colour key:'''
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|CornflowerBlue|outline=darkgray|Baker was one of the judges' favourite bakers that week, but was not the Star Baker.}}
+{{legend|<!--default colour-->|outline=darkgray|Baker got through to the next round.}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated.}}
+{{legend|LemonChiffon|outline=darkgray|Baker was the Star Baker.}}
+{{legend|LimeGreen|outline=darkgray|Baker was a series runner-up.}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner.}}
+
+== Episodes ==
+'''Colour key:'''
+{{legend|#FFC7C7|Baker was eliminated at conclusion of episode}}
+{{legend|#E7E7FF|Baker received a "Hollywood handshake" for respective bake}}
+{{legend|#BFD|Baker was named "Star Baker" at conclusion of episode}}
+{{legend|#DFF|Baker was named runner-up for the series}}
+{{legend|gold|Baker won series}}
+
+=== Episode 1: Cake ===
+For the signature challenge, the bakers created an intricate [[Battenberg cake]] in 2 hours. The technical challenge set by Paul gave the bakers 90 minutes to bake 6 miniature pineapple [[Upside-Down Cake|upside-down cakes]]. At the end of the challenge, Sura, who saw a fly and was trying to brush it away, accidentally hit Dave's tray of six miniature cakes as he was setting them down, knocking four to the floor. Prue and Paul judged the better looking of the remaining two, assuming the rest were the same. In the showstopper challenge, the bakers created a 3-D cake [[Bust (sculpture)|bust]] depicting their personal celebrity hero  in 4 hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[Battenberg Cake]])</small>
+! scope="col"|Technical<br><small>(6 Miniature Pineapple [[Upside-Down Cake]]s)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Celebrity Hero Cake [[Bust (sculpture)|Bust]])</small>
+! scope="col"|Result
+|-
+! scope="row"|Dave
+| Chocolate Espresso Martini Battenberg || 9th || 'Three Flavours of [[Tom DeLonge]]' || {{Safe}}
+|-
+! scope="row"|Hermine
+| Chocolate & Orange Battenberg || 5th || 'Ode to [[Lupita Nyong'o|Lupita]]' || {{Safe}}
+|-
+! scope="row"|Laura
+| 'Celebration of Summer' Battenberg || 6th || Lemon & Elderflower [[Freddie Mercury|Freddie]] || {{Safe}}
+|-
+! scope="row"|Linda
+| Ambulance Battenberg || 12th || Lemon & Orange [[Bob Marley]] || {{Safe}}
+|-
+! scope="row"|Loriea
+| 'Hot Summer's Day Treats' Battenberg || 10th || 'Flavours of Jamaica' A Tribute to [[Louise Bennett-Coverley|Miss Lou]] || {{Eliminated}}
+|-
+! scope="row"|Lottie
+| Rhubarb and Custard Battenberg || 4th || Coconut & Lime [[Louis Theroux]] || {{Safe}}
+|-
+! scope="row"|Mak
+| East India Battenberg || 8th || Tribute to [[Bill Bryson]] || {{Safe}}
+|-
+! scope="row"|Marc
+| Bittersweet Battenberg || 11th || Chocolate & Vanilla [[Ziggy Stardust (character)|Ziggy]] || {{Safe}}
+|-
+! scope="row"|Mark
+| Turkish Bazaar Inspired Battenberg || 7th || 'Origin-ger of the Species' by [[Charles Darwin]] || {{Safe}}
+|-
+! scope="row"|Peter
+| Gluten Free Chocolate & Orange Battenberg || 2nd || 'In Honour of [[Chris Hoy|Sir Chris]]' || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Rowan
+| 'The Magic Flute' Battenberg || 3rd || 'Let Them Eat Cake' A Tribute To [[Marie Antoinette]] || {{Safe}}
+|-
+! scope="row"|Sura
+| Lemon and Orange Battenberg || 1st || 'Ode to [[David Attenborough|Attenborough]]' || {{Safe}}
+|}
+
+The broadcast of Episode 1 began at 8:15pm instead of 8:00pm, following Prime Minister [[Boris Johnson]]'s address to the nation on the [[COVID-19 pandemic in the United Kingdom|COVID-19 pandemic]]. The episode began with a parody of the Johnson address by new presenter Matt Lucas.<ref>{{cite news |url=https://edition.cnn.com/2020/09/23/entertainment/matt-lucas-boris-johnson-great-british-bake-off-intl-scli-gbr/index.html |title='Great British Bake Off': Matt Lucas revives his Boris Johnson, urging viewers to 'Save Loaves' during 'Great British Bake Off' debut|work=CNN |date=23 September 2020 |first=Toyin |last=Owoseje }}</ref>
+
+=== Episode 2: Biscuits ===
+For the signature challenge, the bakers were tasked with making 36 identical chocolate [[Florentine biscuit|florentines]] in 2 hours. The technical challenge, set by Prue, required the bakers to make 12 hand-shaped coconut [[macaroons]], 6 piped with a mango curd and the other 6 drizzled and filled with chocolate, in 1 hour and 45 minutes. For the showstopper challenge, the bakers were given 4 hours to create a beautiful molded 3D biscuit table setting representing a memorable meal they had in the past.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(36 Chocolate [[Florentine biscuit|Florentines]])</small>
+! scope="col"|Technical<br><small>(12 Hand-Shaped [[Coconut]] [[Macaroons]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(3D Biscuit Table Setting)</small>
+! scope="col"|Result
+|-
+! scope="row"|Dave
+| Feathered Chocolate Mango Florentines || 1st || 'Waiting for Tacos' || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Hermine
+| Mango and Coconut Florentines || 5th || [[Sakura Tea]] Set || {{Safe}}
+|-
+! scope="row"|Laura
+| Salted Caramel Florentines || 7th || Celebration Afternoon Tea || {{Safe}}
+|-
+! scope="row"|Linda
+| Flower Topped Florentines || 4th || 'High Tea in Amsterdam' || {{Safe}}
+|-
+! scope="row"|Lottie
+| {{longlisted|align=left|Quarantine Florentines}} || 8th || [[Viking]] Victuals || {{Safe}}
+|-
+! scope="row"|Mak
+| Mango and Cumin Florentines || 3rd || Indian Chai Service || {{Eliminated}}
+|-
+! scope="row"|Marc
+| Ginger, Cherry and Pistachio Florentines || 9th || Morning Coffee 'n' Toast || {{Safe}}
+|-
+! scope="row"|Mark
+| Mango [[Lassi]] Florentines || 2nd || [[Coffee ceremony|Ethiopian Coffee Ceremony]] || {{Safe}}
+|-
+! scope="row"|Peter
+| Sticky Toffee Florentines || 10th || Biscuit [[Burns Supper]] || {{Safe}}
+|-
+! scope="row"|Rowan
+| Waistcoat Florentines || 11th || 'Worse Things Happen At Sea' || {{Safe}}
+|-
+! scope="row"|Sura
+| [[Sohan (confectionery)|Sohan]] Florentines || 6th || [[Speculaas]] [[Ramadan]] Tea Time || {{Safe}}
+|}
+
+=== Episode 3: Bread ===
+The signature challenge tasked the bakers with making 2 freeform [[soda bread]] loaves, one savoury and one sweet, and an accompanying butter in 1 hour and 45 minutes. The technical challenge, set by Paul, tasked the bakers into making 6 rainbow-coloured [[bagels]] in honour of the [[NHS]], in 2 hours and 45 minutes. For the showstopper challenge, the bakers were asked to create a large decorative bread plaque in the style of a traditional [[harvest festival]] [[sheaf (agriculture)|sheaf]], portraying the one thing in life they are most grateful for, in 3 hours and 30 minutes.
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(2 [[Soda Bread]] Loaves)</small>
+! scope="col"|Technical<br><small>(6 Rainbow-Coloured [[Bagels]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Large Bread Plaque)</small>
+! scope="col"|Result
+|-
+! scope="row"|Dave
+| Chilli Chocolate & Cheesy Bacon Soda Breads || 9th || 'Grateful For My Home and Little Family' || {{Safe}}
+|-
+! scope="row"|Hermine
+| {{longlisted|align=left|My Favourite Flavours Soda Bread}} || 7th || A Journey Back to France || {{Safe}}
+|-
+! scope="row"|Laura
+| Nana Peg's Nicely Spiced & Cherrylicious Soda Breads || 6th || Showstopping Musical Theatre Inspired Showstopper || {{Safe}}
+|-
+! scope="row"|Linda
+| Bara Cyflym Quick Bread || 1st || 'Fruits of our Labour' Black Olive Bread & Tiger Bread || {{Safe}}
+|-
+! scope="row"|Lottie
+| Blueberry Breakfast & Summertime Soda Breads || 5th || My House In Bread || {{Safe}}
+|-
+! scope="row"|Marc
+| Cornish Soda Breads || 2nd || The Dharma Wheel Bread Sheaf || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Mark
+| Sausage & Stout Sodas || 3rd || Orchard County Bread with Sweet Apple and Savoury Wild Garlic || {{Safe}}
+|-
+! scope="row"|Peter
+| Black Pudding & Ginger Beer Soda Breads || 4th || Edinburgh Cityscape Bread Plaque || {{Safe}}
+|-
+! scope="row"|Rowan
+| Flavours of Italy || 10th || Worcestershire Pear Tree || {{Eliminated}}
+|-
+! scope="row"|Sura
+| Middle Eastern Inspired Soda Breads || 8th || Mama's Tomato Vine Harvest Loaf || {{Safe}}
+|}
+
+=== Episode 4: Chocolate ===
+The signature challenge was back to basics as the bakers were asked to make 18 chocolate [[Chocolate brownie|brownie]]s, in 1 hour and 30 minutes. For the technical, Paul tasked the bakers with making a traditional [[Jewish]] bake: chocolate [[babka]], in {{frac|2|1|2}} hours. In the showstopper challenge, the bakers were required to produce a spectacular two-tiered white chocolate celebration cake in 4 hours.
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(18 [[Chocolate brownie|Chocolate Brownies]])</small>
+! scope="col"|Technical<br><small>(Chocolate [[Babka]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[White Chocolate]] Celebration Cake)</small>
+! scope="col"|Result
+|-
+! scope="row"|Dave
+| Honeycomb Explosion Brownies || 8th || Strawberry Splash White Chocolate Fraisier Cake || {{Safe}}
+|-
+! scope="row"|Hermine
+| Raspberry, White Chocolate & Pistachio Brownies || 5th || Lemon & White Chocolate Cake || {{Safe}}
+|-
+! scope="row"|Laura
+| Salted Caramel Brownie [[S'more]]s || 2nd || Chocolate Heaven Cake || {{Safe}}
+|-
+! scope="row"|Linda
+| 'Treats of Christmas Past' || 1st || English Rose Cake || {{Safe}}
+|-
+! scope="row"|Lottie
+| 'Have Your Cake and Eat It' Brownies || 9th || Nana and Papa's Sapphire Anniversary Cake || {{Safe}}
+|-
+! scope="row"|Marc
+| Praline Brownies || 6th || White Chocolate & Raspberry Buttercream Celebration Cake || {{Safe}}
+|-
+! scope="row"|Mark
+| 'Gimmie [[S'more]]' Brownies || 3rd || 'A Baking Show Birthday' || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Peter
+| Upside Down Brownies || 4th ||Graduation Cake || {{Safe}}
+|-
+! scope="row"|Sura
+| Double Chocolate [[Marshmallow]] Brownies || 7th || Strawberry & White Chocolate Celebration Cake || {{Eliminated}}
+|}
+
+=== Episode 5: Pastry ===
+For the signature, the bakers were tasked with putting their own spin on [[Cornwall]]'s national dish: the [[pasty]], in 2 hours. The technical challenge, set by Prue, required the bakers to make 6 [[éclair]]s—3 raspberry and 3 salted caramel—in 2 hours and 15 minutes. For the showstopper, the bakers were given the intricate task of making a sweet tart hidden under a latticed pastry cage, in 3 hours and 45 minutes.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(8 [[Pasty|Pasties]])</small>
+! scope="col"|Technical<br><small>(6 [[Éclair]]s: 3 [[Raspberry]] & 3 Salted [[Caramel]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Caged Tart)</small>
+! scope="col"|Result
+|-
+! scope="row"|Dave
+| Thai Basil Chicken Pasties || 5th || Chocolate, Mango and Lime Tart || {{Safe}}
+|-
+! scope="row"|Hermine
+| Moroccan [[Tajine|Tagine]] Pasties || 2nd || Lime Confit & Lemon Meringue Tart || {{Safe}}
+|-
+! scope="row"|Laura
+| Proper Tasty Pasties || 6th || [[Kent]] Garden Tart || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Linda
+| Spicy Indian Pasties || 8th || [[Gypsy tart|Gypsy Tart]] || {{Eliminated}}
+|-
+! scope="row"|Lottie
+| [[Toad in the hole|Toad-In-The-Hole-Less]] Pasties || 4th || Apple Tree Tart || {{Safe}}
+|-
+! scope="row"|Marc
+| Cornish Fish Pasties || 7th || Posh Apple & Blackberry Pie || {{Safe}}
+|-
+! scope="row"|Mark
+| [[Aloo gobi|Aloo Gobi]] & [[Paneer]] Pasties || 3rd || Mes-SAGE in a Bottle || {{Safe}}
+|-
+! scope="row"|Peter
+| [[Kedgeree]] Pasties || 1st || Blackberry & Lemon Tart || {{Safe}}
+|}
+
+=== Episode 6: Japanese ===
+Week Six was a Bake Off first as the bakers tackled Japanese week. The signature challenge tasked the bakers with making 8 steamed buns, complete with a savoury or sweet filling and decoration, in 2 hours and 30 minutes. For the technical challenge, Prue asked the bakers to make a [[matcha]] [[crepe]] cake, consisting of 12 layers of crepes sandwiched with a white chocolate ganache buttercream and strawberries, and decorated with fresh fruits and edible flowers on top, in 2 hours. The showstopper gave the bakers 4 hours to produce a cake inspired by the [[kawaii]] culture in Japan, incorporating Japanese flavours.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|+
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(8 [[Baozi|Steamed Buns]])</small>
+! scope="col"|Technical<br><small>([[Matcha]] [[Crepe]] Cake)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Kawaii]] Cake)</small>
+! scope="col"|Result
+|-
+! scope="row"|Dave
+| Chicken Shaped Katsu Curry Buns || 3rd || Matcha [[Shiba Inu]] Cake || {{Safe}}
+|-
+! scope="row"|Hermine
+| Chicken Nikuman Panda Buns || 4th || Strawberry Cherry Blossom Cake || {{Safe}}
+|-
+! scope="row"|Laura
+| Piggy Pork Belly Buns || 7th || Upside Down Pineapple Cake || {{Safe}}
+|-
+! scope="row"|Lottie
+| Cheeseburger Steamed Buns || 2nd || 'Into the Japanese Woods' || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Marc
+| 'Hmmmm Dhal' Steamed Buns || 6th || Hamish the Dog Cake || {{Safe}}
+|-
+! scope="row"|Mark
+| Burger Buns || 5th || 'Avo Baby' || {{Eliminated}}
+|-
+! scope="row"|Peter
+| Lamb Steamed Buns || 1st || Dizzy the Shuttlecock || {{Safe}}
+|}
+
+This was the 100th episode of the Great British Bake Off throughout all seasons.
+
+=== Episode 7: The '80s ===
+For the signature challenge, the bakers were asked to perform their own twist on 8 classical quiches with 2 different savoury flavours in 2 hours. For the technical challenge, Paul asked the bakers to make 6 deep-fried, identical custard & jam finger doughnuts in 2 hours and 45 minutes. For the showstopper challenge, the bakers were required to make an ice cream cake, which was considerably more difficult since it was the hottest day of the year, in 4 hours and 30 minutes.
+{| class="wikitable sortable col3center sticky-header"
+|+
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(8 [[Quiche]]s)</small>
+! scope="col"|Technical<br><small>(6 Custard & Jam Finger Doughnuts)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Ice cream cake|Ice Cream Cake]])</small>
+! scope="col"|Result
+|-
+! scope="row"|Dave
+| Novel Quiches || 6th || 'Tiramisu' || {{Safe}}
+|-
+! scope="row"|Hermine
+| Classic Quiches || 1st || Holiday Ice Cream Cake || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Laura
+| Pea & Pizza Quiches || 4th || 'Death by Chocolate' || {{Safe}}
+|-
+! scope="row"|Lottie
+| English Breakfast & Summer Salad Quiches || 5th || '80's Mix Tape' || {{Eliminated}}
+|-
+! scope="row"|Marc
+| Cornish Quiches || 3rd || Retro Ice Cream Parlour || {{Safe}}
+|-
+! scope="row"|Peter
+| Thai Curry and Salmon Quiches || 2nd || 'Christmas Cake Surprise' || {{Safe}}
+|-
+|}
+
+=== Episode 8: Desserts (Quarterfinals) ===
+The signature challenge tasked the bakers with making 12 mini baked cheesecakes, in {{frac|2|1|2}} hours. For the technical challenge, Prue set a 17th-century bake: 2 [[sussex pond pudding]]s using [[Suet pudding|suet]] pastry and served with [[creme anglaise]], in {{frac|2|1|2}} hours. For the showstopper challenge, the bakers were given the enormous task of making a jelly art design cake, composed of an artistic jelly design, a mousse and a baked sponge element in {{frac|4|1|2}} hours.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(12 Mini [[Cheesecake]]s)</small>
+! scope="col"|Technical<br><small>(2 [[Sussex Pond Pudding]]s)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Jelly Art Design Cake)</small>
+! scope="col"|Result
+|-
+! scope="row"|Dave
+| 'Celebration of Citrus' Cheesecakes || align="center"|5th || [[Newquay]] Beach Scene || {{Safe}}
+|-
+! scope="row"|Hermine
+| [[Passion Fruit]] Cheesecakes || 3rd || Chocolate and Raspberry Mousse Jelly Cake || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Laura
+| Passion Fruit Cheesecakes || 1st || 'Flower Power' Koi Jelly Art Cake || {{Safe}}
+|-
+! scope="row"|Marc
+| New York Style Vanilla and Mascarpone Cheesecakes || 2nd || Apple Jelly with Chocolate and Strawberry Mousse || {{Eliminated}}
+|-
+! scope="row"|Peter
+| Lime & Ginger Cheesecakes || 4th || Snow Globe Jelly Cake || {{Safe}}
+|-
+|}
+
+=== Episode 9: Pâtisserie (Semifinals) ===
+The signature challenge required the bakers to make 12 [[Rum baba|pâte à savarin]] in 2 hours and 45 minutes. The penultimate technical challenge, set by Paul, gave the bakers the challenging task of making a Danish cornucopia cake, [[kransekage]], in 2 hours and 15 minutes. For the showstopper challenge, the bakers were given {{frac|4|1|2}} hours to make 25 cube-shaped cakes that required the precision expected in [[pâtisserie]]s.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|+
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(12 [[Rum baba|Pâte à Savarin]])</small>
+! scope="col"|Technical<br><small>(Danish [[Kransekage]] Cornucopia Cake)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(25 Mini Cube-shaped Cakes)</small>
+! scope="col"|Result
+|-
+! scope="row"|Dave
+| Honey Tequila, Mango & Passion Fruit Savarins || 3rd || Celebration of Chocolate Cube Cake || {{Safe}}
+|-
+! scope="row"|Hermine
+| Crème et Abricot Baba au Rhum || 2nd || 'The Best of Hermine' Cube Cake || {{Eliminated}}
+|-
+! scope="row"|Laura
+| Poached Pineapple, Kiwi & Passion Fruit Rum Babas || 4th || Black Forest Cube Cake || {{Safe}}
+|-
+! scope="row"|Peter
+| {{longlisted|align=left|Strawberry & Elderflower Babas}} || 1st || Chocolate, Raspberry & Pistachio Cube Cake || {{sort|1|}}{{Good|Star Baker}}
+|-
+|}
+
+=== Episode 10: Final ===
+For the final signature challenge, the finalists were tasked with making 8 beautifully decorated custard slices in {{frac|2|1|2}} hours. For the final technical challenge, Prue asked the bakers to make 8 identical walnut whirls—a cone of chocolate with marshmallow inside, a biscuit base, and topped with walnuts—in 2 hours. For the final showstopper challenge, the bakers were tasked with making a colossal, spectacular dessert tower with a large cake at the base and at least 3 sections to represent the different baking disciplines, in {{frac|4|1|2}} hours.
+
+The judges said this was the closest final in the history of the show.{{citation needed|date=January 2025}}
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+! scope="col" |Baker
+! class="unsortable" scope="col" |Signature<br><small>(8 Custard Slices)</small>
+! scope="col" |Technical<br><small>(8 Walnut Whirls)</small>
+! class="unsortable" scope="col" |Showstopper<br><small>(Dessert Tower)</small>
+! scope="col" |Result
+|-
+! scope="row" |Dave
+| 'Caramel Latte' Custard Slice || 1st || Tower to Redemption || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" |Laura
+| Yuzu Custard Slice || 3rd || Rainbow Dessert Tower || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" |Peter
+| [[Cranachan]] Custard Slice || 2nd || Bonkers Baking Show Bubble Cake || {{sort|1|}}{{Won|Winner|color=gold}}{{efn|Peter is the youngest ever winner of the Great British Bake Off.{{citation needed|date=January 2025}} }}
+|}
+{{notelist}}
+
+==Specials==
+
+Two compilation episodes of ''The Great British Bake Off: Best Bits'', showing highlights from the previous ten series, were shown in the weeks after the final.<ref>{{cite web|url=https://www.radiotimes.com/tv-programme/e/mvx7cx/the-great-british-bake-off-best-bits---e1-the-great-british-bake-off-best-bits/ |title= The Great British Bake Off: Best Bits |first=Alison |last=Graham |work= Radio Times }}</ref>  These were followed by two further specials focusing on the previous 10 winners: ''The Great British Bake Off: The Winners''.<ref>{{cite web |url= https://www.hulldailymail.co.uk/news/celebs-tv/great-british-bake-off-winners-4799104 |title=Great British Bake Off winner Nancy Birtwhistle rubs shoulders with the elites on new show|work=Hull Daily Mail |date=15 December 2020 }}</ref> The first episode covered the first five champions, the second the last five.<ref>{{cite web |url=https://www.channel4.com/programmes/the-great-british-bake-off-the-winners/on-demand/ |title= The Great British Bake Off: The Winners |work=Channel 4}}</ref>
+
+Two specials were commissioned for the festive season:
+
+=== ''The Great Christmas Bake Off'' ===
+
+The Great Christmas Bake Off features James Hillery from [[The Great British Bake Off (series 8)|Series 8]], Ruby Bhogal from [[The Great British Bake Off (series 9)|Series 9]], Jamie Finn and Rosie Brandreth-Poynter both from [[The Great British Bake Off (series 10)|Series 10]]. An Extra Slice presenter Tom Allen, took over Noel Fielding as co-host with Matt Lucas, as Fielding welcomed the birth of his second child prior to filming and was on paternity leave.
+
+For the signature challenge, the bakers were given 3 hours to create 12 miniature [[panettone]]s. Prue's technical challenge required the bakers to make a quick [[Christmas pudding]] (with [[mincemeat]] made from scratch), to be cooked in a microwave and served with a [[crème anglaise]], in 1 hour and 15 minutes. The showstopper challenge asked the bakers to make an illusion cake to depict their ultimate Christmas day feast in 4 hours.
+{| class="wikitable sortable"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br /><small>(12 [[Panettone]]s)</small>
+! scope="col"|Technical<br /><small>([[Christmas Pudding]])</small>
+! scope="col" class="unsortable"|Showstopper<br /><small>(Festive Feast Illusion Cake)</small>
+! scope="col"|Result
+|-
+! scope="row"| James
+| Piña Colada Panettone || align="center"|2nd || Cola Ham & All The Trimmings || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"| Jamie
+| [[American football|American Football]] Panettones || align="center"|4th || 'Fried Turkey' Bucket || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"| Rosie
+| Date, Cranberry & Mace Panettones || align="center" |1st || {{longlisted|align=left|Memories of a Childhood Christmas Feast}} || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row"| Ruby
+| Boozy Chai, Cherry & Chocolate Panettones || align="center" |3rd || Christmas Brekkie Fit For An [[Elf (film)|Elf]] || {{sort|2.5|}}{{Runner-up}}
+|-
+|}
+
+=== ''The Great New Year Bake Off'' ===
+
+The Great New Year Bake Off featured Helena Garcia and Henry Bird from [[The Great British Bake Off (series 10)|Series 10]] as well as [[The Great British Bake Off (series 5)|Series 5]] winner [[Nancy Birtwhistle]] and [[The Great British Bake Off (series 9)|Series 9]] winner [[Rahul Mandal]], making it the first time in the show's history two former winners were featured competing against each other. Noel Fielding returned to host alongside Matt Lucas.
+
+The signature challenge required the bakers to make a fruit [[crumble]], served with a complementary [[ice cream]], in 2 hours. Paul's technical challenge tasked the bakers with making 6 steamed [[Gua bao|bao]] buns with shredded crispy duck fillings in 2 hours. To celebrate the 2021 New Year, the bakers were asked to make a cake celebrating their 21st birthday for the showstopper challenge in 4 hours.
+{| class="wikitable sortable"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br /><small>(Fruit [[Crumble]] with [[Ice Cream]])</small>
+! scope="col"|Technical<br /><small>(6 [[Gua bao|Bao]] Buns)</small>
+! scope="col" class="unsortable"|Showstopper<br /><small>(21st Birthday Cake)</small>
+! scope="col"|Result
+|-
+! scope="row"| Helena
+| 'Rest In Pieces' Peach Crumble with Salted Butter and Pecan 'Ice-scream' || align="center"|2nd || 'My First Witch's Altar' || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"| Henry
+| Plum, Blackberry & Ginger Crumble with Honey & Ginger Ice Cream || align="center"|3rd || Three Tier Raspberry, Thyme & Roasted Rhubarb Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"| Nancy
+| Caribbean Crumble with Lime Crusted Coconut Ice Cream || align="center"|4th || 21st Birthday Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"| Rahul
+| Spiced Apple, Rhubarb & Plum Crumble with Orange & Ginger Ice Cream || align="center"|1st || Chocolate & Orange Cake with Hazelnut & Chocolate Swiss Meringue Buttercream || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+|}
+
+== Ratings ==
+
+The premiere episode of the series had the best start for the show since it moved to Channel 4, with an average of 6.9 million viewers tuning in and peaking at 7.9 million according to overnight viewing figures.<ref>{{cite web |url=https://www.radiotimes.com/news/tv/2020-09-23/great-british-bake-off-2020-ratings/ |title=The Great British Bake Off delivers biggest Channel 4 launch with almost 8 million viewers |first=David|last= Craig|date= 23 September 2020|work=Radio Times}}</ref> The weekly consolidated audience figure was reported to be 10.8 million, which increased to 11.2 million after viewers who watched on other devices were included. This is the highest rating for any series on Channel 4 in 35 years after the miniseries ''[[A Woman of Substance (1985 TV series)|A Woman of Substance]],'' which was watched by 13.9 million viewers in 1985.<ref>{{cite news |url=https://www.telegraph.co.uk/news/2020/09/30/great-british-bake-launch-channel-4s-viewed-show-35-years-nation/ |title= The Great British Bake Off launch Channel 4's most viewed show in 35 years as nation seeks comfort during lockdown |first=Anita |last=Singh |work=The Telegraph | date=1 October 2020}}</ref> The overnight audience figure rose to an average of 9.2 million for the final, peaking at 10.4 million.<ref>{{cite web |url=https://www.huffingtonpost.co.uk/entry/great-british-bake-off-final-ratings-viewing-figures_uk_5fbe3dc4c5b6e4b1ea4753bc |title=The Great British Bake Off Final Ratings Set A HUGE Record For Channel 4 |first= Daniel |last=Welsh |date=25 November 2020 |work=Huffington Post}}</ref>  The consolidated audience figure for the finale was 11.5 million, the second highest for a commissioned programme in Channel 4 history, and the consolidated figure averaged at 10.6 million for the series.<ref>{{cite web |url=https://www.digitalspy.com/tv/reality-tv/a34903958/great-british-bake-off-2020-ratings-record/ |title=The Great British Bake Off Breaks Another Channel 4 Record |first=Stephanie |last=Chase |work=Digital Spy |date=8 December 2020 }}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|7-day viewers<br /><small>(millions)</small>
+! scope="col"|28-day viewers<br /><small>(millions)</small>
+! scope="col"|Channel 4<br />weekly ranking
+! scope="col"|Weekly ranking<br />all channels<ref name="BARB2">{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard|publisher=[[Broadcasters' Audience Research Board]]|accessdate=17 September 2019}}</ref>
+|-
+! scope="row"| 1
+| align="left" | {{Start date|df=y|2020|09|22}} || 11.21
+|11.84
+| rowspan="10" | 1
+| rowspan="4" | 1
+|-
+! scope="row"| 2
+| align="left" | {{Start date|df=y|2020|09|29}} || 10.81
+|11.38
+|-
+! scope="row"| 3
+| align="left" | {{Start date|df=y|2020|10|06}} || 10.70
+|11.21
+|-
+! scope="row"| 4
+| align="left" | {{Start date|df=y|2020|10|13}} ||10.63
+|11.17
+|-
+! scope="row"| 5
+| align="left" | {{Start date|df=y|2020|10|20}} || 10.66 ||11.10|| 2
+|-
+! scope="row"| 6
+| align="left" | {{Start date|df=y|2020|10|27}} ||10.37
+|10.79
+|3
+|-
+! scope="row"| 7
+| align="left" | {{Start date|df=y|2020|11|03}} || 10.87 ||11.27  || 1
+|-
+! scope="row"| 8
+| align="left" | {{Start date|df=y|2020|11|10}} ||10.91
+|11.26
+|3
+|-
+! scope="row"| 9
+| align="left" |{{Start date|df=y|2020|11|17}} ||10.83
+|10.98
+|8
+|-
+! scope="row"| 10
+| align="left" |{{Start date|df=y|2020|11|24}} ||11.74  ||11.84|| 1
+|}
+
+In the US, collection 8 was ranked amongst the top 10 most-streamed shows in the US, according to Nielsen's streaming rankings for the week of October 12.<ref>{{Cite news|last=Meadows|first=Sam|date=2020-11-13|title=Great British Bake Off breaks into top 10 most-streamed shows in the USA|language=en-GB|work=The Telegraph|url=https://www.telegraph.co.uk/news/2020/11/13/great-british-bake-breaks-top-10-most-streamed-shows-usa/|access-date=2021-09-11|issn=0307-1235}}</ref> With 674 million minutes streamed, the show was the 5th most watched program on Netflix for the week.<ref>{{Cite web|last=Thorne|first=Will|date=2020-11-12|title='The Great British Baking Show' Bursts Into Nielsen's Streaming Top 10 List|url=https://variety.com/2020/tv/news/great-british-baking-show-nielsen-streaming-top-10-list-1234830491/|access-date=2021-09-11|website=Variety|language=en-US}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off (series 11), The}}
+[[Category:The Great British Bake Off|Series 11]]
+[[Category:2020 British television seasons]]

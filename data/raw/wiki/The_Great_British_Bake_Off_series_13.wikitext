@@ -1,0 +1,1027 @@
+{{Short description|None}}
+{{Use dmy dates|date=September 2022}}
+{{Infobox television season
+| image         = 
+| caption       = 
+| series_number = 13
+| module1       = {{Infobox reality competition season
+ | presenter       = [[Noel Fielding]]<br>[[Matt Lucas]]
+ | judges          = [[Paul Hollywood]]<br>[[Prue Leith]]
+ | num_contestants = 12
+ | winner          = Syabira Yusoff
+ | runner_up       = Abdul Rehman Sharif<br>Sandro Farmhouse
+ | location        = [[Welford Park]], near Newbury, Berkshire
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 30
+}}
+| num_episodes  = 10
+| network       = [[Channel 4]]
+| first_aired   = {{Start date|df=y|2022|09|13}}
+| last_aired    = {{end date|df=y|2022|11|15}}
+}}
+
+The '''thirteenth series''' of ''[[The Great British Bake Off]]'' began on 13 September 2022.<ref>{{cite news |date=1 September 2022 |title=The Great British Bake Off returning on September 13 |work=[[Heart (radio network)|Heart]] |url=https://heart.co.uk/showbiz/tv-movies/great-british-bake-off/2022-return-date-announced-september/ |url-status=live |access-date=7 September 2022 |archive-url=https://web.archive.org/web/20220902124717/https://www.heart.co.uk/showbiz/tv-movies/great-british-bake-off/2022-return-date-announced-september/ |archive-date=2 September 2022}}</ref> It is again presented by [[Noel Fielding]] and [[Matt Lucas]] and judged by [[Paul Hollywood]] and [[Prue Leith]].<ref>{{cite news |date=7 September 2022 |title=Great British Bake Off 2022 start date confirmed by Channel 4 |work=[[Radio Times]] |url=https://www.radiotimes.com/tv/entertainment/great-british-bake-off-2022-start-date-confirmed-newsupdate/ |url-status=live |access-date=7 September 2022 |archive-url=https://web.archive.org/web/20220901085800/https://www.radiotimes.com/tv/entertainment/great-british-bake-off-2022-start-date-confirmed-newsupdate/ |archive-date=1 September 2022}}</ref> The bakers competing in the series were announced on 2 September 2022.<ref>{{cite news |date=4 September 2022 |title=Great British Bake Off 2022: Meet this year's bakers |work=[[BBC News]] |url=https://www.bbc.co.uk/newsround/62786542 |url-status=live |access-date=7 September 2022 |archive-url=https://web.archive.org/web/20220906162901/https://www.bbc.co.uk/newsround/62786542 |archive-date=6 September 2022}}</ref><ref>{{cite news |date=5 September 2022 |title=Great British Bake Off 2022: Meet the new contestants |work=[[Digital Spy]] |url=https://www.digitalspy.com/tv/reality-tv/g41084533/great-british-bake-off-2022-new-contestants/ |url-status=live |access-date=7 September 2022 |archive-url=https://web.archive.org/web/20220906151028/https://www.digitalspy.com/tv/reality-tv/g41084533/great-british-bake-off-2022-new-contestants/ |archive-date=6 September 2022}}</ref> The series was filmed at [[Welford Park]], an estate near [[Newbury, Berkshire|Newbury]], [[Berkshire]] which was previously used for the programme from 2014 to 2019.<ref>{{Cite web |title=Where is the Great British Bake Off filmed? |url=https://www.thetimes.com/travel/inspiration/where-is-the-great-british-bake-off-filmed-bns860zx2 |website=[[The Times]] |date=13 September 2022 }}</ref>
+
+The season was won by Syabira Yusoff, with Abdul Rehman Sharif and Nelsandro "Sandro" Farmhouse finishing as the runners-up. Yusoff is the first female winner since Sophie Faldo from Season 8.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2022/nov/15/the-great-british-bake-off-2022-final-live|title=The Great British Bake Off 2022 final – as it happened|date=15 November 2022|work=Guardian|accessdate=16 November 2022}}</ref><ref>{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a41970742/great-british-bake-off-winner-2022-series/|title=Great British Bake Off reveals winner for 2022 series|date=15 November 2022|work=Digital Spy|accessdate=16 November 2022}}</ref>
+
+This was the final series presented by Matt Lucas, who announced his departure from the programme on 6 December 2022.
+
+== Bakers ==
+{| class="wikitable sortable" style="text-align:center;"
+!scope="col"|Contestant<ref>{{cite news |title=The Great British Bake Off - Meet the Class of 2022 |url=https://www.channel4.com/press/news/great-british-bake-meet-class-2022 |publisher=[[Channel 4]] |access-date=7 September 2022 |date=2 September 2022 |archive-date=3 September 2022 |archive-url=https://web.archive.org/web/20220903221514/https://www.channel4.com/press/news/great-british-bake-meet-class-2022 |url-status=live }}</ref>
+!scope="col"|Age
+!scope="col"|Hometown
+!scope="col"|Occupation
+!scope="col"|Finish
+!scope="col"|Place
+|-
+! scope="row" | Will Hawkins
+| 45
+| [[London]], [[England]]
+| Former charity director <ref>{{cite news |title=Meet Will, Great British Bake Off 2022 contestant and DIY enthusiast |url=https://www.radiotimes.com/tv/entertainment/will-bake-off-2022-contestant/ |work=[[Radio Times]] |access-date=7 September 2022 |date=6 September 2022 |archive-date=6 September 2022 |archive-url=https://web.archive.org/web/20220906224047/https://www.radiotimes.com/tv/entertainment/will-bake-off-2022-contestant/ |url-status=live }}</ref>
+|Episode 1
+|12th
+|-
+! scope="row" | Maisam Algirgeet
+| 18
+| [[Manchester]], England
+| Student and sales assistant<ref>{{cite news |title=Meet Maisam, Great British Bake Off 2022 contestant and student |url=https://www.radiotimes.com/tv/entertainment/great-british-bake-off-2022-contestant-maisam/ |work=[[Radio Times]] |access-date=7 September 2022 |date=6 September 2022 |archive-date=6 September 2022 |archive-url=https://web.archive.org/web/20220906182057/https://www.radiotimes.com/tv/entertainment/great-british-bake-off-2022-contestant-maisam/ |url-status=live }}</ref>
+|Episode 2
+|11th
+|-
+! scope="row" | James Dewar
+| 25
+| [[Cumbria]], England
+| Nuclear scientist<ref>{{cite news |title=Meet James, Great British Bake Off 2022 contestant and nuclear scientist |url=https://www.radiotimes.com/tv/entertainment/james-bake-off-2022-contestant/ |work=[[Radio Times]] |access-date=7 September 2022 |date=6 September 2022 |archive-date=6 September 2022 |archive-url=https://web.archive.org/web/20220906223319/https://www.radiotimes.com/tv/entertainment/james-bake-off-2022-contestant/ |url-status=live }}</ref>
+|rowspan="2"|Episode 4
+|rowspan="2"|9th (tie)
+|-
+! scope="row" | Rebecca 'Rebs' Lightbody
+| 23
+| [[County Antrim]], [[Northern Ireland]]
+| Masters student<ref>{{cite news |title=Meet Rebs, Great British Bake Off 2022 contestant and student |url=https://www.radiotimes.com/tv/entertainment/rebs-bake-off-2022-contestant/ |work=[[Radio Times]] |access-date=7 September 2022 |date=6 September 2022 |archive-date=6 September 2022 |archive-url=https://web.archive.org/web/20220906224351/https://www.radiotimes.com/tv/entertainment/rebs-bake-off-2022-contestant/ |url-status=live }}</ref>
+|-
+! scope="row" | Carole Edwards
+| 59
+| [[Dorset]], England
+| Supermarket cashier<ref>{{cite news |title=Meet Carole, Great British Bake Off 2022 contestant and supermarket cashier |url=https://www.radiotimes.com/tv/entertainment/british-bake-off-2022-carole-contestant-and-supermarket-cashier/ |work=[[Radio Times]] |access-date=7 September 2022 |date=6 September 2022 |archive-date=6 September 2022 |archive-url=https://web.archive.org/web/20220906224128/https://www.radiotimes.com/tv/entertainment/british-bake-off-2022-carole-contestant-and-supermarket-cashier/ |url-status=live }}</ref>
+|Episode 5
+|8th
+|-
+! scope="row" | Dawn Hollyoak
+| 60
+| [[Bedfordshire]], England
+| IT manager<ref>{{cite news |title=Meet Dawn, Great British Bake Off 2022 contestant and IT manager |url=https://www.radiotimes.com/tv/entertainment/dawn-bake-off-2022-contestant/ |work=[[Radio Times]] |access-date=7 September 2022 |date=6 September 2022 |archive-date=6 September 2022 |archive-url=https://web.archive.org/web/20220906141724/https://www.radiotimes.com/tv/entertainment/dawn-bake-off-2022-contestant/ |url-status=live }}</ref>
+|Episode 6
+|7th
+|-
+! scope="row" | Kevin Flynn 
+| 33
+| [[Lanarkshire]], Scotland
+| Music teacher<ref>{{cite news |title=Meet Kevin, Great British Bake Off 2022 contestant and music teacher |url=https://www.radiotimes.com/tv/entertainment/kevin-bake-off-2022-contestant/ |work=[[Radio Times]] |access-date=7 September 2022 |date=6 September 2022 |archive-date=6 September 2022 |archive-url=https://web.archive.org/web/20220906224415/https://www.radiotimes.com/tv/entertainment/kevin-bake-off-2022-contestant/ |url-status=live }}</ref>
+|Episode 7
+|6th
+|-
+! scope="row" | {{nowrap|Marie-Therese 'Maxy' Maligisa}}
+| 29
+| London, England
+| nowrap|Architectural assistant<ref>{{cite news |title=Meet Maxy, Great British Bake Off 2022 contestant and architectural assistant |url=https://www.radiotimes.com/tv/entertainment/maxy-bake-off-2022-contestant/ |work=[[Radio Times]] |access-date=7 September 2022 |date=6 September 2022 |archive-date=6 September 2022 |archive-url=https://web.archive.org/web/20220906223753/https://www.radiotimes.com/tv/entertainment/maxy-bake-off-2022-contestant/ |url-status=live }}</ref>
+|Episode 8
+|5th
+|-
+! scope="row" | Janusz Domagala
+| 34
+| [[East Sussex]], England
+| {{nowrap|Personal assistant to head teacher}}<ref>{{cite news |title=Meet Janusz, Great British Bake Off 2022 contestant and personal assistant |url=https://www.radiotimes.com/tv/entertainment/janusz-bake-off-2022-contestant/ |work=[[Radio Times]] |access-date=7 September 2022 |date=6 September 2022 |archive-date=6 September 2022 |archive-url=https://web.archive.org/web/20220906223927/https://www.radiotimes.com/tv/entertainment/janusz-bake-off-2022-contestant/ |url-status=live }}</ref>
+|Episode 9
+|4th
+|-
+! scope="row" | {{nowrap|Abdul Rehman Sharif}}
+| 29
+| London, England
+| Electronics engineer <ref>{{cite news |title=Meet Abdul, Great British Bake Off 2022 contestant and electronics engineer |url=https://www.radiotimes.com/tv/entertainment/abdul-bake-off-2022-contestant/ |work=[[Radio Times]] |access-date=7 September 2022 |date=6 September 2022 |archive-date=6 September 2022 |archive-url=https://web.archive.org/web/20220906222842/https://www.radiotimes.com/tv/entertainment/abdul-bake-off-2022-contestant/ |url-status=live }}</ref>
+|rowspan="3"|{{nowrap|Episode 10}}
+|rowspan="2"|{{sort|2.5|}}Runner-up
+|-
+! scope="row" | Nelsandro "Sandro" Farmhouse
+| 30
+| London, England
+| Nanny<ref>{{cite news |title=Meet Sandro, Great British Bake Off 2022 contestant and nanny |url=https://www.radiotimes.com/tv/entertainment/great-british-bake-off-2022-sandro-contestant/ |work=[[Radio Times]] |access-date=7 September 2022 |date=6 September 2022 |archive-date=6 September 2022 |archive-url=https://web.archive.org/web/20220906223600/https://www.radiotimes.com/tv/entertainment/great-british-bake-off-2022-sandro-contestant/ |url-status=live }}</ref>
+|-
+! scope="row" | Syabira Yusoff
+| 32
+| London, England
+| nowrap|Cardiovascular research associate<ref>{{cite news |title=Meet Syabira, Great British Bake Off 2021 contestant and avid gamer |url=https://www.radiotimes.com/tv/entertainment/great-british-bake-off-2022-syabira-contestant/ |work=[[Radio Times]] |access-date=7 September 2022 |date=6 September 2022 |archive-date=6 September 2022 |archive-url=https://web.archive.org/web/20220906224859/https://www.radiotimes.com/tv/entertainment/great-british-bake-off-2022-syabira-contestant/ |url-status=live }}</ref>
+|1st
+|}
+
+== Results summary ==
+{| class="wikitable" style="text-align:center"
+|+ Elimination chart
+|-
+! scope="col"| Baker
+! scope="col"| 1
+! scope="col"| 2
+! scope="col"| 3
+! scope="col"| 4
+! scope="col"| 5
+! scope="col"| 6
+! scope="col"| 7
+! scope="col"| 8
+! scope="col"| 9
+! scope="col"| 10
+|-
+! scope="row" | Syabira
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| SAFE
+| style="background:plum;"| LOW
+| style="background:lemonchiffon;"|SB
+| style="background:lemonchiffon;"|SB
+| style="background:lemonchiffon;"|SB
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Yellow;"|WINNER
+|-
+! scope="row" | Abdul
+| SAFE
+| style="background:Cornflowerblue"| {{color|white|HIGH}} 
+| style="background:Gainsboro;"|{{ref|1|[a]}}
+| SAFE
+| SAFE
+| SAFE
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:lemonchiffon;"|SB
+|style="background:limegreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row" | Sandro
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:lemonchiffon;"|SB
+| SAFE
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:plum;"| LOW
+| style="background:plum;"| LOW
+|style="background:limegreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row" | Janusz
+| style="background:lemonchiffon;"|SB
+| SAFE
+| style="background:lemonchiffon;"|SB
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| style="background:plum;"| LOW
+| SAFE
+| style="background:orangered"| OUT 
+| colspan="7" style="background:darkgrey"|
+|-
+! scope="row" | Maxy
+| SAFE
+| style="background:lemonchiffon;"|SB
+| SAFE
+| style="background:lemonchiffon;"|SB
+| SAFE
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| SAFE
+| style="background:orangered"| OUT
+| colspan="7" style="background:darkgrey"|
+|-
+! scope="row" | Kevin
+| SAFE
+| SAFE
+| style="background:plum;"| LOW
+| SAFE
+| SAFE
+| style="background:plum;"| LOW
+| style="background:orangered"| OUT
+| colspan="7" style="background:darkgrey"|
+|-
+! scope="row" | Dawn
+| style="background:cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:plum;"| LOW
+| style="background:cornflowerblue;"| {{color|white|HIGH}}
+| style="background:plum;"| LOW
+| style="background:orangered"| OUT
+| colspan="7" style="background:darkgrey"| 
+|-
+! scope="row" | Carole
+| SAFE
+| style="background:plum;"| LOW
+| style="background:plum;"| LOW
+| style="background:plum;"| LOW
+| style="background:orangered"| OUT
+| colspan="7" style="background:darkgrey"| 
+|-
+! scope="row" | James
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| style="background:orangered"| OUT
+| colspan="7" style="background:darkgrey"| 
+|-
+! scope="row" | Rebs
+| style="background:plum;"| LOW
+| style="background:plum;"| LOW
+| style="background:Gainsboro;"|{{ref|1|[a]}}
+| style="background:orangered"| OUT
+| colspan="7" style="background:darkgrey"| 
+|-
+! scope="row" | Maisam
+| style="background:plum;"| LOW
+| style="background:orangered"| OUT
+| colspan="8" style="background:darkgrey"| 
+|-
+! scope="row" | Will
+| style="background:orangered"| OUT
+| colspan="9" style="background:darkgrey"|
+|-
+|}
+<small>{{ref|1|[a]}} Abdul and Rebs were ill and unable to compete in episode 3; at the end of the episode, the judges decided it was unfair to eliminate anyone in their absence.</small>
+
+'''Colour key:'''
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|CornflowerBlue|outline=darkgray|Baker was one of the judges' favourite bakers that week, but was not the Star Baker.}}
+{{legend|White|outline=darkgray|Baker got through to the next round.}}
+{{legend|Gainsboro|outline=darkgray|Baker did not compete that week.}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated.}}
+{{legend|LemonChiffon|outline=darkgray|Baker was the Star Baker.}}
+{{legend|LimeGreen|outline=darkgray|Baker was a series runner-up.}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner.}}
+
+== Episodes ==
+'''Colour key:'''
+{{legend|#FFC7C7|Baker was eliminated at conclusion of episode}}
+{{legend|#E7E7FF|Baker received a "Hollywood handshake" for respective bake}}
+{{legend|#BFD|Baker was named "Star Baker" at conclusion of episode}}
+{{legend|#DFF|Baker was named runner-up for the series}}
+{{legend|gold|Baker won series}}
+
+=== Episode 1: Cake ===
+For the first signature challenge, the bakers were required to bake twelve identical mini sandwich cakes in two hours. For the technical challenge, set by Paul, the bakers were tasked with making a six-layered [[red velvet cake]] in two hours, each layer sandwiched with cream cheese frosting and sprinkled with red crumbs. A 3D cake replica of a home that the bakers once lived in was set as the showstopper; the bakers were given four hours, the judges expecting the bake to be full of detail.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(12 Mini Sandwich Cakes)</small>
+! scope="col"| Technical<br><small>([[Red Velvet Cake]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(Cake Home)</small>
+! scope="col"| Result
+|-
+! scope="row"|Abdul
+| 'Cake-y Cacti'
+| 6th
+| 'Summer In Pakistan'
+| {{Safe}}
+|-
+! scope="row"|Carole
+| 'To Bee or not to Bee'
+| 8th
+| 'Little House In The Country'
+| {{Safe}}
+|-
+! scope="row"|Dawn
+| Lime, Coconut & Tamarind Spring Cakes
+| 3rd
+| 'Nan's House'
+| {{Safe}}
+|-
+! scope="row"|James
+| Sticky Toffee Apple Candles
+| 12th
+| 'Last House On The Loch'
+| {{Safe}}
+|-
+! scope="row"|Janusz
+| Pistachio & Cherry Vodka Liquor [[Wuzetka]]
+| 7th
+| 'Home Is Where The Flowers Grow'
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Kevin
+| Mini Persian Love Cakes
+| 4th
+| 'Ba-Na-Na That's My Hame'
+| {{Safe}}
+|-
+! scope="row"|Maisam
+| Pistachio Cakes with Raspberry Buttercream
+| 5th
+| 'My Childhood Home'
+| {{Safe}}
+|-
+! scope="row"|Maxy
+| 'Mango Magic Mess'
+| 10th
+| 'At My Mama's'
+| {{Safe}}
+|-
+! scope="row"|Rebs
+| Hazelnut Mocha Latte Mini Cakes
+| 11th
+| 'Piña Colada Cottage'
+| {{Safe}}
+|-
+! scope="row"|Sandro
+| 'A Bitesize of Love'
+| 2nd
+| 'Best Time Ever' Cake
+| {{Safe}}
+|-
+! scope="row"|Syabira
+| Coconut, Pandan & Caramel Mousse Cake
+| 1st
+| 'Happiest Childhood Memory'
+| {{Safe}}
+|-
+! scope="row"|Will
+| Ginger & Caramel Squares
+| 9th
+| 'First London Family Home'
+| {{Eliminated}}
+|-
+|}
+
+=== Episode 2: Biscuits ===
+The signature bake was eighteen Decorative [[macarons]] with a twist – they must be made to appear like something else. Two hours was given for the challenge. For the technical challenge, set by Prue, the bakers were given one hour and forty-five minutes to bake twelve [[Garibaldi biscuits]] with feathered chocolate on top. A 3D biscuit mask to be completed in 4 hours was the showstopper challenge.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(18 Decorative [[Macarons]])</small>
+! scope="col"| Technical<br><small>([[Garibaldi Biscuits]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(3D Biscuit Mask)</small>
+! scope="col"| Result
+|-
+! scope="row"|Abdul
+| 'Fudgetastic Maca-Cones'
+| 11th
+| 'Parrot-astic' Biscuits
+| {{Safe}}
+|-
+! scope="row"|Carole
+| 'Just A Mouthful'
+| 4th
+| 'Macaron Masquerade'
+| {{Safe}}
+|-
+! scope="row"|Dawn
+| {{longlisted|align=left|'Toy Shop Yarns'}}
+| 9th
+| 'Baroque-Punk' Mask
+| {{Safe}}
+|-
+! scope="row"|James
+| 'Raccarons'
+| 2nd
+| Menacing Mask
+| {{Safe}}
+|-
+! scope="row"|Janusz
+| Miniature Melons
+| 6th
+| Cubist Mask
+| {{Safe}}
+|-
+! scope="row"|Kevin
+| Mint Choc Trip
+| 8th
+| Mythical Mask
+| {{Safe}}
+|-
+! scope="row"|Maisam
+| Cute Carrots
+| 7th
+| Venetian Mask
+| {{Eliminated}}
+|-
+! scope="row"|Maxy
+| {{longlisted|align=left|Baby Daisies}}
+| 5th
+| Masquerade
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Rebs
+| 'Wee Branstons'
+| 1st
+| Floral Fascinator
+| {{Safe}}
+|-
+! scope="row"|Sandro
+| 'Cheat Day Treat'
+| 3rd
+| Carnival Costume
+| {{Safe}}
+|-
+! scope="row"|Syabira
+| [[Satay]] Macarons
+| 10th
+| 'Two Face, One Soul'
+| {{Safe}}
+|-
+|}
+
+=== Episode 3: Bread ===
+The bakers were set the task of making two sharing-size [[pizza]]s in two hours for the signature challenge. The technical challenge, set by Paul, was the baking of twelve [[pain aux raisins]], to be completed in two hours and forty-five minutes. Finally, for their {{frac|4|1|2}}-hour showstopper, the bakers were asked to create their own interpretation of a Swedish celebration 'cake', the [[Smörgåstårta]], topped with exquisite decorations.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(2 [[pizza]]s)</small>
+! scope="col"| Technical<br><small>(12 [[Pain aux raisins]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>([[Smörgåstårta]])</small>
+! scope="col"| Result
+|-
+! scope="row"|Abdul
+| colspan="3" {{n/a|''Did not compete''}}
+| {{Safe}}{{ref|1|1}}
+|-
+! scope="row"|Carole
+| 'Pizza Exceptional'
+| 8th
+| 'Something Fishy' Smörgåstårta
+| {{Safe}}
+|-
+! scope="row"|Dawn
+| Tex-Mex Pizza
+| 6th
+| Chicken [[Souvlaki]] Smörgåstårta
+| {{Safe}}
+|-
+! scope="row"|James
+| 'It Does Belong!' Ham, Mushroom and Pineapple Pizza
+| 3rd
+| 'The Most Pandastic' Smörgåstårta
+| {{Safe}}
+|-
+! scope="row"|Janusz
+| Full English Breakfast Pizza
+| 1st
+| 'Fish and Chip Shop' Smörgåstårta
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Kevin
+| 'Now Bring Us Some Figgy Pizza'
+| 7th
+| 'I've Started So I'll Fin-ish' Smörgåstårta
+| {{Safe}}
+|-
+! scope="row"|Maxy
+| Sweet Rosemary Lamb Pizza
+| 2nd
+| 'Curvy Seafood' Smörgåstårta
+| {{Safe}}
+|-
+! scope="row"|Rebs
+| colspan="3" {{n/a|''Did not compete''}}
+| {{Safe}}{{ref|1|1}}
+|-
+! scope="row"|Sandro
+| Sweet & Spicy Pizza
+| 4th
+| 'Ultimate' Smörgåstårta
+| {{Safe}}
+|-
+! scope="row"|Syabira
+| Malaysian Prawn [[Sambal]] Pizza
+| 5th
+| [[Nasi Lemak]] Smörgåstårta
+| {{Safe}}
+|-
+|}
+{{note|1|1}} Both Abdul and Rebs did not compete due to falling ill. Consequently, no one was eliminated this week but the following week would be a double elimination.
+
+=== Episode 4: Mexican ===
+For their signature challenge, the bakers were asked to make twelve individual [[Pan dulce]] ("sweet bread" pastries) in {{frac|2|1|2}} hours. Paul's technical challenge required them to make eight Mexican hand-pressed corn [[tacos]] and their fillings, in two hours. The showstopper gave them four hours to make their own four-layer version of a [[Tres Leches Cake]] ('three-milk cake', a sponge cake soaked in three kinds of milk).
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(12 [[Pan dulce]])</small>
+! scope="col"| Technical<br><small>(8 [[Tacos]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>([[Tres leches cake|Tres Leches Cake]])</small>
+! scope="col"| Result
+|-
+! scope="row"|Abdul
+| Coconut & Raspberry Besos
+| 6th
+| '[[Day of the Dead]]' Tres Leches Cake
+| {{Safe}}
+|-
+! scope="row"|Carole
+| Orange & Anise Seed Pan Dulce
+| 10th
+| 'Pastel de Chocolate Mexicano' Tres Leches Cake
+| {{Safe}}
+|-
+! scope="row"|Dawn
+| 'Dark Chocolate & Chilli Kick' [[Concha (bread)|Conchas]]
+| 5th
+| 'Blooming' Tres Leches Cake
+| {{Safe}}
+|-
+! scope="row"|James
+| 'Coffee Caramel Oyster' Conchas
+| 8th
+| Chocolate & Lime 'Many Leches' Cake
+| {{Eliminated}}
+|-
+! scope="row"|Janusz
+| Cacti Conchas
+| 7th
+| 'Fruity [[Horchata]]' Tres Leches Cake
+| {{Safe}}
+|-
+! scope="row"|Kevin
+| 'Sweet Breads are Made of These' Borrachitos
+| 4th
+| 'Meci-Cocoa Pyramid' Tres Leches Cake
+| {{Safe}}
+|-
+! scope="row"|Maxy
+| 'Bella Naranja' Conchas
+| 1st
+| 'Cocoa Flower Fiesta' Tres Leches Cake
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Rebs
+| Lemon Conchas
+| 9th
+| 'Mexican [[Tiramisu]]' Tres Leches Cake
+| {{Eliminated}}
+|-
+! scope="row"|Sandro
+| Filled Concha Buns
+| 3rd
+| 'It's a Fiesta' Tres Leches Cake
+| {{Safe}}
+|-
+! scope="row"|Syabira
+| [[Pan dulce#Pan de elote|Corn on the Cob]] Conchas
+| 2nd
+| Sweetcorn & Cinnamon Tres Leches Cake
+| {{Safe}}
+|-
+|}
+
+=== Episode 5: Desserts ===
+For the signature the bakers had two hours to make eight individual steamed puddings, with an accompaniment of their choice. Prue's technical challenge gave them two hours to bake her favorite classic [[lemon meringue pie]]. The showstopper challenge required the bakers to produce a three-element mousse-based dessert with a surprise inside, and including three other dessert elements, in four hours, thirty minutes.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(8 Steamed [[Puddings]])</small>
+! scope="col"| Technical<br><small>([[Lemon Meringue Pie]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(Hidden Surprise [[Mousse]] Dessert)</small>
+! scope="col"| Result
+|-
+! scope="row"|Abdul
+|Fig & Date Puddings
+| 2nd
+| 'A Little Galaxy' Mousse Dessert
+| {{Safe}}
+|-
+! scope="row"|Carole
+|'My Little Beauties'
+| 6th
+|'Strawberry Fields'
+|{{Eliminated}}
+|-
+! scope="row"|Dawn
+|'Traditional' Steamed Puddings
+| 7th
+|'Woodland' Mousse Dessert
+| {{Safe}}
+|-
+! scope="row"|Janusz
+| Piña Colada Puddings
+| 1st
+|‘Cake Within a Cake Surprise'
+| {{Safe}}
+|-
+! scope="row"|Kevin
+|[[Clootie dumpling|Clootie Dumplings]]
+| 5th
+|'What The Dog Dug'
+| {{Safe}}
+|-
+! scope="row"|Maxy
+|[[Sticky toffee pudding|Sticky Toffee Puddings]]
+| 3rd
+|'Sunset Surprise'
+| {{Safe}}
+|-
+! scope="row"|Sandro
+|Apple & Cherry Crumble Puddings
+| 4th
+|'It's a Mousse World'
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Syabira
+|Watermelon Steamed Puddings
+| 8th
+|'Bee Positive'
+| {{Safe}}
+|-
+|}
+
+=== Episode 6: Halloween ===
+In the program's first-ever Halloween Week, the signature bake was a decorated [[Apple cake|Apple Cake]], to be produced in two hours. The technical challenge set by Paul gave them two hours to produce eight toasted marshmallow and chocolate campfire snack [[S'mores]]. The four-hour showstopper challenge asked them to make a Halloween [[piñata]] hanging lantern filled with sweet treats.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>([[Apple cake|Apple Cake]])</small>
+! scope="col"| Technical<br><small>(8 [[S'mores]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(Edible Hanging Halloween [[Piñata]] Lantern)</small>
+! scope="col"| Result
+|-
+! scope="row"|Abdul
+| Bonfire Cake
+| 7th
+| Witches Lantern
+| {{Safe}}
+|-
+! scope="row"|Dawn
+|'Ukrainian Sharlotka'
+| 5th
+| 'A Cat in a Fancy Hat' Lantern
+| {{Eliminated}}
+|-
+! scope="row"|Janusz
+|'Mum's Apple Cake'
+| 2nd
+| 'Halloween Horror Movie Popcorn' Lantern
+| {{Safe}}
+|-
+! scope="row"|Kevin
+| 'Apple Bobbing'
+| 3rd
+| 'Arachna-FOMO' Lantern
+| {{Safe}}
+|-
+! scope="row"|Maxy
+| {{longlisted|align=left|Classic Apple & Walnut Cake}}
+| 6th
+| 'Spoooooky' Lantern
+| {{Safe}}
+|-
+! scope="row"|Sandro
+|Creepy Apple [[Crumble]] Cake
+| 4th
+| 'Dead Disco Ball' Lantern
+| {{Safe}}
+|-
+! scope="row"|Syabira
+| {{longlisted|align=left|'Witch Apple'}}
+| 1st
+| 'Itsy Bitsy Spider' Lantern
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+|}
+
+=== Episode 7: Custard ===
+The signature challenge gave the bakers ninety minutes to produce eight [[Floating island (dessert)|Floating Islands]]. Prue set a technical challenge giving two hours, forty-five minutes to make six cones filled with pistachio and praline ice cream. The time-sensitive nature of the technical challenge required that the bakers' starting times be staggered (in order—Sandro, Janusz, Syabira, Maxy, Kevin, Abdul) and the judges taste each ice cream cone right after it was completed by the bakers. The showstopper challenge required them to bake a multi-layered [[Layer cake|gateau]] featuring a set custard, in four hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(8 [[Floating island (dessert)|Floating Islands]])</small>
+! scope="col"| Technical<br><small>(6 [[Pistachio ice cream|Pistachio and Praline Ice Cream]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>([[Custard]] Gateau)</small>
+! scope="col"| Result
+|-
+! scope="row"|Abdul
+|Cherry, Orange & Pistachio Floating Islands 
+| 4th
+|Peach & Raspberry [[Mille-feuille]]
+| {{Safe}}
+|-
+! scope="row"|Janusz
+|'Morning Vanilla Latte' Floating Islands
+| 5th
+| 'Neapolitan' Custard Gateau
+| {{Safe}}
+|-
+! scope="row"|Kevin
+|'Everything's Coming Up Roses' Floating Islands
+| 3rd
+| 'My Honey Valentine' Custard Gateau
+| {{Eliminated}}
+|-
+! scope="row"|Maxy
+|'Blueberry Lagoon' Floating Islands
+| 2nd
+| 'The Promised Land' Custard Gateau 
+| {{Safe}}
+|-
+! scope="row"|Sandro
+|Cherry, Almond & Hazelnut Floating Island
+| 1st
+| 'Tribute to a Friend' Custard Gateau
+| {{Safe}}
+|-
+! scope="row"|Syabira
+|Mojito Floating Islands
+| 6th
+| 'Piña Coladas Anyone?' Custard Gateau
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+|}
+
+=== Episode 8: Pastry (Quarterfinals) ===
+
+The bakers produced a dozen [[vol-au-vent]]s with a sweet (not the more common savory) filling in the two-hour signature challenge, The technical challenge set by Prue required them to make eight crispy deep-fried [[spring roll]]s with a dipping sauce, in one hour, twenty minutes. For the showstopper they were asked to create a spectacular 3D pie scene inspired by favorite childhood story or nursery rhyme, consisteing of at least eight pies, all in four hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br> <small>(12 Sweet [[Vol-au-vent]]s)</small>
+! scope="col"| Technical<br> <small>(8 [[Spring roll|Spring Rolls]])</small>
+! scope="col" class="unsortable"| Showstopper<br> <small> (3D Storybook Pie Scene)</small>
+! scope="col"| Result
+|-
+! scope="row"|Abdul
+|Coconut and Berry Vol-au-Vents
+| 3rd
+| 'Adventures of a Pie-rate' Pie Scene
+| {{Safe}}
+|-
+! scope="row"|Janusz
+|'Strawberries & Cream' Vol-au-Vents
+| 2nd
+| 'The Very Hungry Sausage Dog' Pie Scene
+| {{Safe}}
+|-
+! scope="row"| '''Maxy'''
+|'Summertime Fine' Vol-au-Vents
+| 5th
+| 'Spicy Twinkling Stars' Pie Scene
+| {{Eliminated}}
+|-
+! scope="row"|Sandro
+|'Key-Lime' Vol-au-Vents
+| 1st
+| Caterpillar Pie Scene
+| {{Safe}}
+|-
+! scope="row"| Syabira
+|'Citrus Dreams' Vol-au-Vents
+| 4th
+| 'Jack and the Beanstalk' Pie Scene
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+|}
+
+=== Episode 9: Pâtisserie (Semi-final)===
+
+In the [[Pâtisserie|Patisserie]] Week signature challenge, the semi-finalist bakers were asked to make six Mini [[Charlotte (cake)|Charlottes]] in {{frac|2|1|2}} hours. Prue's technical challenge required they bake four precisely assembled [[shortcrust pastry]] vertical tarts in two hours. The showstopper challenge was to make their own version of the Swedish [[Krokan]] multi-tiered almond biscuit dough creation in four hours.
+ 
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br> <small>(6 Mini [[Charlotte (cake)|Charlottes]])</small>
+! scope="col"| Technical<br> <small>(4 Chocolate, Hazelnut and Raspberry Vertical Tarts)</small>
+! scope="col" class="unsortable"| Showstopper<br> <small>([[Krokan]])</small>
+! scope="col"| Result
+|-
+! scope="row"|Abdul
+|'Pistachio Tiramisu' Mini-Charlottes
+| 2nd
+|'To the Stars!' Krokan
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Janusz
+|'Plums in Chocolate' Mini-Charlottes
+| 3rd
+|'Brighton Pride' Krokan
+| {{Eliminated}}{{efn|Viewers were in uproar over Janusz's elimination with TV regulator OFCOM receiving 157 complaints following the airing of the semi-final.{{citation needed|date=August 2023}}}}
+|-
+! scope="row"|Sandro
+|'Caramel Nutty' Mini-Charlottes
+| 4th
+|'Where it Started to How it's Going' Krokan
+| {{Safe}}
+|-
+! scope="row"|Syabira
+|'Peanut & Berries' Mini-Charlottes
+| 1st
+|'The DNA in You' Krokan
+| {{Safe}}
+|-
+|}
+{{notelist}}
+
+=== Episode 10: Final ===
+The signature challenge asked the finalists to produce a perfect picnic, using seasonal British ingredients to make six mini-cakes, six individual vegetarian pies, and six finger sandwiches (first making a classic white bread loaf), in three hours. Paul set the technical challenge, allowing two hours to make a Summer pudding bombe. For the outer shell of their bombe, the bakers were given the unused white bread loaf they baked from their signature challenge. For the {{frac|4|1|2}} hour showstopper, they needed to make a large edible sculpture on the theme of "Our Beautiful Planet" that consisted of a large cake base and demonstrating three additional baking skills.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(Seasonal Picnic)</small>
+! scope="col"| Technical<br><small>(Summer Pudding [[Bombe glacée|Bombe]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(Large Planet Themed Edible Sculpture)</small>
+! scope="col"| Result
+|-
+! scope="row"|Abdul
+| Summer Picnic
+| 1st
+| 'It's All About The Bees' Edible Sculpture
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"|Sandro
+| Summer Picnic
+| 3rd
+| 'The World From Different Angles' Edible Sculpture
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"|Syabira
+| Summer Picnic
+| 2nd
+| 'This is My Home' Edible Sculpture
+| {{sort|1|}}{{Won|Winner|color=gold}}
+|}
+
+==Specials==
+
+Two specials were commissioned for the festive season:
+
+=== ''The Great Christmas Bake Off'' ===
+
+The Great Christmas Bake Off featured five Channel 4 legends in commemoration of the channel's 40th anniversary: [[Miquita Oliver]], [[Terry Christian]], [[Tony Robinson]], [[Gaby Roslin]] and [[Claire Sweeney]].
+
+The signature challenge was for the bakers to bake eight individual cakes shaped like baubles, which had to include a filling or an icing, in two hours. The technical challenge, set by Paul, asked the bakers to make a tear and share, with Camembert, in the shape of a Christmas tree, with rough-puff pastry, in one hour and forty-five minutes. The showstopper challenge tasked the bakers to make an edible wreath, made of choux pastry and/or meringue, which had to have a festive filling in three hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small> (Bauble Cakes) </small>
+! scope="col"| Technical<br> <small> (Camembert Tear and Share) </small>
+! scope="col" class="unsortable"| Showstopper<br><small> (Edible Wreath) </small> 
+! scope="col"| Result
+|-
+! scope="row" | Claire
+| Cherry & Amaretto Bauble Cakes
+| 2nd
+| Christmas Spiced Edible Wreath 
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Gaby
+| Gluten-Free 'Fruity' Bauble Cakes
+| 1st
+| Passion Fruit 'Big Breakfast' Edible Wreath 
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Miquita
+| ‘Mirabelle’ Bauble Cakes
+| 3rd
+| 'Abundance & Gratitude' Edible Wreath 
+| {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" | Terry
+| Chocolate & Brandy Christmas Bauble Cakes
+| 5th
+| Festive Edible Wreath
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Tony
+| {{longlisted|align=left|‘Turnip’ Bauble Cakes}}
+| 4th
+| 'Holy Berry Dog' Edible Wreath 
+| {{sort|2.5|}}{{Runner-up}}
+|}
+
+=== ''The Great New Year Bake Off'' ===
+
+The Great New Year Bake Off featured Antony Amourdoux and Manon Lagrève ([[The Great British Bake Off (series 9)|Series 9]]), Lottie Bedlow ([[The Great British Bake Off (series 11)|Series 11]]) and Chigs Parmar ([[The Great British Bake Off (series 12)|Series 12]]).
+
+The signature challenge tasked the bakers with making a savoury [[Beef Wellington|Wellington]] in two and a half hours. The technical challenge, set by Prue, was a vegan [[Baked Alaska]] in two hours and forty-five minutes. The showstopper challenge was for the bakers to make a bûche entremet in four hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small> ([[Beef Wellington|Savoury Wellington]]) </small>
+! scope="col"| Technical<br> <small> (Vegan [[Baked Alaska]]) </small>
+! scope="col" class="unsortable"| Showstopper<br><small> (Bûche [[Entremet#Changes_in_the_19th_and_20th_centuries|Entremet]]) </small> 
+! scope="col"| Result
+|-
+! scope="row" | Antony 
+| 'Kerala Coconut Beef Fry' Wellington 
+| 4th
+| 'My Chestnuts With Love' Bûche
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Chigs
+| 'Festive Jerk Lamb' Wellington 
+| 2nd 
+| 'Bougie Bûche'
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Lottie
+| 'It was the Salmon' Wellington 
+| 3rd
+| 'The Original Yule Log'
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Manon
+| Salmon Roulade Wellington 
+| 1st
+| 'Triple Chocolate Village' Bûche
+| {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+|}
+
+== Reception ==
+Fans on social media criticised the thirteenth series, including the following aspects of the final week: time limit as too short, tasks as heavily complex within time allowed, bakes as short on quality, and judges' perceived overly negative comments.<ref>{{cite news |first=Katie |last=Archer |date=16 November 2022 |title=''Bake Off'' fans complain final was ruined by judges asking too much in too little time |url=https://news.yahoo.com/bake-off-fans-complain-final-ruined-judges-too-much-too-little-time-104844161.html |website=[[Yahoo! Entertainment]] UK |access-date=16 November 2022 }}</ref>
+
+Besides what fans noted, Nicola Austin of ''[[Digital Spy]]'' further criticised the series's Technical challenges as the production's intentions for amateur bakers "to fail", highlight one-step instruction, "Make a lemon meringue pie", for week five's (Dessert) "Lemon Meringue Pie"; and lack of instructions to properly use vegetarian [[gelatin]] for the finale's "Summer Pudding Bombe". Austin further stated, "[M]uch of the judges' precise specifications, timings and presentation requirements now lean more towards professional standards," different from what ''Bake Off'' initially intended to be. She further criticised the series's "stereotypical presentation of Mexican culture" in episode five and other "faux pas on display", like Halloween-themed bakes in episode six and [[spring roll]]s as a Technical challenge.<ref>{{cite news |first=Nicola |last=Austin |date=17 November 2022 |title=The Great British Bake Off needs to fix this big problem before it returns |url=https://www.digitalspy.com/tv/reality-tv/a41988816/great-british-bake-off-controversy-backlash/ |website=[[Digital Spy]] |access-date=19 November 2022 }}</ref>
+
+In response to the fan backlash, especially toward the Mexican Week, the producers' decision not to produce nationality-themed challenges for the following fourteenth series was made although this was met with further backlash from TV chef Antony Worrall Thompson.<ref>{{cite magazine |first=Celeste |last=McCauley |date=3 September 2023 |title=''The Great British Baking Show'' Eliminates Theme Weeks After Accusations of Racism |url=https://people.com/the-great-british-baking-show-makes-changes-ahead-of-season-premiere-7965067 |magazine=[[People (magazine)|People]] |access-date=6 September 2023 }}</ref>
+
+Contestant Dawn Hollyoak died on 5 July 2024, aged 61, with Hollywood and Leith leading tributes.<ref>{{cite news|url=https://www.bbc.co.uk/news/articles/cd17ezpw04lo|title=Great British Bake Off's Dawn Hollyoak dies aged 61|work=[[BBC News]]|date=6 July 2024|access-date=7 July 2024}}</ref><ref>{{cite web|url=https://metro.co.uk/2024/07/06/great-british-bake-off-star-dawn-hollyoak-dies-aged-61-21175810/|title=Great British Bake Off star Dawn Hollyoak dies aged 61|last=Lawes|first=Ruth|work=[[Metro (British newspaper)|Metro]]|date=6 July 2024|access-date=7 July 2024}}</ref>
+
+== Ratings ==
+{{table alignment}}
+{| class="wikitable defaultcenter col2left"
+|-
+! scope="col"|Episode<br>no.
+! scope="col"|Airdate
+! scope="col"|7-day viewers<br><small>(millions)</small>
+! scope="col"|Channel 4<br>weekly ranking
+! scope="col"|Weekly ranking<br>all channels<ref name="BARB2">{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard|publisher=[[Broadcasters' Audience Research Board]]|accessdate=17 September 2019}}</ref>
+|-
+! scope="row"| 1
+| {{Start date|df=y|2022|09|13}} || 8.30 
+| 1
+| 1
+|-
+! scope="row"| 2
+| {{Start date|df=y|2022|09|20}} || 7.60 
+| 1
+| 5
+|-
+! scope="row"| 3
+| {{Start date|df=y|2022|09|27}} || 7.35 
+| 1
+| 3
+|-
+! scope="row"| 4
+| {{Start date|df=y|2022|10|4}} || 7.76
+| 1
+| 3
+|-
+! scope="row"| 5
+| {{Start date|df=y|2022|10|11}} || 8.32
+| 1 
+| 2
+|-
+! scope="row"| 6
+| {{Start date|df=y|2022|10|18}} || 7.79
+| 1 
+| 3
+|-
+! scope="row"| 7
+| {{Start date|df=y|2022|10|25}} || 7.51 
+| 1
+| 3
+|-
+!scope="row"| 8
+| {{Start date|df=y|2022|11|1}} || 7.41
+| 1
+| 4
+|-
+!scope="row"| 9
+| {{Start date|df=y|2022|11|8}} || 7.70<!--rounded to nearest hundredth--> 
+| 1
+| 10
+|-
+!scope="row"| 10
+| {{Start date|df=y|2022|11|15}} || 8.13
+| 1
+| 10
+|}
+
+== References ==
+{{reflist}}
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off (series 13), The}}
+[[Category:The Great British Bake Off|Series 13]]
+[[Category:2022 British television seasons]]

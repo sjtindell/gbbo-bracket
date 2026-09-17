@@ -1,0 +1,18 @@
+series,year,n_episodes,n_bakers,network,channel_era,judge_era,hosts,judges,winner_name,runner_up_names,source_url
+1,2010,6,10,BBC Two,bbc2,berry_hollywood,Mel Giedroyc Sue Perkins,Mary Berry Paul Hollywood,Edd Kimber,Ruth Clemens,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_1
+2,2011,8,12,BBC Two,bbc2,berry_hollywood,Mel Giedroyc Sue Perkins,Mary Berry Paul Hollywood,Jo Wheatley,Holly Bell Mary-Anne Boermans,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_2
+3,2012,10,12,BBC Two,bbc2,berry_hollywood,Mel Giedroyc Sue Perkins,Mary Berry Paul Hollywood,John Whaite,Brandon Lynch James Morton,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_3
+4,2013,10,13,BBC Two,bbc2,berry_hollywood,Mel Giedroyc Sue Perkins,Mary Berry Paul Hollywood,Frances Quinn,Kimberley Wilson Ruby Tandoh,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_4
+5,2014,10,12,BBC One,bbc1,berry_hollywood,Mel Giedroyc Sue Perkins,Mary Berry Paul Hollywood,Nancy Birtwhistle,Richard Burr Luis Troyano,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_5
+6,2015,10,12,BBC One,bbc1,berry_hollywood,Mel Giedroyc Sue Perkins,Mary Berry Paul Hollywood,Nadiya Hussain,Ian Cumming Tamal Ray,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_6
+7,2016,10,12,BBC One,bbc1,berry_hollywood,Mel Giedroyc Sue Perkins,Mary Berry Paul Hollywood,Candice Brown,Andrew Smyth Jane Beedle,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_7
+8,2017,10,12,Channel 4,channel4,leith_hollywood,Noel Fielding Sandi Toksvig,Paul Hollywood Prue Leith,Sophie Faldo,Kate Lyon Steven Carter-Bailey,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_8
+9,2018,10,12,Channel 4,channel4,leith_hollywood,Noel Fielding Sandi Toksvig,Paul Hollywood Prue Leith,Rahul Mandal,Kim-Joy Ruby Bhogal,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_9
+10,2019,10,13,Channel 4,channel4,leith_hollywood,Noel Fielding Sandi Toksvig,Paul Hollywood Prue Leith,David Atherton,Alice Fevronia Steph Blackwell,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_10
+11,2020,10,12,Channel 4,channel4,leith_hollywood,Noel Fielding Matt Lucas,Paul Hollywood Prue Leith,Peter Sawkins,Dave Friday Laura Adlington,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_11
+12,2021,10,12,Channel 4,channel4,leith_hollywood,Noel Fielding Matt Lucas,Paul Hollywood Prue Leith,Giuseppe Dell'Anno,Chigs Parmar Crystelle Pereira,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_12
+13,2022,10,12,Channel 4,channel4,leith_hollywood,Noel Fielding Matt Lucas,Paul Hollywood Prue Leith,Syabira Yusoff,Abdul Rehman Sharif Sandro Farmhouse,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_13
+14,2023,10,12,Channel 4,channel4,leith_hollywood,Noel Fielding Alison Hammond,Paul Hollywood Prue Leith,Matty Edgell,Josh Smalley Dan Hunter,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_14
+15,2024,10,12,Channel 4,channel4,leith_hollywood,Noel Fielding Alison Hammond,Paul Hollywood Prue Leith,Georgie Grasso,Christiaan de Vries Dylan Bachelet,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_15
+16,2025,10,12,Channel 4,channel4,leith_hollywood,Noel Fielding Alison Hammond,Paul Hollywood Prue Leith,Jasmine Mitchell,Tom Arden Aaron Mountford-Myles,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_16
+17,2026,10,12,Channel 4,channel4,lawson_hollywood,"Noel Fielding, Alison Hammond","Paul Hollywood, Nigella Lawson",== Episode 1: Cake ===,,https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_series_17

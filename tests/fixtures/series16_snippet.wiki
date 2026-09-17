@@ -1,0 +1,69 @@
+== Bakers ==
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! Baker !! Age !! Hometown !! Occupation !! Finish !! Place
+|-
+! Toby Littlewood
+| 29 || Warwickshire || Business development executive || Episode 9 || 4th
+|-
+! Hassan Islam
+| 30 || Rotherham || Scientist || Episode 1 || 12th
+|-
+! Jasmine Mitchell
+| 23 || London || Medical student || Episode 10 || 1st
+|-
+|}
+
+== Results summary ==
+{| class="wikitable"
+! Baker !! 1 !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! 8 !! 9 !! 10
+|-
+! Jasmine
+| SAFE
+| style="background:CornflowerBlue"|HIGH
+| style="background:LemonChiffon"|SB
+| style="background:LemonChiffon"|SB
+| style="background:CornflowerBlue"|HIGH
+| style="background:LemonChiffon"|SB
+| style="background:CornflowerBlue"|HIGH
+| style="background:LemonChiffon"|SB
+| style="background:LemonChiffon"|SB
+| style="background:Yellow;"|WINNER
+|-
+! Hassan
+| style="background:Tomato"|OUT
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|}
+
+== Episodes ==
+=== Episode 1: Cake ===
+{| class="wikitable sortable"
+|-
+! Baker !! Signature !! Technical !! Showstopper !! Result
+|-
+! Hassan
+| Chocolate Swiss Roll
+| align="center"| 10th
+| Bamboo Forest
+| {{Eliminated}}
+|-
+! Jasmine
+| Lemon Swiss Roll
+| align="center"| 9th
+| Highland Cake
+| {{Safe}}
+|-
+! Toby
+| Rhubarb
+| align="center"| 1st
+| Ladder
+| {{Safe}}
+|}

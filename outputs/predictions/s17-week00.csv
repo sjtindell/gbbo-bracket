@@ -1,0 +1,13 @@
+as_of_week,mode,baker_id,baker_short,win_rank,p_win,elim_rank,p_elim,skill_mu,age,occupation,occupation_group,reasons
+0,preseason,17-yannis,Yannis,1,0.1800,12,0.0786,7.018,28,Paediatric doctor,stem_medical,age 28 ×1.12; precision-job analog ×1.10; heritage/flavour lane vs Nigella ×1.04; stem/medical occupation group ×1.06
+0,preseason,17-shannon,Shannon,2,0.1741,11,0.0787,6.931,29,Project planner and scheduler,other,age 29 ×1.12; precision-job analog ×1.10; 2025 reserve baker ×1.08
+0,preseason,17-moyin,Moyin,3,0.1072,10,0.0798,6.131,22,Political economy student,student,age 22 ×1.12; precision-job analog ×1.10; heritage/flavour lane vs Nigella ×1.04
+0,preseason,17-molly,Molly,4,0.1068,9,0.0800,5.998,31,Accessibility coordinator,other,age 31 ×1.12
+0,preseason,17-gabe,Gabe,5,0.0979,8,0.0801,5.973,32,Artist and drag king,creative,age 32 ×1.12
+0,preseason,17-tom,Tom,6,0.0880,7,0.0804,5.778,25,Hairdresser,creative,age 25 ×1.12
+0,preseason,17-danni,Danni,7,0.0686,6,0.0812,5.373,25,HGV service centre administrator,other,age 25 ×1.12; self-described chaos ×0.88; heritage/flavour lane vs Nigella ×1.04
+0,preseason,17-clara,Clara,8,0.0471,5,0.0830,4.605,24,Marketing graduate,student,age 24 ×1.12; self-described chaos ×0.88; short tenure (2y) ×0.84; heritage/flavour lane vs Nigella ×1.04
+0,preseason,17-nikki,Nikki,9,0.0366,4,0.0849,3.985,50,Advertising post-producer,creative,age 50 ×0.95
+0,preseason,17-mo,Mo,10,0.0349,3,0.0851,3.931,21,Law student,student,age 21 ×0.82; self-described chaos ×0.88; heritage/flavour lane vs Nigella ×1.04
+0,preseason,17-connie,Connie,11,0.0294,2,0.0929,2.311,63,NHS hospital discharge lead,healthcare,age 63 ×0.45
+0,preseason,17-gary,Gary,12,0.0294,1,0.0953,1.964,67,Retired garment technologist,retired,age 67 ×0.45; precision-job analog ×1.10; late starter at 60+ ×0.85; retired occupation group ×0.80

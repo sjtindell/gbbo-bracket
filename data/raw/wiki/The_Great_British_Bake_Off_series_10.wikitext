@@ -1,0 +1,737 @@
+{{short description|Tenth series of The Great British Bake Off}}
+{{Use British English|date=April 2017}}
+{{Use dmy dates|date=October 2019}}
+{{Infobox television season
+| image                = 
+| caption              = 
+| series_number        = 10
+| module1              = {{Infobox reality competition season
+ | presenter       = [[Noel Fielding]]<br>[[Sandi Toksvig]]
+ | judges          = [[Paul Hollywood]]<br>[[Prue Leith]]
+ | num_contestants = 13
+ | winner          = [[David Atherton (baker)|David Atherton]]
+ | runner_up       = Alice Fevronia<br>Steph Blackwell
+ | location        = [[Welford Park]], near Newbury, Berkshire
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 30
+}}
+| num_episodes         = 10
+| network              = [[Channel 4]]
+| first_aired          = {{start date|df=y|2019|08|27}}
+| last_aired           = {{End date|df=y|2019|10|29}}
+}}
+
+The '''tenth series''' of ''[[The Great British Bake Off]]'' began on 27 August 2019.<ref>{{Cite web|url=https://www.radiotimes.com/news/tv/2019-08-17/bake-off-2019-start-applications-contestants-filming/|title=When does The Great British Bake Off 2019 start? Who are the contestants? Is there a trailer?|website=[[Radio Times]]|date=17 August 2019}}</ref> It was presented by returning hosts [[Noel Fielding]] and [[Sandi Toksvig]], and judged by returning judges [[Paul Hollywood]] and [[Prue Leith]].<ref>{{Cite web|url=https://www.mirror.co.uk/3am/tv-film-news/great-british-bake-offs-paul-18949828|title=Bake Off's Paul Hollywood and Prue Leith on what series 10 has in store|first=Nicola|last=Methven|date=16 August 2019|website=[[Daily Mirror]]}}</ref>
+
+The series was won by [[David Atherton (baker)|David Atherton]], who became the first winner never to have won the Star Baker title since it was introduced. Alice Fevronia and Steph Blackwell finished as runners-up.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2019/oct/29/the-great-british-bake-off-2019-final-live |title =The Great British Bake Off 2019: final – as it happened|date=29 October 2019|work=Guardian|accessdate=30 October 2019}}</ref> This series started with 13 bakers instead of the usual 12, which meant one episode featured a double elimination, as was previously done in the [[The Great British Bake Off (series 4)|fourth series]].<ref>{{cite web |url=https://www.goodhousekeeping.com/uk/lifestyle/a28839623/bake-off-13-bakers-double-elimination/ |title=The Great British Bake Off announces big twist in first episode|first= Megan |last= Sutton|date=28 August 2019|work=Good Housekeeping }}</ref>
+
+== Bakers ==
+{| class="wikitable sortable" style="text-align:center;"
+!scope="col"|Contestant
+!scope="col"|Age
+!scope="col"|Hometown
+!scope="col"|Occupation
+!scope="col"|Finish
+!scope="col"|Place
+|-
+! scope="row" | Dan Chambers
+| 32 
+| [[Rotherham]], [[England]] 
+| Support worker
+|Episode 1
+|13th
+|-
+! scope="row" | Jamie Finn
+| 20 
+|[[Surrey]], England 
+| Part-time waiter <ref>{{cite web |url=https://inews.co.uk/culture/television/jamie-finn-great-british-bake-off-2019-line-up-instagram-494520 |title=Jamie Finn: who is the Great British Bake Off 2019 contestant and part-time waiter?|date= 10 September 2019|work=iNews }}</ref>
+|Episode 2
+|12th
+|-
+! scope="row" | Amelia Le Bruin
+| 24 
+|[[Halifax, West Yorkshire|Halifax]], England
+| Fashion designer <ref>{{cite web |url=https://www.radiotimes.com/news/tv/2019-09-01/who-is-amelia-le-bruin-from-bake-off-meet-the-gbbo-2019-contestant-with-a-northern-soul/ |title=Who is Amelia Le Bruin from Bake Off? Meet the GBBO 2019 contestant with a northern soul |work=Radio Times |first=Lisa |last=Wehrstedt|date= 1 September 2019  }}</ref>
+|Episode 3
+|11th
+|-
+! scope="row" | Phil Thorne
+| 56 
+| [[Rainham, London|Rainham]], England 
+| HGV driver <ref>{{cite web |url=https://www.radiotimes.com/news/tv/2019-08-27/who-is-phil-thorne-on-the-great-british-bake-off-meet-the-biker-and-gbbo-2019-contestant/ |title=Who is Phil Thorne on The Great British Bake Off? Meet the GBBO 2019 contestant and biker|work=Radio Times |first=Lisa |last=Wehrstedt|date= 27 August 2019 }}</ref>
+|Episode 4
+|10th
+|-
+! scope="row" | Helena Garcia
+| 40 
+| [[Leeds]], England
+| Online project manager <ref>{{cite web |url=https://www.radiotimes.com/news/tv/2019-09-03/helena-garcia-bake-off-2019-contestant/ |title=Who is Helena Garcia from The Great British Bake Off? Meet the Spanish-born 2019 contestant  |work=Radio Times |first=Lisa |last=Wehrstedt|date= 3 September 2019 }}</ref>
+|rowspan="2"|Episode 5
+|rowspan="2"|8th (tie)
+|-
+! scope="row" | Michelle Evans-Fecci
+| 35 
+| [[Tenby, Wales|Tenby]], [[Wales]] 
+| Print shop administrator  <ref>{{cite web |url=https://www.smoothradio.com/news/entertainment/bake-off/michelle-evans-fecci-age-husband-son/ |title=Who is Michelle Evans-Fecci on Bake Off? Contestant's husband, son and background revealed |date=3 September 2019|first=Zoe |last=Adams |work=Smooth Radio }}</ref>
+|-
+! scope="row" | Priya O'Shea
+| 34 
+| [[Leicester]], England 
+| Marketing consultant <ref>{{cite web |url=https://www.radiotimes.com/news/tv/2019-08-27/priya-oshea-great-british-bake-off-2019/ |title=Who is Priya O'Shea on The Great British Bake Off? Meet the future novelist and 2019 contestant |work=Radio Times |first=Lisa |last=Wehrstedt|date= 27 August 2019 }}</ref>
+|Episode 6
+|7th
+|-
+! scope="row" | {{nowrap|Michael Chakraverty}}
+| 26 
+| nowrap|[[Stratford-upon-Avon]], England 
+| nowrap|Theatre manager/fitness instructor  <ref>{{cite web |url=https://www.radiotimes.com/news/tv/2019-09-01/michael-chakraverty-great-british-bake-off-2019/ |title=Who is Michael Chakraverty on The Great British Bake Off 2019? How old is the theatre manager? |work=Radio Times |first=Lisa |last=Wehrstedt|date= 1 September 2019}}</ref>
+|Episode 7
+|6th
+|-
+! scope="row" | Henry Bird
+| 20 
+| [[Durham, England|Durham]], England 
+| Student <ref>{{cite web |url=https://www.radiotimes.com/news/tv/2019-08-27/who-is-henry-bird-from-bake-off-meet-the-gbbo-2019-contestant-and-durham-student/ |title=Who is Henry Bird from The Great British Bake Off? Meet the GBBO 2019 contestant and Durham student |work=Radio Times |first=Lisa |last=Wehrstedt |date=3 September 2019 |access-date=30 October 2019 |archive-date=30 October 2019 |archive-url=https://web.archive.org/web/20191030213253/https://www.radiotimes.com/news/tv/2019-08-27/who-is-henry-bird-from-bake-off-meet-the-gbbo-2019-contestant-and-durham-student/ |url-status=dead }}</ref>
+|Episode 8
+|5th
+|-
+! scope="row" | Rosie Brandreth-Poynter
+| 28 
+| [[Somerset]], England 
+| Veterinary surgeon <ref>{{cite web |url=https://www.smoothradio.com/news/entertainment/bake-off/rosie-brandreth-poynter-age-husband-job/ |title=Who is Rosie Brandreth-Poynter on Bake Off? GBBO star's job, husband and Instagram revealed |date=3 September 2019|first=Zoe |last=Adams |work=Smooth Radio}}</ref>
+|Episode 9
+|4th
+|-
+! scope="row" | Alice Fevronia
+| 28 
+| [[Essex]], England 
+| Geography teacher <ref>{{cite web |url=https://www.radiotimes.com/news/tv/2019-09-01/bake-off-2019-alice-fevronia/ |title=Who is Alice Fevronia from Bake Off? Meet the GBBO 2019 contestant and geography teacher |work=Radio Times |first=Lisa |last=Wehrstedt|date= 1 September 2019 }}</ref><ref>{{cite web |url=https://www.instagram.com/alice.fevronia/?hl=en |title=alice.fevronia|work=Instagram }}</ref>
+|rowspan="3"|{{nowrap|Episode 10}}
+|rowspan="2"|{{sort|2.5|}}Runner-up
+|-
+! scope="row" | Steph Blackwell
+| 28 
+| [[Chester]], England 
+| Shop assistant <ref>{{cite web |url=https://www.radiotimes.com/news/tv/2019-09-01/who-is-steph-blackwell-on-the-great-british-bake-off-meet-the-gbbo-2019-contestant-and-her-sourdough-sammy/ |title=Who is Steph Blackwell on The Great British Bake Off? Meet the contestant and her sourdough Sammy |work=Radio Times |first=Lisa |last=Wehrstedt|date= 1 September 2019 }}</ref>
+|-
+! scope="row" | [[David Atherton (baker)|David Atherton]]
+| 36 
+| [[Whitby]], England 
+| International health adviser <ref>{{cite tweet| author=David Atherton| user=nomadbakerdavid| number=1179657618731745280| title=I requested Wikipedia to change mine and Amelia's hometown from London to our actual Northern hometowns. Amelias was changed but mine still says London. I'm from WHITBY Wikipedia!| date=3 October 2019}}</ref><ref>{{cite web |url=https://www.vsointernational.org/news/blog/from-volunteer-nurse-to-great-british-bake-off-winner-david-atherton |title=From volunteer nurse to Great British Bake Off winner: David Atherton |date=29 October 2019 |work=VSO International}}</ref>
+|1st
+|}
+
+== Results summary ==
+{| class="wikitable" style="text-align:center"
+|+ Elimination chart
+|-
+! scope="col" | Baker
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+|-
+! scope="row" | David
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Plum;"| LOW
+| style="background:Yellow;"|WINNER
+|-
+! scope="row" | Alice
+| SAFE
+| style="background:LemonChiffon;"|SB
+| style="background:Plum;"| LOW
+| SAFE
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| SAFE
+| style="background:LemonChiffon;"|SB
+| style="background:limegreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row" | Steph
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:LemonChiffon;"|SB
+| style="background:LemonChiffon;"|SB
+| style="background:LemonChiffon;"|SB
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:LemonChiffon;"|SB
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:limegreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row" | Rosie
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| SAFE
+| style="background:Plum;"| LOW
+| style="background:Plum;"| LOW
+| style="background:Plum;"| LOW
+| style="background:Plum;"| LOW
+| style="background:orangered;"|OUT
+| colspan="1" style="background:darkgrey;"|
+|-
+! scope="row" | Henry
+| SAFE
+| SAFE
+| style="background:Plum;"| LOW
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Plum;"| LOW
+| style="background:LemonChiffon;"|SB
+| style="background:orangered;"|OUT
+| colspan="2" style="background:darkgrey;"|
+|-
+! scope="row" | Michael
+| SAFE
+| SAFE
+| style="background:LemonChiffon;"|SB
+| style="background:Plum;"| LOW
+| SAFE
+| style="background:Plum;"| LOW
+| style="background:orangered;"|OUT
+| colspan="3" style="background:darkgrey;"|
+|-
+! scope="row" | Priya
+| SAFE
+| SAFE
+| SAFE
+| style="background:Plum;"| LOW
+| style="background:Plum;"| LOW
+| style="background:orangered;"|OUT
+| colspan="4" style="background:darkgrey;"|
+|-
+! scope="row" | Helena
+| SAFE
+| SAFE
+| SAFE
+| SAFE
+| style="background:orangered;"|OUT
+| colspan="5" style="background:darkgrey;"|
+|-
+! scope="row" | Michelle
+| style="background:LemonChiffon;"|SB
+| SAFE
+| SAFE
+| SAFE
+| style="background:orangered;"|OUT
+| colspan="5" style="background:darkgrey;"|
+|-
+! scope="row" | Phil
+| SAFE
+| SAFE
+| SAFE
+| style="background:orangered;"|OUT
+| colspan="6" style="background:darkgrey;"|
+|-
+! scope="row" | Amelia
+| SAFE
+| style="background:Plum;"| LOW
+| style="background:orangered;"|OUT
+| colspan="7" style="background:darkgrey;"|
+|-
+! scope="row" | Jamie
+| style="background:Plum;"| LOW
+| style="background:orangered;"|OUT
+| colspan="8" style="background:darkgrey;"|
+|-
+! scope="row" | Dan
+| style="background:orangered;"|OUT
+| colspan="9" style="background:darkgrey;"|
+|}
+
+'''Colour key:'''
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|CornflowerBlue|outline=darkgray|Baker was one of the judges' favourite bakers that week, but was not the Star Baker.}}
+{{legend|<!--default colour-->|outline=darkgray|Baker got through to the next round.}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated.}}
+{{legend|LemonChiffon|outline=darkgray|Baker was the Star Baker.}}
+{{legend|LimeGreen|outline=darkgray|Baker was a series runner-up.}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner.}}
+
+== Episodes ==
+'''Colour key:'''
+{{legend|#FFC7C7|Baker was eliminated at conclusion of episode}}
+{{legend|#E7E7FF|Baker received a "Hollywood handshake" for respective bake}}
+{{legend|#BFD|Baker was named "Star Baker" at conclusion of episode}}
+{{legend|#DFF|Baker was named runner-up for the series}}
+{{legend|gold|Baker won series}}
+
+=== Episode 1: Cake ===
+For the signature challenge, the bakers had to bake a [[Fruitcake|fruit cake]] in the shape of their choice, with a significant amount of dried fruit, and lavish decoration in {{frac|2|1|2}} hours. For the technical challenge set by Prue, the bakers had to bake 6 identical [[angel cake]] slices, with layers made of genoise sponge sandwiched with Italian meringue buttercream, topped with icing and feathered in {{frac|1|3|4}} hours. For the showstopper challenge, the bakers baked the [[birthday cake]] they always dreamed of as a child in 4 hours.
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>([[Fruitcake]])</small>
+! scope="col" | Technical<br><small>(6 [[Angel cake|Angel Cake]] Slices)</small>
+! scope="col" class="unsortable" | Showstopper<br><small>([[Birthday cake|Birthday Cake]])</small>
+! scope="col" | Result
+|-
+! scope="row" | Alice
+| Gingerbread Fruit Cake Wreath || 5th || Like a Child in a Sweetshop Cake || {{Safe}}
+|-
+! scope="row" | Amelia
+| Christmas Cake || 4th || Carousel Birthday Cake || {{Safe}}
+|-
+! scope="row" | David
+| Squishy Squashy Fruit Cake || 10th || Snakey Birthday Cakey || {{Safe}}
+|-
+! scope="row" | Dan
+| Jamaican Rum Cake || 9th || Pirate Island Cake || {{Eliminated}}
+|-
+! scope="row" | Helena
+| Fruit Bat Cake || 12th || Away with the Fairies Cake || {{Safe}}
+|-
+! scope="row" | Henry
+| Wood Street Cake || 1st || Secret Woodland Cake || {{Safe}}
+|-
+! scope="row" | Jamie
+| Easter [[Simnel cake|Simnel]] Cake || 13th || Salted Caramel [[Schnauzer]] Birthday Cake || {{Safe}}
+|-
+! scope="row" | Michael
+| Cup of [[Masala chai|Chai]] Cake || 11th || Treasure Chest Cake || {{Safe}}
+|-
+! scope="row" | Michelle
+| Bara Brith Teulu Ni (Our Family's [[Bara Brith]]) || 6th || Tŷ Tylwyth Teg (Fairy House Cake) || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Phil
+| Spiced Fruit Cake with Rum Glaze || 8th || Retro Rocket Cake || {{Safe}}
+|-
+! scope="row" |Priya
+| Sunshine Fruit Cake || 7th || Once Upon a Time Cake || {{Safe}}
+|-
+! scope="row" |Rosie
+| Spicy Chai Loaf || 2nd || Magical Jungle Cake || {{Safe}}
+|-
+! scope="row" |Steph
+| Great Grandma's Fruit Cake || 3rd || A Sundae on the Beach Cake || {{Safe}}
+|}
+
+=== Episode 2: Biscuits ===
+For the signature challenge this week, the bakers were tasked to make 12 decorated chocolate biscuit bars in {{frac|2|1|2}} hours. For the technical challenge, Paul tasked a "controversial" bake that was his dad's favourite—12 [[fig rolls]] which were identical in shape and size—in 90 minutes. For the showstopper, the bakers were asked to create a 3D biscuit sculpture in 4 hours.
+{| class="wikitable sortable col3center sticky-header"
+|+
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(12 Decorated Chocolate Biscuit Bars)</small>
+! scope="col" | Technical<br><small>(12 [[Fig roll|Fig Rolls]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(3D Biscuit Sculpture)</small>
+! scope="col" | Result
+|-
+! scope="row" |Alice
+| [[Honeycomb]] Peanut Mallow Bars || 1st || Chocolate and Coconut [[New Zealand]] Lamb || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Amelia
+| Pistachio, Almond & Raisin [[Nougat]] Biscuit Bars || 9th || Swimming with Dolphins || {{Safe}}
+|-
+! scope="row" |David
+| Coco-nutty Chocolate Bars || 2nd || Wedding Spray || {{Safe}}
+|-
+! scope="row" |Helena
+| [[Wicked Witch]] Fingers || 12th || Caught in a Spider's Web || {{Safe}}
+|-
+! scope="row" |Henry
+| Coffee, Cardamom & Hazelnut Bars || 6th || Chapel Organ || {{Safe}}
+|-
+! scope="row" |Jamie
+| Cherry Caramel Shortbread Biscuit Bars || 11th || Biscuit Guitar || {{Eliminated}}
+|-
+! scope="row" |Michael
+| Lemon & Rosemary Biscuit Bars || 4th || Hamish the [[Highland Cow]] || {{Safe}}
+|-
+! scope="row" |Michelle
+| [[Bakewell tart#Cherry Bakewell|Bakewell]] Bars || 8th || Dewi y Ddraig Cymraeg – Dewi the [[Welsh Dragon]] || {{Safe}}
+|-
+! scope="row" |Phil
+| Orange, Cranberry & White Chocolate Fudge Bars || 3rd || Tina the Tortoise || {{Safe}}
+|-
+! scope="row" |Priya
+| [[Ruby Chocolate|Ruby]] [[Barfi]] Biscuit Bars || 7th || The Beast of Rocky Mountain || {{Safe}}
+|-
+! scope="row" |Rosie
+| [[Virgin Mojito]] Biscuit Bars || 5th || My Favourite Chicken – A Celebration of Legs || {{Safe}}
+|-
+! scope="row" |Steph
+| Chocolate, Caramel Macchiato Biscuit Bars || 10th || Ginger the Cat || {{Safe}}
+|}
+
+=== Episode 3: Bread ===
+For this week's signature challenge, the bakers were asked to make a filled tear & share loaf from a yeasted dough in 3 hours. Paul's technical challenge required the bakers to make 8 [[Hamburger|burger]] [[bap (bread)|bap]]s along with 4 [[veggie burgers]] to go inside half of them in {{frac|2|1|2}} hours. The showstopper challenge required the bakers to make a display of artistically scored decorative loaves (minimum of 2 loaves) in 5 hours.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(Tear & Share Loaf)</small>
+! scope="col" | Technical<br><small>(8 White Burger [[Bap (bread)|Bap]]s & 4 Veggie Burgers)</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Decorative Loaf Display)</small>
+! scope="col" | Result
+|-
+! scope="row" |Alice
+| Baklava Tear & Share || 7th || Global Bread || {{Safe}}
+|-
+! scope="row" |Amelia
+| Chorizo Brunch Tear & Share || 11th || [[Caterpillar]] Transformation || {{Eliminated}}
+|-
+! scope="row" |David
+| [[Cinnamon]] Swirl Tear & Share || 2nd || Trio of African Masks || {{Safe}}
+|-
+! scope="row" |Helena
+| Frosted [[Cinnamon]] and [[Pecan]] Tear & Share || 8th || Every Bread is [[Halloween]] || {{Safe}}
+|-
+! scope="row" |Henry
+| Chicken and [[Pesto]] Tear & Share || 1st || Herb Garden || {{Safe}}
+|-
+! scope="row" |Michael
+| {{longlisted|align=left|Keralan Star Bread Tear & Share}} || 6th || [[Mediterranean]] Camp Fire || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Michelle
+| Noson Caws (Cheese Night) || 5th || Gardd Ni (Our Garden) || {{Safe}}
+|-
+! scope="row" |Phil
+| Pancetta and Cheese Focaccia Tear & Share || 10th || Winner's [[Wreath]] || {{Safe}}
+|-
+! scope="row" |Priya
+| Smokey [[Jalapeño]] Tear & Share || 4th || Bird Boules || {{Safe}}
+|-
+! scope="row" |Rosie
+| Chilli and Manchego Tear & Share || 9th || Bread [[Safari]] || {{Safe}}
+|-
+! scope="row" |Steph
+| Sun-Dried Tomato and [[Pesto]] Star Tear & Share || 3rd || Hand-Tied Bouquet of Flowers || {{Safe}}
+|}
+
+=== Episode 4: Dairy ===
+For the signature challenge this week, Paul and Prue tasked the bakers with a dairy cake, but the cake mixture needed to contain a [[cultured dairy product]], to be done in 2 hours and 15 minutes. For the technical challenge, Prue asked the bakers to make a difficult bake that dated back to the [[Tudor period|Tudor]] times, 12 [[Maids of honour tart|Maids of Honours]], in 2 hours. For the showstopper challenge, the judges gave the bakers the task of making a display of milk-based Indian [[sweets]] known as [[Bengali cuisine#Dessert|Mishti]], in {{frac|3|1|2}} hours.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|+
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(Cultured Dairy Cake)</small>
+! scope="col" | Technical<br><small>(12 [[Maids of honour tart|Maids of Honours]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Display of [[Bengali cuisine#Dessert|Mishti]])</small>
+! scope="col" | Result
+|-
+! scope="row" |Alice
+| Leafy [[Yoghurt]] Cake || 8th || [[Afternoon Tea]] || {{Safe}}
+|-
+! scope="row" |David
+| A Kick of [[Limoncello]] Cake || 2nd || Flavours of [[India]] Mishti || {{Safe}}
+|-
+! scope="row" |Helena
+| Ghost Cake || 9th || Ye Olde English Sweet Shoppe Mishti || {{Safe}}
+|-
+! scope="row" |Henry
+| Ode to a German Breakfast Cake || 3rd || Seaside Mishti || {{Safe}}
+|-
+! scope="row" |Michael
+| [[Cheesecake]] Surprise || 7th || [[Flag of India]] Mishti || {{Safe}}
+|-
+! scope="row" |Michelle
+| Homely [[Rhubarb]] Cake || 5th || Home Comforts Mishti || {{Safe}}
+|-
+! scope="row" |Phil
+| Trucking Lovely Rose Cake || 6th || A Corner of My Garden Mishti || {{Eliminated}}
+|-
+! scope="row" |Priya
+| Choc-chip Banana Cake || 10th || Flavours of My Childhood Mishti || {{Safe}}
+|-
+! scope="row" |Rosie
+| A Good Dose of [[Limoncello]] Cake || 4th || Cocktails & [[Canapés]] Mishti || {{Safe}}
+|-
+! scope="row" |Steph
+| Answer to Everything Cake || 1st || Pink and Pretty Mishti || {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 5: The Roaring Twenties ===
+For the signature challenge, the bakers had {{frac|2|1|2}} hours to produce 4 [[custard pie]]s which should be elaborately decorated with the theme of the 1920s. For the technical challenge set by Prue, the bakers faced the difficult task of deep-frying [[Choux pastry]] to produce 18 [[beignet]] soufflés filled with raspberry jam and served with a [[zabaglione]], in {{frac|1|1|2}} hours. For the showstopper challenge, the bakers were asked to create a [[cocktail]] theme cake, with at least two tiers, in memory of the [[Prohibition in the United States|prohibition era in the United States]], in 4 hours.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(4 [[Custard pie|Custard Pie]]s)</small>
+! scope="col" | Technical<br><small>(18 [[Beignet]] Soufflés)</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Prohibition Era Cake)</small>
+! scope="col" | Result
+|-
+! scope="row" |Alice
+| Chocolate & Orange Custard Pies || 6th || [[Piña Colada]] Cake || {{Safe}}
+|-
+! scope="row" |David
+| {{longlisted|align=left|Fancy Custards}} || 9th || [[Amaretto#Cocktails|Amaretto Sour]] Cake || {{Safe}}
+|-
+! scope="row" |Helena
+| Lemon and Lavender Pies || 1st || Vampire's Kiss Raspberry [[Vodka]] Cake || {{Eliminated}}
+|-
+! scope="row" |Henry
+| 1920's Pies || 3rd || align="left"|[[White Russian (cocktail)|White Russian]] Cake || {{Safe}}
+|-
+! scope="row" |Michael  
+| Mango, Lime & Ginger Pies || 8th || align="left"|[[Bramble (cocktail)|Brambling]] Cake || {{Safe}}
+|-
+! scope="row" |Michelle
+| Blueberry & White Chocolate [[Crème Brûlée]] Pies || 7th || My Little Sister the Dancing Queen's [[Piña Colada]] Cake || {{Eliminated}}
+|-
+! scope="row" |Priya
+| Lemon & Raspberry Ripple Pies || 2nd || Meena Colada Cake || {{Safe}}
+|-
+! scope="row" |Rosie
+| Little Blackberry Pies || 5th || White Russian Cake || {{Safe}}
+|-
+! scope="row" |Steph
+| Zesty Citrus Custard Pies || 4th || Sour Lime [[Piña Colada]] Cake || {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 6: Desserts ===
+For the signature challenge this week, the bakers were asked to make a layered [[meringue]] cake with a minimum of 3 layers and "large enough to share with friends" in 2 hours and 45 minutes. For the technical challenge, Prue gave the bakers a particularly difficult task that tested the bakers' precision, 6 identical layered [[verrine]]s, in {{frac|2|1|2}} hours. For the showstopper challenge, the bakers were tasked with an explosive bake, a celebratory [[Bombe glacée|bombe]], in {{frac|4|1|2}} hours.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|+
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(Layered [[Meringue]] Cake)</small>
+! scope="col" | Technical<br><small>(6 [[Verrine]]s)</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Celebratory [[Bombe glacée|Bombe]])</small>
+! scope="col" | Result
+|-
+! scope="row" |Alice
+| [[Black Forest gateau|Black Forest]] Meringue || 1st || [[Tiramisu]] Bombe || {{Safe}}
+|-
+! scope="row" |David
+| Spiced Meringue Surprise || 2nd || Delightful Bombe || {{Safe}}
+|-
+! scope="row" |Henry
+| Towering Meringue Cake || 4th || Bonfire Bombe || {{Safe}}
+|-
+! scope="row" |Michael  
+| [[Dark Chocolate]] Meringue Cake || 6th || [[Black Forest gateau|Black Forest]] Bombe || {{Safe}}
+|-
+! scope="row" |Priya
+| Family Favourite || 7th || Summer Fruit Bombe || {{Eliminated}}
+|-
+! scope="row" |Rosie
+| Layers of Lime and [[Raspberry]] || 5th || Ruby Bombe || {{Safe}}
+|-
+! scope="row" |Steph
+| [[Eton Mess]] || align="center"|3rd || Mirror Bombe || {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 7: Festivals ===
+For the signature challenge, the bakers were asked to make 24 buns with the theme of a festival or holiday from around the world in 3e hours. For the technical challenge, Paul tasked the bakers with a deep fried pastry treat traditionally served during the Italian Carnevale, 12 [[Cassata|Sicilian Cassatelles]], in 1 hour and 15 minutes. For the showstopper challenge, the bakers were set with the complex task of making a [[Sarawak layer cake|kek lapis sarawak]], a traditional layered Malaysian cake, in 4 hours and 15 minutes.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|+
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(24 Festival Buns)</small>
+! scope="col" | Technical<br><small>(12 [[Cassata|Sicilian Cassatelles]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>([[Sarawak layer cake|Kek Lapis Sarawak]])</small>
+! scope="col" | Result
+|-
+! scope="row" |Alice
+| Lemon, Blueberry & Almond Hot Cross Buns || 6th || Chocolate, Orange and Salted Caramel Kaleidoscope Sarawak Style Layered Cake || {{Safe}}
+|-
+! scope="row" |David
+| [[Kozunak]] Plaits || 2nd || Sarawak Style Layer Cake Sculpture || {{Safe}}
+|-
+! scope="row" |Henry
+| {{longlisted|align=left|Chocolate [[Cardamom bread|Kardemummabullar]]}} || 3rd || Elegant Present Box || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Michael
+| [[Figgy Pudding]] Hot Cross Buns || 5th || Jamaican Mule Sarawak Style Layer Cake || {{Eliminated}}
+|-
+! scope="row" |Rosie
+| [[Mardi Gras]] Finnish [[Semla|Semlor]] Peacock Festival Buns || 1st || Rainbow Sarawak Style Layer Cake || {{Safe}}
+|-
+! scope="row" |Steph
+| {{longlisted|align=left|Zest and Spice Hot Cross Buns}} || 4th || Orange and Chai Spiced Revitalise Cake || {{Safe}}
+|}
+
+=== Episode 8: Pastry (Quarterfinals) ===
+For the signature challenge, the bakers were tasked to do a savoury twist on a usually sweet French classic, [[Tarte Tatin|tarte tatin]], in {{frac|2|1|2}} hours. For the technical challenge, the bakers were given the challenging task of recreating a Moroccan Pie made from warka pastry, also known as [[Brik|brik pastry]], in {{frac|2|1|2}} hours. For the showstopper challenge, the bakers were asked to create a vertical pie consisting of at least 2 separate pies in 4 hours.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(Savoury [[Tarte Tatin]])</small>
+! scope="col" | Technical<br><small>(Moroccan Pie)</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Vertical Pie)</small>
+! scope="col" | Result
+|-
+! scope="row" |Alice
+| Leek, Apple & [[Goat cheese|Goat's Cheese]] Tarte Tatin || 3rd || Apple Tree House Pie || {{Safe}}
+|-
+! scope="row" |David
+| Caramelly Carroty Tarte Tatin || 1st || Whitby Fish Pie || {{Safe}}
+|-
+! scope="row" |Henry
+| Crab, Tomato & New Potato Tarte Tatin || 5th || Chandelier Picnic Pie || {{Eliminated}}
+|-
+! scope="row" |Rosie
+| Shallot, Aubergine & Goat's Cheese Spiced Tarte Tatin || 2nd || Rapunzel's Tower || {{Safe}}
+|-
+! scope="row" |Steph
+| Caramelised Onion & Goat's Cheese Tarte Tatin || 4th || Curried Chickpea & Potato Carousel Pie || {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 9: Pâtisserie (Semifinal) ===
+For the signature challenge, the bakers had {{frac|2|1|2}} hours to make 8 identically decorated domed tarts. Prue's technical challenge was making a [[Gâteau Saint Honoré]], a French classic involving both [[Choux pastry|choux]] and [[Puff pastry|puff]] pastry, plus a large amount of cream fillings, all in {{frac|3|1|2}} hours. For the showstopper challenge, the bakers were given the difficult task of making a sugar glass display case, enclosing a display of [[pâtisserie]] or other lavish baked goods, in {{frac|4|1|2}} hours.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|+
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(8 Domed Tarts)</small>
+! scope="col" | Technical<br><small>([[Gâteau Saint Honoré]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Sugar Glass Display Case)</small>
+! scope="col" | Result
+|-
+! scope="row" |Alice
+| Mocha, [[Hazelnut]] & [[Orange (fruit)|Orange]] Domed Tarts || 4th || Save Our Oceans || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |David
+| [[Aperitif]] Domed Tarts || 2nd || Greenhouse Growing Moss || {{Safe}}
+|-
+! scope="row" |Rosie
+| Lemon, Raspberry & Mint Domed Tarts || 1st || Time with Family || {{Eliminated}}
+|-
+! scope="row" |Steph
+| Raspberry, Lemon & [[White Chocolate]] Domed Tarts || 3rd || A Night at the Opera || {{Safe}}
+|}
+
+=== Episode 10: Final ===
+For the final signature challenge, the remaining three bakers were given 2 hours to create the ultimate chocolate cake that should be rich in chocolate and be beautifully decorated. For the final technical challenge, set by Paul, the bakers were given 1 hour and 10 minutes to create 6 twice-baked [[Stilton cheese|stilton]] [[soufflé]]s, each served with a [[lavash]] cracker. For the final showstopper challenge, the bakers were required to create a deceptive illusion picnic basket feast composed of cakes, biscuits and enriched breads that were presented to look like something else in {{frac|4|1|2}} hours. Unofficially, Alice could be considered the first runner up as Prue and Paul said it was between the two of them at the end.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|+
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(Ultimate [[chocolate cake|Chocolate Cake]])</small>
+! scope="col" | Technical<br><small>(6 [[Stilton cheese|Stilton]] [[Soufflé]]s)</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Illusion [[Picnic]] Basket Feast)</small>
+! scope="col" | Result
+|-
+! scope="row" |Alice
+| Chocolate, Pear, Ginger and Maple Cake || 2nd || End of the School Year Celebration Picnic || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" |David
+| Chocolate, [[Armagnac]] and Prune Cake || 1st || Peachy Pic-Nik || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" |Steph
+| [[Black Forest gateau|Black Forest]] Chocolate Cake || 3rd || Picnic in the Park || {{sort|2.5|}}{{Runner-up}}
+|}
+
+== Specials ==
+Two festive specials were commissioned during Christmas Day and New Year’s Day.
+
+=== ''The Great Christmas Bake Off'' ===
+The Great Christmas Bake Off featured Briony Williams and Terry Hartill from [[The Great British Bake Off (series 9)|Series 9]], along with Tom Hetherington and Yan Tsou from [[The Great British Bake Off (series 8)|Series 8]]. The special was won by Briony Williams.<ref>{{cite web| url=https://metro.co.uk/2019/12/25/great-british-bake-off-star-briony-williams-hand-christmas-special-2019-11960002/| title=The Great British Bake Off winner Briony Williams triumphs in tent a year on for the Christmas special| first=Sarah| last=Deen| date=25 December 2019| website=metro.co.uk}}</ref>
+
+In the signature challenge, the returning bakers were first asked to make 24 festive [[cake pops]] in {{frac|2|1|2}} hours. They then faced the technical challenge set by Paul, where they had to recreate a festive [[sausage roll]] wreath in 2 hours. For the festive showstopper challenge, the bakers were given the task of constructing a 3D gingerbread building, topped off with at least two different types of confectionery, in 4 hours.
+{| class="wikitable sortable"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br /><small>(24 Cake Pops)</small>
+! scope="col" | Technical<br /><small>(Festive Sausage Roll Wreath)</small>
+! scope="col" class="unsortable" | Showstopper<br /><small>(Gingerbread Building)</small>
+! scope="col" | Result
+|-
+! scope="row" | Briony
+| 'Festive Frolic' Pops || align="center"|4th || 'Santa's Train Station' || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" | Terry
+| 'Christmas Carousel' Pops || align="center"|3rd || 'Christmas in [[New York City|New York]]' || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Tom
+| 'Santa & Co watch the [[Queen's Speech]]' Pops || align="center" |1st || '[[Edinburgh]] Christmas' || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Yan
+| 'A Very British Christmas' Pops || align="center"|2nd || ‘Follow the [[Yellow Brick Road]] House' || {{sort|2.5|}}{{Runner-up}}
+|-
+|}
+
+=== ''The Great Festive Bake Off'' ===
+The Great Festive Bake Off saw the cast of [[Derry Girls]] ([[Saoirse-Monica Jackson]], [[Nicola Coughlan]], Jamie-Lee O’Donnell, Dylan Llewellyn and Siobhan McSweeney) take on the three challenges on New Years Day. For the signature challenge, they had to make a trifle that is large enough for a party or a soiree and needs to have at least 3 layers (a biscuit or cake layer, a custard made from scratch layer, a layer of their choice) in {{frac|2|1|2}} hours. For the technical challenge, set by Prue, they were tasked to make 12 salmon and beetroot [[Blini|blinis]] that needs to be finished with horseradish and beetroot topping and garnished with hot salmon and caviar, in 1 hour. For their showstopper challenge, they were asked to bake a cake of their favourite decade. The cake needs to consist of at least 2 tiers and beautifully decorated in {{frac|2|1|2}} hours.
+
+{| class="wikitable sortable"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br /><small>([[Trifle]])</small>
+! scope="col" | Technical<br /><small>(12 Salmon and Beetroot [[Blini|Blinis]])</small>
+! scope="col" class="unsortable" | Showstopper<br /><small>(Decade Cake)</small>
+! scope="col" | Result
+|-
+! scope="row" | Dylan
+| White Chocolate, Raspberry, and Sherry Trifle || align="center" |5th || 1960s Camper Van Decade Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Jamie-Lee
+| Chocolate and Orange Trifle || align="center" |4th || 1930's [[Amelia Earhart]] Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Nicola
+| Strawberry and Rhubarb Trifle || align="center" |3rd || 1930's Cabaret Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Saoirse-Monica
+| Irish Cream Trifle|| align="center"|2nd || Peace & Love 1960's Cake || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" | Siobhan
+| Betsy's Trifle || align="center"|1st || Camping in Cork Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+|}
+
+== Post-show careers ==
+David Atherton published a cookbook after winning the series.<ref>{{Cite web|title=David Atherton|url=https://www.amazon.com/David-Atherton/e/B09237JZJB?ref=sr_ntt_srch_lnk_2&qid=1631372707&sr=1-2|access-date=2021-09-11|website=www.amazon.com|language=en-us}}</ref><ref>{{Cite web|last=Walsh|first=Grace|date=2020-09-25|title=Great British Bake Off contestants: Where are they now?|url=https://www.goodto.com/food/bake-off-contestants-where-are-they-now-105581|access-date=2021-09-11|website=GoodtoKnow|language=en}}</ref> Released in 2020, it is a children's cookbook titled ''My First Cookbook''.  Follow-up versions ''My First Green Cookbook'' and ''Bake, Make and Learn to Cook'' released in 2021.<ref>{{Cite web|title=David Atherton|url=https://www.amazon.com/kindle-dbs/entity/author/B09237JZJB?_encoding=UTF8&node=283155&offset=0&pageSize=12&searchAlias=stripbooks&sort=author-sidecar-rank&page=1&langFilter=default#formatSelectorHeader|access-date=2021-12-18|website=www.amazon.com|language=en-us}}</ref> In May 2021, Atherton released ''Good to Eat'', which focuses on delivering healthy twists to classic recipes.<ref>{{Cite web|title=Hodder cooks up storm with 2019 'Bake Off' winner David Atherton {{!}} The Bookseller|url=https://www.thebookseller.com/news/hodder-cook-storm-2019-bake-winner-david-atherton-1226712|access-date=2021-09-11|website=www.thebookseller.com}}</ref>
+
+Steph Blackwell contributed to ''The Big Book of Amazing Cakes,'' and published her own cookbook, ''The Joy of Baking,'' in 2021.<ref>{{Cite web|last=Chilton|first=Charlotte|date=2020-12-11|title=Where Are Your Favorite 'Great British Bake Off' Contestants Now?|url=https://www.delish.com/food-news/g34916711/great-british-bake-off-contestants-then-and-now/|access-date=2021-09-11|website=Delish|language=en-US}}</ref><ref>{{Cite book|url=https://www.hachette.co.uk/titles/steph-blackwell/the-joy-of-baking/9781529416039/|title=The Joy of Baking|date=2020-11-27|isbn=978-1-5294-1603-9|language=en-US |last1=Blackwell |first1=Steph |publisher=Quercus }}</ref>
+
+==Ratings==
+The first episode drew an overnight audience of 5.7&nbsp;million, down 400,000 from the previous series, but with a higher audience share in its time slot than the previous launch at 30.6%.<ref>{{cite news |url=https://www.standard.co.uk/stayingin/tvfilm/great-british-bake-off-launch-episode-loses-400000-viewers-a4222986.html |title=Great British Bake Off launch episode loses 400,000 viewers|first=Katie |last=Rosseinsky |work=London Evening Standard |date=28 August 2019 }}</ref><ref>{{cite web |url=https://tv.bt.com/tv/tv-news/great-british-bake-off-series-launch-sheds-400000-viewers-11364388574267 |title=Great British Bake Off series launch sheds 400,000 viewers |date=28 August 2019 |publisher=BT TV }}</ref>  The overnight ratings for the final episode dropped by over half a million compared to the previous series with an average audience of 6.9 million viewers.<ref>{{cite news |url=https://www.standard.co.uk/stayingin/tvfilm/great-british-bake-off-2019-finale-viewers-ratings-a4274166.html |title=Great British Bake Off finale loses more than half a million viewers|first=Tobi|last= Akingbad |work=Evening Standard |date=30 October 2019 }}</ref>
+
+{{table alignment}}
+{| class="wikitable defaultcenter col2left"
+|-
+! scope="col" | Episode<br />no.
+! scope="col" | Airdate
+! scope="col" | 7-day viewers<br /><small>(millions)</small>
+! scope="col" | 28-day viewers<br /><small>(millions)</small>
+! scope="col" | Channel 4<br />weekly ranking
+! scope="col" | Weekly ranking<br />all channels<ref name="BARB2">{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard|publisher=[[Broadcasters' Audience Research Board]]|accessdate=17 September 2019}}</ref>
+|-
+! scope="row" | 1
+| {{Start date|df=y|2019|08|27}} || 9.62 || 10.03 || colspan="2" rowspan="3" | 1 
+|-
+! scope="row" | 2
+| {{Start date|df=y|2019|09|03}} || 9.38 || 9.80 
+|-
+! scope="row" | 3
+| {{Start date|df=y|2019|09|10}} || 8.94 || 9.42 
+|-
+! scope="row" | 4
+| {{Start date|df=y|2019|09|17}} || 8.96 || 9.49 || rowspan="7" | 1 || rowspan="2" | 2
+|-
+! scope="row" | 5
+| {{Start date|df=y|2019|09|24}} || 9.26 || 9.64 
+|-
+! scope="row" | 6
+| {{Start date|df=y|2019|10|01}} || 8.70 || 9.19 || rowspan="5" | 3
+|-
+! scope="row" | 7
+| {{Start date|df=y|2019|10|08}} || 8.98 || 9.42 
+|-
+! scope="row" | 8
+| {{Start date|df=y|2019|10|15}} || 9.19 || 9.48 
+|-
+! scope="row" | 9
+| {{Start date|df=y|2019|10|22}} || 9.34 || 9.67 
+|-
+! scope="row" | 10
+| {{Start date|df=y|2019|10|29}} || 10.05 || 10.21 
+|}
+
+==Reception==
+Michael Hogan of ''[[The Daily Telegraph]]'' criticised the series as "forgettable" and "dullest" out of the first ten series so far, attributing the show's move to Channel 4, casting "blandly millennial crop of contestants", and lack of diversity at the end, e.g. fewer contestants older than forty this series compared to prior nine series—two who were eliminated by the fifth week of the series. He further wrote:<ref name="Hogan2020">{{cite news |first=Michael |last=Hogan |date=16 September 2020 |title=Channel 4 is risking another bland Bake Off with this cookie cutter line-up |newspaper=[[Telegraph.co.uk]] |id={{ProQuest|2443211907}} }}</ref><blockquote>The final six were all white and middle-class. Three of the four semi-finalists were, uncannily, aged 28. Many viewers own cookbooks older than that.<ref name="Hogan2020" /></blockquote>
+
+== References ==
+{{Reflist}}
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off (series 10), The}}
+[[Category:The Great British Bake Off|Series 10]]
+[[Category:2019 British television seasons]]

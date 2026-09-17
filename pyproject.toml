@@ -1,0 +1,12 @@
+[project]
+name = "gbbo-bracket"
+version = "0.1.0"
+description = "Friend-bracket predictions for Great British Bake Off Series 17"
+requires-python = ">=3.11"
+readme = "README.md"
+
+[project.scripts]
+gbbo = "gbbo.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["gbbo*"]

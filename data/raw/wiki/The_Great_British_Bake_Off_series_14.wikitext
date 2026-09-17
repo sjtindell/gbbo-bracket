@@ -1,0 +1,1013 @@
+{{Short description|Season of television series}}
+
+{{Use dmy dates|date=September 2023}}
+{{Infobox television season
+| series_number = 14
+| image         = 
+| caption       = 
+| module1       = {{Infobox reality competition season
+ | presenter       = [[Noel Fielding]]<br>[[Alison Hammond]]
+ | judges          = [[Paul Hollywood]]<br>[[Prue Leith]]
+ | num_contestants = 12
+ | winner          = Matty Edgell
+ | runner_up       = Josh Smalley<br>Dan Hunter
+ | location        = [[Welford Park]], near Newbury, Berkshire
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 30
+}}
+| num_episodes  = 10
+| network       = [[Channel 4]]
+| first_aired   = {{Start date|df=y|2023|09|26}}
+| last_aired    = {{end date|df=y|2023|11|28}}
+}}
+
+The '''fourteenth series''' of ''[[The Great British Bake Off]]'' began on 26 September 2023.<ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/great-british-bake-off-2023-release-date/|title=Great British Bake Off 2023: Release date, hosts and latest news|website=Radio Times}}</ref><ref>{{Cite web|url=https://www.heart.co.uk/showbiz/tv-movies/when-is-the-great-british-bake-off-on-start-date-time-channel-revealed/|title=When is The Great British Bake Off on? Start date and time revealed|website=Heart}}</ref><ref>{{Cite web|url=https://www.digitalspy.com/tv/reality-tv/a45122070/bake-off-release-date-season-14/|title=Bake Off confirms release date for new series|date=13 September 2023|website=Digital Spy}}</ref> In December 2022, [[Matt Lucas]] announced his departure from the show after three series as a co-presenter.<ref>{{Cite web|url=https://www.bbc.com/news/entertainment-arts-63879887|title=Matt Lucas ends run as Great British Bake Off host|date=6 December 2022|website=BBC News}}</ref><ref>{{Cite web|last1=Media |first1=P. A. |url=https://www.theguardian.com/tv-and-radio/2022/dec/06/great-british-bake-off-matt-lucas-leave-presenting-role|title=Matt Lucas to leave The Great British Bake Off |work=The Guardian |date=6 December 2022 }}</ref> In March 2023, [[Alison Hammond]] was announced as his replacement and joined [[Noel Fielding]] as co-host.<ref>{{Cite news|url=https://www.bbc.com/news/entertainment-arts-64986451|title=The Great British Bake Off: Alison Hammond replaces Matt Lucas as co-host|work=BBC News |date=17 March 2023}}</ref><ref>{{Cite web|url=https://www.channel4.com/press/news/baking-news-alison-hammond-joins-bake|title=Baking news... Alison Hammond joins Bake Off |publisher=Channel 4}}</ref> [[Paul Hollywood]] and [[Prue Leith]] returned to judge the series.<ref>{{Cite news|url=https://www.bbc.com/news/entertainment-arts-66689042|title=The Great British Bake Off scraps national-themed weeks after criticism|work=BBC News |date=1 September 2023}}</ref><ref>{{Cite web|url=https://www.independent.co.uk/arts-entertainment/tv/news/bake-off-presenters-2023-who-judges-b2418118.html|title=Who are the hosts and judges of this year's Great British Bake Off?|date=25 September 2023|website=The Independent}}</ref> The bakers competing in the series were announced on 18 September 2023, and included the show’s first ever deaf contestant.<ref>{{cite news |last1=Mensah |first1=Katelyn |title=Bake Off stars learned sign language for show's first ever deaf baker |url=https://www.radiotimes.com/tv/entertainment/great-british-bake-off-first-deaf-baker-newsupdate/ |access-date=18 April 2024 |work=RadioTimes.com |publisher=Radio Times |date=19 September 2023}}</ref><ref>{{Cite news|url=https://www.theguardian.com/tv-and-radio/2023/sep/19/the-2023-great-british-bake-off-contestants-ranked|title=The 2023 Great British Bake Off contestants – ranked!|first=Stuart|last=Heritage|date=19 September 2023|newspaper=The Guardian}}</ref><ref>{{Cite web|url=https://www.channel4.com/press/news/bakers-revealed-great-british-bake-series-14|title=Bakers Revealed for The Great British Bake Off Series 14 |publisher=Channel 4}}</ref><ref>{{Cite web|url=https://www.bbc.com/newsround/66841394|title=Great British Bake Off 2023 contestants, judges and theme weeks!|date=19 September 2023|publisher=BBC}}</ref>
+
+The series was won by Matty Edgell, with Dan Hunter and Josh Smalley finishing as the runners-up.<ref>{{cite web|url= https://www.theguardian.com/tv-and-radio/live/2023/nov/28/the-great-british-bake-off-final-live|title=The Great British Bake Off final – as it happened|date=28 November 2023|work=Guardian|accessdate=29 November 2023}}</ref>
+
+== Bakers ==
+{| class="wikitable sortable" style="text-align:center;"
+!scope="col"|Contestant
+!scope="col"|Age
+!scope="col"|Hometown
+!scope="col"|Occupation
+!scope="col"|Finish
+!scope="col"|Place
+|-
+! scope="row" | Amos Lilley
+| 43
+| [[London]], [[England]]
+| Deli and grocery manager<ref>{{Cite web|url=https://thegreatbritishbakeoff.co.uk/bakers/series-14-amos/|title=Amos|website=The Great British Bake Off}}</ref><ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/amos-great-british-bake-off-2023-contestant/|title=Meet Amos, Great British Bake Off 2023 contestant and theatre lover|website=Radio Times}}</ref>
+|Episode 1
+|12th
+|-
+! scope="row" | Keith Barron
+| 60
+| [[Hampshire]], England
+| Chartered accountant<ref>{{Cite web|url=https://thegreatbritishbakeoff.co.uk/bakers/series-14-keith/|title=Keith|website=The Great British Bake Off}}</ref><ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/keith-great-british-bake-off-2023-contestant/|title=Meet Keith, Great British Bake Off 2023 contestant and chartered accountant|website=Radio Times}}</ref>
+|Episode 2
+|11th
+|-
+! scope="row" | Abbi Lawson
+| 27
+| [[Cumbria]], England
+| Delivery driver<ref>{{Cite web|url=https://thegreatbritishbakeoff.co.uk/bakers/series-14-abbi/|title=Abbi|website=The Great British Bake Off}}</ref><ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/great-british-bake-off-2023-contestant/|title=Meet Abbi, Great British Bake Off 2023 contestant and nature lover|website=Radio Times}}</ref>
+|Episode 3
+|10th
+|-
+! scope="row" | Nicky Laceby
+| 52
+| [[Shropshire]], England
+| nowrap|Retired cabin crew and pet-therapy charity volunteer<ref>{{Cite web|url=https://thegreatbritishbakeoff.co.uk/bakers/series-14-nicky/|title=Nicky|website=The Great British Bake Off}}</ref><ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/nicky-great-british-bake-off-2023-contestant/|title=Meet Nicky, Great British Bake Off 2023 contestant and volunteer|website=Radio Times}}</ref>
+|rowspan="2"|Episode 5
+|rowspan="2"|8th (tie)
+|-
+! scope="row" | Rowan Claughton
+| 21
+| [[West Yorkshire]], England
+| English literature student<ref>{{Cite web|url=https://thegreatbritishbakeoff.co.uk/bakers/series-14-rowan/|title=Rowan|website=The Great British Bake Off}}</ref><ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/rowan-great-british-bake-off-2023-contestant/|title=Meet Rowan, Great British Bake Off 2023 contestant and university student|website=Radio Times}}</ref>
+|-
+! scope="row" | Dana Conway
+| 25
+| [[Essex]], England
+| Database administrator<ref>{{Cite web|url=https://thegreatbritishbakeoff.co.uk/bakers/series-14-dana/|title=Dana|website=The Great British Bake Off}}</ref><ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/dana-great-british-bake-off-2023-contestant/|title=Meet Dana, Great British Bake Off 2023 contestant and self-professed untidy baker|website=Radio Times}}</ref>
+|Episode 6
+|7th
+|-
+! scope="row" | {{ nowrap|Saku Chandrasekara}}
+| 50
+| [[Herefordshire]], England
+| Intelligence analyst<ref>{{Cite web|url=https://thegreatbritishbakeoff.co.uk/bakers/series-14-saku/|title=Saku|website=The Great British Bake Off}}</ref><ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/saku-great-british-bake-off-2023-contestant/|title=Meet Saku, Great British Bake Off 2023 contestant and intelligence analyst|website=Radio Times}}</ref>
+|Episode 7
+|6th
+|-
+! scope="row" | Cristy Sharp
+| 33
+| [[London]], England
+| Personal assistant<ref>{{Cite web|url=https://thegreatbritishbakeoff.co.uk/bakers/series-14-cristy/|title=Cristy|website=The Great British Bake Off}}</ref><ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/cristy-great-british-bake-off-2023-contestant/|title=Meet Cristy, Great British Bake Off 2023 contestant and party planner|website=Radio Times}}</ref>
+|Episode 8
+|5th
+|-
+! scope="row" | Tasha Stones
+| 27
+| [[Bristol]], England
+| Children's charity participation officer<ref>{{Cite web|url=https://thegreatbritishbakeoff.co.uk/bakers/series-14-tasha/|title=Tasha|website=The Great British Bake Off}}</ref>
+|Episode 9
+|4th
+|-
+! scope="row" | Dan Hunter
+| 42
+| [[Cheshire]], England
+|  nowrap|Civil engineering resource planner <ref>{{Cite web|url=https://thegreatbritishbakeoff.co.uk/bakers/series-14-dan/|title=Dan|website=The Great British Bake Off}}</ref><ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/dan-great-british-bake-off-2023-contestant/|title=Meet Dan, Great British Bake Off 2023 contestant and pie lover|website=Radio Times}}</ref>
+|rowspan="3"|{{nowrap|Episode 10}}
+|rowspan="2"|{{sort|2.5|}}Runner-up
+|-
+! scope="row" | Josh Smalley
+| 27
+| [[Leicestershire]], England
+| Chemical biology post-doctoral research associate<ref>{{Cite web|url=https://thegreatbritishbakeoff.co.uk/bakers/series-14-josh/|title=Josh|website=The Great British Bake Off}}</ref><ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/josh-great-british-bake-off-2023-contestant/|title=Meet Josh, Great British Bake Off 2023 contestant and rugby player|website=Radio Times}}</ref>
+|-
+! scope="row" | Matty Edgell
+| 28
+| [[Cambridgeshire]], England
+| PE and science teacher<ref>{{Cite web|url=https://thegreatbritishbakeoff.co.uk/bakers/series-14-matty/|title=Matty|website=The Great British Bake Off}}</ref><ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/great-british-bake-off-2023-contestants/|title=Great British Bake Off 2023 reveals confirmed line-up for season 14|website=Radio Times}}</ref>
+|1st
+|}
+
+== Results summary ==
+{| class="wikitable" style="text-align:center; font-size:92%"
+! rowspan="02" | Baker
+! colspan="10" | Episodes
+|-
+! scope="col"| 1
+! scope="col"| 2
+! scope="col"| 3
+! scope="col"| 4
+! scope="col"| 5
+! scope="col"| 6
+! scope="col"| 7
+! scope="col"| 8
+! scope="col"| 9
+! scope="col"| 10
+|-
+! scope="row" | Matty
+| style="background:white;"| SAFE
+| style="background:white;"| SAFE
+| style="background:white;"| SAFE
+| style="background:lemonchiffon;"|SB
+| style="background:white;"| SAFE
+| style="background:plum;"| LOW
+| style="background:white;"| SAFE 
+| style="background:lemonchiffon;"|SB
+| style="background:plum;"| LOW
+| style="background:Yellow;"|WINNER
+|-
+! scope="row" | Dan
+| style="background:lemonchiffon;"|SB
+| style="background:white;"| SAFE
+| style="background:plum;"| LOW
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:white;"| SAFE
+| style="background:white;"| SAFE
+| style="background:lemonchiffon;"|SB
+| style="background:plum;"| LOW
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| rowspan="2" style="background:limegreen;" |{{nowrap|Runner-up}}
+|-
+! scope="row" | Josh
+| style="background:white;"| SAFE
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:white;"| SAFE
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:lemonchiffon;"|SB
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:lemonchiffon;"|SB
+|-
+! scope="row" | Tasha
+| style="background:white;"| SAFE
+| style="background:lemonchiffon;"|SB
+| style="background:lemonchiffon;"|SB
+| style="background:Gainsboro;"|N/A{{ref|1|[a]}}
+| style="background:white;"| SAFE
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:white;"| SAFE 
+| style="background:white;"| SAFE
+| style="background:orangered"| OUT
+| colspan="1" style="background:darkgrey"| 
+|-
+! scope="row" | Cristy
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:white;"| SAFE 
+| style="background:white;"| SAFE
+| style="background:plum;"| LOW
+| style="background:lemonchiffon;"|SB
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:plum;"| LOW
+| style="background:orangered"| OUT
+| colspan="2" style="background:darkgrey"| 
+|-
+! scope="row" | Saku
+| style="background:white;"| SAFE 
+| style="background:white;"| SAFE 
+| style="background:white;"| SAFE
+| style="background:plum;"| LOW
+| style="background:plum;"| LOW
+| style="background:plum;"| LOW
+| style="background:orangered"| OUT
+| colspan="3"  style="background:darkgrey"| 
+|-
+! scope="row" | Dana
+| style="background:plum;"| LOW
+| style="background:white;"| SAFE 
+| style="background:white;"| SAFE
+| style="background:white;"| SAFE 
+| style="background:plum;"| LOW
+| style="background:orangered"| OUT
+| colspan="4" style="background:darkgrey"| 
+|-
+! scope="row" | Nicky
+| style="background:plum;"| LOW
+| style="background:plum;"| LOW
+| style="background:white;"| SAFE 
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:orangered"| OUT
+| colspan="5" style="background:darkgrey"| 
+|-
+! scope="row" | Rowan
+| style="background:white;"| SAFE
+| style="background:white;"| SAFE 
+| style="background:plum;"| LOW
+| style="background:white;"| SAFE 
+| style="background:orangered"| OUT
+| colspan="5" style="background:darkgrey"|
+|-
+! scope="row" | Abbi
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:white;"| SAFE 
+| style="background:orangered"| OUT
+| colspan="7" style="background:darkgrey"| 
+|-
+! scope="row" | Keith
+| style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:orangered"| OUT
+| colspan="8" style="background:darkgrey"| 
+|-
+! scope="row" | Amos
+| style="background:orangered"| OUT
+| colspan="9" style="background:darkgrey"|
+|}
+
+<small>{{ref|1|[a]}} Tasha was ill and unable to compete during the technical and showstopper in episode 4. As a result, the judges decided that it was unfair to eliminate anyone in her absence. </small>
+
+'''Colour key:'''
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|CornflowerBlue|outline=darkgray|Baker was one of the judges' favourite bakers that week, but was not the Star Baker.}}
+{{legend|White|outline=darkgray|Baker got through to the next round.}}
+{{legend|Gainsboro|outline=darkgray|Baker did not compete that week.}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated.}}
+{{legend|LemonChiffon|outline=darkgray|Baker was the Star Baker.}}
+{{legend|LimeGreen|outline=darkgray|Baker was a series runner-up.}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner.}}
+
+== Episodes ==
+
+=== Episode 1: Cake ===
+The first episode is Cake Week.<ref>{{Cite web|url=https://www.cosmopolitan.com/uk/entertainment/a45268155/great-british-bake-off-weekly-themes/|title=GBBO 2023: What themes are they doing each week this year?|date=22 September 2023|website=Cosmopolitan}}</ref><ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/great-british-bake-off-national-weeks-cancelled-newsupdate/|title=Great British Bake Off scraps national-themed weeks|website=Radio Times}}</ref> For the first signature challenge, the bakers were given two hours to produce a Vertical Layer Cake made of sponge and icing. For the technical challenge, set by Paul, the bakers were tasked with making "The Great British Bake Off Cake" (the one seen in the credits each week<ref>{{cite web |last1=Agius |first1=Nicola |title=Great British Bake Off fans want Channel 4 to fix this opening credits 'gaffe' |url=https://www.digitalspy.com/tv/reality-tv/a837346/great-british-bake-off-opening-credits-error-missing-raspberry/ |website=Digital Spy |publisher=Hearst UK |access-date=18 April 2024 |date=6 September 2017}}</ref><ref>{{cite web |last1=Mitchell |first1=Harriet |title=Great British Bake Off premiere's challenge featured big Easter egg |url=https://www.digitalspy.com/tv/reality-tv/a45328504/bake-off-2023-premiere-missing-raspberry-cake/ |website=Digital Spy |publisher=Hearst UK |access-date=18 April 2024 |date=26 September 2023}}</ref>) in two hours, comprising two layers of moist chocolate sponge covered with chocolate ganache and fresh raspberries. A 3D cake replica of an animal of the bakers' choosing was set as the showstopper; the bakers were given four hours, the judges expecting the bake to be mostly sponge.
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(Vertical Layer Cake)</small>
+! scope="col"| Technical<br><small>(The Great British Bake Off Cake)</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(Animal Cake)</small>
+! scope="col"| Result
+|-
+! scope="row" | Abbi
+| Foraged Poppy Seed, Lemon & Blackcurrant Vertical Layer Cake
+| 3rd
+| 'Herbert the [[Herdwick]]' Cake
+| {{Safe}}
+|-
+! scope="row" | Amos
+| Blood Orange & Dark Chocolate Vertical Layer Cake
+| 2nd
+| '[[Orca]] on a Wave' Cake
+| {{Eliminated}}
+|-
+! scope="row" | Cristy
+| 'Lemon Meringue' Vertical Layer Cake
+| 6th
+| 'Raspberry Ripple' Duck Cake
+| {{Safe}}
+|-
+! scope="row" | Dan
+| Rhubarb & Custard Vertical Layer Cake
+| 1st
+| 'Bruno' Cake
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Dana
+| 'Salted Caramel Latte' Vertical Layer Cake
+| 12th
+| 'My Amazing Gracie' Cake
+| {{Safe}}
+|-
+! scope="row" | Josh
+| 'Tropical' Vertical Layer Cake
+| 8th
+| 'Mum's [[Highland cattle|Highland Cow]]' Cake
+| {{Safe}}
+|-
+! scope="row" | Keith
+| 'Dad's Chocolate Orange' Vertical Layer Cake
+| 4th
+| 'Maisie' Cake
+| {{Safe}}
+|-
+! scope="row" | Matty
+| 'Tiramisu' Vertical Layer Cake
+| 7th
+| 'Marty the [[Cocker Spaniel]]' Cake
+| {{Safe}}
+|-
+! scope="row" | Nicky
+| 'St. Clements' Vertical Layer Cake
+| 10th
+| 'Always Beavering Around' Cake
+| {{Safe}}
+|-
+! scope="row" | Rowan
+| Chocolate & Raspberry Vertical Layer Cake
+| 9th
+| 'Cosmopolitan Lobster' Cake
+| {{Safe}}
+|-
+! scope="row" | Saku
+| Chaminda's Favourite Vertical Layer Cake
+| 5th
+| 'Tikiri the Turtle' Cake
+| {{Safe}}
+|-
+! scope="row" | Tasha
+| Black Sesame & [[Yuzu]] Vertical Layer Cake
+| 11th
+| [[European robin|Robin]] Cake
+| {{Safe}}
+|}
+
+=== Episode 2: Biscuits ===
+In Biscuit Week the signature bake was twelve Marshmallow biscuits of whatever form in {{frac|2|1|2}} hours. In the technical challenge, set by Prue, the bakers had {{frac|1|1|2}} hours to bake twelve [[custard cream]] biscuits. The showstopper challenge gave them four hours to bake an Illusion Biscuit display which represented the bakers favourite meal.
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(12 [[Chocolate-coated marshmallow treats|Marshmallow Biscuits]])</small>
+! scope="col"| Technical<br><small>(12 [[Custard cream|Custard Creams]])</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Illusion Biscuit Display)</small>
+! scope="col"| Result
+|-
+! scope="row" | Abbi
+| 'Flavours of Tunisia' Marshmallow Biscuits
+| 1st
+| 'Dim Sum Brunch' Illusion Biscuits
+| {{Safe}}
+|-
+! scope="row" | Cristy
+| 'Nanny June's' Marshmallow Biscuits
+| 9th
+| 'Family Charcuterie Board' Illusion Biscuits
+| {{Safe}}
+|-
+! scope="row" | Dan
+| 'Waterwheel' Marshmallow Biscuits
+| 2nd
+| 'Cheese & Onion Pie' Illusion Biscuits
+| {{Safe}}
+|-
+! scope="row" | Dana
+| 'Mallow-Dramatic' Marshmallow Biscuits
+| 7th
+| 'Friday Night Takeaway' Illusion Biscuits
+| {{Safe}}
+|-
+! scope="row" | Josh
+| 'Black Forest' Marshmallow Biscuits
+| 6th
+| 'JJ's Burger & Fries' Illusion Biscuits
+| {{Safe}}
+|-
+! scope="row" | Keith
+| 'Letter from America' Marshmallow Biscuits
+| 11th
+| 'Seaside Meal Deal' Illusion Biscuits
+| {{Eliminated}}
+|-
+! scope="row" | Matty
+| 'Half-Time' Marshmallow Biscuits
+| 5th
+| 'Cheeseboard' Illusion Biscuits
+| {{Safe}}
+|-
+! scope="row" | Nicky
+| 'Tasty Teatime Treat' Marshmallow Biscuits
+| 4th
+| 'A Home from Home Steak Pie' Illusion Biscuits
+| {{Safe}}
+|-
+! scope="row" | Rowan
+| Lemon, Rosemary & Violet Marshmallow Biscuits
+| 3rd
+| ‘Charcuterie Board’ Illusion Biscuits
+| {{Safe}}
+|-
+! scope="row" | Saku
+| Pistachio & Raspberry Marshmallow Biscuits
+| 10th
+| 'Sri Lankan Breakfast Feast' Illusion Biscuits
+| {{Safe}}
+|-
+! scope="row" | Tasha
+| 'After-School Treat' Marshmallow Biscuits
+| 8th
+| 'Japanese Katsu & Matcha' Illusion Biscuits
+| {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 3: Bread ===
+The bakers were tasked with making their own [[cottage loaf]] in {{frac|2|3|4}} hours for the signature challenge. For the technical challenge, set by Paul, the task was baking 8 Devonshire Splits, i.e. buns which are split in half and are filled with [[Fruit preserves#Jam|jam]], [[clotted cream]] and strawberries, in {{frac|2|1|2}} hours. In the showstopper, the bakers were given four hours to make a sweet or savoury Plaited Centrepiece Loaf that featured two different types of flour.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>([[Cottage loaf|Cottage Loaf]])</small>
+! scope="col"| Technical<br><small>(8 Devonshire Splits)</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(Plaited Centrepiece Loaf)</small>
+! scope="col"| Result
+|-
+! scope="row" | Abbi
+| 'Country Kitchen' Cottage Loaf
+| 8th
+| 'My Favourite Tree' Plaited Centrepiece
+| {{Eliminated}}
+|-
+! scope="row" | Cristy
+| Cranberry, Rosemary & Walnut Cottage Loaf
+| 6th
+| Honey & Chocolate Plaited Centrepiece 
+| {{Safe}}
+|-
+! scope="row" | Dan
+| Wild Garlic Cottage Loaf
+| 10th
+| 'Stuffed Crust Pizza' Plaited Centrepiece
+| {{Safe}}
+|-
+! scope="row" | Dana
+| 'Bread-ley Cooper' Cottage Loaf
+| 3rd
+| 'Tea Beside the Sea' Plaited Centrepiece
+| {{Safe}} 
+|-
+! scope="row" | Josh
+| 'Nduja' Pizza Cottage Loaf
+| 4th
+| 'Tiger Mascot' Plaited Centrepiece
+| {{Safe}}
+|-
+! scope="row" | Matty
+| Olive & Tomato Cottage Loaf
+| 7th
+| 'The Hammers' Plaited Centrepiece
+| {{Safe}}
+|-
+! scope="row" | Nicky
+| Roast Garlic & Rosemary Cottage Loaf
+| 5th
+| 'Angus the Highland Cow' Plaited Centrepiece
+| {{Safe}}
+|-
+! scope="row" | Rowan
+| Olive & Tomato Cottage Loaf
+| 9th
+| 'A Bread Rowan Tree' Plaited Centrepiece
+| {{Safe}}
+|-
+! scope="row" | Saku
+| Cinnamon & Orange Cottage Loaf
+| 1st
+| 'Peacock on a Branch' Plaited Centrepiece
+| {{Safe}}
+|-
+! scope="row" | Tasha
+| Roast Garlic and Rosemary Malted Cottage Loaf
+| 2nd
+| 'Medusa' Plaited Centrepiece
+| {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 4: Chocolate ===
+A "luxurious" chocolate [[torte]], to be made without [[wheat flour]] in {{frac|2|1|2}} hours, was set as the signature challenge. The technical challenge, set by Prue, required six individual-sized caramelized white chocolate and [[blackcurrant]] [[cheesecake|cheesecakes]] to be baked in two hours. For the showstopper the bakers were given four hours to make an "Edible Chocolate Box Cake" — an edible chocolate box with filled molded chocolates and containing a chocolate cake. 
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(Chocolate Torte)</small>
+! scope="col"| Technical<br><small>(6 White Chocolate & Blackcurrant Cheesecake)</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(Edible Chocolate Box Cake)</small>
+! scope="col"| Result{{efn|name=fn1}}
+|-
+! scope="row" | Cristy
+| Cherry & Chocolate Torte
+| 7th
+| 'For Love' Chocolate Box Cake
+| {{Safe}}
+|-
+! scope="row" | Dan
+| Chilli and Chocolate Torte
+| 1st
+| 'A Treasure Chest of Delight' Chocolate Box Cake
+| {{Safe}}
+|-
+! scope="row" | Dana
+| 'I Cherry-ish You' Chocolate Torte
+| 5th
+| 'Once Upon a Time' Chocolate Box Cake
+| {{Safe}}
+|-
+! scope="row" | Josh
+| Raspberry & Chocolate Torte
+| 6th
+| 'Chemistry Centenary' Chocolate Box Cake
+| {{Safe}}
+|-
+! scope="row" | Matty
+| Hazelnut & Chocolate Torte
+| 2nd
+| Chocolate Box Cake
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Nicky
+| 'Dreamy' Chocolate Torte
+| 4th
+| 'This is No Ordinary Chocolate Box' Cake
+| {{Safe}}
+|-
+! scope="row" | Rowan
+| 'Mocha' Chocolate Torte
+| 3rd
+| 'Grandpa's Paints' Chocolate Box Cake
+| {{Safe}}
+|-
+! scope="row" | Saku
+| Chocolate & Raspberry Torte
+| 8th
+| 'Time for Cricket' Chocolate Box Cake
+| {{Safe}}
+|-
+! scope="row" | Tasha
+| Ginger, Almond & Dark Chocolate Torte
+| bgcolor=#EFEFEF| {{sort|9|}}''Did not finish''{{efn|name=fn1|Tasha returned home after falling ill during the technical challenge and did not participate in the showstopper. As a result, the judges decided not to eliminate anyone, and the following episode would include a double elimination.}}
+| {{n/a|''Did not compete''}}{{efn|name=fn1}}
+| {{Safe}}
+|}
+{{notelist}}
+
+=== Episode 5: Pastry ===
+
+For the signature challenge, the bakers were required to produce twelve individual savoury [[Pork_pie#Variations|picnic pies]], made with [[hot water crust pastry]], in two hours. The technical challenge, set by Paul, asked the bakers to bake a [[Dauphinoise potatoes|Dauphinoise]] [[Pithivier]], using [[Flaky pastry|flaky "rough puff" pastry]] and accompanied by a [[blue cheese]] sauce, in two hours and forty-five minutes. The showstopper challenge tasked the bakers with making a decorative sweet pie display with a minimum of three pies, in fours hours; the judges expected them to have a sweet pastry case.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small> (12 Savoury [[Pork_pie#Variations|Picnic Pies]]) </small>
+! scope="col"| Technical<br><small> ([[Dauphinoise potatoes|Dauphinoise]] [[Pithivier]]) </small>
+! scope="col" class="unsortable"| Showstopper<br><small> (Decorative Sweet Pie Display) </small> 
+! scope="col"| Result
+|-
+! scope="row" | Cristy
+| Creamy Mushroom & Leek Picnic Pies
+| 5th
+| 'Autumnal Lattice' Decorative Pies
+|  {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Dan
+| Lamb [[Ground_meat#Indian_subcontinent|Keema]] Picnic Pies
+| 1st
+| 'Journey Around South America' Decorative Pies
+| {{Safe}}
+|-
+! scope="row" | Dana
+| 'Spud-tacular' Picnic Pies
+| 2nd
+| 'The Apple of my Pie' Decorative Pies
+| {{Safe}}
+|-
+! scope="row" | Josh
+| 'Post-Match'’ Picnic Pies
+| 8th
+| 'From Flour to Flower' Decorative Pies
+| {{Safe}}
+|-
+! scope="row" | Matty
+| '[[Savory spinach pie|Spanakopità]]' Picnic Pies
+| 7th
+| 'Ski Trip' Decorative Pies
+| {{Safe}}
+|-
+! scope="row" | Nicky
+| Pork & Cheese Picnic Pies
+| 9th
+| 'Gran's Garden Trio' Decorative Pies
+|  {{Eliminated}}
+|-
+! scope="row" | Rowan
+| Pork & Sweet Potato Picnic Pies
+| 4th
+| 'Lattice Fabulous' Decorative Pies
+| {{Eliminated}}
+|-
+! scope="row" | Saku
+| Spicy Tuna Picnic Pies
+| 6th
+| 'Pie Chart' Decorative Pies
+| {{Safe}}
+|-
+! scope="row" | Tasha
+| Sausage, Apple & Cranberry Picnic Pies
+| 3rd
+| 'Sea or Ski?' Decorative Pies
+| {{Safe}}
+|}
+
+=== Episode 6: Botanical ===
+
+The signature challenge asked the bakers to make twelve individual spiced buns in two hours and forty-five minutes. Prue's technical challenge tasked them with making a lemon and thyme drizzle cake, topped with crystallised lemon peel and thyme, in 1½ hours. The showstopper challenge required the bakers to make a floral dessert, in any style but with at least one significant baked element, and celebrating flowers in flavours and design, in {{frac|4|1|2}} hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small> (12 Spiced Buns) </small>
+! scope="col"| Technical<br><small> (Lemon and Thyme Drizzle Cake) </small>
+! scope="col" class="unsortable"| Showstopper<br><small> (Floral Dessert) </small> 
+! scope="col"| Result
+|-
+! scope="row" | Cristy
+| Maple, Pecan & Cinnamon Spiced Buns
+| 1st
+| Elderflower, Strawberry & Rhubarb Floral Dessert
+| {{Safe}}
+|-
+! scope="row" | Dan
+| 'Dreaming of Greece' Spiced Buns
+| 3rd
+| 'Sunny Meadows' Floral Dessert
+| {{Safe}}
+|-
+! scope="row" | Dana
+| 'Bun in a Million' Spiced Buns
+| 6th
+| 'Stop and Smell the Rosé' Floral Dessert
+| {{Eliminated}}
+|-
+! scope="row" | Josh
+| Lemon & Blueberry Spiced Buns
+| 2nd
+| Rhubarb, Raspberry & Hibiscus Floral Dessert
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Matty
+| 'Rum Drunk' Spiced Buns
+| 4th
+| Blackberry & Elderflower Floral Dessert
+| {{Safe}}
+|-
+! scope="row" | Saku
+| Swedish Cinnamon Spiced Buns
+| 5th
+| Earl Grey & Hibiscus Floral Dessert
+| {{Safe}}
+|-
+! scope="row" | Tasha
+| 'Yultide' Spiced Buns
+| 7th
+| Elderflower & Hibiscus Floral Dessert
+| {{Safe}}
+
+|}
+
+=== Episode 7: Desserts ===
+The signature challenge required the bakers to produce eight [[Crème caramel|crème caramels]] in {{frac|2|3|4}} hours. The technical challenge, set by Paul, tasked them with making six individual orange and ginger [[Treacle sponge pudding|treacle puddings]] in {{frac|1|1|2}} hours. A [[meringue]] [[Bombe glacée|bombe]] with a dessert of the bakers' choice inside was set as the showstopper, to be made in four hours.
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small> (8 Crème Caramels) </small>
+! scope="col"| Technical<br> <small> (6 Orange and Ginger Treacle Puddings) </small>
+! scope="col" class="unsortable"| Showstopper<br><small> (Meringue Bombe) </small> 
+! scope="col"| Result
+|-
+! scope="row" | Cristy
+| Orange Crème Caramels
+| 4th
+| '[[Croquembouche]]' Meringue Bombe
+| {{Safe}}
+|-
+! scope="row" | Dan
+| '[[Green curry|Thai Green Curry]]' Crème Caramels 
+| 2nd
+| '[[Pale Blue Dot]]' Meringue Bombe
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Josh
+| 'Nan's Favourite' Crème Caramels 
+| 3rd
+| 'Game, Set and Match' Meringue Bombe
+| {{Safe}}
+|-
+! scope="row" | Matty
+| [[Masala chai|Chai]] Crème Caramels 
+| 6th
+| 'English Italian Summer' Meringue Bombe
+| {{Safe}}
+|-
+! scope="row" | Saku
+| 'Mini [[Watalappam|Watalappan]]' Crème Caramels
+| 5th
+| 'Flowers for my Bee' Meringue Bombe
+| {{Eliminated}}
+|-
+! scope="row" | Tasha
+| Fig, Honey and Rosemary Crème Caramels
+| 1st
+| Plum and Ginger Meringue Bombe
+| {{Safe}}
+|}
+
+=== Episode 8: Party (Quarterfinals) ===
+The signature challenge required the bakers to make twelve [[sausage roll]]s, using the pastry of their choice, in two hours. The technical challenge, set by Paul, asked the bakers to make a chocolate [[Colin the Caterpillar|caterpillar cake]] in {{frac|2|1|2}} hours.<ref>{{cite web |title=Paul Hollywood's Caterpillar Cake |url=https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywoods-caterpillar-cake/ |website=The Great British Bake Off |publisher=Love Productions Ltd. |access-date=27 April 2024}}</ref> The bakers had 4½ hours to make their showstopper challenge, a colourful and decorative 'Anything But Beige' Buffet display of a mixture of sweet and savory party foods, baking at least 12 of each item.
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small> (12 Sausage Rolls) </small>
+! scope="col"| Technical<br><small> (Chocolate Caterpillar Cake) </small>
+! scope="col" class="unsortable"| Showstopper<br><small> ('Anything But Beige' Buffet) </small> 
+! scope="col"| Result
+|-
+! scope="row" | Cristy
+| Cranberry & Sage Sausage Rolls
+| 2nd
+| 'Marvellous Sweet Factory' Buffet 
+| {{Eliminated}}
+|-
+! scope="row" | Dan
+| 'Dumplings in Disguise' Sausage Rolls
+| 5th
+| 'Prehistoric Party Poopers' Buffet 
+| {{Safe}}
+|-
+! scope="row" | Josh
+| Turkey & Cranberry ‘Christmas’ Sausage Rolls
+| 4th
+| 'It's Christmas!!!' Buffet 
+|  {{Safe}}
+|-
+! scope="row" | Matty 
+|'Classic' Sausage Rolls
+| 3rd
+| 'Sports' Buffet 
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Tasha
+| 'Cider in the Park' Sausage Rolls
+| 1st
+| 'Birthdays on the Farm' Buffet 
+|  {{Safe}}
+|}
+
+=== Episode 9: Patisserie (Semifinal) ===
+[[Patisserie]] week's signature challenge was for the bakers to make two batches of twelve decorated [[Financier (cake)|financiers]] in two hours. The technical challenge, set by Prue, was to bake a tarte aux pommes with short buttery pastry, with a smooth almond [[frangipane]] and apple puree, and topped with arranged glazed apple slices, all in {{frac|2|1|2}} hours. The showstopper challenge gave the bakers four hours to produce a [[Mille-feuille#Italy|Millefoglie]], an elegant highly decorated Italian celebration cake with at least four layers of buttery, flaky [[puff pastry]], in four hours.
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small> (24 [[Financier (cake)|Financiers]]) </small>
+! scope="col"| Technical<br><small> (Tarte aux Pommes) </small>
+! scope="col" class="unsortable"| Showstopper<br><small> (Millefoglie) </small> 
+! scope="col"| Result
+|-
+! scope="row" | Dan
+| Fancy Financiers
+| 3rd
+| 'Hypersonic' Millefoglie 
+| {{Safe}}
+|-
+! scope="row" | Josh
+| Perfect Pudding Financiers 
+| 1st
+| Lemon, Blackberry & Blackcurrant Millefoglie
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Matty 
+| 'Pick Me Up' Financiers
+| 2nd 
+| 'Taste of Italy' Millefoglie
+| {{Safe}}
+|-
+! scope="row" | Tasha
+| 'Fancy Fruit & Nut' Financiers
+| 4th
+| 'Mango Mojito' Millefoglie
+| {{Eliminated}}
+|}
+
+=== Episode 10: Final ===
+The final signature challenge tasked the bakers with making eight [[Éclair|éclairs]] in two different flavors, in two hours and fifteen minutes. The final technical challenge, set by Paul, asked the bakers to make nine [[Lardy cake]] slices in three hours. The final showstopper challenge was for the bakers to make an elegant celebration cake with at least three tiers, inspired by their first bake, in {{frac|4|1|2}} half hours.  Based on the judges' comments during deliberations, Dan can be seen as an unofficial third place, as they said Josh and Matty were in line to win.
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small> (8 [[Éclair|Éclairs]]) </small>
+! scope="col"| Technical<br><small> (9 [[Lardy Cake]] Slices) </small>
+! scope="col" class="unsortable"| Showstopper<br><small> (Elegant Tiered Celebration Cake) </small> 
+! scope="col"| Result
+|-
+! scope="row" | Dan
+| 'He Who Dares, Éclairs!'
+| 2nd
+| 'Lemon Drizzle Memory Lane' Cake
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Josh
+| Tropical and Mocha Éclairs 
+| 1st
+| 'A Slice For All Seasons' Cake 
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Matty
+| [[Black Forest gateau|Black Forest]] and [[Banoffee pie|Banoffee]] Éclairs 
+| 3rd
+| 'Final Celebration' Cake
+| {{sort|1|}}{{Won|Winner|color=gold}}
+
+|}
+
+==Specials==
+
+Two specials were commissioned for the festive season:<ref>{{cite web|url=https://www.tvzoneuk.com/post/gbbo-festive2023 |title=BAKE OFF REVEALS RETURNING BAKERS FOR FESTIVE SPECIALS ON CHANNEL 4|date=6 December 2023|work=TV Zone UK|accessdate=7 December 2023}}</ref>	
+
+=== ''The Great Christmas Bake Off'' ===
+The Great Christmas Bake Off featured [[The Great British Bake Off (series 8)|Series 8]] winner [[Sophie Faldo]], Dan Beasley-Harling from [[The Great British Bake Off (series 9)|Series 9]], Amelia Le Bruin from [[The Great British Bake Off (series 10)|Series 10]], Linda Rayfield from [[The Great British Bake Off (series 11)|Series 11]], George Aristidou from [[The Great British Bake Off (series 12)|Series 12]], and Carole Edwards from [[The Great British Bake Off (series 13)|Series 13]].
+
+For the signature challenge, the bakers had to make 12 [[Mince Pie|mince pies]] using any pastry, with a festive filling, in 2 hours. The technical challenge, set by Paul, was a tear and share cinnamon snowflake bread, with an enriched dough, in 2¾ hours. The showstopper challenge, was to bake an exquisite celebration cake based on redemption, with any style and flavours, in 4 hours.
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small> (Mince Pies) </small>
+! scope="col"| Technical<br /> <small> (Tear and Share Cinnamon Snowflake Bread) </small>
+! scope="col" class="unsortable"| Showstopper<br /><small> (Redemption Celebration Cake) </small> 
+! scope="col"| Result
+|-
+! scope="row" | Amelia
+| ‘Star’ Mince Pies
+| align="center"| 3rd
+| Pistachio and Orange ‘Redemption’ Cake
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Carole
+| ‘Typically Tropical’ Mince Pies
+| align="center"| 6th
+| ‘O Christmas Tree, ‘O Christmas Tree’ Cake
+|{{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Dan 
+| ‘Merry Cherry Magic’ Mince Pies
+| align="center"| 2nd
+| ‘Pearfully Does It’ Cake
+|{{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | George 
+| ‘Merry Cherry’ Mince Pies 
+| align="center"| 5th
+| ‘Roll on Christmas’ Cake
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Linda
+| ‘Festive Fun’ Mince Pies 
+| align="center"| 4th
+| ‘Festive Revival’ Cake
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Sophie
+| ‘Skiing at Christmas’ Mince Pies 
+| align="center"| 1st
+| ‘Christmas Candle Centerpiece’ Cake
+| {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+|}
+
+=== ''The Great New Year Bake Off'' ===
+The Great New Year Bake Off featured Mark Lutton from [[The Great British Bake Off (series 11)|Series 11]], Jürgen Krauss and Maggie Richardson both from [[The Great British Bake Off (series 12)|Series 12]], and Maxy Maligisa from [[The Great British Bake Off (series 13)|Series 13]].
+
+The signature challenge was for the bakers to make 12 [[Religieuse]] with a festive theme in two hours. The technical challenge, set by Paul, was for the bakers to make a [[King cake|Galette Des Rois]] with crisp, buttery pastry and an almond frangipane filling in two hours. The showstopper challenge was for the bakers to create an exquisite New Year’s Smash Cake that had a chocolate dome shell, in 4 hours.
+ 
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small> ([[Religieuse]]) </small>
+! scope="col"| Technical<br /> <small> ([[King cake|Galette Des Rois]]) </small>
+! scope="col" class="unsortable"| Showstopper<br /><small> (Smash Cake) </small> 
+! scope="col"| Result
+|-
+! scope="row" | Jürgen
+| ‘Lucky Chimney Sweeps’ Religieuse
+| align="center"| 4th
+| ‘New Year’s Sunrise’ Smash Cake
+|  {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Maggie
+| ‘New Year’s Day Party’ Religieuse
+| align="center"| 3rd
+| ‘Winter Fun’ Smash Cake
+|  {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Mark
+| ‘Boozy Relig-eusey’
+| align="center"| 2nd
+| ‘Tropical Snowman’ Smash Cake
+|  {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Maxy
+| ‘Away In A Manger’ Religieuse
+| align="center"| 1st
+| ‘Phoenix’ Smash Cake
+| {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+|}
+
+==Ratings==
+The first episode of the 14th series has an overnight viewing figure of 4.3 million, a slight fall from the 4.4 million of 2022.<ref>{{cite news |url=https://www.standard.co.uk/showbiz/great-british-bake-off-viewing-figures-down-b1109818.html |title=Bake Off viewing figures down compared to 2022 launch despite Alison Hammond being hit with fans |first=Lisa |last=McLoughlin |work=Evening Standard }}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|7-day viewers<br /><small>(millions)</small>
+! scope="col"|Channel 4<br />weekly ranking
+! scope="col"|Weekly ranking<br />all channels<ref name="BARB">{{cite web|url=https://www.barb.co.uk/viewing-data/most-viewed-programmes/|title=Weekly top 50 shows|publisher=[[Broadcasters' Audience Research Board]]}}</ref>
+|-
+! scope="row"| 1
+| {{Start date|df=y|2023|09|26}}
+| 7.84
+| 1
+| 2
+|-
+! scope="row"| 2
+| {{Start date|df=y|2023|10|03}}
+| 7.54
+| 1
+| 2
+|-
+! scope="row"| 3
+| {{Start date|df=y|2023|10|10}}
+| 7.28
+| 1
+| 3
+|-
+! scope="row"| 4
+| {{Start date|df=y|2023|10|18}}
+| 7.12
+| 1
+| 4
+|-
+! scope="row"| 5
+| {{Start date|df=y|2023|10|24}}
+| 5.89
+| 1
+| 4
+|-
+! scope="row"| 6
+| {{Start date|df=y|2023|10|31}}
+| 6.32
+| 1
+| 3
+|-
+! scope="row"| 7
+| {{Start date|df=y|2023|11|07}}
+| 6.94
+| 1
+| 3
+|-
+!scope="row"| 8
+| {{Start date|df=y|2023|11|14}}
+| 6.77
+| 1
+| 4
+|-
+!scope="row"| 9
+| {{Start date|df=y|2023|11|21}}
+| 6.47
+| 1
+| 11
+|-
+!scope="row"| 10
+| {{Start date|df=y|2023|11|28}}
+|6.75
+| 1
+| 10
+|-
+|}
+
+== References ==
+{{reflist}}
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off (series 14), The}}
+[[Category:The Great British Bake Off|Series 14]]
+[[Category:2023 British television seasons]]

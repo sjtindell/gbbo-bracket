@@ -1,0 +1,557 @@
+{{short description|Second series of The Great British Bake Off}}
+{{for|the fourth series aired as the second season of the PBS broadcast|The Great British Bake Off series 4}}
+{{Use dmy dates|date=August 2019}}
+{{Use British English|date=August 2019}}
+{{Infobox television season
+| image                = 
+| caption              = 
+| series_number        = 2
+| module1              = {{Infobox reality competition season
+ | presenter           = [[Mel Giedroyc]]<br>[[Sue Perkins]]
+ | judges              = [[Mary Berry]]<br>[[Paul Hollywood]]
+ | winner              = Jo Wheatley
+ | runner_up           = Holly Bell<br>Mary-Anne Boermans
+ | location            = [[Valentines Mansion]], Redbridge
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 24
+}}
+| num_episodes         = 8
+| network              = [[BBC Two]]
+| first_aired          = {{start date|2011|8|16|df=y}}
+| last_aired           = {{end date|2011|10|4|df=y}}
+}}
+
+The '''second series''' of ''[[The Great British Bake Off]]'' started 16 August 2011 with twelve amateur bakers.  Unlike series one, the competition was held in a single location – the grounds of [[Valentines Mansion]], a 17th-century mansion house in [[London Borough of Redbridge|Redbridge]].<ref>{{cite web|url=http://www2.redbridge.gov.uk/cms/news_and_events/latest_news/2011/august_2011/valentines_mansion_proves_to_b.aspx |title=Valentines Mansion proves to be the perfect setting for TV show |date=16 August 2011 |work=Redbridge i |url-status=dead |archiveurl=https://web.archive.org/web/20120106183612/http://www2.redbridge.gov.uk/cms/news_and_events/latest_news/2011/august_2011/valentines_mansion_proves_to_b.aspx |archivedate=6 January 2012 }}</ref> In addition to their on-screen presenting, Mel Giedroyc and Sue Perkins also took over the narration, which had been done by Stephen Noonan for the previous series. Series two also introduced the "star baker" award for the most impressive performer each week.
+
+Three and a half thousand people applied for the competition, and twelve were selected. Each episode was filmed over two fourteen-hour days.<ref name="metro">{{cite web |url=http://metro.co.uk/2012/08/28/edd-kimber-and-jo-wheatley-winning-the-great-british-bake-off-was-life-changing-554519/ |title= Edd Kimber and Jo Wheatley: Great British Bake Off changed our lives
+|date=28 August 2012 |work=Metro }}</ref>{{unreliable source|sure=yes|reason=Per WP:METRO|date=July 2025}} The competition was won by [[Jo Wheatley]].<ref>{{Cite web|title=Joanne Wheatley recipes – BBC Food|url=https://www.bbc.co.uk/food/chefs/joanne_wheatley|website=www.bbc.co.uk|access-date=2020-05-19}}</ref>
+
+== Bakers ==
+{| class="wikitable sortable" style="text-align:center;"
+!scope="col"|Contestant
+!scope="col"|Age
+!scope="col"|Hometown
+!scope="col"|Occupation
+!scope="col"|Finish
+!scope="col"|Place
+|-
+! scope="row"| Keith Batsford
+| 31 
+| [[Arlesey]]
+| House husband 
+|Episode 1
+|12th
+|-
+! scope="row"| Simon Blackwell
+| 31 
+| [[Norfolk]]
+| Rugby Coach 
+|Episode 2
+|11th
+|-
+! scope="row"| Ian Vallance
+| 40 
+| [[Dunstable]]
+| nowrap|Fundraiser for [[English Heritage]] 
+|rowspan="2"|Episode 3
+|rowspan="2"|9th (tie)
+|-
+! scope="row"| Urvashi Roe
+| 40 
+| [[Enfield, London|Enfield]]
+| Head of Marketing 
+|-
+! scope="row"| Ben Frazer
+| 31 
+| [[Northampton]]
+| Graphic Designer 
+|Episode 4
+|8th
+|-
+! scope="row"| Jason White
+| 19 
+| [[Croydon]]
+| Civil Engineering Student 
+|rowspan="2"|Episode 5
+|rowspan="2"|6th (tie)
+|-
+! scope="row"| Robert Billington
+| 25 
+| [[London]]
+| Photographer 
+|-
+! scope="row"| Yasmin Limbert
+| 43 
+| [[West Kirby]]
+| Childminder
+|Episode 6
+|5th
+|-
+! scope="row"| Janet Basu
+| 63 
+| [[Formby]]
+| Teacher of Modern Languages 
+|Episode 7
+|4th
+|-
+! scope="row"| Holly Bell
+| 31 
+| [[Leicester]]
+| Advertising executive 
+|rowspan="3"|Episode 8
+|rowspan="2"|{{sort|2.5|}}Runner-up
+|-
+! scope="row"| Mary-Anne Boermans
+| 45 
+| nowrap|[[Kidderminster]]
+| Housewife 
+|-
+! scope="row"| {{nowrap|[[Jo Wheatley|Joanne "Jo" Wheatley]]}}
+| 41 
+| [[Ongar, Essex|Ongar]]
+| Housewife 
+|1st
+|}
+
+== Results summary ==
+{| class="wikitable" style="text-align:center"
+|+ Elimination chart
+|-
+! scope="col"|Baker
+! scope="col"|1
+! scope="col"|2
+! scope="col"|3
+! scope="col"|4
+! scope="col"|5
+! scope="col"|6
+! scope="col"|7{{ref|1}}
+! scope="col"|8
+|-
+! scope="row" align="left"|Jo
+| style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:Plum;"| LOW || SAFE || SAFE || SAFE || style="background:LemonChiffon;"|SB || style="background:CornflowerBlue;"| {{color|white|HIGH}}  || style="background:Yellow;"|WINNER
+|-
+! scope="row" align="left"| Holly
+| style="background:LemonChiffon;"|SB || SAFE || SAFE || style="background:LemonChiffon;"|SB || SAFE || style="background:Plum;"| LOW || style="background:CornflowerBlue;"| {{color|white|HIGH}} || rowspan="2" style="background:LimeGreen;" |{{nowrap|Runner-up}}
+|-
+! scope="row" align="left"| {{nowrap|Mary-Anne}}
+| SAFE || SAFE || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:Plum;"| LOW 
+|-
+! scope="row" align="left"|Janet
+| SAFE || SAFE || style="background:Plum;"| LOW || SAFE || style="background:LemonChiffon;"|SB || style="background: CornflowerBlue;"| {{color|white|HIGH}} || style="background:OrangeRed;"|OUT || style="background:silver;"|
+|-
+! scope="row" align="left"| Yasmin
+| SAFE || SAFE || style="background:LemonChiffon;"|SB || style="background:Plum;"| LOW || style="background:Plum;"| LOW ||  style="background:OrangeRed;"|OUT || colspan="2" style="background:silver;"|
+|-
+! scope="row" align="left"|Jason
+| SAFE || style="background:LemonChiffon;"|SB || SAFE || style="background:LemonChiffon;"|SB || style="background:OrangeRed;"|OUT || colspan="3" style="background:silver;"|
+|-
+! scope="row" align="left"| Robert
+| style="background:Plum;"| LOW || style="background:Plum;"| LOW || style="background:Plum;"| LOW || SAFE || style="background:OrangeRed;"|OUT || colspan="3" style="background:silver;"|
+|-
+! scope="row" align="left"|Ben
+| SAFE || SAFE || SAFE || style="background:OrangeRed;"|OUT || colspan="4" style="background:silver;"|
+|-
+! scope="row" align="left"| Ian
+| SAFE || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:OrangeRed;"|OUT || colspan="5" style="background:silver;"|
+|-
+! scope="row" align="left"| Urvashi
+| SAFE || SAFE || style="background:OrangeRed;"|OUT || colspan="5" style="background:silver;"|
+|-
+! scope="row" align="left"| Simon
+| style="background:Plum;"| LOW || style="background:OrangeRed;"|OUT || colspan="6" style="background:silver;"|
+|-
+! scope="row" align="left"|Keith
+| style="background:OrangeRed;"|OUT || colspan="7" style="background:silver;"|
+|}
+{{ref|1|[1]}} There was no Star Baker this week, as Paul and Mary felt it wouldn't be right to single out one baker when the results were incredibly close.
+
+'''Colour key:'''
+
+{{legend|<!--default colour-->|outline=darkgray|Baker got through to the next round.}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated.}}
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|LemonChiffon|outline=darkgray|Baker was the Star Baker.}}
+{{legend|CornflowerBlue|outline=darkgray|Baker was one of the judges' favourite bakers that week, but did not win star baker.}}
+{{legend|LimeGreen|outline=darkgray|Baker was the series runner-up.}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner.}}
+
+== Episodes ==
+
+=== Episode 1: Cakes ===
+For their first challenge, the bakers were asked to bake 24 [[cupcake]]s in 2 hours. They were allowed to make two different types of cupcakes. For the technical challenge, the bakers were asked to bake a Coffee and Walnut [[Battenberg cake|Battenburg]] cake using Mary Berry's recipe in 2 hours. The cake needed to have the perfect sponge which held its form (perfect symmetry), distinguish flavours, and a smooth exterior. For the showstopper, the bakers were asked to bake a chocolate tiered celebration cake with elaborate, multi-layer design in 5 hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br /><small>(24 [[Cupcakes]])</small>
+! scope="col"|Technical<br /><small>(Coffee and Walnut [[Battenberg cake|Battenberg]])</small>
+! scope="col" class="unsortable"|Showstopper<br /><small>(Chocolate Tiered Cake)</small>
+! scope="col"|Result
+|-
+! scope="row"|Ben
+| Rhubarb and Custard Cupcakes<br />After Dinner Cupcakes || 2nd || Vanilla Sponge with White Chocolate and Raspberry Buttercream || {{Safe}}
+|-
+! scope="row"| Holly
+| Cherry [[Bakewell tart|Bakewell]] Inspired Cupcakes<br>Ginger Cupcakes with Fig Truffle || 1st ||Novelty Farm Cake || {{sort|1|}}{{good|Star Baker}}
+|-
+! scope="row"| Ian
+| Apple and Cinnamon Cupcakes || 10th || UNKNOWN || {{Safe}}
+|-
+! scope="row"| Janet
+| Raspberry and Cream Cupcakes || 8th || Chocolate Marble Cake with Dark and White Chocolate Truffles || {{Safe}}
+|-
+! scope="row"| Jason
+| Lemon Meringue Cupcakes<br>Apple and Cinnamon Cupcakes || 6th || UNKNOWN || {{Safe}}
+|-
+! scope="row"| Jo
+| Chocolate and Orange Cupcakes<br>Orange and Cardamom Cupcakes || 11th || Chocolate and Strawberry Cake || {{Safe}}
+|-
+! scope="row"| Keith
+| Earl Grey Cupcakes || 12th || Chocolate and Sour Cream Cake || {{Eliminated}}
+|-
+! scope="row"| Mary-Anne
+| [[Banoffee]] Cupcakes || 4th || Chocolate and Raspberry [[Opera cake|Opera Cake]] || {{Safe}}
+|-
+! scope="row"| Robert
+| Blackberry and Vanilla Cupcakes with [[Liquorice]] Frosting || 3rd || Genoise Layered Mousse Cake with Chocolate Ganache || {{Safe}}
+|-
+! scope="row"| Simon
+| [[Guinness]] and Chocolate Cupcakes || 9th || Two-Tiered Chocolate [[Courgette]] Cake || {{Safe}}
+|-
+! scope="row"| Urvashi
+| Cherry Blossom Cupcakes<br />[[Yuzu|Japanese Lime]] Cupcakes || 7th ||Orange Blossom Celebration Cake || {{Safe}}
+|-
+! scope="row"| Yasmin
+| Cardamom and Pomegranate Cupcakes<br/>Lemon Meringue Cupcakes || 5th || Three Tier Passion Cake || {{Safe}}
+|}
+{{notelist}}
+
+=== Episode 2: Tarts ===
+For the signature bake, the bakers were asked to bake a savoury [[quiche]] in 2 hours. For the technical challenge, the bakers were asked to bake a [[Tarte au citron|Tarte au Citron]] using Mary Berry's recipe in {{frac|1|1|2}} hours. For the showstopper, the bakers were asked to bake 24 mini sweet [[Tarts|tartlets]] of two different flavour combinations.
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(Savoury [[Quiche]])</small>
+! scope="col"|Technical<br><small>([[Tarte au Citron]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(24 Miniature Sweet [[Tarts]])</small>
+! scope="col"|Result
+|-
+! scope="row"| Ben
+| [[Chorizo]], Pepper and [[Gruyère cheese|Gruyere]] Quiche || 1st ||Lemon Meringue Tarts || {{Safe}}
+|-
+! scope="row"| Holly
+| Pesto Quiche || 4th || Milk Chocolate and Pistachio Tarts<br>Trifle Tarts || {{Safe}}
+|-
+! scope="row"| Ian
+| [[Stilton cheese|Stilton]], Spinach and New Potato Quiche<br>with Paprika and Walnut Pastry || 2nd || UNKNOWN || {{Safe}}
+|-
+! scope="row"| Janet
+| Quiche [[Printanier Rouge|Printanière]]  || 8th || Red Fruit Tarts<br>Chocolate and Cherry Tarts || {{Safe}}
+|-
+! scope="row"| Jason
+| Salmon and [[Bok Choy|Pak Choi]] Quiche || 3rd || Mint Chocolate Tarts<br>Blueberry Bakewell Tarts || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Jo
+| Caramelised Onion, Gruyere and Thyme Quiche || 10th || Raspberry and Mascarpone Tarts with Lemon and Almond Pastry<br>Honey and Almond Tarts with Sweetcrust || {{Safe}}
+|-
+! scope="row"| Mary-Anne
+| Roasted Cauliflower, Cheese and<br>Caramelised Onion Quiche || 9th || Butterscotch Brulée Tarts in Pecan Pastry<br />Apple Rose Tarts || {{Safe}}
+|-
+! scope="row"| Robert
+| Smoked Bacon and Kale Quiche || 5th || Chocolate, Fennel and Ginger Tarts<br />[[Creme Patisserie]] and Poached Pear Tarts in Almond Pastry || {{Safe}}
+|-
+! scope="row"| Simon
+| Smoked [[Haddock]] and [[Watercress]] Quiche  || 11th || Passion Fruit and Ricotta Tarts<br>Salted Chocolate, Stem Ginger and Mascarpone Cream Tarts || {{Eliminated}}
+|-
+! scope="row"| Urvashi
+| Crab, Coriander and Coconut Quiche || 7th || Strawberry and Basil Tarts<br>Elderflower and Honeycomb Tarts || {{Safe}}
+|-
+! scope="row"| Yasmin
+| Smoked Haddock and Watercress Quiche  || 6th || Chocolate and Orange Tarts in Cinnamon-Orange Pastry<br>Blueberry and Hazelnut Tarts in Hazelnut Pastry || {{Safe}}
+|}
+
+=== Episode 3: Bread ===
+For their signature bake, the bakers were asked to bake a free form flavored loaf (not using a tin) in {{frac|3|1|4}} hours. The technical challenge gave the bakers {{frac|3|1|2}} hours to bake a [[Focaccia]], using Paul Hollywood's recipe. The showstopper required the bakers to produce a 2 part display: a basket made of bread, then filled with 24 rolls, 12 sweet and 12 savory, in 5 hours.  
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(Free Form Loaf)</small>
+! scope="col"|Technical<br><small>([[Focaccia]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(12 sweet and 12 savoury rolls)</small>
+! scope="col"|Result
+|-
+! scope="row"| Ben
+| Walnut, Raisin and Rosemary Loaf || 3rd || UNKNOWN || {{Safe}}
+|-
+! scope="row"| Holly
+| Picnic Loaf || 6th || Stilton and Walnut Rolls || {{Safe}}
+|-
+! scope="row"| Ian
+| Courgette, [[Caerphilly cheese|Caerphilly Cheese]] and Thyme Loaf || 10th || Walnut and Raisin Rolls<br>Cracked Wheat Logs || {{Eliminated}}
+|-
+! scope="row"| Janet
+| [[Zopf|Zupfe]] Loaf with Gruyère Cheese || 8th || Apple and Walnut [[Granary]] Rolls 
+Red Onion Cottage Rolls
+| {{Safe}}
+|-
+! scope="row"| Jason
+| Cheese and Onion Tear and Share Loaf || 7th || UNKNOWN || {{Safe}}
+|-
+! scope="row"| Jo
+| [[Stromboli (food)|Stromboli]] Flavoured with Mozarella, Ham, and [[Salsa (food)|Picante]] Pepper || 1st || Spiced Orange Rolls<br>Pumpkin Seed Rolls || {{Safe}}
+|-
+! scope="row"| Mary-Anne
+| Ploughman's Loaf || 5th || Herb and Walnut Breads<br>Chocolate and Chilli Buns || {{Safe}}
+|-
+! scope="row"| Robert
+| Rye and Coriander Seed Loaf || 4th || Blueberry [[Brioche]] Rolls<br>Lemon and Poppy Seed Rolls || {{Safe}}
+|-
+! scope="row"| Urvashi
+| Salt and Peppercorn Loaf || 9th || Chilli and [[Halloumi]] Rolls<br>Lemon and Coriander Mini Loaves || {{Eliminated}}
+|-
+! scope="row"| Yasmin
+| Egyptian [[Dukkah]] Loaf with Mixed Spices  || 2nd || Pesto Bread<br>Sweet Coconut Rolls || {{sort|1|}}{{good|Star Baker}}
+|}
+In this episode, two bakers were eliminated rather than one baker.
+
+=== Episode 4: Biscuits ===
+For the signature bake, the bakers were given {{frac|1|1|2}} hours to make 12 biscuits of their choice; the biscuits should not be too soft, too hard or too crumbly. The technical challenge gave the bakers {{frac|1|1|2}} hours to bake 24 [[brandy snaps]]. For the showstopper, the bakers were asked to produce a macaron display, consisting of 120 macarons (60 pairs) in 3 different flavors; they had 5 hours to complete it. 
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(12 Biscuits)</small>
+! scope="col"|Technical<br><small>(24 [[Brandy snaps|Brandy Snaps]])</small> 
+! scope="col" class="unsortable"|Showstopper<br><small>([[Macarons]])</small>
+! scope="col"|Result
+|-
+! scope="row"| Ben
+| Stem Ginger Nuts || 5th || Chocolate and Almond Macarons<br>Pine Nut Macarons<br>Pistachio Macarons || {{Eliminated}}
+|-
+! scope="row"| Holly
+| Strawberry and Custard Melts || 3rd || 'Chocolate bars of my youth'<br>(Caramel Macarons, Mint Chocolate Macarons and Chocolate Orange Macarons) || {{sort|1|}}{{good|Star Baker}}
+|-
+! scope="row"| Janet
+| Christmas [[Marzipan]] Biscuits || 4th || Raspberry Macarons<br>Blackcurrant Macarons<br>Almond Macarons || {{Safe}}
+|-
+! scope="row"| Jason
+| [[Lebkuchen]]  || 1st || Mocktail Macarons<br>(Mojito, Cranberry Cooler, and Piña Colada) || {{sort|1|}}{{good|Star Baker}}
+|-
+! scope="row"| Jo
+| Lavender Biscuits || 8th || Blueberry Macarons<br>Coconut Macarons<br>Strawberry Macarons || {{Safe}}
+|-
+! scope="row"| Mary-Anne
+| [[Viennese whirls|Melting Moments]] || 2nd || Blackcurrant and Mint Macarons<br>Gooseberry and Elderflower Macarons<br>Hazelnut Macarons || {{Safe}}
+|-
+! scope="row"| Robert
+| Chocolate and Ginger Oat Biscuits || 7th || Strawberry and Lime Macarons<br>Lemon Macarons<br>Chocolate and Cardamom Macarons || {{Safe}}
+|-
+! scope="row"| Yasmin
+| Chocolate Chip and Pistachio [[Biscotti]] || 6th || Chocolate and Lime Macarons<br>Coffee and Walnut Macarons<br>Pineapple and Coconut Macarons || {{Safe}}
+|}
+
+=== Episode 5: Pies  ===
+The signature challenge asked the bakers to produce a hearty family pie using either a [[Puff pastry#Variants and distinctions|rough puff]] or [[flaky pastry]], in {{frac|2|1|2}} hours. For the technical challenge, the bakers were asked to bake a batch of 6 miniature [[pork pie]]s (using a [[hot water crust pastry]]) in {{frac|2|1|2}} hours, using Paul Hollywood's recipe. It was a 2-day bake challenge — to give the filling time to set overnight the pies were judged the next day. For the showstopper, the bakers were asked to bake a meringue pie — a fruit and/or custard pie topped with [[meringue]] — in {{frac|3|1|2}} hours. 
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(Family Pie)</small>
+! scope="col"|Technical<br><small>(6 Miniature [[Pork pie|Pork Pie]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Meringue Pie)</small>
+! scope="col"|Result
+|-
+! scope="row"| Holly
+| Stilton, Potato and Caramelised Onion Pie || 4th || Lime Meringue Pie || {{Safe}}
+|-
+! scope="row"| Janet
+| Chicken and [[Chestnut Pie]] || 1st || Rhubarb Meringue Pie || {{sort|1|}}{{good|Star Baker}}
+|-
+! scope="row"| Jason
+| Brown Down Chicken Pie || 7th || Plum Meringue Pie || {{Eliminated}}
+|-
+! scope="row"| Jo
+| Salmon and Asparagus Pie || 6th || Apple and Raspberry Meringue Pie || {{Safe}}
+|-
+! scope="row"| Mary-Anne
+| Chicken and Bacon Pie || 2nd || Midnight Meringue Pie || {{Safe}}
+|-
+! scope="row"| Robert
+| Chicken and Mushroom Pie || 3rd || Rhubarb & Custard Meringue Pie || {{Eliminated}}
+|-
+! scope="row"| Yasmin
+| Family Fish Pie || 5th || Peach and Raspberry Meringue Pie || {{Safe}}
+|}
+Once again, in this episode, two bakers were eliminated instead of one baker.
+
+=== Episode 6: Desserts (Quarterfinals) ===
+For their signature bake, the quarterfinalists were tasked to produce a [[cheesecake]] in 2<sup>1</sup>⁄<sub>2</sub> hours. For the technical challenge, the bakers were asked to bake a chocolate [[roulade]] in {{frac|1|3|4}} hours using Mary Berry's recipe. For the showstopper, the bakers were asked to create a [[Croquembouche]]-inspired bake in 5 hours. 
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(Baked [[Cheesecake]])</small>
+! scope="col"|Technical<br><small>(Chocolate [[Roulade]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Croquembouche]])</small>
+! scope="col"|Result
+|-
+! scope="row"| Holly
+| Father Christmas' Baked Cheesecake || 3rd || Hansel and Gretel's Croquembouche || {{Safe}}
+|-
+! scope="row"| Janet
+| Rhubarb and Ginger Baked Cheesecake || 5th || Orange and [[Nougat]]ine Croquembouche || {{Safe}}
+|-
+! scope="row"| Jo
+| Rum and Raisin Baked Cheesecake || 1st || [[Limoncello]] and White Chocolate Croquembouche || {{sort|1|}}{{good|Star Baker}}
+|-
+! scope="row"| Mary-Anne
+| [[Tutti frutti (food)|Tutti Frutti]] Curd Baked Cheesecake || 4th || Orange and Praline Croquembouche with Cardamom Caramel || {{Safe}}
+|-
+! scope="row"| Yasmin
+| Baked [[Amaretto]] Cheesecake || 2nd || Rose Croquembouche || {{Eliminated}}
+|}
+
+=== Episode 7: Pâtisserie (Semi-final)  ===
+For the signature bake, the semi-finalists were given 2 hours to bake a layered [[mousse]] cake, with the judges seeking a light sponge and a rich mousse. In the technical challenge, the bakers were asked to bake 12 identical [[Iced bun|Iced Fingers]] to be filled with cream and jam, using Paul Hollywood's recipe. For the showstopper, the bakers were asked to produce a selection of three different pastries using the same [[Laminated dough|laminated pastry dough]] — which must be crisp on the outside and soft on the inside — for all three.
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(Layered Mousse Cake)</small>
+! scope="col"|Technical<br><small>(12 [[Iced bun|Iced Fingers]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(3 Different Types of [[Pastries]] or [[Croissants]])</small>
+! scope="col"|Result{{efn|In this episode, none of the bakers were individually highlighted as Star Baker, as the judges decided all four deserved commendation for reaching the semi-final.}}
+|- 
+! scope="row"| Holly
+| White Chocolate, Hazelnut and Raspberry Génoise Mousse Cake || align="center" |1st || Apricot, [[Macadamia]] and White Chocolate Pinwheels<br/>Almond Croissants<br/>Apple, Raisin and Cinnamon Plaits || {{Safe}}
+|-
+! scope="row"| Janet
+| Chocolate Amaretto Mousse Cake || 4th ||  Pain Aux Raisin<br/>Plain Croissant<br/>Pain Au Chocolat || {{Eliminated}}
+|-
+! scope="row"| Jo
+| Raspberry & Strawberry Mousse Cake || 3rd ||  Pain Aux Raisin<br/>Chocolate Twists<br/>Banana and Raisin Pastries || {{Safe}}
+|- 
+! scope="row"| Mary-Anne
+| Chocolate and Orange Mousse Cake || 2nd || Raspberry Rose Danishes<br/>Praline Spirals<br/>[[Alsatian cuisine|Alsatian]] Plaited Danishes || {{Safe}}
+|}
+{{notelist}}
+
+=== Episode 8: Final ===
+For their final signature bake, the finalists were asked to bake 12 [[mille-feuille]] in {{frac|2|1|2}} hours. For the technical challenge, the bakers were asked to bake a [[sachertorte]] in 2 hours and 40 minutes. For their final showstopper, the bakers were asked to bake 3 different types of [[Petit four|petits fours]]: meringue, sweet pastry, and sponge-based, on the theme of British Summertime, within 4 hours. 
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(12 [[Mille-feuille|Mille-Feuille]])</small>
+! scope="col"|Technical<br><small>([[Sachertorte]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Petit four|Petits Fours]])</small>
+! scope="col"|Result
+|-
+! scope="row"| Holly
+| [[Banoffee pie|Banoffee]] Inspired Mille Feuille || 2nd || Strawberry and Cream Meringue Nest<br/>Gooseberry and Elderflower 'Bakewell' Tarts<br>Neapolitan Ice-Cream Sandwich || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"| Jo
+| Raspberry and Blueberry Mille Feuille || 1st || Mini Victoria Sandwiches<br>Raspberry, White Chocolate and Pistachio Mini Meringues<br>Mini Banoffee Pie with Banana Mousse || {{sort|1|}}{{Won|color=gold|Winner}}
+|-
+! scope="row"| Mary-Anne
+| Lemon and Ginger Mille Feuille || 3rd || Fruit Tarts with Elderflower Custard<br>Strawberry and Rhubarb Cheesecakes<br>Black Fruit Meringue with Everlasting [[Syllabub]] || {{sort|2.5|}}{{Runner-up}}
+|}
+
+=== Extras and special episodes ===
+Both episodes nine and ten were masterclasses by Paul and Mary, where they demonstrated how to make the '''Technical Challenges''' that they had set throughout the series. Episode nine showed the first four of the series; Coffee and walnut Battenberg, Tarte au Citron, Focaccia and Brandy Snaps. Episode ten showed the last four of the series; Pork pies, Chocolate roulade, Iced fingers and Sachertorte.
+Episode eleven went back and revisited the bakers from series one to catch up with the contestants.
+
+==Post-show career==
+Some of the contestants went on to a career in baking or had a change of career after appearing on the show.
+
+[[Joanne Wheatley]] has written two bestselling books on baking, ''A Passion for Baking'' published on 16 May 2013,<ref name="metro"/> and ''Home Baking'' initially as a [[Sainsbury's]] exclusive.  She writes a monthly column for ''Sainsbury's'' magazine and is a regular guest columnist for ''[[The Sun (United Kingdom)|The Sun]]'' newspaper.<ref>{{cite web|url=http://www.sainsburysentertainment.co.uk/en/Books/Hardback/Jo-Wheatley/Home-Baking-Sainsbury-s-Exclusive/product.html?product=E11217799 |title=Home Baking [Sainsbury's Exclusive] |work=Sainsbury |url-status=dead |archiveurl=https://web.archive.org/web/20130905100223/http://www.sainsburysentertainment.co.uk/en/Books/Hardback/Jo-Wheatley/Home-Baking-Sainsbury-s-Exclusive/product.html?product=E11217799 |archivedate=5 September 2013 }}</ref><ref>{{cite web |url=http://www.exacteditions.com/read/sainsburysmagazine/february-2013-34157/5/3 |title=Sainsbury's Magazine – February content |work=Exact Editions Ltd. }}</ref> She runs cookery courses from her home in Essex,<ref>{{cite web |url=http://www.josblueaga.com |title=Jo's Blue AGA}}</ref><ref>{{cite web |url=http://mojomums.co.uk/great-british-bake-off-winner-jo-wheatley-interview/ |title=Great British Bake Off Winner Jo Wheatley Interview |work=Mojo Mums }}</ref> and has appeared in various television programmes such as ''[[The Alan Titchmarsh Show]]'' and ''[[What's Cooking? (British TV series)|What's Cooking]]''.<ref>{{cite news |url=https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2014-what-past-winners-are-doing-now-from-edd-kimber-to-last-years-frances-quinn-9780390.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2014-what-past-winners-are-doing-now-from-edd-kimber-to-last-years-frances-quinn-9780390.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title=Great British Bake Off 2014: What past winners are doing now from Edd Kimber to last year's Frances Quinn |author=Jess Denham |date=7 October 2014 |work=The Independent }}</ref>
+
+Holly Bell teaches baking classes and for a time worked as an occasional radio presenter on BBC Radio Leicester.<ref>{{cite web|url=http://www.foodheavenmag.com/2012/07/an-interview-with-holly-bell/ |title=An interview with Holly Bell |work=Food Heaven |date=10 July 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20131004224355/http://www.foodheavenmag.com/2012/07/an-interview-with-holly-bell/ |archivedate=4 October 2013 }}</ref> She also appeared as a guest presenter on QVC shopping channel.<ref>{{cite web |url=http://www.bbcgoodfoodbakesandcakesshow.com/Content/Holly-Bell |title=Holly Bell |work=Good Food Bakes and Cakes Show}}</ref>  She wrote an [[eBook]] called ''Ready, Steady, Bake!'' which was published on 5 July 2012,<ref>{{cite web |url=http://mebookshelfandi.co.uk/2013/04/30/kindle-baking-book-bargain/ |title=Kindle Baking Book Bargain!! |work=Me, Bookshelf and I }}</ref> and published a book ''Recipes from a Normal Mum'' on 17 July 2014.<ref>{{citation |url=https://www.telegraph.co.uk/foodanddrink/10973388/Cookbook-of-the-week-Recipes-from-a-Normal-Mum.html |title=Cookbook of the week: Recipes from a Normal Mum |author= Carolyn Hart |date= 17 July 2014 |work=The Daily Telegraph }}</ref>
+
+Mary-Anne Boermans wrote a book on baking, ''Great British Bakes: Forgotten Treasures for Modern Bakers'', which was published on 7 November 2013.<ref>{{cite news |url=https://www.independent.co.uk/life-style/food-and-drink/features/on-the-menu-lardo-london-stolichnya-salted-karamel-vodka-maryanne-boermans-great-british-bakes-eatplaylove2013-perrier-8732580.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/life-style/food-and-drink/features/on-the-menu-lardo-london-stolichnya-salted-karamel-vodka-maryanne-boermans-great-british-bakes-eatplaylove2013-perrier-8732580.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title=On The Menu: Lardo London; Stolichnya' Salted Karamel vodka; Mary-Anne Boermans' Great British Bakes; EatPlayLove2013; Perrier |author=Samuel Muston |date=25 July 2013 |work= The Independent }}</ref> She later participated in the 2016 rendition of ''The Great Christmas Bake Off'' where she was declared the special's Star Baker.
+
+Janet Basu participated in the 2016 rendition of ''The Great New Year's Bake Off''.
+
+Robert Billington participated in the 2017 rendition of ''The Great New Year's Bake Off''.
+
+==Ratings==
+Official episode viewing figures are from [[BARB]].<ref>{{Cite web|url=http://www.barb.co.uk/whats-new/weekly-top-30|title=Weekly Top 30 Programmes|publisher=[[Broadcasters' Audience Research Board]]|accessdate=16 September 2015}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+!Nightly ranking 
+|-
+! scope="row"| 1
+| {{Start date|2011|08|16|df=y}} || 3.10 || rowspan="2" | 2
+| rowspan="3" |8
+|-
+! scope="row"| 2
+| {{Start date|2011|08|23|df=y}} || 3.53 
+|-
+! scope="row"| 3
+| {{Start date|2011|08|30|df=y}} || 3.82 || rowspan="6" | 1
+|-
+! scope="row"| 4
+| {{Start date|2011|09|06|df=y}} || 3.60 
+|7
+|-
+! scope="row"| 5
+| {{Start date|2011|09|13|df=y}} || 3.83 
+|8
+|-
+! scope="row"| 6
+| {{Start date|2011|09|20|df=y}} || 4.25 
+|6
+|-
+! scope="row"| 7
+| {{Start date|2011|09|27|df=y}} || 4.42 
+| rowspan="2" |5
+|-
+! scope="row"| 8
+| {{Start date|2011|10|04|df=y}} || 5.06 
+|}
+
+===Specials===
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off'' Masterclass
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row"| 1
+| {{Start date|2011|10|06|df=y}} || 2.32 || 6
+|-
+! scope="row"| 2
+| {{Start date|2011|10|13|df=y}} || 2.14 || 9
+|}
+
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off'' Revisited
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row" style="background:silver;"|
+| {{Start date|2011|10|20|df=y}} || {{N/A}} || {{N/A}}
+|}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{BBC programme}}
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off, The}}
+[[Category:The Great British Bake Off|Series 2]]
+[[Category:2011 British television seasons]]

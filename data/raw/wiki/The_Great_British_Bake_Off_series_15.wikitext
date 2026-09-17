@@ -1,0 +1,1098 @@
+{{Short description|Fifteenth series of The Great British Bake Off}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox television season
+| image                = 
+| caption              = 
+| series_number        = 15
+| module1              = {{Infobox reality competition season
+ | presenter       = [[Noel Fielding]]<br>[[Alison Hammond]]
+ | judges          = [[Paul Hollywood]]<br>[[Prue Leith]]
+ | num_contestants = 12
+ | winner          = Georgie Grasso
+ | runner_up       = Christiaan de Vries<br>[[Dylan Bachelet]]
+ | location        = [[Welford Park]], near Newbury, Berkshire
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 30
+}}
+| num_episodes         = 10
+| network              = [[Channel 4]]
+| first_aired          = {{Start date|df=y|2024|09|24}}
+| last_aired           = {{End date|df=y|2024|11|26}}
+}}
+
+The '''fifteenth series''' of ''[[The Great British Bake Off]]'' began on 24 September 2024. [[Alison Hammond]] and [[Noel Fielding]] returned as hosts, with [[Paul Hollywood]] and [[Prue Leith]] returning to judge the series. The bakers competing in the series were announced on 17 September 2024.<ref>{{cite web |title=Great British Bake Off 2024: Meet all 12 contestants in this year's competition |url=https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2024-contestants-b2614078.html |website=[[The Independent]] |access-date=24 September 2024 |language=en |date=17 September 2024}}</ref>
+
+The series was won by Georgie Grasso, with [[Dylan Bachelet]] and Christiaan de Vries finishing as the runners-up.<ref>{{Cite web |title=Instagram |url=https://www.instagram.com/reel/DC2XHw_AZCF/?utm_source=ig_web_copy_link |access-date=2024-11-27 |website=www.instagram.com}}</ref>
+
+== Bakers ==
+{| class="wikitable sortable" style="text-align:center;"
+!scope="col"|Contestant<ref>{{cite web |title=The Great British Bake Off Series 15 - Meet the Bakers |url=https://www.channel4.com/press/news/great-british-bake-series-15-meet-bakers |website=[[Channel 4]] |access-date=24 September 2024}}</ref>
+!scope="col"|Age
+!scope="col"|Hometown
+!scope="col"|Occupation
+!scope="col"|Finish
+!scope="col"|Place
+|-
+! scope="row" | {{nowrap|Jeff Thomas}}
+| align="center" | 67
+| [[West Yorkshire]], [[England]]{{efn|Originally from [[The Bronx]]}}
+| nowrap|Retired university lecturer<ref>{{cite web |title=Who is Jeff? Great British Bake Off 2024 contestant and former university lecturer |url=https://www.radiotimes.com/tv/entertainment/jeff-great-british-bake-off-2024-contestant/ |website=[[Radio Times]] |access-date=24 September 2024}}</ref>
+|rowspan="2"|Episode 2
+|12th (quit)
+|-
+! scope="row" | Hazel Vaughan
+| align="center" | 71
+| nowrapscope="row" |[[Kent]], England
+| Retired nail technician<ref>{{cite web |title=Who is Hazel? Meet Great British Bake Off 2024 contestant with a 'competitive streak' |url=https://www.radiotimes.com/tv/entertainment/hazel-great-british-bake-off-2024-contestant/ |website=[[Radio Times]] |access-date=24 September 2024}}</ref>
+|11th
+|-
+! scope="row" | {{nowrap|John Mincher}}
+| align="center" | 37
+| nowrapscope="row" |[[West Midlands (county)|West Midlands]], England
+| nowrap|Directorate support manager<ref>{{cite web |title=Who is John? Meet Great British Bake Off 2024 contestant and support manager |url=https://www.radiotimes.com/tv/entertainment/john-great-british-bake-off-2024-contestant/ |website=[[Radio Times]] |access-date=24 September 2024}}</ref>
+|Episode 3
+|10th
+|-
+! scope="row" | {{nowrap|Mike Wilkins}}
+| align="center" | 29
+| [[Wiltshire]], England
+| nowrap|Farm manager<ref>{{cite web |title=Who is Mike? Meet Great British Bake Off 2024 contestant and farm manager |url=https://www.radiotimes.com/tv/entertainment/mike-great-british-bake-off-contestant-2024/ |website=[[Radio Times]] |access-date=24 September 2024}}</ref>
+|Episode 4
+|9th
+|-
+! scope="row" | Andy Ryan
+| align="center" | 44
+| [[Romford]], England
+| nowrap|Car mechanic<ref>{{cite web |title=Who is Andy? Great British Bake Off 2024 contestant and mechanic |url=https://www.radiotimes.com/tv/entertainment/andy-great-british-bake-off-2024-contestant/ |website=[[Radio Times]] |access-date=24 September 2024}}</ref>
+|Episode 5
+|8th
+|-
+! scope="row" | Nelly Ghaffar
+| align="center" | 44
+| [[Dorset]], England {{efn|Originally from [[Slovakia]]}}
+| nowrap|Palliative care assistant<ref>{{cite web |title=Who is Nelly? Meet Great British Bake Off 2024 contestant who is completely self-taught |url=https://www.radiotimes.com/tv/entertainment/nelly-great-british-bake-off-2024-contestant/ |website=[[Radio Times]] |access-date=24 September 2024}}</ref>
+|Episode 6
+|7th
+|-
+! scope="row" | Sumayah Kazi
+| align="center" | 18
+| [[Lancashire]], England
+| Gap Year student<ref>{{cite web |title=Who is Sumayah? Meet Great British Bake Off 2024 contestant and student |url=https://www.radiotimes.com/tv/entertainment/sumayah-great-british-bake-off-2024-contestant/ |website=[[Radio Times]] |access-date=24 September 2024}}</ref>
+|Episode 7
+|6th
+|-
+! scope="row" | Illiyin Morrison
+| align="center" | 31
+| nowrap|[[Norfolk]], England
+| | Birth trauma specialist midwife<ref>{{cite web |title=Who is Illiyin? Meet Great British Bake Off 2024 contestant and midwife |url=https://www.radiotimes.com/tv/entertainment/illiyin-great-british-bake-off-2024-contestant/ |website=[[Radio Times]] |access-date=24 September 2024}}</ref>
+|Episode 8
+|5th
+|-
+! scope="row" | Gill Howard
+| align="center" | 53
+| nowrap|[[Lancashire]], England
+| Senior category manager<ref>{{cite web |title=Who is Gill? Great British Bake Off 2024 contestant and manager |url=https://www.radiotimes.com/tv/entertainment/gill-great-british-bake-off-2024-contestant/ |website=[[Radio Times]] |access-date=24 September 2024}}</ref>
+|Episode 9
+|4th
+|-
+! scope="row" | {{nowrap|Christiaan de Vries}}
+| align="center" | 33
+| [[London]], England{{efn|Originally from the [[Netherlands]]}}
+| Menswear designer<ref>{{cite web |title=Who is Christiaan? Meet Great British Bake Off 2024 contestant and designer |url=https://www.radiotimes.com/tv/entertainment/christiaan-great-british-bake-off-2024-contestant/ |website=[[Radio Times]] |access-date=24 September 2024}}</ref>
+|rowspan="3"|{{nowrap|Episode 10}}
+|rowspan="2"|{{sort|2.5|}}Runner-up
+|-
+! scope="row" | Dylan Bachelet
+| align="center" | 20
+| nowrap|[[Aylesbury]], England
+| Retail assistant<ref>{{cite web |title=Who is? Dylan, Great British Bake Off 2024 contestant and retail assistant |url=https://www.radiotimes.com/tv/entertainment/dylan-great-british-bake-off-2024-contestant/ |website=[[Radio Times]] |access-date=24 September 2024}}</ref><ref>{{cite news |first=Annemarie |last=Conte |title=The Captain Jack Sparrow of Baking |date=October 21, 2024 |newspaper=The New York Times |url=https://www.nytimes.com/2024/10/21/style/dylan-bachelet-great-british-baking-show.html |url-access=subscription |access-date=2024-11-06}}</ref>
+|-
+! scope="row" | Georgie Grasso
+| align="center" | 34
+| nowrap|[[Carmarthen]], [[Wales]]
+|Paediatric nurse<ref>{{cite web |title=Who is Georgie? Great British Bake Off 2024 contestant and nurse |url=https://www.radiotimes.com/tv/entertainment/georgie-great-british-bake-off-2024-contestant/ |website=[[Radio Times]] |access-date=24 September 2024}}</ref>
+|1st
+|-
+|}
+
+{{notelist}}
+
+== Results summary ==
+{| class="wikitable" style="text-align:center; font-size:92%"
+! rowspan="02" | Baker
+! colspan="10" | Episodes
+|-
+! scope="col"| 1
+! scope="col"| 2
+! scope="col"| 3
+! scope="col"| 4
+! scope="col"| 5
+! scope="col"| 6
+! scope="col"| 7
+! scope="col"| 8
+! scope="col"| 9
+! scope="col"| 10
+|-
+! scope="row" | Georgie
+| style="background:CornflowerBlue"|HIGH
+| style="background:Plum"|LOW
+| style="background:CornflowerBlue"|HIGH
+| style="background:LemonChiffon"|SB
+| SAFE
+| SAFE
+| style="background:CornflowerBlue"|HIGH
+| style="background:LemonChiffon"|SB
+| style="background:Plum"|LOW
+| style="background:Yellow;"|WINNER
+|-
+! scope="row" | Christiaan
+| style="background:Plum"|LOW
+| style="background:CornflowerBlue"|HIGH
+| SAFE
+| SAFE
+| SAFE
+| SAFE
+| SAFE
+| style="background:Plum"|LOW
+| style="background:LemonChiffon"|SB
+| rowspan="2" style="background:LimeGreen"|RUNNER-UP
+|-
+! scope="row" | Dylan
+| SAFE
+| SAFE
+| style="background:LemonChiffon"|SB
+| style="background:CornflowerBlue"|HIGH
+| SAFE
+| style="background:Plum"|LOW
+| style="background:LemonChiffon"|SB
+| style="background:CornflowerBlue"|HIGH
+| style="background:CornflowerBlue"|HIGH
+|-
+! scope="row" | Gill
+| SAFE
+| SAFE
+| SAFE
+| SAFE
+| style="background:LemonChiffon"|SB
+| style="background:CornflowerBlue"|HIGH
+| style="background:Plum" |LOW
+| style="background:Plum" |LOW
+| style="background:OrangeRed"|OUT
+| style="background:darkgray"|
+|-
+! scope="row" | Illiyin
+| SAFE
+| style="background:Plum"|LOW<small>{{ref|3|[c]}}</small>
+| SAFE
+| SAFE
+| style="background:Plum" |LOW
+| SAFE
+| style="background:Plum" |LOW
+| style="background:OrangeRed"|OUT
+| colspan="2" style="background:darkgray"|
+|-
+! scope="row" | Sumayah
+| style="background:CornflowerBlue" |HIGH
+| style="background:LemonChiffon" |SB
+| SAFE
+| style="background:Plum" |LOW
+| style="background:CornflowerBlue" |HIGH
+| style="background:LemonChiffon" |SB
+| style="background:OrangeRed"|OUT
+| colspan="3" style="background:darkgray"|
+|-
+! scope="row" | Nelly
+| SAFE
+| SAFE
+| style="background:CornflowerBlue"|HIGH
+| SAFE
+| SAFE
+| style="background:OrangeRed"|OUT
+| colspan="4" style="background:darkgray"|
+|-
+! scope="row" | Andy
+| SAFE
+| SAFE
+| style="background:Plum"|LOW
+| SAFE
+| style="background:OrangeRed"|OUT
+| colspan="5" style="background:darkgray"|
+|-
+! scope="row" | Mike
+| SAFE
+| SAFE
+| SAFE
+| style="background:OrangeRed"|OUT
+| colspan="6" style="background:darkgray"|
+|-
+! scope="row" | John
+| style="background:LemonChiffon"|SB
+| SAFE
+| style="background:OrangeRed"|OUT
+| colspan="7" style="background:darkgray"|
+|-
+! scope="row" | Hazel
+| style="background:Plum"|LOW
+| style="background:OrangeRed"|OUT
+| colspan="8" style="background:darkgray"|
+|-
+! scope="row" | Jeff
+| style="background:Gainsboro;"|N/A{{ref|1|[a]}}
+| style="background:Chocolate;"|WD{{ref|2|[b]}}
+| colspan="8" style="background:darkgray"| 
+|}
+
+<small>{{ref|1|[a]}} Jeff was ill and unable to compete during the technical challenge and showstopper in episode 1. As a result, the judges decided that it was unfair to eliminate anyone in his absence.</small>
+<br>
+<small>{{ref|2|[b]}} Jeff left the show during the technical challenge in episode 2 after feeling unwell.</small>
+<br>
+<small>{{ref|3|[c]}} Illiyin's showstopper in episode 2 was evaluated without her, as she fainted at the end of the challenge and required medical attention.</small>
+
+'''Colour key:'''
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|CornflowerBlue|outline=darkgray|Baker was one of the judges' favourite bakers that week, but was not the Star Baker.}}
+{{legend|White|outline=darkgray|Baker got through to the next round.}}
+{{legend|Gainsboro|outline=darkgray|Baker did not compete that week.}}
+{{legend|Chocolate|outline=darkgray|Baker withdrew from the show.}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated.}}
+{{legend|LemonChiffon|outline=darkgray|Baker was the Star Baker.}}
+{{legend|LimeGreen|outline=darkgray|Baker was a series runner-up.}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner.}}
+
+== Episodes ==
+
+=== Episode 1: Cake ===
+The first episode is Cake Week.<ref>{{cite web |last1=Gilbert |first1=Gerard |title=On TV tonight, Bake Off 2024 kicks off with cake week |url=https://inews.co.uk/culture/television/whats-on-tv-tonight-sept-24-3291064?srsltid=AfmBOoojLQbwrYSY69TUaouuXYE-NQin_ArJT-_LYb-H-StlwF6HTcA8 |website=[[i (newspaper)|i]] |access-date=24 September 2024 |language=en |date=24 September 2024}}</ref> For the first challenge, the bakers were given two hours to produce an elevated version of their signature loaf cake. For the technical challenge, set by Paul, the bakers were asked to bake a batch of eight perfectly symmetrical mini [[Battenberg cake]]s, consisting of a light sponge sandwiched in a silky buttercream, coated in apricot jam and wrapped in marzipan. The bakers were given five minutes to inspect and taste a mini Battenburg cake with no additional recipe, and were then given two hours and fifteen minutes to complete the challenge. For the showstopper challenge, the bakers were asked to make a hyper-realistic illusion cake in four hours. 
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small> (Loaf Cake)</small>
+! scope="col"| Technical/Taste And Bake<br /><small> (8 Mini Battenbergs)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small> (Hyperrealistic Illusion Cake)</small>
+! scope="col"| Result
+|-
+! scope="row" | Andy
+| 'My First Bake' Loaf Cake
+| align="center"|  8th
+| 'It's an Overnight Job' Illusion Cake
+| {{Safe}}
+|-
+! scope="row" | Christiaan
+| 'Umami Apple' Loaf Cake
+| align="center"|  2nd
+| 'Sweet Seams are Made With This' Illusion Cake
+| {{Safe}}
+|-
+! scope="row" | Dylan
+| 'Sticky Rice' Loaf Cake
+| align="center"|  4th
+| 'Canopic Jar' Illusion Cake
+| {{Safe}}
+|-
+! scope="row" | Georgie
+| Vanilla & Chocolate Marble Loaf Cake
+| align="center"|  1st
+| 'Fanny the Chicken' Illusion Cake
+| {{Safe}}
+|-
+! scope="row" | Gill
+| 'It's All V's Fault' Loaf Cake
+| align="center"|  6th
+| Crown Green Bowling Illusion Cake
+| {{Safe}}
+|-
+! scope="row" | Hazel
+| 'Raspberry Surprise' Loaf Cake
+| align="center"|  10th
+| 'Handbag' Illusion Cake
+| {{Safe}}
+|-
+! scope="row" | Illiyin
+| 'Cinnamon Roll' Loaf Cake
+| align="center"|  7th
+| Vase Illusion Cake
+| {{Safe}}
+|-
+! scope="row" | Jeff
+| 'Guiding Star' Loaf Cake
+| {{n/a|''Did not compete''}}
+| {{n/a|''Did not compete''}}
+| {{Safe}}
+|-
+! scope="row" | John
+| Cherry & Chocolate Marble Loaf Cake
+| align="center"|  3rd
+| 'The Perfect Brunch' Illusion Cake
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Mike
+| Lemon and Linseed Loaf Cake
+| align="center"|  11th
+| 'My Favourite Cake & Books' Illusion Cake
+| {{Safe}}
+|-
+! scope="row" | Nelly
+| Coconut Loaf Cake
+| align="center"|  5th
+| 'Retro 90's Shoes' Illusion Cake
+| {{Safe}}
+|-
+! scope="row" | Sumayah
+| 'Halwa Surprise' Loaf Cake
+| align="center"|  9th
+| 'Pato the Duck' Illusion Cake
+| {{Safe}}
+|}
+<!--
+==Ratings==
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|7-day viewers<br /><small>(millions)</small>
+! scope="col"|Channel 4<br />weekly ranking
+! scope="col"|Weekly ranking<br />all channels
+|-
+! scope="row"| 1
+| 
+| 
+| 
+|
+|-
+! scope="row"| 2
+|  
+| 
+| 
+|
+|-
+! scope="row"| 3
+| 
+| 
+|
+| 
+|-
+! scope="row"| 4
+| 
+| 
+|
+| 
+|-
+! scope="row"| 5
+| 
+|
+| 
+| 
+|-
+! scope="row"| 6
+| 
+|
+| 
+| 
+|-
+! scope="row"| 7
+| 
+|
+| 
+| 
+|-
+!scope="row"| 8
+| 
+|
+| 
+| 
+|-
+!scope="row"| 9
+| 
+|
+| 
+| 
+|-
+!scope="row"| 10
+| 
+|
+| 
+| 
+|-
+|}
+-->
+
+=== Episode 2: Biscuits ===
+The second episode is Biscuit Week. For the first challenge, the bakers were given two hours to produce twelve [[Viennese whirls]] sandwiched in any shape, flavour, and filling of their choice. For the technical challenge, set by Prue, the bakers were asked to bake in two hours a batch of twelve mint cream biscuits, consisting of a buttery biscuit topped with a smooth peppermint cream and coated in tempered dark chocolate. For the showstopper challenge, the bakers were asked to make a biscuit puppet theatre with edible biscuit puppets.
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small>(Viennese Whirls)</small>
+! scope="col"| Technical<br /><small>(Mint Cream Biscuits)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Biscuit Puppet Theatre)</small>
+! scope="col"| Result
+|-
+! scope="row" | Andy
+| 'PB & J' Viennese Whirls
+| align="center"|  10th
+| 'If Pigs Could Fly' Biscuit Puppet Theatre
+| {{Safe}}
+|-
+! scope="row" | Christiaan
+| Floral Viennese Whirls
+| align="center"|  6th
+| 'Finding Home' Biscuit Puppet Theatre
+| {{Safe}}
+|-
+! scope="row" | Dylan
+| 'Campfire Cookie' Viennese Whirls
+| align="center"|  11th
+| 'Rabbit In The Moon' Biscuit Puppet Theatre
+| {{Safe}}
+|-
+! scope="row" | Georgie
+| Rhubarb & Custard Viennese Whirls
+| align="center"|  9th
+| ‘Welsh Festival' Biscuit Puppet Theatre
+| {{Safe}}
+|-
+! scope="row" | Gill
+| 'Two Desserts' Viennese Whirls
+| align="center"|  4th
+| 'The Gingerbread Man' Biscuit Puppet Theatre
+| {{Safe}}
+|-
+! scope="row" | Hazel
+| Coffee Viennese Whirls
+| align="center"|  5th
+|'Punch & Judy' Biscuit Puppet Theatre 
+| {{Eliminated}}
+|-
+! scope="row" | Illiyin
+| Pistachio & White Chocolate Viennese Whirls
+| align="center"|  8th
+|  'Strawberry Fields Forever' Biscuit Puppet Theatre
+| {{Safe}}
+|-
+! scope="row" | Jeff
+| 'What's The Matter? Are You Not Feeling Well?' Viennese Whirls
+| colspan="3" {{n/a|''Withdrew''}}
+|-
+! scope="row" | John
+| Irish Cream & Coffee Viennese Whirls
+| align="center"|  2nd
+| 'Welsh Adventures' Biscuit Puppet Theatre
+| {{Safe}}
+|-
+! scope="row" | Mike
+| Malted Brown Butter & Raspberry Viennese Whirls
+| align="center"|  1st
+| 'Go Farming' Biscuit Puppet Theatre
+| {{Safe}}
+|-
+! scope="row" | Nelly
+| 'My First Dog' Viennese Whirls
+| align="center"|  7th
+| 'Forest Dance' Biscuit Puppet Theatre
+| {{Safe}}
+|-
+! scope="row" | Sumayah
+| Cheese & Blackberry Viennese Whirls
+| align="center"|  3rd
+|  'Enchanted Garden' Biscuit Puppet Theatre
+| {{sort|1|}}{{Good|Star Baker}}
+|}
+
+{{note|2|2}} Jeff fell ill during the technical challenge and as it was his second consecutive week falling ill, he withdrew from the show altogether.
+<br>
+{{note|3|3}} Illiyin fainted at the end of the showstopper challenge. Since she was still able to complete the round, the judges continued with evaluating her bake, deeming her a candidate for elimination alongside Georgie and Hazel.
+
+=== Episode 3: Bread ===
+The ten remaining bakers were asked to carry out three challenges. The Signature Challenge was to make twelve identical savoury buns which had to be from an enriched, yeast-based dough, but could be any flavour and any shape. The Technical Challenge let the bakers watch Paul Hollywood demonstrate the plaiting of seven strands of dough to form a wreath before they then had two and a half hours to repeat the exercise. The final Showstopper Challenge this week was to make a [[cornucopia]], also called a 'horn of plenty', filled with at least two different types of bread.
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small>(Savoury Buns)</small>
+! scope="col"| Technical<br /><small>(Plaited Loaf)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Bread Cornucopia Display)</small>
+! scope="col"| Result
+|-
+! scope="row" | Andy
+| 'Maisie's Mini Salami' Savoury Buns
+| align="center"| 3rd
+| 'New York, Neeeeeeew Yoooork' Cornucopia 
+| {{Safe}}
+|-
+! scope="row" | Christiaan
+|Mushroom and Sage Pesto Savoury Buns
+| align="center"| 8th
+| 'Wildflower Delights' Cornucopia 
+| {{Safe}}
+|-
+! scope="row" | Dylan
+| Gochujang & Garlic Savoury Buns
+| align="center"| 10th
+| 'Cat' Cornucopia 
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Georgie
+| 'Pesto Brunch' Savoury Buns
+| align="center"|  7th
+| 'My Favourite Things' Cornucopia 
+| {{Safe}}
+|-
+! scope="row" | Gill
+| Bury Black Pudding Savoury Buns
+| align="center"|  5th
+| 'All Day Holiday' Cornucopia 
+| {{Safe}}
+|-
+! scope="row" | Illiyin
+| Jamaican Brown Chicken Savoury Buns
+| align="center"| 4th
+| Bread Cornucopia 
+| {{Safe}}
+|-
+! scope="row" | John
+| 'Yamas!' Savoury Buns
+| align="center"| 9th
+| 'Horn of Pride' Cornucopia 
+|  {{Eliminated}}
+|-
+! scope="row" | Mike
+| 'Baaa-o' Savoury Buns
+| align="center"| 6th
+| 'Zeus's Horn' Cornucopia 
+|  {{Safe}}
+|-
+! scope="row" | Nelly
+| 'Ethnic Harmony' Savoury Buns
+| align="center"| 1st
+| Cornucopia 
+|  {{Safe}}
+|-
+! scope="row" | Sumayah
+| 'Sunflower' Savoury Buns
+| align="center"| 2nd
+| 'Friendship & Family' Cornucopia 
+|  {{Safe}}
+|-
+|}
+
+=== Episode 4: Caramel ===
+The nine remaining bakers tackled caramel this week throughout the three challenges. For the signature challenge, the bakers were asked to make 12 identical caramel biscuits. For the technical challenge, they were tasked with making a classic pear tarte tatin with a walnut praline ice cream. The bakers had three hours to complete the challenge. For the showstopper, the challenge was to make a caramel mousse cake with at least two types of caramel decorations in four and a half hours. 
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small>(12 Caramel Biscuits)</small>
+! scope="col"| Technical<br /><small>(Pear Tarte Tatin)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Caramel Mousse Cake)</small>
+! scope="col"| Result
+|-
+! scope="row" | Andy
+| 'A Bit Of A Fix' Caramel Biscuits 
+| align="center"| 9th
+| 'Lonely Tree' Mousse Cake
+| {{Safe}}
+|-
+! scope="row" | Christiaan
+| 'Spiced Nut Stroopwafels' Caramel Biscuits 
+| align="center"| 2nd
+| 'Tropicaramel' Mousse Cake
+| {{Safe}}
+|-
+! scope="row" | Dylan
+| 'Oats With Pineapple' Caramel Biscuits 
+| align="center"| 5th
+| Lemon Honey & Ginger Mousse Cake
+| {{Safe}}
+|-
+! scope="row" | Georgie
+| 'Favourite Chocolate Bar' Caramel Biscuits 
+| align="center"| 1st
+| 'Glass Rose Mirror' Mousse Cake
+|  {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Gill
+| 'Fruit and Nut Millionaire' Caramel Biscuits 
+| align="center"| 8th
+| 'Sticky Toffee' Mousse Cake 
+| {{Safe}}
+|-
+! scope="row" | Illiyin
+| 'Almond Florentine' Caramel Biscuits 
+| align="center"| 4th
+| Caramel And White Chocolate Mousse Cake
+|  {{Safe}}
+|-
+! scope="row" | Mike
+| 'Dad's Favourite' Caramel Biscuits
+| align="center"| 7th
+| Coffee Popcorn Mousse Cake
+|  {{Eliminated}}
+|-
+! scope="row" | Nelly
+| 'Good Old Times' Caramel Biscuits
+| align="center"| 6th
+| 'Behind Every Great Woman' Mousse Cake
+| {{Safe}}
+|-
+! scope="row" | Sumayah
+| Sesame Hibiscus Caramel Biscuits 
+| align="center"| 3rd
+| 'Banoffee Pecan' Mousse Cake
+| {{Safe}}
+|-
+|}
+
+=== Episode 5: Pastry ===
+The eight remaining bakers faced pastry based three challenges. For the signature challenge, the bakers were asked to make a dozen frangipane tarts in two hours. For the technical challenge, Paul Hollywood tasked them with making his version of a spanakopita with homemade filo pastry shaped in a spiral and gave them two and a half hours to complete the bake. For the showstopper, the bakers had to produce a Paris-Brest centerpiece with an edible stand in four hours.
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small>(12 [[Frangipane]] Tarts)</small>
+! scope="col"| Technical<br /><small>([[Spanakopita]])</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>([[Paris-Brest]])</small>
+! scope="col"| Result
+|-
+! scope="row" | Andy
+| 'Nan's Sweets' Frangipane Tarts
+| align="center"| 7th
+| 'All You Need Is Love' Paris-Brest
+| {{Eliminated}}
+|-
+! scope="row" | Christiaan
+| Cashew & Black Sesame Frangipane Tarts
+| align="center"| 2nd
+| Orange & Pecan Paris-Brest
+|  {{Safe}}
+|-
+! scope="row" | Dylan
+| Coffee and Dark Chocolate Frangipane Tarts
+| align="center"| 1st
+| 'Contrasts of Tea' Paris-Brest
+|  {{Safe}}
+|-
+! scope="row" | Georgie
+| 'Almond Bakewell' Frangipane Tarts
+| align="center"| 6th
+| Pistachio and Raspberry Paris-Brest
+|  {{Safe}}
+|-
+! scope="row" | Gill
+| Pistachio & Blueberry Frangipane Tarts
+| align="center"| 8th
+| Lemon & Thyme Paris-Brest
+|  {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Illiyin
+| 'Taste of the Tropics' Frangipane Tarts
+| align="center"| 5th
+| 'Crown of Nuttiness' Paris-Brest
+|  {{Safe}}
+|-
+! scope="row" | Nelly
+| 'Iceberg' Frangipane Tarts
+| align="center"| 3rd
+| Pistachio Paris-Brest
+|  {{Safe}}
+|-
+! scope="row" | Sumayah
+| Raspberry & Coconut Frangipane Tarts
+| align="center"| 4th
+| 'Tree of Life' Paris-Brest
+|  {{Safe}}
+|-
+|}
+
+=== Episode 6: Autumn ===
+
+The seven remaining bakers faced three challenges themed around autumn. For the signature, they had 2 hours and 45 minutes to make a decorative pie with autumnal flavours. The technical recipe was Prue Leith's vegan adaptation of a traditional parkin; the bakers had an hour and a half to complete the challenge. The showstopper required them to produce elaborate vegetable cakes themed around an autumn festival.
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small>(Autumnal Pie)</small>
+! scope="col"| Technical<br /><small>(Vegan [[Parkin (cake)|Parkin]])</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Autumnal Festival Cake)</small>
+! scope="col"| Result
+|-
+! scope="row" | Christiaan
+| 'Forest Cano-Pie'
+| align="center"|6th
+| 'Roots of Samhain' Cake
+| {{Safe}}
+|-
+! scope="row" | Dylan
+| Autumnal Apple Pie
+| align="center"|4th
+| Diwali Cake
+| {{Safe}}
+|-
+! scope="row" | Georgie
+| Pumpkin & Pecan Pie
+| align="center"|2nd
+| 'Tree Trunk Scene' Cake
+| {{Safe}}
+|-
+! scope="row" | Gill
+| Blackberry & Apple 'Windy Day' Pie
+| align="center"|7th
+| Bonfire 'Parrot' Cake
+| {{Safe}}
+|-
+! scope="row" | Illiyin
+| Autumnal Fruit Pie
+| align="center"|1st
+| 'Day of the Dead' Cake
+| {{Safe}}
+|-
+! scope="row" | Nelly
+| ‘Out in Nature’ Pie
+| align="center"|5th
+| 'Woman in Autumn' Cake
+| {{Eliminated}}
+|-
+! scope="row" | Sumayah
+| Butternut & Pecan Pie
+| align="center"|3rd
+| 'Autumn Leaves' Harvest Cake
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+|}
+
+=== Episode 7: Desserts ===
+
+The six remaining bakers were tested on their dessert-making skills. The signature challenge was for eight mini [[meringue]] nests with two fillings, to be completed in two and a quarter hours. For the technical, Prue Leith tasked the contestants with making a traditional English pudding: the [[spotted dick]]. The showstopper asked the bakers to put their own spin on a classic Italian [[tiramisu]], giving them four and a half hours to complete this challenge.
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small>(8 [[meringue]] Nests)</small>
+! scope="col"| Technical<br /><small>([[Spotted Dick]])</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>([[Tiramisu]])</small>
+! scope="col"| Result
+|-
+! scope="row" | Christiaan
+| 'Smell The Roses' Meringue Nests  
+| align="center"|3rd
+| 'Memphis Milano' Tiramisu 
+| {{Safe}}
+|-
+! scope="row" | Dylan
+| 'Coconut Illusion' Meringue Nests  
+| align="center"|1st
+| 'Concrete Box' Tiramisu 
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Georgie
+| 'Aunty Meryl's' Plum Meringue Nests  
+| align="center"|2nd
+| 'Old Italian' Tiramisu 
+| {{Safe}}
+|-
+! scope="row" | Gill
+| 'Just Peachy' Meringue Nests  
+| align="center"|4th
+| 'Coconut Latte Charlotte Russe' Tiramisu 
+| {{Safe}}
+|-
+! scope="row" | Illiyin
+| Piña Colada Meringue Nests  
+| align="center"|5th
+| 'Jewelry Box' Tiramisu 
+| {{Safe}}
+|-
+! scope="row" | Sumayah
+| 'Pomegranate & Plenty More' Meringue Nests  
+| align="center"|6th
+| 'Batik Mousse Cake' Tiramisu
+| {{Eliminated}}
+|-
+|}
+
+=== Episode 8: The '70s (Quarterfinals) ===
+
+In the quarterfinal, the five remaining bakers were given three retro challenges, taking them back to the 1970s. The signature required them to create a decorative stack of at least 30 [[profiterole]]s. The technical was Paul Hollywood's banoffee pie. Although the bakers were given ingredient measures, they did not have any instructions for how to make the pie. The showstopper challenge was to make a '70s-style tiered gateau.
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small>([[Profiterole]] Stack)</small>
+! scope="col"| Technical<br /><small>([[Banoffee pie|Banoffee Pie]])</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>('70s Gateau)</small>
+! scope="col"| Result
+|-
+! scope="row" | Christiaan
+| 'I Got Choux Babe' Profiterole Stack
+| align="center"|2nd
+| Lemon, Hazelnut and Advocaat '70s Gâteau
+| {{Safe}}
+|-
+! scope="row" | Dylan
+| 'Sci-Fi' Profiterole Stack
+| align="center"|3rd
+| Mint Chocolate '70s Gâteau
+| {{Safe}}
+|-
+! scope="row" | Georgie
+| 'Tribute to Freddie' Profiterole Stack
+| align="center"|1st
+| Vintage Black Forest '70s Gâteau
+|  {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Gill
+| '70s Christmas Tree' Profiterole Stack
+| align="center"|5th
+| 'Geoff's Cafe' '70s Gâteau
+|  {{Safe}}
+|-
+! scope="row" | Illiyin
+| 'Ode to the '70s Afro' Profiterole Stack
+| align="center"|4th
+| 'Peach Melba' '70s Gâteau
+|  {{Eliminated}}
+|-
+|}
+
+=== Episode 9: Patisserie (Semifinal) ===
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small>(Breakfast Pastries)</small>
+! scope="col"| Technical<br /><small>([[Opera cake]])</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Fruit-Shaped [[Entremets]])</small>
+! scope="col"| Result
+|-
+! scope="row" | Christiaan
+| Rhubarb and Saffron Danish & [[Za'atar]] and [[Gruyère cheese|Gruyère]] Swirls
+| align="center"| 3rd
+| 'Sorrento Citrus' Entremets
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Dylan
+| Hazelnut & Cinnamon Croissants
+| align="center"| 1st
+| Avocado and Orange Entremets
+|  {{Safe}}
+|-
+! scope="row" | Georgie
+| Coffee and Hazelnut Pinwheels & Chocolate [[pain suisse|Pain Suisse]]
+| align="center"| 4th
+| 'Market Box Fruits' Entremets
+|  {{Safe}}
+|-
+! scope="row" | Gill
+| 'Pain Au Sausage Sandwich' and Banana & Custard Pastries
+| align="center"| 2nd
+| 'Pick Your Own Car Keys' Entremets
+|  {{Eliminated}}
+|-
+|}
+
+=== Episode 10: Final ===
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small>([[Scones]])</small>
+! scope="col"| Technical<br /><small>([[Tea (meal)#Afternoon tea|Afternoon Tea]] Display)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Hanging Cake)</small>
+! scope="col"| Result
+|-
+! scope="row" | Christiaan
+| Curry & Coconut Scones 
+| align="center"| 1st
+| 'Sculpted Summer' Hanging Cake
+|  {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Dylan
+| Strawberry & Salmon Scones
+| align="center"|3rd
+| 'Colours of Murano' Hanging Cake
+|  {{sort|2.5|}}{{Runner-up}}
+
+|-
+! scope="row" | Georgie
+| 'Afternoon Tea' Scones
+| align="center"|2nd
+| 'Summer Garden Celebration' Hanging Cake
+| {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+|}
+
+== Specials ==
+
+Two specials were commissioned for the festive season:<ref>{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a62916394/bake-off-2024-christmas-new-year-cast/ |title=Bake Off confirms soaps special with Christmas and New Year lineups|date=15 November 2024|work=Digital Spy|accessdate=15 November 2024}}</ref>
+
+=== ''The Great Christmas Bake Off'' ===
+The Great Christmas Bake Off featured five [[soap opera]] stars: [[Chris Bisson]] from ''[[Emmerdale]]'', [[Natalie Cassidy]] and [[Dean Gaffney]] from ''[[EastEnders]]'', [[Shobna Gulati]] from ''[[Coronation Street]]'', and [[Sheree Murphy]] from ''Emmerdale'' and ''[[Hollyoaks]]''.
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small> (Yule Log)</small>
+! scope="col"| Technical<br /><small> (Mini [[Meringue]] Christmas Trees)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small> (Biscuit [[soap opera|Soap]] Scene)</small>
+! scope="col"| Result
+|-
+! scope="row" | Chris
+| Spiced Ginger & [[Soursop]] Yule Log
+| align="center"| 2nd
+| 'Carol Singing At The Woolpack' Biscuit Soap Scene
+| {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" | Dean
+| [[Irish Cream]] & Raspberry Yule Log
+| align="center"| 3rd
+| 'When Wellard Stole The Turkey' Biscuit Soap Scene
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Natalie
+| Mincemeat & Brandy Yule Log
+| align="center"| 4th
+| 'Ghosts of Christmas Past' Biscuit Soap Scene
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Sheree
+| 'Festive [[Tiramisu]]' Yule Log
+| align="center"| 1st
+| 'Tricia's Demise' Biscuit Soap Scene
+|  {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Shobna
+| '[[Black Forest]]' Yule Log
+| align="center"| 5th
+| 'Fire in the Corner Shop' Biscuit Soap Scene 
+| {{sort|2.5|}}{{Runner-up}}
+|-
+|}
+
+=== ''The Great New Year Bake Off'' ===
+The Great New Year Bake Off featured six Scottish bakers from past series: Lea Harris from [[The Great British Bake Off (series 1)|Series 1]], [[The Great British Bake Off (series 3)|Series 3]] runner-up [[James Morton (baker)|James Morton]], Norman Calder from [[The Great British Bake Off (series 5)|Series 5]], [[The Great British Bake Off (series 11)|Series 11]] winner [[Peter Sawkins]], Kevin Flynn from [[The Great British Bake Off (series 13)|Series 13]], and Nicky Laceby from [[The Great British Bake Off (series 14)|Series 14]].
+ 
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature ([[Black bun|Black Bun]])
+! scope="col"| Technical ([[Shortbread]] Snowflake)
+! scope="col" class="unsortable"| Showstopper ([[Cranachan]] Based Dessert)
+! scope="col"| Result
+|-
+! scope="row" | James
+| 'Rabbie Burns' Black Bun
+| align="center"| 1st
+| Cranachan Croquembouche
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Kevin
+| Tartan Black Bun
+| align="center"| 6th
+| Cranachan 'Cake or Meringue?'
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Lea
+| 'Coo Pie' Black Bun
+| align="center"| 4th
+| 'In Bed Before The Bells' Cranachan Mousse Cake
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Nicky
+| 'Angus The Highland Cow' Black Bun
+| align="center"| 3rd
+| 'This is no Cranachan Pie' Dessert Tower
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Norman
+| 'Mum's Special' Black Bun with Macaroons 
+| align="center"| 5th
+| 'Cranapav Palova Tower'
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Peter
+| 'Scottish Thistle' Black Bun 
+| align="center"| 2nd
+| 'Cranachan Croquembouche'
+| {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+|-
+|}
+
+==Ratings==
+The first episode of the 15th series was watched by 3.6 million viewers according to overnight figures, down from the 4.3 million of 2023.<ref>{{cite news |url=https://uk.news.yahoo.com/bake-off-ratings-decline-time-to-rest-203053601.html?guccounter=1 |title='Bake Off has gone off the boil. Is it time to give it a rest?' |first=Scott |last=Bryan |work=Yahoo! Entertainment |date=1 October 2024}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|7-day viewers<br /><small>(millions)</small>
+! scope="col"|Channel 4<br />weekly ranking
+! scope="col"|Weekly ranking<br />all channels<ref name="BARB">{{cite web|url=
+https://www.barb.co.uk/viewing-data/as-viewed-top-50/|title=As Viewed Top 50|publisher=[[Broadcasters' Audience Research Board]]}}</ref>
+|-
+! scope="row"| 1
+| {{Start date|df=y|2024|09|24}}
+| 7.72
+| 1
+| 2
+|-
+! scope="row"| 2
+| {{Start date|df=y|2024|10|01}}
+| 7.47
+| 1
+| 3
+|-
+! scope="row"| 3
+| {{Start date|df=y|2024|10|8}}
+| 7.48
+| 1
+| 2
+|-
+! scope="row"| 4
+| {{Start date|df=y|2024|10|15}}
+| 7.37
+| 1
+| 3
+|-
+! scope="row"| 5
+| {{Start date|df=y|2024|10|22}}
+| 7.22
+| 1
+| 3
+|-
+! scope="row"| 6
+| {{Start date|df=y|2024|10|29}}
+| 7.19
+| 1
+| 4
+|-
+! scope="row"| 7
+| {{Start date|df=y|2024|11|05}}
+| 7.35
+| 1
+| 3 
+|-
+!scope="row"| 8
+| {{Start date|df=y|2024|11|12}}
+| 7.38
+| 1
+| 4
+|-
+!scope="row"| 9
+| {{Start date|df=y|2024|11|19}}
+| 7.12
+| 1
+| 10
+|-
+!scope="row"| 10
+| {{Start date|df=y|2024|11|26}}
+| 7.70
+| 1
+| 10
+|}
+
+== References ==
+{{reflist}}
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off series 15, The}}
+[[Category:The Great British Bake Off|Series 15]]
+[[Category:2024 British television seasons]]

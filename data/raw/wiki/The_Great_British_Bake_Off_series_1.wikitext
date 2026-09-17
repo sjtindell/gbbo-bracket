@@ -1,0 +1,431 @@
+{{short description|First series of The Great British Bake Off}}
+{{for|the fifth series aired as the first season of the PBS broadcast|The Great British Bake Off series 5}}
+{{Use dmy dates|date=August 2019}}
+{{Use British English|date=August 2019}}
+{{Infobox television season
+| image         =
+| caption       = Photo of the main cast and contestants of the first series
+| series_number = 1
+| module1       = {{Infobox reality competition season
+ | presenter       = [[Mel Giedroyc]]<br>[[Sue Perkins]]
+ | judges          = [[Mary Berry]]<br>[[Paul Hollywood]]
+ | winner          = [[Edd Kimber]]
+ | runner_up       = Ruth Clemens
+ | num_contestants = 10
+ | finals_venue    = [[Fulham Palace]], London
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 17
+}}
+| num_episodes  = 6
+| network       = [[BBC Two]]
+| first_aired   = {{start date|2010|8|17|df=y}}
+| last_aired    = {{end date|2010|9|21|df=y}}
+}}
+
+The '''first series''' of ''[[The Great British Bake Off]]'' first aired on [[BBC Two]] on 17 August 2010. Ten home bakers took part in a bake-off to test their baking skills as they battled to be designated the best amateur baker.  Each week the programme bakers participated in three challenges in a particular discipline, with some being eliminated at the end of each episode.  The rounds of the competition took place in various locations across the UK following a theme, for example, the episode on puddings took place in [[Bakewell]], bread baking would take place near [[Sandwich, Kent|Sandwich]].<ref>{{cite web |url=http://thetvdb.com/?tab=series&id=184871 |title=The Great British Bake Off |work=TVDb.com }}</ref><ref name="telegraph 2012">{{cite news |url=https://www.telegraph.co.uk/culture/tvandradio/bbc/9411189/Behind-the-scenes-at-the-Great-British-Bake-Off.html |title=Behind the scenes at the Great British Bake-Off |author=Sarah Stephens |date= 14 Aug 2012 |work=The Daily Telegraph }}</ref> This first series had a voiceover by Stephen Noonan; for the subsequent series this role was taken by the on-screen presenters Mel Giedroyc and Sue Perkins. The competition was won by Edd Kimber.<ref>{{cite news |url=https://www.telegraph.co.uk/travel/destinations/europe/uk/london/8946630/Edd-Kimber-the-great-British-baker.html |title=Edd Kimber: the great British baker |author= Sarah Rainey |work=The Daily Telegraph |date= 9 December 2011 }}</ref><ref>{{citation |url=http://www.yorkshireeveningpost.co.uk/news/Leeds-man-wins-BBCs-Great.6546522.jp |title=Leeds man wins BBC's Great British Bake-Off |journal=[[Yorkshire Evening Post]] |date=23 September 2010 |author=Aisha Iqbal}}</ref><ref>{{citation |url=http://www.thetelegraphandargus.co.uk/news/8409702.Baker_Edd_rises_to_the_top/ |journal=[[Bradford Telegraph and Argus]] |title=Thackley baker Edd Kimber wins BBC TV's Great British Bake Off |date=23 September 2010 |author= Emma Clayton}}</ref>
+
+== Bakers ==
+{| class="wikitable sortable" style="text-align:center;"
+!scope="col"|Contestant
+!scope="col"|Age
+!scope="col"|Hometown
+!scope="col"|Occupation
+!scope="col"|Finish
+!scope="col"|Place
+|-
+! scope="row"|Lea Harris
+|51
+|[[Midlothian]]
+|Retired
+|rowspan="2"|Episode 1
+|rowspan="2"|9th (tie)
+|-
+! scope="row"|Mark Whithers
+| 48
+| South [[Wales]]
+| Bus Driver 
+|-
+! scope="row"|Annetha Mills
+| 30 
+| [[Essex]]
+| Midwife 
+|rowspan="2"|Episode 2
+|rowspan="2"|7th (tie)
+|-
+! scope="row"|Louise Brimelow
+| 44 
+| [[Manchester]]
+| Police Officer 
+|-
+! scope="row"|Jonathan Shepherd
+| 25 
+| [[St Albans]]
+| Research Analyst 
+|Episode 3
+|6th
+|-
+! scope="row"|David Chambers
+| 31 
+| [[Milton Keynes]]
+| Entrepreneur 
+|Episode 4
+|5th
+|-
+! scope="row"|{{nowrap|Jasminder "Jas" Randhawa}}
+| 45 
+| [[Birmingham]]
+| Assistant Credit Control Manager 
+|Episode 5
+|4th
+|-
+! scope="row"|Miranda Gore Browne
+| 37 
+| [[Midhurst]]
+| nowrap|Food buyer for [[Marks & Spencer]] 
+|rowspan="3"|Episode 6
+|3rd
+|-
+! scope="row"|Ruth Clemens
+| 31 
+| [[Poynton, Cheshire|Pointon]]
+| Retail manager/Housewife 
+|2nd
+|-
+! scope="row"|{{nowrap|[[Edd Kimber|Edward 'Edd' Kimber]]}}
+| 24 
+| [[Bradford]]
+| Debt collector for [[Yorkshire Bank]] 
+|1st
+|}
+
+== Results summary ==
+{| class="wikitable" style="text-align:center"
+|+ Elimination chart
+! scope="col"|Baker
+! scope="col"|1
+! scope="col"|2
+! scope="col"|3
+! scope="col"|4
+! scope="col"|5
+! scope="col"|6
+|-
+! scope="row" style="text-align:left"|Edd
+| style="background:CornflowerBlue; color:white" | HIGH || style="background:CornflowerBlue; color:white" |HIGH || style="background:CornflowerBlue; color:white" |HIGH ||  style="background:Plum;"| LOW || style="background:Cornflowerblue; color:white" |HIGH || style="background:Yellow;"|WINNER
+|-
+! scope="row" style="text-align:left"|Ruth
+| style="background:CornflowerBlue; color:white" |HIGH  || SAFE || style="background:CornflowerBlue; color:white" |HIGH  || style="background:CornflowerBlue; color:white" |HIGH  || style="background:CornflowerBlue; color:white" |HIGH || style="background:LimeGreen;"|Runner Up
+|-
+! scope="row" style="text-align:left"| Miranda
+| style="background:CornflowerBlue; color:white" |HIGH  || style="background:CornflowerBlue; color:white" |HIGH || SAFE || style="background:CornflowerBlue; color:white" |HIGH ||  style="background:Plum;"| LOW ||style="background:tan;"|Third
+|-
+! scope="row" style="text-align:left"|Jas
+| SAFE || SAFE || style="background:Plum;"| LOW || SAFE || style="background:Orangered;"|OUT || style="background:silver;"|
+|-
+! scope="row" style="text-align:left"|David
+| style="background:Plum;"| LOW || style="background:Plum;"| LOW || style="background:Plum;"| LOW ||  style="background:Orangered;"|OUT || colspan="2" style="background:silver;"|
+|-
+! scope="row" style="text-align:left"|Jonathan
+| SAFE || style="background:CornflowerBlue; color:white" |HIGH || style="background:Orangered;"|OUT || colspan="3" style="background:silver;"|
+|-
+! scope="row" style="text-align:left"| Annetha
+| style="background:CornflowerBlue; color:white" |HIGH || style="background:Orangered;"|OUT || colspan="4" style="background:silver;"|
+|-
+! scope="row" style="text-align:left"| Louise
+| style="background:Plum;"| LOW || style="background:Orangered;"|OUT || colspan="4" style="background:silver;"|
+|-
+! scope="row" style="text-align:left"|Lea
+| style="background:Orangered;"|OUT || colspan="5" style="background:silver;"|
+|-
+! scope="row" style="text-align:left"| Mark
+| style="background:Orangered;"|OUT || colspan="5" style="background:silver;"|
+|}
+
+'''Colour key:'''
+{{legend|<!--default colour-->|outline=darkgray|Baker got through to the next round.}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated}}
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|CornflowerBlue|outline=darkgray|Baker was one of the judges' favourite bakers that week.}}
+{{legend|LimeGreen|outline=darkgray|Baker was the series runner-up.}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner.}}
+
+== Episodes ==
+
+=== Episode 1: Cakes ===
+For the first challenge, the bakers were instructed to bake any cake they want using their creativity within 3 hours. It had to be evenly baked, evenly risen, and moist. For the technical challenge, the bakers were to make a [[Victoria Sandwich]] using Mary Berry's recipe. For the final challenge, the showstopper challenge, the bakers were required to make a Chocolate Celebration Cake, with perfect execution, original ideas and their own flair.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|+ Location: [[Cotswolds]]
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br/><small>(Cake)</small>
+! scope="col"|Technical<br/><small>([[Sponge cake#Victoria sponge|Victoria Sandwich]])</small>
+! scope="col" class="unsortable"|Showstopper<br/><small>(Chocolate Celebration Cake)</small>
+! scope="col"|Result
+|-
+! scope="row"|Annetha
+| Light Jamaican Black Cake with Strawberries and Cream || 2nd || Red, White & Blue Chocolate Cake with Cigarellos, Fresh Fruit, and Cream || {{Safe}}
+|-
+! scope="row"|David
+| Chocolate Orange Cake || 3rd || Black Forest Floor [[French language|Gateau]] with Chocolate Leaves, Fallen Fruit, and Chocolate Mushrooms || {{Safe}}
+|-
+! scope="row"|Edd
+| Caramel Cinnamon and Banana Cake || 1st ||UNKNOWN || {{Safe}}
+|-
+! scope="row"|Jasminder
+| Fresh Mango and Passion Fruit Hummingbird Cake || {{N/A}} ||UNKNOWN || {{Safe}}
+|-
+! scope="row"|Jonathan
+| Carrot Cake with Lime and Cream Cheese Icing || 9th || Three Tiered White and Dark Chocolate with Almond and Cherry || {{Safe}}
+|-
+! scope="row"|Lea
+| Cranberry and Pistachio Cake<br/>with Orange Flower Water Icing || 10th || Raspberries and Cream-filled Chocolate Cake with Chocolate-dipped Fresh Fruit
+| {{Eliminated}}
+|-
+! scope="row"|Louise
+| Carrot and Orange Cake || {{N/A}}
+| Never Fail Chocolate Sponge Cake with Fresh Fruit
+| {{Safe}}
+|-
+! scope="row"|Mark
+| Sticky [[Marmalade]] Tea Loaf || {{N/A}} || Heart-shaped Chocolate and Beetroot Cake
+| {{Eliminated}}
+|-
+! scope="row"|Miranda
+| Triple Layered Brownie Meringue Cake with Raspberry Cream || 8th || Three Tiered Chocolate Fudge Cake with Handmade Chocolate Button Decorations || {{Safe}}
+|-
+! scope="row"|Ruth
+| Lemon Drizzle Cake<br/>with Fresh Cream and freshly made Lemon Curd || {{N/A}} || Classic Chocolate Sponge wrapped in a Chocolate Collar topped with Handmade White and Dark Chocolate Truffles || {{Safe}}
+|}
+
+=== Episode 2: Biscuits ===
+For the signature bake, the bakers were asked to bake their Signature Personality Biscuits within 2 hours. The technical challenge required them to bake [[scone]]s using Paul Hollywood's recipe within 1 hour. For the showstopper, the bakers were asked to produce three different [[Petit four|Petit Fours]]: [[Meringue]]s, [[Choux pastry|Choux Pastry]], and [[Macaron]]s, within 4 hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|+ Location: [[Scone Palace]], Perthshire
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br/><small>(Personality Biscuit)</small>
+! scope="col"|Technical<br/><small>([[Scones]])</small>
+! scope="col" class="unsortable"|Showstopper<br/><small>([[Petit fours]]: [[Meringue]]s, [[choux pastry|Choux Pastry]] and [[Macaron]]s)</small>
+! scope="col"|Result
+|-
+! scope="row"|Annetha
+| Rose Petal Shortbread || 7th || Pink Swirl Macarons<br>[[Eclairs]]
+| {{Eliminated}}
+|-
+! scope="row"|David
+| Cheddar Cheese and Fresh Rosemary Biscuits || 8th || Choux Pastry Swans<br>Plain Meringues
+| {{Safe}}
+|-
+! scope="row"|Edd
+| [[Oatmeal raisin cookies|Oatmeal Raisin Cookies]] || 6th || Pink Macarons<br>Passion Fruit Meringues 
+|{{Safe}}
+|-
+! scope="row"|Jasminder
+| [[Millionaire Shortbread|Millionaires' Shortbread]] || 2nd || Meringues with Chocolate and Space Dust<br>Coffee Flavoured Eclairs 
+|{{Safe}}
+|-
+! scope="row"|Jonathan
+| Honey and Candied Ginger Cookies || 1st || Meringues with Whiskey Cream and Chocolate || {{Safe}}
+|-
+! scope="row"|Louise
+| Stained Glass Window Shortbread || 4th || Strawberry, Mint, and Cream Meringue Baskets<br>Chocolate Eclairs<br>Orange, Yellow and Pink Macarons
+| {{Eliminated}}
+|-
+! scope="row"|Miranda
+| Fresh Vanilla Biscuits with Royal Icing || 3rd || Pistachio Macarons || {{Safe}}
+|-
+! scope="row"|Ruth
+| Peanut Shortbread with Salted Peanut Caramel || 5th || Almond Macaron with Violet Buttercream<br>Raspberries and Cream Eclairs
+| {{Safe}}
+|}
+
+=== Episode 3: Bread ===
+For their signature bake, the bakers were given {{frac|3|1|2}} hours to produce their signature bread loaf. The technical challenge required them to bake a traditional round cob loaf, using Paul's recipe in {{frac|2|1|2}} hours. For the showstopper, the bakers were asked to bake 12 sweet rolls and 12 savoury rolls, with three flavours of each, within 6 hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|+ Location: [[Sarre Windmill]], Kent
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br/><small>(Breads)</small>
+! scope="col"|Technical<br/><small>(Round Cob Loaf)</small>
+! scope="col" class="unsortable"|Showstopper<br/><small>(12 Sweet and 12 Savoury Rolls)</small>
+! scope="col"|Result
+|-
+! scope="row"|David
+| Chilli Bread || 4th || Walnut and Seed Roll<br/>Red Berry and Almond Bun<br>Tomato and Herb Rolls || {{Safe}}
+|-
+! scope="row"|Edd
+| Olive Bread  || 1st || Tomato, Mozzarella, and Chorizo Rolls<br>Chelsea Buns<br>Hot Cross Buns || {{Safe}}
+|-
+! scope="row"|Jasminder
+| [[Focaccia]]|| 5th || Mango and Sultana Buns<br>Pain au Chocolat with Mars Bars<br>Tutti Frutti Wheels with Jelly Tots<br>Tomato and Cheese Rolls || {{Safe}}
+|-
+! scope="row"|Jonathan
+| Anchovy, Sweet [[Paprika]] and Oregano Bread || 6th || Sticky Lemon Honey Buns<br>[[Olive]] and [[Anchovy]] Rolls<br>[[Sundried tomatoes|Sun-Dried Tomato]] and Fresh Herb Rolls<br>Stilton, Walnut and [[Braeburn apple|Braeburn Apple]] Rolls<br>Cinnamon, Cardamom, and [[Sultana (grape)|Sultana]] [[Chelsea bun|Chelsea Buns]] with Icing || {{Eliminated}}
+|-
+! scope="row"| Miranda
+| Walnut and Apricot Bread || 3rd || Lemon Iced Buns<br/>Chocolate and Orange Buns<br/>Cranberry Buns with Icing Sugar || {{Safe}}
+|-
+! scope="row"|Ruth
+| Maple and Pecan Bread || 2nd || Chocolate and Orange [[Panettone]]<br/>Cranberry Bagels || {{Safe}}
+|}
+
+=== Episode 4: Puddings ===
+For the first challenge, the bakers were asked to bake their own classic pudding, steamed or baked, in {{frac|2|1|2}} hours. In the technical challenge, the bakers were required to use Mary's recipe to bake four miniature lemon [[Soufflé|souffles]] within 40 minutes. The bakers started to bake at different time intervals. The showstopper gave the bakers 5 hours to produce three puddings: crumble, bread, and suet.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|+ Location: [[Bakewell]], Derbyshire
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br/><small> (Steamed or Baked Pudding)</small>
+! scope="col"|Technical<br/><small>(Mini Hot Lemon [[Soufflé]]s)</small>
+! scope="col" class="unsortable"|Showstopper<br/><small>(3 Puddings: [[Crumble]], [[Bread pudding|Bread]], and [[Suet pudding|Suet]])</small>
+! scope="col"|Result
+|-
+! scope="row"|David
+| Pear and Walnut Pudding || 5th || Apple and Blackberry Crumble<br/>Rhubarb and Orange [[Brown Betty (dessert)|Betty]]<br/>Suet Pear || {{Eliminated}}
+|-
+! scope="row"|Edd
+| Apple and Plum Pudding || 3rd || Apple and Cinnamon Crumble<br/>Nutella Banana [[Brioche]] Bread Pudding<br/>Rhubarb and Strawberry Suet Layer || {{Safe}}
+|-
+! scope="row"|Jasminder
+| [[Sticky toffee pudding|Sticky Toffee Pudding]] || 2nd || Bread and Butter Pudding<br/>[[Treacle]] Suet Pudding with Fresh Fruit<br/>Apple and Pineapple Crumble || {{Safe}}
+|-
+! scope="row"|Miranda
+| Sticky Toffee Pudding || 1st || [[Queen of Puddings]]<br/>Chocolate Pear [[Jam roly-poly|Roly Poly]]<br/>Strawberry and Rhubarb Crumble || {{Safe}}
+|-
+! scope="row"|Ruth
+| Peach and Blueberry Boy Bait || 4th || Apple and Ginger Crumble<br/>Rhubarb Suet Pudding<br/>Cherry Queen of Puddings || {{Safe}}
+|}
+
+=== Episode 5: Pastry ===
+For the signature challenge, the bakers were asked to bake a savoury pie in {{frac|2|1|2}} hours. For the technical challenge, the bakers were asked to bake 4 [[Cornish pasties]] in {{frac|1|1|2}} hours. For the showstopper, the bakers were asked to bake 2 pastry platters containing savory [[canapés]] and sweet [[tart]]lets<nowiki/> in 5 hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|+ Location: [[Mousehole]], Cornwall
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br/><small>(Savoury Pies)</small>
+! scope="col"|Technical<br/><small>(4 [[Cornish pasties|Cornish Pasties]])</small>
+! scope="col" class="unsortable"|Showstopper<br/><small>([[Tarts]] and [[Canapés]])</small>
+! scope="col"|Result
+|-
+! scope="row"|Edd
+| Chicken, Ham, Leek and [[Tarragon]] Pie || 2nd || Almond Sweet Tart with Ginger and Chocolate 
+Yorkshire Curd Tart<br>Chickpea and Salami Pâté<br>Red and Yellow Pepper Tart<br>Asparagus Gruyere Quiche
+| {{Safe}}
+|-
+! scope="row"|Jasminder
+| Chicken and Mushroom Pie || 4th || [[Jaggery]] Tart<br>Fruit and Custard Tart<br>Thai Chili and Red Onion Canapés<br>Duck in Plum Sauce Canapés<br>Salmon and Prawn Canapés || {{Eliminated}}
+|-
+! scope="row"|Miranda
+| Summery Salmon, Cod and Prawn Fish Pie || 1st || Chocolate Pastry filled with Orange Cheesecake <br>Chocolate Pastry filled with Milk Chocolate Ganache <br>Strawberry Tart with Red Currant Glaze <br>Cheesy Crab Bites<br>Broad Bean and Tomato Pastry Hearts<br>Pancetta and Leek Risotto Canapés || {{Safe}}
+|-
+! scope="row"|Ruth
+| Minced Beef Pie || 3rd || Raspberry and Dark Chocolate Tart<br>Creme Patisserie and Cherry Tart <br>Citrus Curd Tart with Creme Brulee Top<br>Roasted Tomato Canapés<br>Asparagus Pastry Twirls || {{Safe}}
+|}
+
+=== Episode 6: Tea Party (Final) ===
+In the final, one of the three finalists was eliminated after the first bake, and only two bakers competed in the final day. For the first challenge, they were asked to bake 24 professional-quality miniature cakes in {{frac|2|1|2}} hours. For the final challenge, the 2 finalists were given 5 hours to bake 24 miniature tarts, 24 scones, 24 choux buns, and 24 brown and white bread finger sandwiches for afternoon tea on the garden lawn for 40 guests (including all the bakers from earlier rounds).
+
+{{sticky header}}
+{| class="wikitable sortable sticky-header"
+|+ Location: [[Fulham Palace]], London
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(24 Professional Miniature Cakes)</small>
+! scope="col" class="unsortable"|Showstopper<br><small> Afternoon Tea Party: [[Petit fours|Petit Fours]], Scones, Finger Sandwiches</small>
+! scope="col"|Result
+|-
+! scope="row"| Edd
+| Cinnamon and Banana Cakes || Chocolate and Ginger Tarts<br>Lemon Scones with Passion Fruit Curd<br>Raspberry Choux Buns<br/>Finger Sandwiches || {{sort|1|}}{{Won|color=gold|Winner}}
+|-
+! scope="row"|Miranda
+| Lemon Cupcakes || {{n/a}} || {{Eliminated|Eliminated at signature}}
+|-
+! scope="row"|Ruth
+| Mint, Ginger and Blackberry Cakes || Red Pepper and Cheese Quiche Tarts<br/>Sultana Scones<br>Vanilla and Lemon Choux Buns<br/>Finger Sandwiches || {{sort|2|}}{{Runner-up}}
+|}
+
+It took the judges nearly five hours to determine whom to eliminate, and had to look back at their performances over the series as a whole to make a decision. The idea of eliminating a contestant in the final was dropped from future series.
+
+==Post-show career==
+
+After winning the competition, [[Edd Kimber]] is able to make his living from baking.<ref name="metro">{{cite web |url=http://metro.co.uk/2012/08/28/edd-kimber-and-jo-wheatley-winning-the-great-british-bake-off-was-life-changing-554519/ |title= Edd Kimber and Jo Wheatley: Great British Bake Off changed our lives |date=28 August 2012 |work=Metro }}</ref> He worked in the pastry kitchen at [[Raymond Blanc]]'s restaurant Le Manoir.  He has written three books on baking, ''The Boy Who Bakes'', ''Say It With Cake'',<ref>{{cite news |url=https://www.independent.co.uk/arts-entertainment/tv/features/great-british-bake-off-winners-where-are-they-now-8897298.html?action=gallery |title=Great British Bake Off winners: Where are they now? |author=Daisy Wyatt |date =22 October 2013 |work=The Independent}}</ref> and ''Patisserie Made Simple: From Macaron to Millefeuille and More''. He has taught macaron making classes in London, run a pop-up bakery in [[Fortnum & Mason]], and appeared as a 'resident baker' on ''[[The Alan Titchmarsh Show]]''.<ref>{{cite news |url=https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2014-what-past-winners-are-doing-now-from-edd-kimber-to-last-years-frances-quinn-9780390.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2014-what-past-winners-are-doing-now-from-edd-kimber-to-last-years-frances-quinn-9780390.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title=Great British Bake Off 2014: What past winners are doing now from Edd Kimber to last year's Frances Quinn |author=Jess Denham |date=7 October 2014 |work=The Independent }}</ref>
+
+Ruth Clemens has written a number of books on cake making and baking, including ''Busy Girls Guide to Cake Decorating'', ''The Pink Whisk Guide to Cake Making'', ''The Pink Whisk Guide to Baking'' and ''Creative Éclairs''.<ref>{{cite web|url=http://www.mumsintheknow.co.uk/poynton/2012/12/02/poynton-mum-in-the-spotlight-ruth-clemens-the-pink-whisk/ |title=Poynton Mum in the Spotlight – Ruth Clemens – The Pink Whisk! |work=Mums in the Know |date=2 December 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20150412115629/http://www.mumsintheknow.co.uk/poynton/2012/12/02/poynton-mum-in-the-spotlight-ruth-clemens-the-pink-whisk/ |archivedate=12 April 2015 }}</ref><ref>{{cite web |url=http://www.thediaryofacakemaker.com/interview-ruth-clemens-pink-whisk/ |title=Interview with Ruth Clemens, The Pink Whisk |date=7 March 2014 |work=The Diary of a Cake Maker }}</ref>
+
+Miranda Gore Browne wrote a book, ''Biscuit'', published on 5 April 2012.<ref>{{cite web |url=http://www.peachtreesandbumblebees.com/2013/06/13/interview-miranda-gore-browne/ |title=Interview & cookbook giveaway: Miranda Gore Browne, Great British Bake Off |date =13 June 2013 |work=Peach Trees and Bumblebees }}</ref> Her second book, ''Bake Me a Cake as Fast as You Can'', was published in August 2014.<ref>{{cite news |url=https://www.telegraph.co.uk/foodanddrink/11087337/Cookbook-of-the-Week-Bake-Me-A-Cake-As-Fast-As-You-Can.html |title=Cookbook of the Week: Bake Me A Cake As Fast As You Can |author=Carolyn Hart|date= 11 September 2014 |work=The Daily Telegraph }}</ref>
+
+Jonathan Shepherd left his job in the pharmaceutical company and launched a new business, The Pudding Stop, in St Albans.<ref>{{cite news |url=http://www.hertsad.co.uk/news/st_albans_baker_takes_the_plunge_with_puddings_1_633847 |title=St Albans baker takes the plunge with puddings |date=9 September 2010 |author=Charlotte Morgan |work=The Herts Advertiser }}</ref>  It started as a portable street-food vendor and a supplier of puddings to restaurants.<ref>{{cite news |url=http://www.hertsad.co.uk/news/st_albans_pudding_stop_shortlisted_for_award_1_1583674|title=St Albans' Pudding Stop shortlisted for award |date=8 October 2012 |author=Monique Hall |work=The Herts Advertiser }}</ref> Shepherd has since also opened a shop, also in St Albans.<ref>{{cite web |url=http://www.lovefood.com/guide/chefs/17807/great-british-bake-off-winners-where-are-they-now |title=Great British Bake Off: where are they now?|author= Charlotte Morgan  |date=  19 August 2014 }}</ref><ref>{{cite web |url=http://www.thepuddingstop.com/ |title=The Pudding Stop }}</ref>
+
+Mark Whithers, who was eliminated in Episode 1, died on 11 May 2013 after suffering from cancer.<ref>{{Cite web|last=Hope|first=Hannah|last2=Rowney|first2=Jo-Anne|last3=Hards|first3=Shannon|date=2018-09-11|title=Where are the past GBBO winners now?|url=https://www.cornwalllive.com/news/celebs-tv/past-great-british-bake-winners-1993125|access-date=2020-11-04|website=CornwallLive|language=en}}</ref>
+
+Lea Harris participated in the 2024 rendition of ''The Great New Year's Bake Off''.<ref>{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a62916394/bake-off-2024-christmas-new-year-cast/ |title=Bake Off confirms soaps special with Christmas and New Year lineups|date=15 November 2024|work=Digital Spy|accessdate=18 November 2025}}</ref>
+
+==The Great British Wedding Cake==
+In this one-off special edition, the three finalists from series one (Edd, Ruth and Miranda) returned. [[Paul Hollywood]] and [[Mary Berry (food writer)|Mary Berry]] set them the challenge of making and baking two spectacular [[Wedding Cake]]s each in just sixteen hours, one being ''traditional'' and the other ''contemporary''.
+Paul and Mary explore the history of the Great British Wedding Cake, looking at the dramatic changes through the eras; from the Tudors and the Victorians, wartime Britain and the eighties to the present day.
+Although Paul and Mary judged the results, no individual winner was declared.
+
+==Ratings==
+Official episode viewing figures are from [[BARB]].<ref>{{Cite web|url=http://www.barb.co.uk/whats-new/weekly-top-30|title=Weekly Top 30 Programmes|publisher=[[Broadcasters' Audience Research Board]]|accessdate=16 September 2015}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+!Nightly ranking
+|-
+! scope="row" style="text-align:center;"|1
+| {{Start date|2010|08|17|df=y}} || 2.24 || 7
+|12
+|-
+! scope="row" style="text-align:center;"|2
+| {{Start date|2010|08|24|df=y}} || rowspan="2" | 3.00 || 3
+|10
+|-
+! scope="row" style="text-align:center;"|3
+| {{Start date|2010|08|31|df=y}} || 2
+| rowspan="2" |11
+|-
+! scope="row" style="text-align:center;"|4
+| {{Start date|2010|09|07|df=y}} || 2.60 || 4
+|-
+! scope="row" style="text-align:center;"|5
+| {{Start date|2010|09|14|df=y}} || 3.03 || rowspan="2" | 1
+| rowspan="2" |10
+|-
+! scope="row" style="text-align:center;"|6
+| {{Start date|2010|09|21|df=y}} || 2.75 
+|}
+
+===Specials===
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Wedding Cake''
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row" style="background:silver;"|
+| {{Start date|2011|04|20|df=y}} || 1.60 || 19
+|}
+
+==References==
+{{reflist}}{{The Great British Bake Off}}
+
+==External links==
+* {{BBC programme}}
+
+{{DEFAULTSORT:Great British Bake Off, The}}
+[[Category:The Great British Bake Off series|Series 1]]
+[[Category:2010 British television seasons]]

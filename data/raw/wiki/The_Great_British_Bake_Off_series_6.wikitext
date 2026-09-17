@@ -1,0 +1,719 @@
+{{short description|Sixth series of The Great British Bake Off}}
+{{about|the sixth series, which aired as the third season of the PBS broadcast|the third series|The Great British Bake Off series 3}}
+{{Use dmy dates|date=August 2019}}
+{{Use British English|date=August 2019}}
+{{Infobox television season
+| image         = 
+| caption       = 
+| series_number = 6
+| module1       = {{Infobox reality competition season
+ | presenter       = [[Mel Giedroyc]]<br>[[Sue Perkins]]
+ | judges          = [[Mary Berry]]<br>[[Paul Hollywood]]
+ | num_contestants = 12
+ | winner          = [[Nadiya Hussain]]
+ | runner_up       = Ian Cumming<br>[[Tamal Ray]]
+ | location        = [[Welford Park]], Berkshire
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 30
+}}
+| num_episodes  = 10
+| network       = [[BBC One]]
+| first_aired   = {{start date|2015|8|05|df=y}}
+| last_aired    = {{end date|2015|10|07|df=y}}
+}}
+
+The '''sixth series''' (Season 3 on PBS, or Collection 3 on [[Netflix]] in the US) of ''[[The Great British Bake Off]]'' first aired on 5 August 2015, with twelve contestants competing to be the series 6 winner.<ref>{{cite web |url=https://www.telegraph.co.uk/culture/tvandradio/great-british-bake-off/11741100/season-6-start-date.html |title=When is The Great British Bake Off on? |publisher=Telegraph |date=22 July 2015 |accessdate=22 July 2015}}</ref> [[Mel Giedroyc]] and [[Sue Perkins]] presented the show, and [[Mary Berry (food writer)|Mary Berry]] and [[Paul Hollywood]] returned as judges.{{citation needed|date=April 2020}} The competition was held in the ground of [[Welford Park]], Berkshire for a second year.<ref>{{cite news |url= https://www.telegraph.co.uk/culture/tvandradio/great-british-bake-off/11780930/welford-park-great-british-bake-off.html |title=Welcome to Welford Park: home of The Great British Bake Off |author=Alice Vincent|date=4 August 2015 |work=Daily Telegraph}}</ref> The series was won by [[Nadiya Hussain]], with [[Tamal Ray]] and [[Finalists of The Great British Bake Off (series 1–7)#Ian Cumming|Ian Cumming]] finishing as runners-up.<ref>{{cite web|url=https://www.telegraph.co.uk/culture/tvandradio/great-british-bake-off/11917726/The-Great-British-Bake-Off-2015-the-final-Nadiya-crowned-winner.html|title=The Great British Bake Off 2015: the final – Nadiya crowned winner|date=8 October 2015|work=Daily Telegraphl|accessdate=9 October 2015}}</ref>
+
+The sixth series was broadcast as the third season on [[PBS]] in the [[United States]].
+
+== Bakers ==
+
+{| class="wikitable sortable"
+|-
+! scope="col" | Baker<ref>{{cite news |url=https://www.bbc.co.uk/mediacentre/latestnews/2015/bake-off-contestants |title=The Great British Bake Off 2015 baker biographies |work=BBC |date=27 July 2015}}</ref>
+! scope="col" | Age
+! scope="col" class="unsortable" | Occupation
+! scope="col" class="unsortable" | Hometown
+! scope="col" class="unsortable" | Links
+|-
+! scope="row" | Alvin Magallanes
+| align="center"|37
+| Nurse
+| [[Bracknell]], [[Berkshire]]
+|<ref>{{cite news |url=http://www.bracknellnews.co.uk/news/13578650.Bracknell_baker_Alvin_shines_on_first_episode_of_the_Great_British_Bake_Off/ |title=Bracknell's Alvin Magallanes wows in first episode of BBC One's Great British Bake Off |work=Bracknell News|date=6 August 2015 }}</ref><ref>{{cite web |url=https://twitter.com/alvinmagallanes |title=Alvin Magallanes }}</ref>
+|-
+! scope="row" | Dorret Conway
+| align="center"|53
+| Accountant
+| [[Penwortham]], [[Lancashire]]
+|<ref>{{cite news |url=http://www.lep.co.uk/what-s-on/tv/lancashire-mum-on-great-british-bake-off-1-7382900 |title=Lancashire mum on Great British Bake Off |date=29 July 2015 |work=Lancashire Evening Post |archive-date=24 August 2015 |access-date=29 July 2015 |archive-url=https://web.archive.org/web/20150824073432/http://www.lep.co.uk/what-s-on/tv/lancashire-mum-on-great-british-bake-off-1-7382900 |url-status=dead }}</ref><ref>{{cite web |url=https://twitter.com/dorret_conway |title=Dorret Conway }}</ref>
+|-
+! scope="row" | Flora Shedden
+| align="center"|19
+| Art Gallery Assistant
+| [[Dunkeld]], [[Perth and Kinross]]
+|<ref>{{cite news |url=http://www.thecourier.co.uk/news/local/perth-kinross/teenager-flora-will-spread-her-love-of-baking-to-uk-audience-in-the-great-british-bake-off-1.892280 |title=Teenager Flora will spread her love of baking to UK audience in The Great British Bake Off|author=Kirsty McIntosh |date= 29 July 2015 |work=The Courier }}</ref><ref>{{cite web |url=https://twitter.com/florashedden |title=Flora Shedden }}</ref>
+|-
+! scope="row" | [[Finalists of The Great British Bake Off (series 1–7)#Ian Cumming|Ian Cumming]]
+| align="center"|41
+| Travel Photographer
+| [[Great Wilbraham]], [[Cambridgeshire]]
+|<ref>{{cite news|url=http://www.cambridge-news.co.uk/Great-British-Bake-2015-Cambridgeshire-dad-Ian/story-27493767-detail/story.html|title=Great British Bake Off 2015: Cambridgeshire dad Ian Cumming hopes his Christmas cake can impress|work=Cambridge News|date=28 July 2015|author=Adam Care|archive-date=28 July 2015|access-date=29 July 2015|archive-url=https://web.archive.org/web/20150728221034/http://www.cambridge-news.co.uk/Great-British-Bake-2015-Cambridgeshire-dad-Ian/story-27493767-detail/story.html|url-status=dead}}</ref><ref>{{cite web |url=https://twitter.com/iancpix |title=Ian Cumming }}</ref>
+|-
+! scope="row" | Marie Campbell
+| align="center"|66
+|Retired
+| [[Auchterarder]], [[Perthshire]]
+|{{citation needed|date=April 2020}}
+|-
+! scope="row" | Mat Riley
+| align="center"|37
+| Firefighter
+| [[London]]
+|<ref>{{cite web |url=https://twitter.com/matrileybakes |title=Mat Riley Bakes }}</ref>
+|-
+! scope="row" | [[Nadiya Hussain]]
+| align="center"|30
+| Full-time Mother
+| [[Leeds]] / [[Luton]]
+|<ref>{{cite web |url=https://twitter.com/BegumNadiya |title =BegumNadiya }}</ref>
+|-
+! scope="row" | Paul Jagger
+| align="center"|49
+| Prison Governor
+| [[Swansea]], [[Wales]]
+|<ref>{{cite news |url=http://www.southwales-eveningpost.co.uk/Meet-Swansea-prison-governor-battling-Great/story-27551153-detail/story.html |title=Meet the Swansea prison governor battling it out in Great British Bake Off |date=5 August 2015 |work=South Wales Evening Post }}</ref><ref>{{cite web |url=https://twitter.com/pauljagger31 |title=Paul Jagger }}</ref>
+|-
+! scope="row" | Sandy Docherty
+| align="center"|49
+| Child Welfare Officer
+| [[Yeadon, West Yorkshire]]
+|<ref>{{cite news |url=http://www.thetelegraphandargus.co.uk/news/13524897.Sandy_puts_her_skills_to_the_test_on_the_Great_British_Bake_Off/ |title=Sandy puts her skills to the test on the Great British Bake Of |work=Bradford Telegraph and Argus|author=Andrew Robinson |date=2 August 2015}}</ref><ref>{{cite web |url=https://twitter.com/SANDYDbakes |title=Sandy Docherty }}</ref>
+|-
+! scope="row" | Stu Henshall
+| align="center"|35
+| Professional Musician
+| [[Guildford]], [[Surrey]]
+|<ref>{{cite web |url=http://www.thealternativekitchen.net/ |title=The Alternative Kitchen |author=Stu Henshall }}{{Dead link|date=February 2026 |bot=InternetArchiveBot }}</ref><ref>{{cite news |url=http://www.surreymirror.co.uk/Surrey-Musician-competes-Great-British-Bake-2015/story-27499327-detail/story.html |title=Surrey musician competes in The Great British Bake Off 2015 |work=Surrey Mirror |date=28 July 2015 |archive-date=22 August 2015 |access-date=29 July 2015 |archive-url=https://web.archive.org/web/20150822035630/http://www.surreymirror.co.uk/Surrey-Musician-competes-Great-British-Bake-2015/story-27499327-detail/story.html |url-status=dead }}</ref><ref>{{cite web |url=https://twitter.com/stu_henshall |title=Stu Henshall }}</ref>
+|-
+! scope="row" | [[Tamal Ray]]
+| align="center"|29
+| Trainee Anaesthetist
+| [[Manchester]]
+|<ref>{{cite web |url=https://twitter.com/DrRayBakes |title=DrRayBakes }}</ref>
+|-
+! scope="row" | Ugnė Bubnaityte
+| align="center"|32
+| PA and Administrator
+| [[Woodford, London]] / [[Vilkaviškis]], [[Lithuania]]
+| <ref>{{cite web |url=http://ugnebakes.com/ |title=Ugne Bakes }}</ref><ref>{{cite news|url=http://www.eppingforestguardian.co.uk/leisure/latest/13613935.We_chat_to_Woodford_s_Ugne_Bubnaityte_about_competing_in_The_Great_British_Bake_Off/ |title= We chat to Woodford's Ugne Bubnaityte about competing in The Great British Bake Off |author=Laura Enfield |date= 19 August 2015 |work=Epping Forest Guardian }}</ref><ref>{{cite web |url=https://twitter.com/Ugne_Bakes |title=Ugnė Bubnaityte }}</ref><ref>{{cite news |date=26 November 2019 |title=BBC kulinarinėje laidoje išgarsėjusi kūno rengybos profesionalė Ugnė Bubnaitytė: "Mano veidas buvo visur" |url=https://zmones.15min.lt/naujiena/bbc-kulinarineje-laidoje-isgarsejusi-kuno-rengybos-profesionale-ugne-bubnaityte-mano-veidas-buvo-visur-yk51ynme5AK |accessdate=6 March 2020 |work=Žmonės.lt |language=lt}}</ref>
+|}
+
+== Results summary ==
+
+{| class="wikitable" style="text-align:center"
+|+ Elimination chart
+! scope="col"|Baker
+! scope="col"|1
+! scope="col"|2
+! scope="col"|3
+! scope="col"|4
+! scope="col"|5
+! scope="col"|6
+! scope="col"|7
+! scope="col"|8
+! scope="col"|9
+! scope="col"|10  
+|-
+! scope="row"|Nadiya
+| style="background:Cornflowerblue;"| {{color|white|HIGH}} || SAFE || SAFE ||style="background:Cornflowerblue;"| {{color|white|HIGH}} || style="background:LemonChiffon;"|SB || style="background:Plum;"| LOW || style="background:Cornflowerblue;"| {{color|white|HIGH}} || style="background:LemonChiffon;"|SB || style="background:LemonChiffon;"|SB || style="background:Yellow;"|WINNER
+|-
+! scope="row"|Ian
+| SAFE || style="background:LemonChiffon;"|SB || style="background:LemonChiffon;"|SB ||  style="background:LemonChiffon;"|SB || SAFE || SAFE || style="background:Cornflowerblue;"| {{color|white|HIGH}} || SAFE || style="background:Plum;"| LOW || style="background:LimeGreen;"|Runner-up
+|-
+! scope="row"|Tamal
+| style="background:Cornflowerblue;"| {{color|white|HIGH}} || SAFE || SAFE || style="background:Cornflowerblue;"| {{color|white|HIGH}} || SAFE || SAFE || style="background:LemonChiffon;"|SB || style="background:Cornflowerblue;"| {{color|white|HIGH}} || style="background:Cornflowerblue;"| {{color|white|HIGH}} ||style="background:LimeGreen;"|Runner-up
+|-
+! scope="row"|Flora
+| style="background:Cornflowerblue;"| {{color|white|HIGH}} || SAFE || SAFE || SAFE || style="background:plum;"| LOW || style="background:CornflowerBlue;"| {{color|white|HIGH}} || SAFE || style="background:plum;"| LOW || style="background:orangered;"|OUT  || style="background:darkgrey;"|        
+|-
+! scope="row"|Paul
+| SAFE || style="background:Plum;"| LOW || style="background:Cornflowerblue;"| {{color|white|HIGH}} || style="background:Plum;"| LOW || style="background:Cornflowerblue;"| {{color|white|HIGH}} || SAFE || style="background:Plum;" | LOW ||style="background:orangered;"|OUT ||colspan="2" style="background:darkgrey;"|   
+|-
+! scope="row"|Mat
+| SAFE || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:Plum;"| LOW || SAFE || SAFE || style="background:LemonChiffon;"|SB  || style="background:orangered;"|OUT || colspan="3" style="background:darkgrey;"| 
+|-
+! scope="row"|Alvin
+| SAFE || SAFE || style="background:Cornflowerblue;"| {{color|white|HIGH}} || style="background:Plum;"| LOW || SAFE || style="background:orangered;"|OUT || colspan="4" style="background:darkgrey;"|
+|-
+! scope="row"|Ugnė
+| style="background:Plum;"| LOW || SAFE || SAFE || SAFE || style="background:orangered;"|OUT || colspan="5" style="background:darkgrey;"|
+|-
+! scope="row"|Sandy
+| SAFE|| style="background:Cornflowerblue;"| {{color|white|HIGH}} || SAFE || style="background:orangered;"|OUT || colspan="6" style="background:darkgrey;"|
+|-
+! scope="row"|Dorret
+| style="background:Plum;"| LOW || style="background:Plum;"| LOW || style="background:orangered;"|OUT || colspan="7" style="background:darkgrey;"|
+|-
+! scope="row"|Marie
+| style="background:LemonChiffon;"|SB || style="background:orangered;"|OUT || colspan="8" style="background:darkgrey;"|
+|-
+! scope="row"|Stu
+| style="background:orangered;"|OUT || colspan="9" style="background:darkgrey;"|
+|}
+
+'''Colour key:'''
+
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|CornflowerBlue|outline=darkgray|Baker was one of the judges' favourite bakers that week, but was not the Star Baker.}}
+{{legend|<!--default colour-->|outline=darkgray|Baker got through to the next round.}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated.}}
+{{legend|LemonChiffon|outline=darkgray|Baker was the Star Baker.}}
+{{legend|LimeGreen|outline=darkgray|Baker was a series runner-up.}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner.}}
+
+== Episodes ==
+'''Colour key:'''
+{{legend|#FFC7C7|Baker was eliminated at conclusion of episode}}
+{{legend|#BFD|Baker was named "Star Baker" at conclusion of episode}}
+{{legend|#DFF|Baker was named runner-up for the series}}
+{{legend|gold|Baker won series}}
+
+=== Episode 1: Cakes ===
+For the first signature challenge, the bakers were given 2 hours to make a [[Madeira cake|Madeira Cake]], which was chosen as an "easy" challenge for the bakers. The cake should have a dome and a crack on top, though Mary stated the cake should not differ too far from the original. For the technical challenge, the bakers had 1 hour and 45 minutes to make Mary Berry's recipe for a Walnut Cake, which should have three layers, a meringue coating, and [[Caramelization|caramelised]] [[walnut]]s. For the showstopper, challenge the bakers had {{frac|3|1|2}} hours to make a [[Black Forest gâteau|Black Forest Gâteau]]. The bakers were tasked with making a cake that should be extravagant and should "impress" Mary and Paul.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[Madeira cake|Madeira Cake]])</small>
+! scope="col"|Technical<br><small>(Walnut Cake)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Black Forest gâteau|Black Forest Gâteau]])</small>
+! scope="col"|Result
+|-
+! scope="row"| Alvin
+| Orange Vanilla and Fig Madeira Cake || 2nd || Black Forest Gateau || {{Safe}}
+|-
+! scope="row"| Dorret
+| Madeira Cake with Candied Lemons || 5th || Enchanted Forest Gateau || {{Safe}}
+|-
+! scope="row"| Flora
+| Blood Orange Madeira Cake || 6th || Black Forest Gateau || {{Safe}}
+|-
+! scope="row"| Ian
+| Somewhere West of Madeira Cake || 8th || Black Forest Cherry Tree || {{Safe}}
+|-
+! scope="row"| Marie
+| Zingy Citrus Madeira Cake || 3rd || A Walk in the Black Forest || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Mat
+| Gin and Tonic Madeira Cake || 7th || Black Forest Gateau || {{Safe}}
+|-
+! scope="row"| Nadiya
+| Orange and [[Green cardamom|Green Cardamom]] Madeira Cake || 12th || Quadruple Chocolate Black Forest Gateau || {{Safe}}
+|-
+! scope="row"| Paul
+| Lemon, Ginger and [[caraway seed|Caraway Seed]] Madeira Cake || 10th || Black Forest Chocolate Creation || {{Safe}}
+|-
+! scope="row"| Sandy
+| Madeira Cake with Almond Liqueur and Chopped Apricots || 9th || Black Forest Gateau || {{Safe}}
+|-
+! scope="row"| Stu
+| Marley Madeira Cake || align="center"|11th  || Purple Forest Gateau || {{Eliminated}}
+|-
+! scope="row"| Tamal
+| Pistachio and Rose Madeira Cake || 4th || Black Forest Gateau in a Chocolate Shell || {{Safe}}
+|-
+! scope="row"| Ugnė
+| Lemon and Thyme Madeira Cake || 1st || Falling Cup Gateau || {{Safe}}
+|}
+
+=== Episode 2: Biscuits ===
+For the signature challenge, the bakers were given 2 hours to bake 24 identical [[biscotti]] of any shape, flavour or size. In the technical challenge, they were required to make 8 [[Palmier|arlettes]], which are high-end light delicate cinnamon-flavoured biscuits, in {{frac|2|1|2}} hours. For the show stopper, they were set the challenge of making 36 biscuits to be presented in a biscuit box made of a different kind of biscuit mix. They were given 4 hours in this challenge.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(24 [[Biscotti]])</small>
+! scope="col"|Technical<br><small>(8 [[Palmier|Arlette]]s)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(36 Biscuits and an Edible Biscuit Box)</small>
+! scope="col"|Result
+|-
+! scope="row"| Alvin
+| [[Jackfruit]], [[Pistachio]] and [[Macadamia]] Biscotti || 6th || [[Gingerbread]] Box filled with [[Brandy snaps|Brandy Snaps]] || {{Safe}}
+|-
+! scope="row"| Dorret
+| [[Almond]] and [[Apricot]] Biscotti with [[Rock candy|Amber Sugar Crystals]] || 1st || Box of Frogs || {{Safe}}
+|-
+! scope="row"| Flora
+| Wedding Biscotti || 2nd || [[Honey]] and [[Earl Grey tea|Earl Grey]] Tea Box || {{Safe}}
+|-
+! scope="row"| Ian
+| Orange, [[Rosemary]] and Almond Biscotti  || 3rd || Sandwich de la [[Confiture]] || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Marie
+| Biscotti Italiano || 11th || Russian Box || {{Eliminated}}
+|-
+! scope="row"| Mat
+| Pistachio, [[Cranberry]] and White Chocolate Biscotti  || 5th || Gingerbread [[fire engine|Fire Engine]] || {{Safe}}
+|-
+! scope="row"| Nadiya
+| Coconut, [[Fennel]] and Pistachio Biscotti || 9th || Box of Fortunes || {{Safe}}
+|-
+! scope="row"| Paul
+| Chocolate, [[Hazelnut]] and [[Common fig|Fig]] Biscotti || 10th || Memory Box || {{Safe}}
+|-
+! scope="row"| Sandy
+| Chocolate Chunk and Hazelnut Biscotti  || 4th || [[Sun-dried tomato|Sundried Tomato]] Cheese Biscuit Box || {{Safe}}
+|-
+! scope="row"| Tamal
+| [[Cinnamon]], [[Maple]] and [[Cranberry]] Biscotti || 8th || Chessboard Box || {{Safe}}
+|-
+! scope="row"| Ugnė
+| [[White wine|White Wine]] Biscotti || 7th || Baby Climbing into the Cookie Box || {{Safe}}
+|}
+
+=== Episode 3: Bread ===
+In their signature challenge, the bakers were given {{frac|1|1|2}} hour to make 2 [[quick bread|quick breads]] to be made free-form (i.e. not in a tin). For the technical challenge, Paul set the bakers the challenge of baking 4 identical crusty [[baguette]]s in {{frac|2|1|2}} hours. For the showstopper challenge, the bakers needed to make a 3D bread sculpture in 5 hours, using three types of dough, and one of them should be filled.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(2 [[quick bread|Quick Bread]]s)</small>
+! scope="col"|Technical<br><small>(4 [[Baguette]]s)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(3D Bread Sculpture)</small>
+! scope="col"|Result
+|-
+! scope="row"| Alvin
+| Prosciutto, [[Manchego]] and Balsamic Onion Soda Breads || 4th || [[Cornucopia]] || {{Safe}}
+|-
+! scope="row"| Dorret
+| Walnut and Stilton Soda Breads || 6th || Unmade Bread || {{Eliminated}}
+|-
+! scope="row"| Flora
+| Fig and Hazelnut Rye Breads || 2nd || Herb Couture || {{Safe}}
+|-
+! scope="row"| Ian
+| Wild Garlic Pesto Soda Breads || 1st || Flour Power || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Mat
+| Jalapeño, Mexican Cheddar and Smoked Salt Soda Breads || 8th || Curry Inspired [[Brighton Pavilion]] || {{Safe}}
+|-
+! scope="row"| Nadiya
+| Mexican Bread with Warm Tomato Salsa || 9th || Snake Charmer's Basket || {{Safe}}
+|-
+! scope="row"| Paul
+| Cranberry and Orange Sweet Soda Breads|| 10th || King of the Jungle{{efn|Received the first ever special commendation for his showstopper<ref>{{cite news |url=http://www.radiotimes.com/news/2015-08-20/pauls-bread-lion-and-the-best-bake-off-showstoppers |title=Paul's bread lion and the best Bake Off showstoppers |author=Emma Daly|date= 20 August 2015 |work=Radio Times |archive-url=https://web.archive.org/web/20180211202531/http://www.radiotimes.com/news/2015-08-20/pauls-bread-lion-and-the-best-bake-off-showstoppers/ |archive-date=February 11, 2018}}</ref>}} || {{Safe}}
+|-
+! scope="row"| Sandy
+| Soda Breads with Smoked Bacon and Onion || 7th || Basket of Bread Flowers with a Walnut and Blue Cheese Centre || {{Safe}}
+|-
+! scope="row"| Tamal
+| Fig, Cheese and Walnut Breads || 3rd || Breadcycle || {{Safe}}
+|-
+! scope="row"| Ugnė
+| Chocolate Quick Breads with Salted Caramel Sauce || 5th || Easter Basket || {{Safe}}
+|}
+{{notelist}}
+
+=== Episode 4: Desserts ===
+For the signature challenge, the bakers had 2 hours to make 12 [[crème brûlée]]s. The brief specified that the custard must be set and that the bakers were not allowed to use a blowtorch to caramelize the top. For the technical challenge, the bakers had 4 hours to make a [[Spanische Windtorte]]. This dessert had two types of [[meringue]], Swiss and French, designed into a circular box and filled with cream and fruit. Three tiers of sweet cheesecakes were set as the showstopper. The structure must be self-standing, have unique flavors and be completed in {{frac|4|1|2}} hours.
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(12 [[crème brûlée|Crème Brûlée]]s)</small>
+! scope="col"|Technical<br><small>([[Spanische Windtorte]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Three-Tiered [[Cheesecake]])</small>
+! scope="col"|Result
+|-
+! scope="row"| Alvin
+| Blackberry Crème Brûlées || 9th || Tower of Fruits Cheesecakes || {{Safe}}
+|-
+! scope="row"| Flora
+| Rhubarb and Ginger Crème Brûlées || 3rd || [[Sambucus nigra|Elderflower]] and [[Granola]] Cheesecakes || {{Safe}}
+|-
+! scope="row"| Ian
+| Pomegranate Two Ways Crème Brûlées || 4th || Trio of Spicy and {{sic|Herby|hide=y}} Baked Cheesecakes || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Mat
+| Coconut Crème Brûlées || 7th || Chocolate Bar Cheesecakes || {{Safe}}
+|-
+! scope="row"| Nadiya
+| Cinnamon Tea Crème Brûlées || 8th || [[Soft drink|Fizzy Pop]] Cheesecakes || {{Safe}}
+|-
+! scope="row"| Paul
+| Almond Crème Brûlées || 1st || Berry Cheesecake Tower || {{Safe}}
+|-
+! scope="row"| Sandy
+| [[Pontefract cake|Pontefract]] Crème Brûlées || 6th || [[Cassata]], Whisky and Orange & Apple Pie Cheesecakes || {{Eliminated}}
+|-
+! scope="row"| Tamal
+| Rhubarb and Ginger Crème Brûlées || 5th || Mango, Hazelnut and Rosemary Cheesecake Trio || {{Safe}}
+|-
+! scope="row"| Ugnė
+| [[Sclerocarya birrea|Marula]] Fruit and Coffee Liqueur Crème Brûlées || 2nd || Lime, Coconut and Hazelnut Cheesecakes || {{Safe}}
+|}
+
+=== Episode 5: Alternative Ingredients ===
+This episode has a theme of using alternatives for ingredients usually used in baking. For the signature bake, the bakers were given the challenge of baking a cake, but without using sugar. They were given {{frac|2|1|2}} hour for the bake. For the technical bake, the challenge was to make 12 identical [[gluten-free]] [[pita bread]]s in 2 hours. In the showstopper, the bakers needed to make an [[Arctic roll|ice-cream roll]] using dairy-free ice-cream. They were given {{frac|4|1|2}} hours for the bake.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(Sugar-Free Cake)</small>
+! scope="col"|Technical<br><small>(12 Gluten-Free [[pita bread|Pita Bread]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Dairy-Free [[Arctic roll|Ice-Cream Roll]])</small>
+! scope="col"|Result
+|-
+! scope="row"| Alvin
+| Pineapple [[upside-down cake|Upside Down Cake]] || 8th || [[Buko pandan|Buko Pandan]], Mango and [[passion fruit|Passion Fruit]] Ice Cream Roll || {{Safe}}
+|-
+! scope="row"| Flora
+| Pistachio, Apple and Cardamom [[Madeleine (cake)|Madeleine Cake]] || 3rd || Chocolate and Pear [[Yule log (cake)|Bûche]] || {{Safe}}
+|-
+! scope="row"| Ian
+| Honey and Flowers Cake || 5th || Dessert Island || {{Safe}}
+|-
+! scope="row"| Mat
+| Sugar Free [[carrot cake|Carrot Cake]] || 4th || Raspberry & Coconut Ice Cream Roll || {{Safe}}
+|-
+! scope="row"| Nadiya
+| Naked Blueberry and Caraway Crunch Cake || 1st || Chocolate and Strawberry Lime Ice Cream Roll || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Paul
+| Carrot & [[Pecan]] Cake || 2nd || {{sic|Dessert|hide=y}} Island Getaway || {{Safe}}
+|-
+! scope="row"| Tamal
+| Honey and Grapefruit [[Polenta]] Cake || 7th || [[Passion fruit|Passion Fruit]] and Pineapple Ice Cream Roll || {{Safe}}
+|-
+! scope="row"| Ugnė
+| Chocolate and [[Hazelnut]] Sugar-Free Cake || 6th || Chocolate, [[peanut butter|Peanut Butter]] and Grape Jam Roll || {{Eliminated}}
+|}
+
+=== Episode 6: Pastry ===
+For this week's signature challenge, the bakers had to make a [[Frangipane]] tart in 2 hours with the brief being that it must be open-topped and must be [[shortcrust pastry]]. In the technical, the bakers had to make 12 [[Flaouna|Flaounes]], a cheese filled pastry made in Cyprus. They had 2 hours. [[Vol-au-vent]]s were set as the Showstopper – the bakers had to make 2 types, all using their own [[puff pastry]] – in 3 hours and 45 minutes.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[Frangipane]] Tart)</small>
+! scope="col"|Technical<br><small>(12 [[Flaouna|Flaounes]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(48 [[Vol-au-vent]]s)</small>
+! scope="col"|Result
+|-
+! scope="row"| Alvin
+| Plum Frangipane Tart  || 6th || Smoked Salmon En Croûte and [[Vermouth]] Chicken à la King vol-au-vents || {{Eliminated}}
+|-
+! scope="row"| Flora
+| Apricot and Rosemary Frangipane Tart  || 2nd || Asparagus and Parma Ham and Praline and Chocolate vol-au-vents || {{Safe}}
+|-
+! scope="row"| Ian
+| Pear and Raspberry Frangipane Tart  || 3rd || vol-au-vents Terre et Mer || {{Safe}}
+|-
+! scope="row"| Mat
+| Piña Colada Frangipane Tart  || 1st || His 'n' Hers vol-au-vents || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Nadiya
+| [[Bay leaf|Bay Leaf]], [[Seven-color tea|Rong Tea]] and Pear Tart || 4th || Bengali [[Korma]] and [[Clementine]] with Cod vol-au-vents || {{Safe}}
+|-
+! scope="row"|Paul
+| Christmas Frangipane Tart || 5th || Savoury and Sweet Bouchées || {{Safe}}
+|-
+! scope="row"| Tamal
+| Spiced Pear Frangipane Tart  || 7th || Fennel and Rosemary Pulled Pork and Chicken and Coriander vol-au-vents || {{Safe}}
+|}
+
+=== Episode 7: Victorian ===
+For the first challenge, the bakers had 3 hours to make a raised game pie. The pie must have thin [[hot water crust pastry]] and must be very ornate, as most game pies from the era were. For the technical challenge, a tennis fruit cake was set for the bakers. The bakers were given 3 hours to make a [[fruit cake]], with [[royal icing]], [[sugar paste]], and [[gelatine]]. A [[Charlotte Russe]] was set as the showstopper. To be done in {{frac|5|1|2}} hours, the bake usually has [[Ladyfinger (biscuit)|ladyfingers]] around jelly and a sponge – with flavour and decoration being key.
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(Raised Game Pie)</small>
+! scope="col"|Technical<br><small>(Tennis Cake)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Charlotte (cake)|Charlotte Russe]])</small>
+! scope="col"|Result
+|-
+! scope="row"| Flora
+| Game Pie with Shallot and Apple Chutney || 4th || Raspberry, Pomegranate and Champagne Charlotte Russe || {{Safe}}
+|-
+! scope="row"| Ian
+| Roadkill Pie || 5th || Victoria's Crown Charlotte Russe || {{Safe}}
+|-
+! scope="row"| Mat
+| Raised [[Venison]] and Pigeon Pie || 6th || Strawberry Charlotte Russe || {{Eliminated}}
+|-
+! scope="row"| Nadiya
+| Aromatic Raised Game Pie || 1st || Mango and Raspberry Charlotte Russe || {{Safe}}
+|-
+! scope="row"| Paul
+| Not a Boaring Pie || 2nd || Charlotte Rose || {{Safe}}
+|-
+! scope="row"| Tamal
+| Middle Eastern Game Pie || 3rd || Spiced Blackberry, Raspberry and Cardamom Charlotte Russe || {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 8: Pâtisserie (Quarterfinals) ===
+In the first quarter-final challenge, the bakers had to make 24 cream horns, 12 of each flavour, using either puff, rough puff or flaky pastry, in {{frac|3|1|2}} hours. Mary Berry's recipe for 9 mokatines was set as the technical challenge. They are small, delicate [[Genoise|genoise sponges]] filled with a coffee [[buttercream]] that are meant to be attractive, as if "in a [[pâtisserie]] window", and only had 2 hours. [[Religieuse]] à l'ancienne were set as the showstopper challenge. They are large éclairs, stood upright with no dowelling, and decorated with buttercream. They were given 4 hours. Although the towers were left to stand for two hours after the challenge as traditional religieuse would have been left for such time, some of the towers began to collapse or lean upon being presented to Mary and Paul.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(24 [[Cream horn|Cream Horn]]s)</small>
+! scope="col"|Technical<br><small>(9 Mokatines)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Religieuse]] à l'ancienne)</small>
+! scope="col"|Result
+|-
+! scope="row"| Flora
+| Peach & Lemon Thyme and Smoked Almond & Butterscotch Cream Horns || 3rd || Lime & Basil and Coconut & White Chocolate Religieuse à l'ancienne || {{Safe}}
+|-
+! scope="row"| Ian
+| Mont Blanc & Black Forest Gâteau Horns || 2nd|| Nun with Hidden Passions || {{Safe}}
+|-
+! scope="row"| Nadiya
+| Rose Pistachio and Mocha Hazelnut Horns || 1st || Bubble Gum and Peppermint Cream Religieuse à l'ancienne || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Paul
+| Café Tipple & Banana Crunch-away Horns || 5th || Religieuse à l'ancienne || {{Eliminated}}
+|-
+! scope="row"| Tamal
+| Lime & Mascarpone and [[Malt]] Cream Horns || 4th || Passionfruit & Mango and Pistachio & Raspberry Religieuse à l'ancienne || {{Safe}}
+|}
+
+=== Episode 9: Chocolate (Semifinals) ===
+For their signature challenge, the bakers had {{frac|2|1|2}} hours to make a chocolate tart. The tart had to be ornate, intricate, and full of flavour. For the technical challenge, the bakers faced a staggered start, and were each given 1 hour and 15 minutes to make a chocolate [[soufflé]] – with Flora starting first, followed by Ian, Nadiya, and Tamal. A chocolate centrepiece was set as the showstopper. In 4 hours, the bakers had to create an ornate centrepiece using white chocolate in some form and including a biscuit element, the centrepiece having to be free-standing and attractive.
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(Chocolate Tart)</small>
+! scope="col"|Technical<br><small>(Chocolate [[Soufflé]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Chocolate Centrepieces)</small>
+! scope="col"|Result
+|-
+! scope="row"| Flora
+| Passion Fruit and Chocolate Tart || 1st || Cocoa Carousel || {{Eliminated}}{{efn|Flora's elimination meant that she was the first baker to have finished first in the technical challenge and be eliminated the same week{{cn|date=January 2025}}}}
+|-
+! scope="row"| Ian
+| Chocolate and Bay Tart || 3rd || Chocolate Well || {{Safe}}
+|-
+! scope="row"| Nadiya
+| Peanut Salted Caramel and Chocolate Tart || 4th || Peacock in Nan's Door || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Tamal
+| Chocolate New York Pie || 2nd || Chocolate Bell Tower || {{Safe}}
+|}
+{{notelist}}
+
+=== Episode 10: Final ===
+In the final signature challenge, the bakers had to make 16 [[iced bun]]s, of which there must be 2 kinds, in 3 hours. In the technical challenge, the judges decided to use one of Paul Hollywood's recipes; the bakers had to bake 6 raspberry-flavoured [[mille-feuille]] with [[fondant icing]] in 2 hours. The recipe involved [[Puff pastry#Variants and distinctions|pastry]] – something all of the bakers had struggled with in Week Six. In the final showstopper, the bakers were given 4 hours to make a classic British cake in a minimum three-layered presentation.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(16 [[iced bun|Iced Bun]]s)</small>
+! scope="col"|Technical<br><small>(6 [[Mille-feuille|Mille-Feuille]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Classic British Cake)</small>
+! scope="col"|Result
+|-
+! scope="row"| Ian
+| Elderflower and Lemon & Spiced Buns|| 2nd || Colossal Curvy Carrot Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"| Nadiya
+| Cardamom and Almond Buns & Nutmeg and [[Sour cherry|Sour Cherry]] Fingers || 1st || My Big Fat British Wedding Cake || {{sort|1|}}{{Won|color=gold|Winner}}
+|-
+! scope="row"| Tamal
+| Cinnamon and Apple & Toffee and [[Marmalade]] Iced Buns || 3rd || [[Sticky toffee pudding|Sticky Toffee Pudding Cake]] || {{sort|2.5|}}{{Runner-up}}
+|}
+
+=== Masterclasses ===
+Mary and Paul show how to bake some of their favourite recipes and technical challenges.
+
+==== Episode 1 ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2
+! scope="col"|Bake 3
+|-
+! scope="row"| Mary
+| Madeira Cake|| Walnut Cake || Black Forest Gâteau
+|-
+! scope="row"| Paul
+| Hazelnut and Orange Biscotti || Arlettes || {{n/a}}
+|}
+
+==== Episode 2 ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2
+! scope="col"|Bake 3
+|-
+! scope="row"| Mary
+| Cappuccino Crème Brûlée || Spanische Windtorte || White Chocolate and Raspberry Cheesecake
+|-
+! scope="row"| Paul
+| Soda Bread || Baguettes|| {{n/a}}
+|}
+
+==== Episode 3 ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2
+! scope="col"|Bake 3
+|-
+! scope="row"| Mary
+| Sugar Free Carrot Cake || Apricot Frangipane Tart || {{n/a}}
+|-
+! scope="row"| Paul
+| Flaounes || Raised Game Pie || Lime and Passionfruit Charlotte Russe
+|}
+
+==== Episode 4 ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2 
+|-
+! scope="row"| Mary
+| Tennis Cake ||  Mokatines 
+|-
+! scope="row"| Paul
+| Cream Horns || Religieuse a l'Ancienne 
+|}
+
+==== Christmas special ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2
+! scope="col"|Bake 3
+|-
+! scope="row"| Mary
+| Christmas [[Pavlova (food)|Pavlova]]||  Christmas [[Trifle]] || Rosace à l’Orange
+|-
+! scope="row"| Paul
+| Christmas [[Chelsea bun|Chelsea Buns]] || Turkey and Ham Pie || [[Pandoro]]
+|}
+
+==Controversies==
+===Betting===
+As the show was pre-recorded, the winner of the show would have been known by those involved in the show. Bookmaker [[Ladbrokes]] halted betting on the show after "a run of bets" was placed for one contestant, many at shops in the [[Ipswich]] area.<ref>[https://www.bbc.co.uk/news/uk-england-suffolk-33801090 Great British Bake Off bets halted by Ladbrokes – BBC News<!-- Bot generated title -->]</ref>
+
+It was also claimed that dozens of employees of BBC as well as the production company, Love Productions, had opened gambling accounts to place bets on the eventual winner.<ref>{{cite news |url=https://www.telegraph.co.uk/news/bbc/11913626/Great-British-Bake-Off-rocked-by-10000-betting-scandal-allegations.html |title=Great British Bake Off rocked by £10,000 betting scandal allegations|author= Camilla Turner|date=6 Oct 2015 |work=Daily Telegraph }}</ref>
+
+===Spoilers===
+In a [[BBC Radio 2]] broadcast, judge Mary Berry accidentally revealed the eliminated contestant prior to the airing of episode three.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/2015/aug/19/mary-berry-blurts-name-next-great-british-bake-off-contestant-get-chop|title=Dough! Mary Berry blurts out name of next Bake Off contestant to get chop|last=Gayle|first=Damien|date=19 August 2015|work=[[The Guardian]]|accessdate=7 September 2015}}</ref>
+
+===Contestants===
+Contestant Marie Campbell, who was the first Star Baker of the series, was criticised for being "semi-professional", after it emerged that she had been trained in Ecole Escoffier at the [[Hôtel Ritz Paris|Ritz]] in Paris where she specialised in patisserie. A statement from the BBC said: "There are strict criteria to take part in the show and Marie met those criteria. She gained a certificate for one week’s training in Paris in 1984, more than 10 years ago. She has not worked professionally as a baker or chef."<ref>{{cite news |url=https://www.telegraph.co.uk/news/11792712/Great-British-Bake-Off-favourite-has-professional-training.html |title=Great British Bake Off favourite 'has professional training' |author=Elizabeth Roberts |date=9 Aug 2015 }}</ref><ref>{{cite news |url=http://www.ok.co.uk/tv/great-british-bake-off-2015-controversy-star-baker-marie-campbell |title=Great British Bake Off hit by controversy as Marie Campbell has had 'professional training' |author=Deepika Rajani |date=9 Aug 2015 |work=OK |archive-date=13 August 2015 |access-date=9 August 2015 |archive-url=https://web.archive.org/web/20150813000346/http://www.ok.co.uk/tv/great-british-bake-off-2015-controversy-star-baker-marie-campbell |url-status=dead }}</ref>
+
+==Post-show career==
+
+Nadiya Hussain regularly appears on ''[[The One Show]]'' on BBC1. Her own cookery show, [[The Chronicles of Nadiya]] started on 24 August 2016 on [[BBC One]]. Hussain writes a weekly column for ''The Times Magazine'', a part of the Saturday supplement of ''[[The Times]]'',<ref name=Times-Next-2015>{{cite news|url=https://www.thetimes.com/life-style/property-home/article/what-nadiya-did-next-mpvpnhv337d|author=Louise Carpenter|title=What Nadiya did next|date=15 November 2015|newspaper=[[The Times]]|access-date=15 November 2015}}</ref><ref name=Metro-Column-2015>{{cite web|last1=Waring|first1=Olivia|url=http://metro.co.uk/2015/11/13/great-british-bake-off-champ-nadiya-jamir-hussain-lands-her-berry-own-column-5499328/|title=Great British Bake Off champ Nadiya Jamir Hussain lands her Berry own column|date=13 November 2015|work=[[Metro (British newspaper)|Metro]]|accessdate=13 November 2015}}</ref><ref name=HuffPo-GBBO-2015>{{cite web|last1=Welsh|first1=Daniel|url=http://www.huffingtonpost.co.uk/2015/11/13/great-british-bake-off-winner-nadiya-the-times-magazine-column_n_8553460.html|title='Great British Bake Off' Winner Nadiya Hussain Lands Weekly Cookery Role in the Times Magazine|date=13 November 2015|work=[[Huffington Post]]|accessdate=13 November 2015}}</ref> as well as a monthly column in ''[[Essentials (magazine)|Essentials]]'' magazine.<ref name=essentialsnadiya-2015>{{cite web|url=http://www.goodtoknow.co.uk/recipes/545010/nadiyabakes |title=#NadiyaBakes |date=28 December 2015|work=Essentials|accessdate=28 December 2015}}</ref> Her recipes have also appeared in BBC's ''[[Good Food]]'' magazine.<ref name=goodfood-2015>{{cite web|author=Hussain, Nadiya|url=http://www.bbcgoodfood.com/recipes/christmas-white-chocolate-traybake |title=Christmas white chocolate traybake |date=December 2015|work=[[Good Food]]|accessdate=20 December 2015}}</ref>
+
+Hussain was signed by UK publisher [[Michael Joseph (publisher)|Michael Joseph]], part of Penguin Random House,<ref name=Bookseller-Nadiya-PublishingDeal>{{cite web|last1=Cowdrey|first1=Katherine|url=http://www.thebookseller.com/news/2015-gbbo-winner-nadiya-publish-michael-joseph-318734|title=GBBO winner Nadiya cuts deal with Michael Joseph|date=17 December 2015|work=[[The Bookseller]]|accessdate=20 December 2015}}</ref> for her debut book ''Nadiya's Kitchen'', which is a collection of the recipes that she cooks for friends and family.<ref name=RadioTimes-Nadiya-book>{{cite web|last1=Godwin|first1=Richard|url=http://www.radiotimes.com/news/2016-06-19/nadiya-hussain-continues-cooking-up-success-post-bake-off|title=Nadiya Hussain continues cooking up success post-Bake Off|date=19 June 2016 |work=[[Radio Times]]|accessdate=19 June 2016}}</ref> Hussain has written a children's book of stories and recipes, ''Bake Me A Story'', due to be published by [[Hodder Children's Books]],<ref name=Bookseller-Nadiya-HodderDeal>{{cite web|last1=Eyre|first1=Charlotte|url=http://www.thebookseller.com/news/gbbos-nadiya-hussain-write-childrens-book-320320|title=GBBO's Nadiya Hussain to write children's book|date=14 January 2016|work=[[The Bookseller]]|accessdate=16 January 2016}}</ref> which blends updated versions of fairytales (poor "Sleepless Beauty" just needs a nice cup of cardamom-infused hot chocolate to break her curse; resourceful Jack wins the giant over with yummy bean patties) with colourful illustrations and child-friendly recipes.<ref name=Telegraph-11Inspiring-2016>{{cite news|last1=Hawkes|first1=Rebecca|title=11 inspiring things that Nadiya Hussain has done since winning the Great British Bake Off|url=https://www.telegraph.co.uk/tv/2016/08/24/11-inspiring-things-that-nadiya-hussain-has-done-since-winning-t/|accessdate=25 August 2016|work=[[The Daily Telegraph|The Telegraph]]|date=24 August 2016}}</ref> She is also writing three contemporary women's fiction novels for [[Harlequin Enterprises|Harlequin]].<ref name=Bookseller-Nadiya-Harlequin>{{cite web|last1=Cowdrey|first1=Katherine|url=http://www.thebookseller.com/news/gbbos-nadiya-hussain-write-womens-fiction-hq-326154|title=GBBO's Nadiya Hussain to write women's fiction for HQ|date=11 April 2016|work=[[The Bookseller]]|accessdate=11 April 2016}}</ref>
+
+Tamal Ray writes a monthly column for ''[[The Guardian]]''.<ref>{{cite news |url=https://www.theguardian.com/lifeandstyle/2016/feb/17/tamal-ray-bake-off-dating-friends-recipes |title=Tamal Ray: 'Everyone expects three-tier eclair towers and immaculate millefeuille' |author=Tamal Ray |work=The Guardian |date=7 February 2016 }}</ref>  He presented a television show on health on Channel 4 titled ''Be Your Own Doctor''.<ref>{{cite news |url=https://www.telegraph.co.uk/tv/2016/10/24/tamal-ray-on-life-after-the-great-british-bake-off-and-his-new-t/ |title=Tamal Ray on life after The Great British Bake Off and his new TV show Be Your Own Doctor |first= Catherine |last=Gee |date=24 October 2016 |work=The Telegraph }}</ref> He also participated in the 2018 rendition of ''The Great New Year's Bake Off''.
+
+Flora Shedden studied for a year at the [[University of Edinburgh]] but deferred on a course on art history at the [[University of St Andrews]] for a year to concentrate on writing a cookbook, ''Gatherings'', published in January 2017.<ref>{{cite news |url= https://www.thecourier.co.uk/fp/lifestyle/entertainment/167599/great-british-bake-off-star-flora-recipe-success/ |title= The Great British Bake Off star Flora has the recipe for success |first= Jack|last= McKeown |date= 6 May 2016|work=The Courier}}</ref><ref>{{cite web |url=http://www.thebookseller.com/news/gbbo-contestant-flora-sheddens-debut-mitchell-beazley-402291 |title=GBBO contestant Flora Shedden's debut snapped up|date=29 September 2016 |first= Katherine |last=Cowdrey|work=The Bookseller }}</ref> She wrote a column on baking for ''[[The Scotsman]]''.<ref>{{cite news |url=http://foodanddrink.scotsman.com/author/flora-shedden/ |title=Flora Snedden |work=The Scotsman }}</ref>
+
+In 2017, Paul Jagger and Sandy Docherty participated in the year's renditions of ''The Great Christmas Bake Off'' and ''The Great New Year's Bake Off'' respectively, with the former also winning the special's star baker.
+
+==Ratings==
+According to the overnight ratings, the opening episode of the series 6 of ''Bake Off'' was watched by 9.3 million viewers, a rise of over 2 million from the previous year.<ref>{{cite news |url=https://www.bbc.co.uk/news/entertainment-arts-33800711 |title=Great British Bake Off opener watched by 9.3m viewers|date=6 August 2015 |work=BBC }}</ref> The final was watched by an overnight audience of 13.4 million viewers peaking at 14.5, the highest overnight total of 2015.<ref>{{cite news |url=https://www.theguardian.com/media/2015/oct/08/the-great-british-bake-off-final-nadiya-jamir-hussain-gbbo|title=The Great British Bake Off final gets biggest TV audience of the year|work=The Guardian |author=Mark Sweney |date= 8 October 2015 }}</ref> The list of ten most-watched television programmes of 2015 was also dominated by ''The Great British Bake Off'', with seven of the year's ten being episodes of The Great British Bake Off.<ref>{{cite news |url=https://www.telegraph.co.uk/news/media/12054696/Great-British-Bake-Off-dominates-list-of-most-watched-shows-of-2015.html |title=Great British Bake Off dominates list of most-watched shows of 2015 |author= Patrick Foster|date= 17 December 2015 |work=The Daily Telegraph }}</ref> During the entire length of the series, no national programme on any of the episodes was higher rated than Bake Off.
+
+Official episode viewing figures are from [[BARB]].<ref>{{cite web|url=http://www.barb.co.uk/whats-new/weekly-top-30?_s=4|title=Weekly Top 30 Programmes|publisher=[[Broadcasters' Audience Research Board]]|accessdate=16 September 2015}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|7 day viewers<br /><small>(millions)</small>
+! scope="col"|28 day viewers<br /><small>(millions)</small>
+! scope="col"|BBC One<br />weekly ranking
+! scope="col"|Weekly ranking<br />all channels<ref>{{cite web|url=http://www.barb.co.uk/whats-new/weekly-top-10?_s=4|title=Weekly Top 10 Programmes|publisher=[[Broadcasters' Audience Research Board]]|accessdate=16 September 2015}}</ref>
+! scope="col"|BBC iPlayer requests
+|-
+! scope="row"| 1
+| {{Start date|2015|08|05|df=y}} || 11.62 || 11.73 || colspan="2" rowspan="10" | 1 || 2,063,000<ref name="downloads.bbc.co.uk">{{Cite web| title=Monthly Performance Pack | date=August 2015 | url=http://downloads.bbc.co.uk/mediacentre/iplayer/iplayer-performance-aug15.pdf | archive-url=https://web.archive.org/web/20170831181911/http://downloads.bbc.co.uk/mediacentre/iplayer/iplayer-performance-aug15.pdf | archive-date=2017-08-31}}</ref>
+|-
+! scope="row"| 2
+| {{Start date|2015|08|12|df=y}} || 11.59 || 11.84 || 1,977,000<ref name="downloads.bbc.co.uk"/>
+|-
+! scope="row"| 3
+| {{Start date|2015|08|19|df=y}} || 12.01 || {{n/a|N/A}} || 1,760,000<ref name="downloads.bbc.co.uk"/>
+|-
+! scope="row"| 4
+| {{Start date|2015|08|26|df=y}} || 12.36 || 12.67 || 1,539,000<ref name="downloads.bbc.co.uk"/>
+|-
+! scope="row"| 5
+| {{Start date|2015|09|02|df=y}} || 12.39 || 12.63 || 1,930,000<ref name="ReferenceA">{{Cite web| title=Monthly Performance Pack | date=October 2015 | url=http://downloads.bbc.co.uk/mediacentre/iplayer/iplayer-performance-oct15.pdf | archive-url=https://web.archive.org/web/20151210211501/http://downloads.bbc.co.uk/mediacentre/iplayer/iplayer-performance-oct15.pdf | archive-date=2015-12-10}}</ref>
+|-
+! scope="row"| 6
+| {{Start date|2015|09|09|df=y}} || 12.00 || 12.26 || 1,869,000<ref name="ReferenceA"/>
+|-
+! scope="row"| 7
+| {{Start date|2015|09|16|df=y}} || 12.35 || 12.58 || 1,841,000<ref name="ReferenceA"/>
+|-
+! scope="row"| 8
+| {{Start date|2015|09|23|df=y}} || 11.09 || 11.35 || 1,748,000<ref name="ReferenceA"/>
+|-
+! scope="row"| 9
+| {{Start date|2015|09|30|df=y}} || 12.65 || 12.78 || 1,370,000<ref name="ReferenceA"/>
+|-
+! scope="row"| 10
+| {{Start date|2015|10|07|df=y}} || 15.05 || 15.16 || 1,619,000<ref name="ReferenceA"/>
+|}
+
+===Specials===
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off'', Class of 2014
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|7 day Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row"|
+| {{Start date|2015|10|4|df=y}} || {{n/a|N/A}} || {{n/a|N/A}}
+|}
+
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off Masterclass''
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|7 day Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row"| 1
+| {{Start date|2015|10|12|df=y}} || 2.55 || 2
+|-
+! scope="row"| 2
+| {{Start date|2015|10|16|df=y}} || 1.74 || 18
+|-
+! scope="row"| 3
+| {{Start date|2015|10|19|df=y}} || 1.83 || 12
+|-
+! scope="row"| 4
+| {{Start date|2015|10|23|df=y}} || 1.41 || 29
+|}
+
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off'', Christmas Masterclass
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|7 day Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row"|
+| {{Start date|2015|12|17|df=y}} || 2.21 || 11
+|}
+
+==References==
+{{Reflist|32em}}
+
+==External links==
+* {{BBC programme}}
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off, The}}
+[[Category:The Great British Bake Off|Series 6]]
+[[Category:2015 British television seasons]]

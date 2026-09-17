@@ -1,0 +1,684 @@
+{{short description|Third series of The Great British Bake Off}}
+{{about|the third series, which aired as the fifth season of the PBS broadcast|the fifth series|The Great British Bake Off series 5}}
+{{Use dmy dates|date=November 2022}}
+{{Use British English|date=August 2019}}
+{{Infobox television season
+| image                = 
+| caption              = 
+| series_number        = 3
+| module1              = {{Infobox reality competition season
+ | presenter       = [[Mel Giedroyc]]<br>[[Sue Perkins]]
+ | judges          = [[Mary Berry]]<br>[[Paul Hollywood]]
+ | num_contestants = 12
+ | winner          = [[John Whaite]]
+ | runner_up       = Brandon Lynch<br>[[James Morton (baker)|James Morton]]
+ | location        = [[Harptree Court]] (East Harptree, Somerset)
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 30
+}}
+| num_episodes         = 10
+| network              = [[BBC Two]]
+| first_aired          = {{start date|2012|8|14|df=y}}
+| last_aired           = {{end date|2012|10|16|df=y}}
+}}
+
+The '''third series''' of ''[[The Great British Bake Off]]'' began airing on Tuesday 14 August 2012.<ref>{{citation |url=https://www.bbc.co.uk/mediacentre/mediapacks/food/ |title=Food on BBC Two |date=26 April 2012}}</ref> The series was filmed at [[Harptree Court]] in [[East Harptree]], Somerset.
+
+Seven thousand applied for the competition and twelve contestants were chosen.<ref>{{cite news |url=http://www.lichfieldpeople.co.uk/Stuart-beats-7-000-hopefuls-join-TV-Bake-dozen/story-16680166-detail/story.html |title= 'Sir' beat 7,000 hopefuls to join baking dozen |work=Lichfield Mercury |date=9 August 2012}}</ref> The competition was won by [[John Whaite]].<ref>{{cite news |title=Great British Bake Off: John Whaite is surprise winner|url= https://www.theguardian.com/tv-and-radio/2012/oct/16/great-british-bake-off-john-whaite|author=Vicky Frost |work=The Guardian |date=16 October 2012}}</ref>
+
+The third series was broadcast as the fifth season on [[PBS]] in the United States.
+
+== Bakers ==
+{| class="wikitable sortable" style="text-align:center;"
+!scope="col"|Contestant
+!scope="col"|Age
+!scope="col"|Hometown
+!scope="col"|Occupation
+!scope="col"|Finish
+!scope="col"|Place
+|-
+! scope="row"|Natasha Stringer
+| 36 
+|[[Tamworth, Staffordshire|Tamworth]], [[England]]
+| [[Midwife]] 
+|Episode 1
+|12th
+|-
+! scope="row"|Peter Maloney
+| 43 
+|[[Windsor, Berkshire|Windsor]], England
+| [[Sales manager]] 
+|Episode 2
+|11th
+|-
+! scope="row"|Victoria Chester
+| 50 
+| [[Somerset]], England
+| CEO of the charity [[Plantlife]]<ref>{{cite web |url=https://www.plantlife.org.uk/ |title=Plantlife |work=Plantlife International}}</ref>
+|Episode 3
+|10th
+|-
+! scope="row"|{{nowrap|Stuart Marston-Smith}}
+| 26 
+| [[Lichfield]], England
+| nowrap|[[Physical education|PE]] teacher <ref>{{cite web |url=http://stuartmarstonsmith.co.uk/ |title=Layered |author=Stuart Marston-Smith |access-date=24 August 2013 |archive-date=18 April 2013 |archive-url=https://web.archive.org/web/20130418220929/http://stuartmarstonsmith.co.uk/ |url-status=dead }}</ref>
+|Episode 4
+|9th
+|-
+! scope="row"|Manisha Parmar
+| 27 
+|[[Leicester]], England
+| [[Nursery nurse]] 
+|Episode 5
+|8th
+|-
+! scope="row"|{{nowrap|Sarah-Jane Willis}}<ref name="sarahandcathryn"/>
+| 28 
+|[[Bewbush]], England
+| Vicar's wife 
+|rowspan="2"|Episode 7
+|rowspan="2"|6th (tie)
+|-
+! scope="row"|Ryan Chong
+| 38 
+| [[Bristol]], England
+| Photographer <ref>{{cite web |url=http://www.bakology.com/index2.php#/home/ |title=Bakology – Home of Baking from Ryan Chong |author=Ryan Chong}}</ref>
+|-
+! scope="row"|Cathryn Dresser
+| 27 
+| nowrap|[[Pease Pottage]], England
+|Shop assistant <ref name="sarahandcathryn">{{cite web |url=http://www.bakewithcat.co.uk/ |title=Bake with Cat}}</ref>
+|Episode 8
+|5th
+|-
+! scope="row"|Danny Bryden
+| 45 
+| [[Sheffield]], England
+| [[Intensive care unit|Intensive care]] consultant <ref>{{cite web |url=http://bakingastherapy.com/ |title=Baking as Therapy |author=Danny Bryden |archiveurl=https://web.archive.org/web/20130516231636/http://bakingastherapy.com/ |archivedate=16 May 2013}}</ref>
+|Episode 9
+|4th
+|-
+! scope="row"|Brendan Lynch
+| 63 
+|[[Sutton Coldfield]], England
+|[[Recruitment consultant]]<ref>{{cite web |url=http://brendanbakes.co.uk/ |title=Brendan |author=Brendan Lynch}}</ref>
+|rowspan="3"|Episode 10
+|rowspan="2"|{{sort|2.5|}}Runner-up
+|-
+! scope="row"|[[James Morton (baker)|James Morton]]
+| 21 
+|[[Hillswick]], [[Scotland]]
+| Medical student <ref>{{cite web |url=http://bakingjames.co.uk/ |title=James Morton – the one that bakes |author=James Morton |access-date=24 August 2013 |archive-date=4 October 2013 |archive-url=https://web.archive.org/web/20131004220516/http://bakingjames.co.uk/ |url-status=dead }}</ref>
+|-
+! scope="row"|[[John Whaite]]
+| 22 
+| [[Wigan]], England
+| Law student <ref>{{cite web |url=http://www.johnwhaite.com/ |title=John Whaite}}</ref>
+|1st
+|}
+
+== Results summary ==
+{| class="wikitable" style="text-align:center"
+|+ Elimination chart
+! scope="col"|Baker
+! scope="col"|1
+! scope="col"|2
+! scope="col"|3
+! scope="col"|4
+! scope="col"|5
+! scope="col"|6{{ref|1}}
+! scope="col"|7
+! scope="col"|8
+! scope="col"|9
+! scope="col"|10
+|-
+! scope="row" align="left"|John
+| SAFE || style="background:LemonChiffon;"|SB || SAFE || SAFE || SAFE || style="background:Plum;"| LOW || style="background:Plum;"| LOW || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:Plum;"| LOW || style="background:Yellow;"|WINNER
+|-
+! scope="row" align="left"|Brendan
+| SAFE || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:Plum;"| LOW || style="background:LemonChiffon;"|SB || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:LemonChiffon;"|SB || style="background:CornflowerBlue;"| {{color|white|HIGH}} || SAFE || style="background:CornflowerBlue;"| {{color|white|HIGH}} || rowspan="2" style="background:LimeGreen;" |{{nowrap|Runner-up}}
+|-
+! scope="row" align="left"|James
+| SAFE || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:LemonChiffon;"|SB || SAFE || SAFE || style="background:Plum;"| LOW || style="background:Plum;"| LOW || style="background:LemonChiffon;"|SB || style="background:LemonChiffon;"|SB 
+|-
+! scope="row" align="left"| Danny
+| SAFE || SAFE || SAFE ||  style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:Plum;"| LOW || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:LemonChiffon;"|SB || style="background:Plum;"| LOW || style="background:OrangeRed;"|OUT || style="background:Silver;"|
+|-
+! scope="row" align="left"| Cathryn
+| style="background:CornflowerBlue;"| {{color|white|HIGH}} || SAFE || SAFE || SAFE || SAFE || SAFE ||style="background:Plum;"| LOW || style="background:OrangeRed;"|OUT || colspan="2" style="background:Silver;"|
+|-
+! scope="row" align="left"| Ryan
+| SAFE || SAFE || SAFE || style="background:Plum;"| LOW || style="background:LemonChiffon;"|SB || SAFE || style="background:OrangeRed;"|OUT || colspan="3" style="background:Silver;"|
+|-
+! scope="row" align="left"| {{nowrap|Sarah-Jane}}
+| SAFE || SAFE || SAFE || SAFE || style="background:Plum;"| LOW || style="background:Plum;"| LOW || style="background:OrangeRed;"|OUT || colspan="3" style="background:Silver;"|
+|-
+! scope="row" align="left"| Manisha
+| SAFE || SAFE || SAFE ||  style="background:Plum;"| LOW || style="background:OrangeRed;"|OUT || colspan="5" style="background:Silver;"|
+|-
+! scope="row" align="left"| Stuart
+| style="background:Plum;"| LOW || style="background:Plum;"| LOW || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:OrangeRed;"|OUT || colspan="6" style="background:Silver;"|
+|-
+! scope="row" align="left"|Victoria
+| style="background:LemonChiffon;"|SB || style="background:Plum;"| LOW || style="background:OrangeRed;"|OUT || colspan="7" style="background:Silver;"|
+|-
+! scope="row" align="left"| Peter
+| SAFE || style="background:OrangeRed;"|OUT || colspan="8" style="background:Silver;"|
+|-
+! scope="row" align="left"| Natasha
+| style="background:OrangeRed;"|OUT || colspan="9" style="background:Silver;"|
+|}
+
+<small>{{ref|1|[1]}} There was no elimination the sixth week after John sustained a major injury to his finger and could not complete the last bake. The judges determined it would be unfair to eliminate anyone and instead, two bakers were eliminated the next week. </small>
+
+'''Colour key:'''
+
+{{legend|<!--default colour-->|outline=darkgray|Baker got through to the next round}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated}}
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|LemonChiffon|outline=darkgray|Baker was the Star Baker}}
+{{legend|CornflowerBlue|outline=darkgray|Baker was one of the judges' favourite bakers that week, but did not win star baker}}
+{{legend|LimeGreen|outline=darkgray|Baker was the series runner-up}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner}}
+
+== Episodes ==
+'''Colour key:'''
+{{legend|#FFC7C7|Baker was eliminated at conclusion of episode}}
+{{legend|#BFD|Baker was named "Star Baker" at conclusion of episode}}
+{{legend|#DFF|Baker was named runner-up for the series}}
+{{legend|gold|Baker won series}}
+
+=== Episode 1: Cakes ===
+For their signature bake, the contestants were required to make an [[upside-down cake]] filled with fruits of their choice in 2 hours. For the technical bake, Paul set the bakers the challenge of making 4 [[rum baba]]s with cream in the middle and sliced fruits on top, to be completed in 3 hours. For the showstopper, the bakers were given the task of making a cake that would reveal a hidden design when sliced open in 5 hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[Upside-down cake|Upside Down Cake]])</small>
+! scope="col"|Technical<br><small>(4 [[rum baba|Rum Baba]]s)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Hidden Design Cake)</small>
+! scope="col"|Result
+|-
+! scope="row"| Brendan
+| Plum, [[sour cherry|Sour Cherry]] & Walnut Upside Down Cake|| 10th || St. Patrick's Day Cake with Hidden Irish Flag*<ref>{{cite tweet|number=239123621665206273|user=brendanbakes|title=One more St Paddy's Day cake photo added<!-- full text of tweet that Twitter returned to the bot (excluding links) added by TweetCiteBot. This may be better truncated or may need expanding (TW limits responses to 140 characters) or case changes. --> |date=24 August 2012}}</ref> || {{Safe}}
+|-
+! scope="row"| Cathryn
+| Apple, Hazelnut and [[Calvados]] Upside Down Cake || 5th || Hidden Cupcake Cake || {{Safe}}
+|-
+! scope="row"| Danny
+| Plum, Ginger & Orange Upside Down Cake || 7th || Nectar Cake with Hidden Beehive*<ref>{{Cite web|url=https://bakingastherapy.wordpress.com/2012/08/15/behind-the-hidden-designs-what-you-didnt-see/|title = Behind the Hidden Designs- what you didn't see on episode 1 of GBBO|date = 15 August 2012}}</ref> || {{Safe}}
+|-
+! scope="row"| James
+| [[Parsnip]], Pear and Pecan Upside Down Cake|| 2nd || "Simmer Dim" Sunset Cake || {{Safe}}
+|-
+! scope="row"| John
+| [[Toffee]] Apple Upside Down Cake* || 11th || Hidden Pink Hearts Cake || {{Safe}}
+|-
+! scope="row"| Manisha
+| Vanilla, Peach and Raspberry Upside Down Cake || 6th || White Chocolate Cake with a Red Velvet and White Chocolate Mousse Heart || {{Safe}}
+|-
+! scope="row"| Natasha
+| Pineapple & [[passion fruit|Passion Fruit]] Upside Down Cake || 12th || Mother's Day Layered Rose Cake || {{Eliminated}}
+|-
+! scope="row"| Peter
+| Pear, [[Muscat (grape)|Muscat]] & Chocolate Upside Down Cake || 3rd || Jubilee Cake || {{Safe}}
+|-
+! scope="row"| Ryan
+| [[Kumquat]] and Orange [[Polenta]] Upside Down Cake || 8th || Hidden Flowerbed Mousse Cake || {{Safe}}
+|- 
+! scope="row"| Sarah-Jane
+| Pear, Chocolate and Hazelnut Upside Down Cake || 1st || Hidden Crown Cake || {{Safe}}
+|-
+! scope="row"| Stuart
+| Tomato and Ginger Upside Down Cake || 9th || Lemon and [[Pistachio]] Union Flag Cake || {{Safe}}
+|-
+! scope="row"| Victoria
+| Pear and Pecan Upside Down Cake || 4th || Blackbird Pie Cake || {{sort|1|}}{{Good|Star Baker}}
+|}
+{{asterisk}} Unseen in the episode
+
+=== Episode 2: Bread ===
+For the signature bake, the bakers were required to make 12 [[flatbreads]], 6 with yeast and 6 without, in {{frac|2|1|2}} hours. For the technical challenge, they had to make an eight-strand plaited (braided) loaf in 2 hours, using Paul Hollywood's recipe. For the showstopper bake, the bakers were given 4 hours to make 24 [[bagel]]s: 12 sweet and 12 savoury.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>12 [[Flatbreads]] (6 [[Leavened]] and 6 [[Unleavened bread|unleavened]])</small>
+! scope="col"|Technical<br><small>(Eight-Stranded Plaited Loaf)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>24 [[Bagel]]s (12 Sweet and 12 Savoury)</small>
+! scope="col"|Result
+|-
+! scope="row"| Brendan
+| Middle Eastern [[Taboon Bread]]<br>Indian [[Roti]] || 4th || Chocolate and Vanilla Bagels<br>[[Cumin]] and [[Gruyère cheese|Gruyere]] Bagels
+| {{Safe}}
+|-
+! scope="row"| Cathryn
+| Spiced Mango [[Naan]]<br>Lime, Coriander and Chilli [[Tortillas]] || 8th || Cranberry and Orange Bagels<br>Chipotle, Chilli, and Smoked Cheddar Bagels || {{Safe}}
+|-
+! scope="row"| Danny
+| Lime Coriander and Coconut Tortillas<br>[[Zaatar]] Naan with [[Dukkah]] || 3rd || UNKNOWN || {{Safe}}
+|-
+! scope="row"| James
+| Tomato, Garlic, and Parmesan Flatbreads<br>[[Tattie scone|Tattie Scone]]s || 2nd || Orange, Mint and Chocolate Bagels<br>'Millers' [[Sourdough]] Bagels || {{Safe}}
+|-
+! scope="row"| John
+| Coriander and Chilli Rotis<br>Garlic, Pomegranate and Potato [[Pita]]s || 1st || Fig, Walnut and Gruyere Bagels<br>Blueberry and White Chocolate Bagels || {{sort|1|}}{{good|Star Baker}}
+|-
+! scope="row"| Manisha
+| [[Indian bread|Indian Flatbreads]]<br>Italian Flatbreads || 6th ||UNKNOWN || {{Safe}}
+|-
+! scope="row"| Peter
+| Fennel and [[Nigella seed|Nigella Seed]] Naan<br>[[Bannock (British food)|Bannock Bread]] || 11th || Rosemary and Sea Salt Bagels<br>Apple and Cinnamon Bagels || {{Eliminated}}
+|-
+! scope="row"| Ryan
+| Shanghai Spring Onion Flatbread<br>Garlic and Coriander Naan || 5th || [[Cinnamon]] and Date Bagels<br>[[Tarragon]] and Rosemary Bagels || {{Safe}}
+|-
+! scope="row"| Sarah-Jane
+| Coconut Roti<br>[[Oatcakes]]|| 10th || UNKNOWN || {{Safe}}
+|-
+! scope="row"| Stuart
+| Bombay Bread<br>[[Chorizo]] and Spring Onion Naan || 9th || Cinnamon and Cranberry Bagels<br>Tomato and Thyme Bagels || {{Safe}}
+|-
+! scope="row"| Victoria
+| Coriander and Lemon Naan<br>Garlic and Parsnip [[Chapatis]] || 7th || Saffron and Golden Raisin Bagels<br>[[Porcini]] Bagels || {{Safe}}
+|}
+
+=== Episode 3: Tarts ===
+The classic [[tarte tatin]], either sweet or savory, was set as the signature challenge, to be finished in {{frac|2|1|2}} hours. Baking a [[treacle tart]] in 2 hours was set as the technical challenge by Mary Berry, with the requirement that the pastry lattice on top be woven. For the showstopper, the bakers were required to make a large designer fruit tart, fit for a window display, in 3 hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[Tarte Tatin]])</small>
+! scope="col"|Technical<br><small>([[Treacle Tart]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Designer Fruit Tart)</small>
+! scope="col"|Result
+|-
+! scope="row"| Brendan
+| Apple and Ginger Tarte Tatin || 9th || Blackberry, [[Peach|Nectarine]] and [[Dragon Fruit]] Tart || {{Safe}}
+|-
+! scope="row"| Cathryn
+| Plum, Cherry and [[Five spice|Five Spice]] Tarte Tatin || 3rd || Raspberry, Pistachio and Lemon Tart || {{Safe}}
+|-
+! scope="row"| Danny
+| Savoury Pear and [[Roquefort]] Tarte Tatin || 2nd || Pineapple, Coconut and [[Frangipane]] Tart || {{Safe}}
+|-
+! scope="row"| James
+| Apple and Lavender Tarte Tatin || 1st || Rose, [[Lychee]] and Raspberry Fruit Tart || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| John
+| Apple and Vanilla Tarte Tatin with Walnut [[Praline (nut confection)|Praline]] || 6th || Berries, Grapes, Pomegranate, and Dragon Fruit Tart || {{Safe}}
+|-
+! scope="row"| Manisha
+| Cinnamon, Apple and Pear Tarte Tatin || 10th || Rum and Tropical Fruit Tart || {{Safe}}
+|-
+! scope="row"| Ryan
+| Spiced Pear Tarte Tatin || 5th || UNKNOWN || {{Safe}}
+|-
+! scope="row"| Sarah-Jane
+| Caramelised Banana Tarte Tatin || 8th || French Apple Tart with Blackberry and [[Crème de cassis|Cassis]] Jam || {{Safe}}
+|-
+! scope="row"| Stuart
+| Pear and Almond Tarte Tatin || 7th || Raspberry Triple Chocolate Layered Tart || {{Safe}}
+|-
+! scope="row"| Victoria
+| Fig, Walnut and [[Pink peppercorn|Pink Peppercorn]] Tarte Tatin || 4th || Tropical Fruit Tart with [[Black Pepper]] Crust || {{Eliminated}}
+|}
+
+=== Episode 4: Desserts ===
+The bakers were given 3 hours to make a [[torte]] without conventional wheat flour as the signature bake. The torte had to be more than 20&nbsp;cm in diameter. Mary set [[crème caramel]] as the technical challenge, to be finished in 2<sup>3</sup>⁄<sub>4</sub> hours. A four-layered [[meringue]] dessert was the showstopper challenge.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[torte|Torte Cake]])</small>
+! scope="col"|Technical<br><small>([[crème caramel|Crème Caramel]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(4-Layered Meringue Dessert)</small>
+! scope="col"|Result
+|-
+! scope="row"| Brendan
+| [[Clementine]] and Chestnut Torte || 1st || Pear, Chocolate and Hazelnut [[Dacquoise]] || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Cathryn
+| White Chocolate, [[Macadamia]] and Coffee Torte || 3rd || [[Gooseberry]], Almond and Honey Meringue || {{Safe}}
+|-
+! scope="row"| Danny
+| Blackberry, White Chocolate, Lemon and [[Elderflower]] Torte || 2nd || 'Monte Bianco' Chestnut, Chocolate and Coffee Dacquoise || {{Safe}}
+|-
+! scope="row"| James
+| Hazelnut, Chocolate and [[Passionfruit]] Torte || 5th || Fig, Chestnut, Cherry and Chocolate Layered Meringue || {{Safe}}
+|-
+! scope="row"| John
+| 'Torte Noir' Black Forest Torte with Boozy Cream || 6th || Elderflower and [[Bramble]] Berry [[Pavlova (food)|Pavlova]] || {{Safe}}
+|-
+! scope="row"| Manisha
+| Almond, Chocolate and Cherry Torte || 9th || Tiramisu Layered Meringue Dessert || {{Safe}}
+|-
+! scope="row"| Ryan
+| Green Tea [[Opera cake|Opera]] Torte || 7th || Strawberry, Rose and Pistachio Meringue || {{Safe}}
+|-
+! scope="row"| Sarah-Jane
+| Chocolate and Almond Truffle Torte || 4th || Hazelnut [[Tiramisu]] Layered Meringue || {{Safe}}
+|-
+! scope="row"| Stuart
+| Black Forest Torte || 8th || Choca Blocka Mocha Meringue || {{Eliminated}}
+|}
+
+=== Episode 5: Pies ===
+The signature bake was [[Beef Wellington|Wellington]], which Paul specified should be at least 8 inches long and completely covered with pastry. The bakers were given 3 hours for the challenge. The technical challenge was to make a [[Raised pie|hand-raised pie]] in 2<sup>1</sup>⁄<sub>4</sub> hours. This was to be made with a [[Hot water crust pastry|hot water crust]] and moulded using a dolly. The pie was left to set overnight and judged the next day. For the showstopper challenge, the bakers were required to bake a family-sized sweet American-style pie in 3<sup>1</sup>⁄<sub>2</sub> hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[Beef Wellington|Wellington]])</small>
+! scope="col"|Technical<br><small>([[Raised pie|Hand-Raised Pie]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(American Pie)</small>
+! scope="col"|Result
+|-
+! scope="row"| Brendan
+| Salmon [[Coulibiac]] in a Scandinavian Pastry || 3rd || All American [[Chiffon pie|Chiffon Pie]] || {{Safe}}
+|-
+! scope="row"| Cathryn
+| [[Full English]] Wellington || 1st || Chocolate and Peanut Butter [[Pumpkin pie|Pumpkin Pie]]|| {{Safe}}
+|-
+! scope="row"| Danny
+| [[Chickpea]], Spinach & Mushroom Wellington || 7th || Trick or Treat Pumpkin Pie || {{Safe}}
+|-
+! scope="row"| James
+| Four Pig Wellington || 6th || [[Sweet potato pie|Sweet Potato Pie]]|| {{Safe}}
+|-
+! scope="row"| John
+| [[Venison]] and [[Haggis]] Wellington || 2nd || Star Spangled [[Pecan pie|Pecan Pie]] || {{Safe}}
+|-
+! scope="row"| Manisha
+| Lamb Wellington with Rosemary and Mint || 5th || Banana [[Butterscotch pie|Scotch Pie]] || {{Eliminated}}
+|-
+! scope="row"| Ryan
+| Curry Spiced Seabass Wellington || 8th || [[Key lime pie|Key Lime Pie]] || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Sarah-Jane
+| Beef Wellington with [[Parma ham|Parma Ham]] and [[Gorgonzola cheese|Gorgonzola Cheese]] || 4th || Chocolate and Banana [[Cream pie|Cream Pie]]|| {{Safe}}
+|}
+
+=== Episode 6: Puddings ===
+The bakers were challenged to make, in 2 hours, 2 different flavoured sponge puddings with different accompaniments, 6 of each. Mary set the [[Queen of Puddings]] as the technical challenge. For the showstopper, the bakers were required to make a large strudel, either with sweet or savoury fillings, in {{frac|3|1|2}} hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(2 Different Flavours of Sponge Puddings)</small>
+! scope="col"|Technical<br><small>([[Queen of Puddings]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Strudel]]s)</small>
+! scope="col"|Result{{efn|John sustained a deep wound on his finger during the Showstopper challenge, had to leave the tent to receive medical attention, and was unable to complete his bake. As a result, the judges decided it would be unfair to eliminate a baker this week.}}
+|-
+! scope="row"| Brendan
+| Rhubarb, Strawberry and Ginger Puddings<br>[[Sticky toffee pudding|Sticky Toffee Pudding]]s || 1st || Spinach, Cheese and Walnut Strudel || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Cathryn
+| Chocolate [[Walnut Whip]] Puddings<br>Elderflower Sponges || 3rd || Roasted Vegetable [[Couscous]] and Sheep Cheese Strudel || {{Safe}}
+|-
+! scope="row"| Danny
+| [[Banoffee]] Puddings with Walnut Butterscotch Sauce<br>Jubilee Chocolate Fondants || align="center"|2nd || [[Leek]], Potato, Pistachio and Gruyère Strudel || {{Safe}}
+|-
+! scope="row"| James
+| Banana and [[Clove]] Puddings<br>[[Clootie dumpling|Clootie Dumpling]]s || 7th || Strawberry, Rhubarb and Ginger Strudel || {{Safe}}
+|-
+! scope="row"| John
+| Spicy Toffee Puddings<br>Raspberry and [[White Chocolate]] Puddings || align="center"|5th || {{n/a|''Did not complete due to injury''}} || {{Safe}}
+|-
+! scope="row"| Ryan
+| Chocolate [[Molten chocolate cake|Fondants]]<br>Sticky Ginger and Date Puddings || 6th || Apple, [[Sour Cherry]], Raisin and Mixed Nuts Strudel || {{Safe}}
+|-
+! scope="row"| Sarah-Jane
+| Sticky Toffee Puddings<br>Granny's Saucy Lemon Puddings || 4th || Sweet Strudel with Sour Cherries || {{Safe}}
+|}
+{{notelist}}
+
+=== Episode 7: Sweet Dough ===
+For the signature bake, the bakers were set to bake 24 [[buns]] made from an enriched dough with yeast in 3 hours. The buns should be all of the same size and evenly baked. For the technical bake, the bakers were challenged to make 10 [[jam doughnut]]s, using Paul Hollywood's recipe, in 2<sup>1</sup>⁄<sub>2</sub> hours. They should be consistent in size, shape, jam distribution, and colour. For the showstopper, the bakers each made a celebratory enriched-dough loaf. This challenge started straight after the technical bake, so that the dough could be [[Proofing (baking technique)|proofed]] overnight if necessary.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(24 [[Sweet roll|Sweet Buns]])</small>
+! scope="col"|Technical<br><small>([[Jam Doughnut]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Celebratory Loaf)</small>
+! scope="col"|Result{{efn|Two bakers were eliminated this week as there was no elimination the previous week following John's injury.}}
+|-
+! scope="row"| Brendan
+| Chelsea Bunskis || 4th || Black Forest Christmas [[Stollen]] || {{Safe}}
+|-
+! scope="row"| Cathryn
+| Lady Arundel's [[Manchet]] Buns || 5th || [[Guy Fawkes Night|Bonfire Night]] Tear 'N' Share [[Brioche]] || {{Safe}}
+|-
+! scope="row"| Danny
+| [[Bakewell tart|Bakewell]] [[Chelsea bun|Chelsea Bun]]s || 2nd || European Christmas Wreath || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| James
+| Easter Chelsea Buns || 1st || Whisky [[Kugelhopf]]-[[Brioche]] [[rum baba|Baba]] || {{Safe}}
+|-
+! scope="row"| John
+| Cherry and Almond [[Saffron bun|Saffron Bun]]s || 3rd || [[Marzipan]] [[Stollen]] || {{Safe}}
+|-
+! scope="row"| Ryan
+| [[Lardy cake|Lardy Cakes]]{{efn|Ryan's handshake was the first "Hollywood Handshake" in the history of the show.<ref>{{cite web |first=Hannah |last=Bradfield |title=GBBO analysis: A data deep dive into Paul Hollywood's handshakes |url=https://www.swlondoner.co.uk/entertainment/08122023-gbbo-analysis-a-data-deep-dive-into-paul-hollywoods-handshakes |website=SW Londoner |date=December 8, 2023 |access-date=January 27, 2025}}</ref>}} || 6th || [[Char Siu Bao]] || {{Eliminated}}
+|-
+! scope="row"| Sarah-Jane
+| Orange, [[Nutmeg]] and Saffron Buns || 7th || Sour Cherry and Dark Chocolate Christmas Plait || {{Eliminated}}
+|}
+{{notelist}}
+
+=== Episode 8: Biscuits ===
+The bakers were given 2 hours to make 48 [[Cracker (food)|cracker]]s or [[crisp bread]]s for their signature bake. They should be thin, evenly baked and crack when snapped in two. For the technical challenge, the bakers were asked to make six [[Chocolate-coated marshmallow treats#Teacake|chocolate teacakes]] in 2 hours using Paul Hollywood's recipe, a task made more difficult because the high temperature that day would not allow the chocolate to cool. For the showstopper bake, the bakers were challenged to make a [[gingerbread]] structure, which should not be a gingerbread house, in 4 hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(48 [[Cracker (food)|Cracker]]s)</small>
+! scope="col"|Technical<br><small>(6 [[Chocolate-coated marshmallow treats#Teacake|Chocolate Teacakes]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Gingerbread]] Structure)</small>
+! scope="col"|Result
+|-
+! scope="row"| Brendan
+| Multi-Seed Savoury Crackers || 2nd || Fantasy Gingerbread Bird House || {{Safe}}
+|-
+! scope="row"| Cathryn
+| Cheese and Pickle Crackers || 5th || Gingerbread [[Buckingham Palace]] || {{Eliminated}}
+|-
+! scope="row"| Danny
+| Spiced Almond Drinks Crackers || 4th || Gingerbread [[Big Ben]] || {{Safe}}
+|-
+! scope="row"| James
+| Smoky [[Cayenne pepper|Cayenne]], [[Cumin]] and Chilli Crackers || 1st || Gingerbread Barn || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| John
+| Asian Spice Crackers || 3rd || Gingerbread Roman [[Coliseum]] || {{Safe}}
+|}
+
+=== Episode 9: Pâtisserie (Semifinal) ===
+For the first [[pâtisserie]] test, the bakers were required to make 3 types of [[petits fours]], 12 of each. These should be small (each a single mouthful), exquisite and perfect. Mary set the bakers to make a Fraisier cake for the technical challenge to be done in 2<sup>1</sup>⁄<sub>2</sub> hours. [[Choux pastry]] [[gateau]] was set as the showstopper.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(3 types of [[Petits fours|Petits Fours]])</small>
+! scope="col"|Technical<br><small>(Fraisier Cake)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Choux pastry|Choux Pastry]] Gateau)</small>
+! scope="col"|Result
+|-
+! scope="row"| Brendan
+| Coffee Meringue and Hazelnut Creams<br/>Apricot and Pistachio [[Friand]]s<br>Lime Curd [[Choux pastry|Choux Pastry]] [[Cygnet (bird)|Cygnets]] || 3rd || [[St. Honoré cake|Gateau St. Honoré]] || {{Safe}}
+|-
+! scope="row"| Danny
+| Blackberry and Peppermint [[Macaron]]s<br>Miniature Raspberry and Basil [[Financier (cake)|Financiers]]<br>Orange and White Chocolate [[Cat tongue|Langues de Chat]] || 4th || [[Rose water|Rosewater]] and [[Lychee]] [[St. Honoré cake|Gateau St. Honoré]] || {{Eliminated}}
+|-
+! scope="row"| James
+| Lemon and Rhubarb [[Tartlets]]<br>Chocolate Indulgence [[Petit four|Petits Fours]]<br>Chilli, Lime and Raspberry [[Macaron]]s || 1st || Coffee, Caramel and Hazelnut [[Paris–Brest]] || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| John
+| Lemon [[Madeleine (cake)|Madeleines]]<br>White Chocolate and Raspberry Tartlets<br>Dark Chocolate and Cherry Macarons || 2nd || Gateau St. Honoré a la Passion || {{Safe}}
+|}
+
+=== Episode 10: Final ===
+The finalists were set the task of making a savoury [[pithivier]] in 2<sup>1</sup>⁄<sub>2</sub> hours. Paul and Mary's technical challenge required 25 [[French Fancies|fondant fancies]] to be done in 2<sup>1</sup>⁄<sub>2</sub>hours. For the final showstopper, the finalists were required to make, in 4 hours, a [[chiffon cake]] based on the theme of their personal highlights of 2012. All the bakes were served at a special summer fête held on the ground of [[Harptree Court]].
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(Savoury [[Pithivier]])</small>
+! scope="col"|Technical<br><small>(25 [[French Fancies|Fondant Fancies]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Chiffon cake|Chiffon Cake]])</small>
+! scope="col"|Result
+|-
+! scope="row"| Brendan
+| Potato and Pepper Pithivier || 3rd || Family Reunion Chiffon Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"| James
+| Spanish Pithivier with Chorizo and Red Pepper || 1st || United Chiffon Cakes || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"| John
+| Italian Sausage and Roasted Vegetable Pithivier || 2nd || Heaven and Hell Chiffon Cake || {{sort|1|}}{{Won|color=gold|Winner}}
+|}
+
+===Extras and special episodes (Episodes 11–14)===
+Four additional episodes were broadcast after the final. 
+*Episode 11 was a masterclass by Paul and Mary where they demonstrated how to make the technical challenges they set – treacle tarts, rum babas, creme caramels, the hand-raised pie, and the eight-strand plaited loaf. 
+*Episode 12 revisited the bakers from [[The Great British Bake Off (series 2)|series two]] to catch up on what these contestants had been doing after the show ended. 
+*Another masterclass was shown in episode 13 where Paul and Mary showed how to make Queen of Puddings, jam doughnuts, tempered chocolate teacakes, Fraisier cakes and fondant fancies. 
+*In episode 14, Paul and Mary showed which signature bakes they would have chosen if they were in the bakers' shoes (including sponge puddings, flat breads and sweet buns). Two further episodes of Masterclass were shown, one before Christmas and another before Easter.
+
+==Post-show career==
+
+[[John Whaite]] gained a first-class degree from the [[University of Manchester]] after sitting his law exams while filming Bake Off, but he rejected a career in law and opted to take classes at [[Le Cordon Bleu]] and pursue a career in baking.{{citation needed|date=April 2020}} His book ''John Whaite Bakes: Recipes for Every Day and Every Mood'' was published on 25 April 2013.<ref>{{cite web |url=https://uk.lifestyle.yahoo.com/great-british-bake-off-john-whaite-depression-battle--151116798.html |title=John Whaite: How baking helps me battle depression – EXCLUSIVE |author=Sophia Moir | work=Yahoo Lifestyle |date=26 April 2013}}</ref> His second book, ''John Whaite Bakes at Home'', was published on 27 March 2014.<ref>{{cite news |url=https://www.mancunianmatters.co.uk/content/270368308-winner-bakes-it-all-great-british-bake-ace-john-whaite-reveals-guilty-secrets-and |title=The winner bakes it all: Great British Bake Off ace John Whaite reveals guilty secrets and making mum jealous |date=27 March 2014 |author=Josh Willacy |work=Mancunian Matters}}</ref> He first set up a chocolate shop The Hungry Dog Artisan Chocolates,<ref>{{cite news |url=http://www.iol.co.za/tonight/tv-radio/whaite-s-victory-tastes-extra-sweet-1.1717487 |title=Whaite's victory tastes extra sweet |date=10 July 2014 |author=Debashine Thangevelo|work=Tonight}}</ref> and opened a cookery school on his family's dairy farm in Lancashire.<ref>{{cite news |url=https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2014-what-past-winners-are-doing-now-from-edd-kimber-to-last-years-frances-quinn-9780390.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2014-what-past-winners-are-doing-now-from-edd-kimber-to-last-years-frances-quinn-9780390.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title=Great British Bake Off 2014: What past winners are doing now from Edd Kimber to last year's Frances Quinn |author=Jess Denham |date=7 October 2014 |work=The Independent}}</ref> He also appeared as a resident chef on the ITV show [[Lorraine (TV programme)|Lorraine]],<ref>{{cite news |url=https://www.telegraph.co.uk/culture/tvandradio/great-british-bake-off/11012728/Bake-Off-the-winners-reveal-their-secrets.html |title=Bake Off: the winners reveal their secrets |author=Helena Kealey |date=5 August 2014 |work=The Daily Telegraph}}</ref><ref>{{cite web |url=http://www.itv.com/lorraine/john-whaite |title=John Whaite |work=ITV}}</ref> and wrote a column on food for ''[[The Daily Telegraph]]''.<ref>{{cite web |url=https://www.telegraph.co.uk/journalists/john-whaite/ |archive-url=https://web.archive.org/web/20150316134500/http://www.telegraph.co.uk/journalists/john-whaite/ |url-status=dead |archive-date=2015-03-16 |title=John Whaite |work=The Daily Telegraph}}</ref> In 2016, Whaite presented with [[Rosemary Shrager]] a daytime cookery competitive show ''Chopping Block'' on ITV.<ref>{{cite web |url=http://www.itv.com/presscentre/press-packs/chopping-block |title= Chopping Block |date=24 March 2016}}</ref> In 2018, after six years of directing his attention on writing cookbooks, leading baking classes, and making television appearances, Whaite decided to refocus on law.<ref>{{Cite web|date=22 July 2018|title=Former Great British Bake Off winner John Whaite returning to law "to devote myself to something utterly important"|url=https://inews.co.uk/inews-lifestyle/food-and-drink/great-british-bake-off-gbbo-john-whaite-season-three-solicitor-legal-179237|access-date=2020-06-18|website=inews.co.uk|language=en}}</ref>
+
+James Morton aimed for a career in medicine but has written a book on bread, titled ''Brilliant Bread'', published on 29 August 2013.<ref>{{cite news |url= https://www.dailyrecord.co.uk/entertainment/celebrity-interviews/great-british-bake-star-james-1546478 |author= Heather Greenaway |title= Great British Bake Off star James Morton: Cooking is great.. but my real dream is to be a doctor |work= Daily Record |date= 20 January 2013}}</ref><ref>{{cite web |url= http://www.edinburghfoody.com/2013/07/19/james-and-the-world-bread-awards/ |title= James and the World Bread Awards |work= Edinburgh Foody |date=19 July 2013}}</ref> He writes a baking column for the Scottish newspaper ''[[Sunday Mail (Scotland)|Sunday Mail]]''.<ref>{{cite news |url= https://www.dailyrecord.co.uk/all-about/james-morton |title= Jame Mortan |work= Daily Record and Sunday Mail}}</ref> His second book, ''How Baking Works: ...And what to do if it doesn't'', was published on 12 March 2015.<ref>{{cite news |url= https://www.independent.co.uk/extras/indybest/10-best-cookbooks-by-great-british-bake-off-contestants-james-morton-ruby-tandoh-a6680291.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/extras/indybest/10-best-cookbooks-by-great-british-bake-off-contestants-james-morton-ruby-tandoh-a6680291.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title= Great British Bake Off: 10 best cookbooks |author= Pippa Bailey Monday |date= 5 October 2015 |work= The Independent}}</ref> He later participated in both the 2016 and 2024 renditions of ''The Great New Year's Bake Off''.
+
+Brendan Lynch is teaching cookery classes.<ref>{{cite news |url= https://www.express.co.uk/news/health/386513/Baking-an-end-to-the-lonely-days |title= Baking an end to the lonely days |work=Daily Express |author= Giulia Rhodes |date= 24 March 2013 |accessdate=31 March 2017}}</ref><ref>{{cite news |url= http://www.uttoxeter-news.co.uk/Bake-finalist-join-Seasoned-Cookery-School/story-21616449-detail/story.html |title= Bake off finalist to join Seasoned Cookery School |author= James Brindle |work= Uttoxeter Advertiser |date=25 October 2012}}</ref><ref>{{cite news |url= https://www.birminghammail.co.uk/whats-on/great-british-bake-off-contestants-7545213 |title= Whatever happened to the 'Great British Bake Off' bakers from the Midlands? |date=2 August 2014 |author= Roz Laws |work= Birmingham Mail}}</ref>
+
+Cathryn Dresser and Sarah-Jane Willis teamed up to open a stall at [[Horsham]] Market.<ref>{{cite news |url= http://www.theargus.co.uk/news/10001479.Crawley_Bake_Off_stars_set_up_own_business/ |title= Crawley Bake Off stars set up own business |work=The Argus |date= 23 October 2012}}</ref><ref>{{cite news |url= http://www.crawleyobserver.co.uk/news/videos/tv-bake-off-stars-team-up-to-run-market-stall-1-4426151 |title= TV Bake-off stars team up to run market stall |work= Crawley and Horley Observer |date= 31 October 2012}}</ref> Dresser wrote a baking book for children and parents titled ''Let's Bake'', published on 22 May 2014.<ref>{{cite web|url=http://www.welovethisbook.com/features/review-lets-bake-cathryn-dresser|title=REVIEW: LET'S BAKE BY CATHRYN DRESSER|author=Anna James|work=We Love This Book|date=20 May 2014|access-date=2 August 2014|archive-date=8 August 2014|archive-url=https://web.archive.org/web/20140808053357/http://www.welovethisbook.com/features/review-lets-bake-cathryn-dresser|url-status=dead}}</ref> and ran ''The Little Handcross Bakery''<ref>{{cite web|url=http://www.midsussextimes.co.uk/news/local/hectic-life-of-a-mother-and-celebrity-baker-1-6318151 |title=Hectic life of a mother and celebrity baker}}</ref> in [[Handcross]], West Sussex between September 2014 and May 2015. Dresser later participated in the 2016 rendition of ''The Great Christmas Bake Off''.
+
+==Ratings==
+The final of this series had a record overnight figure of 6.5&nbsp;million viewers, beating every other programme in other channels in its time slot.<ref>{{cite news |url=https://www.theguardian.com/media/2012/oct/17/great-british-bake-off-final-john-waite|title= Great British Bake Off: 6.5m watch John Whaite rise to the top|author=John Plunkett |work=The Guardian |date= 17 October 2012}}</ref>
+
+Official episode viewing figures are from [[BARB]].<ref>{{Cite web|url=https://www.barb.co.uk/whats-new/weekly-top-30|title=Weekly Top 30 Programmes|publisher=[[Broadcasters' Audience Research Board]]|accessdate=16 September 2015}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+!Nightly ranking 
+|-
+! scope="row"| 1
+| {{Start date|2012|08|14|df=y}} || 3.85 || rowspan="10" | 1
+|7
+|-
+! scope="row"| 2
+| {{Start date|2012|08|21|df=y}} || 4.60 
+| rowspan="2" |5
+|-
+! scope="row"| 3
+| {{Start date|2012|08|28|df=y}} || 4.53 
+|-
+! scope="row"| 4
+| {{Start date|2012|09|04|df=y}} || 4.71 
+|4
+|-
+! scope="row"| 5
+| {{Start date|2012|09|11|df=y}} || 4.61 
+| rowspan="2" |3
+|-
+! scope="row"| 6
+| {{Start date|2012|09|18|df=y}} || 4.82 
+|-
+! scope="row"| 7
+| {{Start date|2012|09|25|df=y}} || 5.10 
+| rowspan="3" |4
+|-
+! scope="row"| 8
+| {{Start date|2012|10|02|df=y}} || 5.35 
+|-
+! scope="row"| 9
+| {{Start date|2012|10|09|df=y}} || 5.70 
+|-
+! scope="row"| 10
+| {{Start date|2012|10|16|df=y}} || 6.74 
+|3
+|}
+
+===Specials===
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off'' Masterclass
+|-
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row"| 1
+| {{Start date|2012|10|22|df=y}} || 2.56 || 5
+|-
+! scope="row"| 2
+| {{Start date|2012|10|24|df=y}} || 2.19 || 8
+|-
+! scope="row"| 3
+| {{Start date|2012|10|25|df=y}} || 2.33 || 6
+|}
+
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off Revisited''
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row" style="background:silver;"|
+| {{Start date|2012|10|23|df=y}} || 2.76 || 4
+|}
+
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off'', Christmas Masterclass
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row" style="background:silver;"|
+| {{Start date|2012|12|18|df=y}} || 3.48 || 2
+|}
+
+{| class="wikitable" style="text-align:center;"
+|+ The Great British Bake Off, Easter Masterclass
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row" style="background:silver;"|
+| {{Start date|2013|03|26|df=y}} || 2.76 || 3
+|}
+
+== References ==
+{{reflist|colwidth=30em}}
+
+==External links==
+* {{BBC programme}}
+* [https://www.thetimes.com/article/bake-off-star-in-a-stew-over-shetland-book-0k29g9xkv "Bake Off star in a stew over Shetland book"] (11 October 2018) by Elizabeth Burden at ''The Times''
+* [https://thegreatbritishbakeoff.co.uk/wp-content/uploads/2014/10/GBBO6-Application-Form-2015.docx Series Six application form]
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off, The}}
+[[Category:The Great British Bake Off|Series 3]]
+[[Category:2012 British television seasons]]

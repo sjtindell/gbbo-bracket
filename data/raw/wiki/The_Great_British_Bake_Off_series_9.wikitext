@@ -1,0 +1,710 @@
+{{short description|Ninth series of The Great British Bake Off}}
+{{Use dmy dates|date=August 2019}}
+{{Use British English|date=August 2019}}
+{{Infobox television season
+| image         = 
+| caption       = 
+| series_number = 9
+| module1       = {{Infobox reality competition season
+ | presenter       = [[Noel Fielding]]<br>[[Sandi Toksvig]]
+ | judges          = [[Paul Hollywood]]<br>[[Prue Leith]]
+ | num_contestants = 12
+ | winner          = [[Rahul Mandal]]
+ | runner_up       = [[Kim-Joy]]<br>[[Ruby Bhogal]]
+ | location        = [[Welford Park]], Berkshire
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 30
+}}
+| num_episodes  = 10
+| network       = [[Channel 4]]
+| first_aired   = {{start date|2018|08|28|df=y}}
+| last_aired    = {{End date|2018|10|30|df=y}}
+}}
+
+The '''ninth series''' of ''[[The Great British Bake Off]]'' began on 28 August 2018,<ref name="GBBO2018">{{cite news|url= https://www.bbc.co.uk/news/entertainment-arts-45248320 |title=Great British Bake Off contestants revealed for 2018 |work=BBC|date=20 August 2018 }}</ref><ref>{{cite news |last1=Shepherd |first1=Jack |title=Everything we know so far about Great British Bake Off 2018 |url=https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2018-gbbo-start-air-date-contestants-channel-4-presenters-a8494066.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2018-gbbo-start-air-date-contestants-channel-4-presenters-a8494066.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |accessdate=16 August 2018 |work=The Independent}}</ref> with this being the second series to be broadcast on [[Channel 4]]. The series is presented by [[Noel Fielding]] and [[Sandi Toksvig]], with judges [[Paul Hollywood]] and [[Prue Leith]]. This series saw a few changes to the usual format: the first episode being Biscuit Week (the previous 8 series began with a Cake Week), the documentary inserts were dropped, and the finale included the competitors doing a technical challenge outside the tent for the first time.
+
+The series was won by [[Rahul Mandal]], with [[Kim-Joy]] and [[Ruby Bhogal]] as the runners-up.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/2018/oct/30/the-coolest-thing-great-british-bake-off-champion-crowned |title ='The coolest thing': Rahul Mandal crowned Great British Bake Off champion|date=30 October 2018|work=Guardian|accessdate=1 November 2018}}</ref><ref>{{cite web|url=https://www.bbc.com/news/entertainment-arts-46029963 |title =Great British Bake Off: Final watched by 7.5 million viewers|date=31 October 2018|work=BBC News|accessdate=1 November 2018}}</ref>
+
+== Bakers ==
+{| class="wikitable sortable" style="text-align:center;"
+!scope="col"|Contestant
+!scope="col"|Age
+!scope="col"|Hometown
+!scope="col"|Occupation
+!scope="col"|Finish
+!scope="col"|Place
+|-
+! scope="row" | Imelda McCarron
+| 33 
+| nowrap|[[County Tyrone]], [[Northern Ireland]]
+| nowrap|Countryside recreation officer <ref>{{cite news |url=https://www.belfasttelegraph.co.uk/entertainment/film-tv/the-great-british-bake-off-tyrone-woman-imelda-to-mix-it-on-channel-4-show-37235625.html |title=The Great British Bake Off: Tyrone woman Imelda to mix it on Channel 4 show |first=Victoria|last= Leonard|date= 21 August 2018 |work=Belfast Telegraph}}</ref><ref>{{cite web |url=https://www.radiotimes.com/news/tv/2018-08-24/imelda-mccarron-the-great-british-bake-off-2018-contestant-guide-age-job/ |title=Who is Imelda McCarron? Meet the Great British Bake Off 2018 contestant |work=Radio Times |date=24 August 2018}}</ref>
+|Episode 1
+|12th
+|-
+! scope="row" | Luke Thompson
+| 30 
+| [[Sheffield]], England 
+| Civil servant/house and techno DJ <ref>{{cite news |url=https://www.radiotimes.com/news/tv/2018-08-24/luke-thompson-the-great-british-bake-off-2018-contestant-guide-age-job/ |title=Who is Luke Thompson? Meet the Great British Bake Off 2018 contestant |work=Radio Times |date= 24 August 2018 }}</ref>
+|Episode 2
+|11th
+|-
+! scope="row" | Antony Amourdoux
+| 30 
+| [[London]], England 
+| Banker <ref>{{cite web |url=https://www.radiotimes.com/news/tv/2018-08-24/antony-amourdoux-the-great-british-bake-off-2018-contestant-guide-channel-4-age-job/ |title=Who is Antony Amourdoux? Meet the Great British Bake Off 2018 contestant |work=Radio Times |date=24 August 2018 }}</ref>
+|Episode 3
+|10th
+|-
+! scope="row" | Karen Wright
+| 60 
+| [[Wakefield]], England 
+| In-store sampling assistant <ref>{{cite web |url=https://www.radiotimes.com/news/tv/2018-08-24/karen-wright-the-great-british-bake-off-2018-contestant-guide-age-job/ |title=Who is Karen Wright? Meet the Great British Bake Off 2018 contestant |work=Radio Times |date=24 August 2018 }}</ref>
+|rowspan="2"|Episode 5
+|rowspan="2"|8th (tie)
+|-
+! scope="row" | Terry Hartill
+| 56  
+| [[West Midlands (county)|West Midlands]], England 
+| Retired air steward<ref>{{cite web |url=https://www.radiotimes.com/news/tv/2018-08-24/terry-the-great-british-bake-off-2018-contestant-guide-age-job/ |title=Who is Terry? Meet the Great British Bake Off 2018 contestant  |work=Radio Times |date= 24 August 2018 }}</ref><ref>{{cite news |url=https://www.standard.co.uk/stayingin/tvfilm/great-british-bake-off-fans-in-tears-as-terry-hartill-opens-up-about-his-wifes-death-during-a3946281.html|title=Great British Bake Off fans in tears as Terry Hartill opens up about his wife's death during emotional exit interview|work=The Evening Standard |date=26 September 2018 |first=Natasha |last=Sporn }}</ref>
+|-
+! scope="row" | Dan Beasley-Harling
+| 36 
+| London, England
+| Stay at home parent <ref>{{cite web |url=https://www.radiotimes.com/news/tv/2018-08-24/dan-beasley-harling-the-great-british-bake-off-2018-contestant-guide-age-job/ |title=Who is Dan Beasley-Harling? Meet the Great British Bake Off 2018 contestant |work=Radio Times |date=24 August 2018 }}</ref><ref>{{cite web |url=https://danbeasleyharling.com/ |title=Dan's Baking Adventure }}</ref>
+|Episode 6
+|7th
+|-
+! scope="row" | Jon Jenkins
+| 47 
+| [[Newport, Wales|Newport]], [[Wales]] 
+| Blood courier <ref>{{cite news |url=http://www.southwalesargus.co.uk/news/16592628.great-british-bake-off-contestant-jon-from-newport-looks-to-impress/ |title=Great British Bake Off contestant Jon Jenkins, from Newport, looks to impress|date=22 August 2018|work=South Wales Argus }}</ref><ref>{{cite web |url=https://www.radiotimes.com/news/tv/2018-08-24/jon-jenkins-the-great-british-bake-off-2018-contestant-guide-age-job/ |title=Who is Jon Jenkins? Meet the Great British Bake Off 2018 contestant |work=Radio Times |date=24 August 2018}}</ref>
+|Episode 7
+|6th
+|-
+! scope="row" | Manon Lagrève
+| 26 
+| London, England 
+| Software project manager <ref>{{cite web |url=https://www.instagram.com/manonlagreve/ |title=manonlagreve }}</ref><ref>{{cite web |last1=Taylor |first=Francis |title=Who is Manon Lagreve? Meet the Great British Bake Off 2018 contestant |url=https://www.radiotimes.com/news/tv/2018-08-22/manon-lagreve-the-great-british-bake-off-2018-contestant-guide-age-job/ |website=Radio Times |accessdate=24 August 2018 |date=22 August 2018}}</ref>
+|Episode 8
+|5th
+|-
+! scope="row" | [[Briony May Williams|Briony Williams]]
+| 33 
+| [[Bristol]], England 
+| Stay at home parent <ref>{{cite web |url=https://www.brionybakes.co.uk/|title=Briony Bakes }}</ref><ref>{{cite web |url=https://www.radiotimes.com/news/tv/2018-08-24/briony-williams-the-great-british-bake-off-2018-contestant-guide-age-job/ |title=Who is Briony Williams? Meet the Great British Bake Off 2018 contestant |work=Radio Times |date=24 August 2018 }}</ref>
+|Episode 9
+|4th
+|-
+! scope="row" | [[Kim-Joy Hewlett]]
+| 27 
+| [[Leeds]], England 
+| Mental health specialist <ref>{{cite web |url=https://www.instagram.com/kimjoyskitchen/ |title=kimjoyskitchen }}</ref><ref>{{cite web |url=https://www.thetimes.com/article/bake-off-scientist-rahul-in-his-element-as-he-wins-w7nt60mw8 |title=Bake Off scientist Rahul in his element |first=Matthew |last=Moore |date=31 October 2018 |work=[[The Times]] }}</ref>
+|rowspan="3"|{{nowrap|Episode 10}}
+|rowspan="2"|{{sort|2.5|}}Runner-up
+|-
+! scope="row" | [[Ruby Bhogal]]
+| 29 
+| London, England 
+| Project manager <ref>{{cite web |url=https://www.instagram.com/rubybhogal/ |title=Ruby Bhogal }}</ref><ref>{{cite web |url=https://www.radiotimes.com/news/tv/2018-08-24/ruby-bhogal-the-great-british-bake-off-2018-contestant-guide-age-job/ |title=Who is Ruby Bhogal? Meet the Great British Bake Off 2018 contestant |work=Radio Times |date= 24 August 2018 }}</ref>
+|-
+! scope="row" | [[Rahul Mandal]]
+| 30 
+| [[Rotherham]], England 
+| Research scientist  <ref name="Independent">{{cite web |last1=Shepherd |first1=Jack |title=Meet the Great British Bake Off 2018 contestants |url=https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2018-contestants-revealed-gbbo-channel-4-a8500071.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2018-contestants-revealed-gbbo-channel-4-a8500071.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |website=The Independent |date=21 August 2018 |accessdate=21 August 2018}}</ref><ref>{{cite web |url=https://www.radiotimes.com/news/tv/2018-08-24/rahul-mandal-the-great-british-bake-off-2018-contestant-guide-age-job/|title=Who is Rahul Mandal? Meet the Great British Bake Off 2018 contestant|work=Radio Times |date= 24 August 2018 }}</ref>
+|1st
+|}
+
+== Results summary ==
+{| class="wikitable" style="text-align:center"
+|+ Elimination chart
+|-
+! scope="col" | Baker
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+|-
+! scope="row" | Rahul
+| SAFE
+| style="background:LemonChiffon;"|SB
+| style="background:LemonChiffon;"|SB
+| style="background:Cornflowerblue;”| {{color|white|HIGH}}
+| style="background:Cornflowerblue;”| {{color|white|HIGH}}
+| style="background:Cornflowerblue;”| {{color|white|HIGH}}
+| style="background:Cornflowerblue;”| {{color|white|HIGH}}
+| style="background:Plum;" | LOW
+| style="background:Plum;" | LOW
+| style="background:Yellow;"|WINNER
+|-
+! scope="row" | {{nowrap|Kim-Joy}}
+| SAFE
+| SAFE
+| SAFE
+| SAFE
+| style="background:LemonChiffon;"|SB
+| SAFE
+| style="background:LemonChiffon;"|SB
+| style="background:Plum;"| LOW
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:limegreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row" | Ruby
+| style="background:Plum;" | LOW
+| SAFE
+| SAFE
+| SAFE
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Plum;" | LOW
+| style="background:LemonChiffon;"|SB
+| style="background:LemonChiffon;"|SB
+| style="background:limegreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row" | Briony
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Plum;" | LOW
+| style="background:Plum;" | LOW
+| style="background:Plum;" | LOW
+| style="background:Plum;" | LOW
+| style="background:LemonChiffon;"|SB
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:orangered;"|OUT
+| colspan="2" style="background:darkgrey;"|
+|-
+! scope="row" | Manon
+| style="background:LemonChiffon;"|SB
+| SAFE
+| SAFE
+| SAFE
+| style="background:Cornflowerblue;”| {{color|white|HIGH}}
+| style="background:Plum;" | LOW
+| SAFE
+| style="background:orangered;"|OUT
+| colspan="3" style="background:darkgrey;"|
+|-
+! scope="row" | Jon
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Plum;" | LOW
+| SAFE
+| style="background:orangered;"|OUT
+| colspan="4" style="background:darkgrey;"|
+|-
+! scope="row" | Dan
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:LemonChiffon;"|SB
+| SAFE
+| style="background:orangered;"|OUT
+| colspan="5" style="background:darkgrey;"|
+|-
+! scope="row" | Karen
+| SAFE
+| SAFE
+| SAFE
+| style="background:Plum;" | LOW
+| style="background:orangered;"|OUT
+| colspan="6" style="background:darkgrey;"|
+|-
+! scope="row" | Terry
+| style="background:Plum;" | LOW
+| style="background:Plum;" | LOW
+| SAFE
+| style="background:Gainsboro;"|N/A{{ref|1|[a]}} 
+| style="background:orangered;"|OUT
+| colspan="6" style="background:darkgrey;"|
+|-
+! scope="row" | Antony
+| SAFE
+| SAFE
+| style="background:orangered;"|OUT
+| colspan="7" style="background:darkgrey;"|
+|-
+! scope="row" | Luke
+| SAFE
+| style="background:orangered;"|OUT
+| colspan="8" style="background:darkgrey;"|
+|-
+! scope="row" | Imelda
+| style="background:orangered;"|OUT
+| colspan="9" style="background:darkgrey;"|
+|}
+<small>{{ref|1|[a]}} Terry was ill and unable to compete in episode 4, but the bakers agreed he should return to the competition the following week. At the end of episode 4, the judges decided it was unfair to eliminate anyone in Terry's absence. Consequently, two bakers were eliminated the following week.</small>
+
+'''Colour key:'''
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|CornflowerBlue|outline=darkgray|Baker was one of the judges' favourite bakers that week, but was not the Star Baker.}}
+{{legend|<!--default colour-->|outline=darkgray|Baker got through to the next round.}}
+{{legend|Gainsboro|outline=darkgray|Baker did not compete that week.}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated.}}
+{{legend|LemonChiffon|outline=darkgray|Baker was the Star Baker.}}
+{{legend|LimeGreen|outline=darkgray|Baker was a series runner-up.}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner.}}
+
+== Episodes ==
+'''Colour key:'''
+{{legend|#FFC7C7|Baker was eliminated at conclusion of episode}}
+{{legend|#E7E7FF|Baker received a "Hollywood handshake" for respective bake}}
+{{legend|#BFD|Baker was named "Star Baker" at conclusion of episode}}
+{{legend|#DFF|Baker was named runner-up for the series}}
+{{legend|gold|Baker won series}}
+
+=== Episode 1: Biscuits ===
+Breaking with tradition, this year the series kicked off with biscuit week. For the first challenge of the series, the bakers were tasked to bake 24 regional biscuits that needed to be all identical, and said something about them and a place in the British Isles, in 2 hours. For the first technical challenge of this series, they are tasked to make one of Paul Hollywood's childhood favourites - [[Wagon Wheels]], in {{frac|2|1|4}} hours. Finally, for the showstopper, the bakers had to create a spectacular 3D biscuit self-portrait that needed to be constructed with layers of biscuits and judged while placed upright on an easel stand, all in 4 hours.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2018/aug/28/great-british-bake-off-2018-episode-one-live |title =The Great British Bake Off 2018: episode one - as it happened|date=28 August 2018|work=Guardian|accessdate=29 August 2018}}</ref>
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(24 Regional Biscuits)</small>
+! scope="col" | Technical<br><small>(8 [[Wagon Wheels]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(3D Biscuit [[Self-portrait|Self-Portrait]])</small>
+! scope="col" | Result
+|-
+! scope="row" | Antony
+| [[Turmeric]] and [[Caraway]] [[Goosnargh]] Cakes || 12th || "[[Kilimanjaro]] Selfie" || {{Safe}}
+|-
+! scope="row" | Briony
+| Apple Cider Empire Biscuits || 2nd || "[[Bristol]] Biscuit Selfie" || {{Safe}}
+|-
+! scope="row" | Dan
+| Lemon and Strawberry [[Shrewsbury cake|Shrewsburys]] || 4th || "New Dad in [[Palm Springs]]" || {{Safe}}
+|-
+! scope="row" | Imelda
+| Cherry and White Chocolate [[Oatmeal]] Biscuits || 11th || "Seaside Selfie" || {{Eliminated}}
+|-
+! scope="row" | Jon
+| [[Aberffraw]] 'Creams' || 5th || "A Sailing Selfie by the Sea" || {{Safe}}
+|-
+! scope="row" | Karen
+| Yorkshire Perkins || 6th || [[Rosewater]] and [[Cardamom]] "Holiday Selfie" || {{Safe}}
+|-
+! scope="row" | Kim-Joy
+| Orange Blossom York Biscuits || 10th || "Me at [[Miyajima Shrine]]" || {{Safe}}
+|-
+! scope="row" | Luke
+| Yorkshire [[Ginger snap|Gingernuts]] || 8th || "What Happens In [[Vegas]]...!" || {{Safe}}
+|-
+! scope="row" | Manon
+| Hazelnut [[Cornwall|Cornish]] [[Shortbread]] || 3rd || [[Matcha]] and White Chocolate [[Ganache]] Japanese Selfie || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Rahul
+| Fennel and Coconut [[Pitkeathly Wells|Pitcaithly]] [[Bannock (British food)|Bannock]] || 7th || "First Spring in the UK" || {{Safe}}
+|-
+! scope="row" | Ruby
+| [[Masala Chai]] Devon Flats || 1st || "[[Gingerbread]] [[Marathon]] Selfie" || {{Safe}}
+|-
+! scope="row" | Terry
+| [[Lake District]] Ginger Shortbread || 9th || "[[Brandy snaps|Brandy Snap]] Selfie" || {{Safe}}
+|}
+
+=== Episode 2: Cakes ===
+For their signature bakes, the bakers were required to create a traybake sliced into 16 identical pieces in 2 hours. The technical challenge was set by Prue, which featured a cake with an unusual ingredient: Le Gâteau Vert, one of French painter [[Claude Monet]]'s favourite birthday treats, in {{frac|2|1|4}} hours. The cake featured a [[pistachio]] [[genoise]] sponge sandwiched by a pistachio [[crème au beurre]] and covered by a green fondant coloured by [[spinach]]. For the showstopper, the bakers were required to create a technically demanding chocolate collar cake, featuring at least two tiers, in 4 hours.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2018/sep/04/the-great-british-bake-off-2018-episode-two-live |title =The Great British Bake Off 2018: episode two - as it happened|date=4 September 2018|work=Guardian|accessdate=1 November 2018}}</ref>{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(16 Traybakes)</small>
+! scope="col" | Technical<br><small>(Le Gâteau Vert)</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Chocolate Collar Cake)</small>
+! scope="col" | Result
+|-
+! scope="row" | Antony
+| Cardamom and Coconut [[Burfi]] Traybake || 9th || Pistachio, Saffron and Rose Cake || {{Safe}}
+|-
+! scope="row" | Briony
+| [[Turron]] and Orange Traybake || 5th || Chocolate Fudge and Salted Caramel Creation || {{Safe}}
+|-
+! scope="row" | Dan
+| {{longlisted|align=left|[[Black Forest gateau|Black Forest]] Slice}} || 3rd || Dark Chocolate and Raspberry Birthday Cake || {{Safe}}
+|-
+! scope="row" | Jon
+| Lemon Meringue Traybake || 1st || [[Hawaiian Shirt]] [[Pina Colada]] Cake || {{Safe}}
+|-
+! scope="row" | Karen
+| Almond and [[Marzipan]] Traybake with [[Rhubarb]] Jam || 11th || Strawberry Fayre Chocolate Cake || {{Safe}}
+|-
+! scope="row" | Kim-Joy
+| [[Pandanus|Pandan]] [[Chiffon cake|Chiffon Cake]] with Palm Sugar Cream || 4th || [[Yuzu]] and Raspberry [[Genoise]] Cat Cake || {{Safe}}
+|-
+! scope="row" | Luke
+| Lemon and Poppy Seed Traybake || 7th || Raspberry and White Chocolate Collar Cake || {{Eliminated}}
+|- 
+! scope="row" | Manon
+| Rosemary and Honey Traybake || 6th || Almond Princess Cake || {{Safe}}
+|-
+! scope="row" | Rahul
+| Lemon and Cardamom Traybake || 2nd || {{longlisted|align=left|Chocolate Orange Layer Cake}}{{efn|First handshake given for a Showstopper challenge}} || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Ruby
+| Boozy [[Black Forest gateau|Black Forest]] Traybake || 10th || {{longlisted|align=left|Chocolate Orange "[[Jackson Pollock]]" Collar Cake}} || {{Safe}}
+|-
+! scope="row" | Terry
+| Rum and Raisin Traybake || 8th || Champagne and Strawberries [[Eiffel Tower]] Collar Cake || {{Safe}}
+|}
+{{notelist}}
+
+=== Episode 3: Bread ===
+For their signature bakes, the bakers had 3 hours to create a British classic, 12 [[chelsea bun]]s. In the technical challenge, the bakers, using Paul Hollywood's recipe, were tasked to make a batch of 8 grilled non-yeasted garlic [[naan]]s, brushed with garlic [[ghee]] and topped with [[coriander]], in 1 hour. For their showstopper, the bakers were asked to create a three-tiered [[Korovai]] to be elaborately decorated for a celebratory occasion, in 5 hours. Most of the bakers chose the traditional wedding theme.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2018/sep/11/the-great-british-bake-off-2018-episode-three-live |title =The Great British Bake Off 2018: episode three - as it happened|date=11 September 2018|work=Guardian|accessdate=1 November 2018}}</ref>{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(12 [[Chelsea bun|Chelsea Buns]])</small>
+! scope="col" | Technical<br><small>(8 Non-Yeasted Garlic [[Naan]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>([[Korovai]])</small>
+! scope="col" | Result
+|-
+! scope="row" | Antony
+| Decadent Breakfast Chelsea Buns || 8th || Chocolate and Orange Adventure Korovai || {{Eliminated}}
+|-
+! scope="row" | Briony
+| [[Balsamic]] Strawberry Chelsea Buns || 9th || Happily Ever After Korovai || {{Safe}}
+|-
+! scope="row" | Dan
+| {{longlisted|align=left|Sticky Spiced Orange Chelsea Buns}} || 6th || Wedding Korovai || {{Safe}}
+|-
+! scope="row" | Jon
+| [[Cardiff City]] vs [[Chelsea F.C.|Chelsea]] Buns || 2nd || Korovai [[Saint David's Day|Dydd Dewi Sant]] || {{Safe}}
+|-
+! scope="row" | Karen
+| [[Peak District]] [[Christmas]] Chelsea Buns || 5th || French Breakfast Wedding Korovai || {{Safe}}
+|-
+! scope="row" | Kim-Joy
+| Pistachio and Cardamom [[Tangzhong]] Chelsea Buns || 10th || Orange, Cinnamon and Cranberry '[[kitten|Kit]]-ovai' || {{Safe}}
+|-
+! scope="row" | Manon
+| Apricot, Cranberry and Marzipan Chai Chelsea Buns || 3rd || [[Fabergé]] Inspired Traditional Korovai || {{Safe}}
+|-
+! scope="row" | Rahul
+| Mango and Cranberry Chelsea Buns || 4th || Garden Wedding Korovai || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Ruby
+| [[Gajar ka halwa|Gujarela]] Chelsea Buns with Dates, Almonds and Raisins || 7th || Mama and Papa's Belated Wedding Korovai || {{Safe}}
+|-
+! scope="row" | Terry
+| Tangy Citrus Sticky Chelsea Buns || 1st || Garden Korovai || {{Safe}}
+|}
+
+=== Episode 4: Desserts ===
+At the start of this episode, it was announced that Terry was not able to compete this week due to illness. But, with the agreement of all, he would be allowed to come back to the competition the following week. For their signature bakes, the bakers were required to create a [[meringue]] [[roulade]] in 1 hour and 45 minutes. For their technical challenge, using Prue's recipe, the bakers were tasked to produce a raspberry [[blancmange]] served with 12 [[Cat tongue|langues de chat]] biscuits in {{frac|2|1|2}} hours. For their showstoppers, the bakers were tasked to create a spectacular melting chocolate ball dessert, which is a chocolate sphere that would be melted away with a hot sauce, revealing the dessert hidden inside, in 3 hours. After the three challenges, Briony and Karen were left as the bottom two. However, nobody was eliminated this week, as the judges deemed it would be unfair to send anyone home with Terry's absence. However, this meant two bakers would be eliminated the following week.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2018/sep/18/the-great-british-bake-off-2018-episode-four-live |title =The Great British Bake Off 2018: episode four - as it happened|date=18 September 2018|work=Guardian|accessdate=1 November 2018}}</ref>{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>([[Meringue]] [[Roulade]])</small>
+! scope="col" | Technical<br><small>(Raspberry [[Blancmange]] with 12 [[Cat tongue|Langues du Chat]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Melting Chocolate Ball Dessert)</small>
+! scope="col" | Result
+|-
+! scope="row" | Briony
+| [[Treacle Tart]] Roulade || 5th || Blood Orange & [[Amaretto]] Sticky [[Toffee]] Sphere || {{Safe}}
+|-
+! scope="row" | Dan
+| {{longlisted|align=left|[[Florida]] Roulade}} || 1st || [[James and the Giant Peach|Dan and the Giant Peach]] || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Jon
+| {{longlisted|align=left|Mango and Passion Fruit Roulade}} || 3rd || Lucy and Hannah's [[Ballet]] Cake || {{Safe}}
+|-
+! scope="row" | Karen
+| Coffee Cream and [[Praline (nut confection)|Praline]] Roulade || 7th || Chateau Du Chambord Framboise || {{Safe}}
+|-
+! scope="row" | Kim-Joy
+| 'Sweet Dreams' Roulade || 6th || Melting Chocolate [[Galaxy]] || {{Safe}}
+|- 
+! scope="row" | Manon
+| [[Amarene]] and [[Kirsch]] Cherry Roulade || 8th || White Chocolate [[Renaissance]] Surprise || {{Safe}}
+|-
+! scope="row" | Rahul
+| [[Rhubarb]] and [[Custard]] Roulade || 4th || Opera Cake with [[Kalasha|Kalash]] Inspired Dome || {{Safe}}
+|-
+! scope="row" | Ruby
+| [[Pina Colada]] Roulade || 2nd || Chocolate Egg || {{Safe}}
+|-
+! scope="row" | Terry
+| colspan="3" {{n/a|''Did not compete''}} || {{Safe}}
+|}
+
+=== Episode 5: Spice ===
+For the signature challenge, the bakers were tasked to bake a [[ginger]] cake in 2 hours. For the technical challenge, using Paul Hollywood's recipe, the bakers must create a batch of 12 [[ma'amoul]], an ancient pastry from the Middle East that none of the bakers had heard of, in {{frac|1|1|2}} hours. In the batch, 6 of the ma'amoul must be filled with [[walnuts]] and shaped with a mould, and the other 6 must be filled with a [[Date (fruit)|date]] paste and decorated by pinching the dough with ma'amoul tongs. For their showstoppers, the bakers were tasked to create a beautiful, gravity-defying spiced biscuit [[chandelier]] to be done in 4 hours. Prue was unwell during the showstoppers round, and as a result, Paul was left as the solo judge.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2018/sep/25/great-british-bake-off-2018-episode-five-live |title =The Great British Bake Off 2018: episode five - as it happened|date=26 September 2018|work=Guardian|accessdate=1 November 2018}}</ref>{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br /><small>([[Ginger]] Cake)</small>
+! scope="col" | Technical<br /><small>(12 [[Ma'amoul]])</small>
+! scope="col" class="unsortable" | Showstopper<br /><small>(Spiced Biscuit [[Chandelier]])</small>
+! scope="col" | Result
+|-
+! scope="row" | Briony
+| Honey and Apricot Ginger Cake || 6th || [[Turmeric]] [[Latte]] Chandelier || {{Safe}}
+|-
+! scope="row" | Dan
+| Ginger and Lemon Drip Cake || 2nd || Birthday [[Kaleidoscope]] for Constance || {{Safe}}
+|-
+! scope="row" | Jon
+| Family [[Christmas]] Ginger Cake || 7th || Birthday Chandelier for Emily's 21st || {{Safe}}
+|-
+! scope="row" | Karen
+| [[Parkin (cake)|Bonfire Night]] Ginger Cake || 9th || [[Pontefract and District Girls High School|Pontefract Girls' School]] Reunion || {{Eliminated}}
+|-
+! scope="row" | Kim-Joy
+| {{longlisted|align=left|Stem Ginger Cake with Poached Pears}} || 4th || Christmas Spiced Ice Chandelier || {{sort|1|}}{{Good|Star Baker}}
+|- 
+! scope="row" | Manon
+| {{longlisted|align=left|Italian Meringue Ginger Cake}} || 5th || [[Art Deco]] Spiced Biscuit Chandelier || {{Safe}}
+|-
+! scope="row" | Rahul
+| {{longlisted|align=left|[[Bonfire Night]] Caramel Ginger Cake}} || 3rd || [[Durga Puja]] Cardamom Chandelier || {{Safe}}
+|-
+! scope="row" | Ruby
+| Jamaican Me Crazy Ginger Cake || 1st || [[Peacock]] Chandelier || {{Safe}}
+|-
+! scope="row" | Terry
+| Caramelised Pear and Stem Ginger Cake || 8th || 12 Days of Christmas Chandelier || {{Eliminated}}
+|}
+
+=== Episode 6: Pastry ===
+For the signature challenge, the bakers were tasked to make 12 [[samosas]]—6 savoury, 6 sweet—in 2 hours. The samosas must also be served with a dip to complement them. The technical challenge was set by Prue Leith, and the bakers were required to make 6 [[puits d'amour]], meaning "well of love", in 2 hours. For the showstopper challenge, the bakers were tasked to create a shaped banquet pie that would be beautifully decorated enough to act as a centrepiece at a Tudor banquet in {{frac|3|1|2}} hours.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2018/oct/02/the-great-british-bake-off-2018-episode-six-live |title =The Great British Bake Off 2018: episode six - as it happened|date=2 October 2018|work=Guardian|accessdate=1 November 2018}}</ref>{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(12 [[Samosas]])</small>
+! scope="col" | Technical<br><small>(6 [[Puits d'amour|Puits D'amour]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Shaped Banquet Pie)</small>
+! scope="col" | Result
+|-
+! scope="row" | Briony
+| Home Comforts || 1st || "[[Alice's Adventures in Wonderland|Down the Rabbit Hole]]" Banquet Pie || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Dan
+| Festive Samosas || 6th || Salmon [[Coulibiac]] || {{Eliminated}}
+|-
+! scope="row" | Jon
+| A Romantic Dinner For Two, Samosa Style || 2nd || Welsh [[Dragon]] Pie || {{Safe}}
+|-
+! scope="row" | Kim-Joy
+| Flavours of [[India]] || 5th || Silke the Vegetarian [[Mermaid]] || {{Safe}}
+|-
+! scope="row" | Manon
+| Samosas for Mum || 4th || "What Has Poppy Eaten?" || {{Safe}}
+|-
+! scope="row" | Rahul
+| {{longlisted|align=left|[[Paneer]] [[Singara]] and [[Misti]] Singara}} || 3rd || [[Butterfly]] Pie || {{Safe}}
+|-
+! scope="row" | Ruby
+| {{longlisted|align=left|Traditional Samosas}} || 7th || [[Kohinoor]] Crown || {{Safe}}
+|}
+
+=== Episode 7: Vegan ===
+The remaining 6 bakers were required, in the signature challenge, to make 8 savoury [[vegan]] [[tartlets]] of 2 different fillings using [[shortcrust]] pastry that contained no butter or eggs in 2 hours. For the technical challenge, using Prue Leith's recipe, the bakers were tasked to make a vegan tropical fruit [[Pavlova (food)|pavlova]] using [[aquafaba]] in place of egg whites to create the [[meringue]] in {{frac|2|1|2}} hours. For the showstopper, the bakers were tasked to create a beautiful vegan celebratory cake in 4 hours.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2018/oct/09/the-great-british-bake-off-2018-episode-seven-live |title =The Great British Bake Off 2018: episode seven - as it happened|date=9 October 2018|work=Guardian|accessdate=1 November 2018}}</ref>{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(8 Savoury [[Vegan]] [[Tartlets]])</small>
+! scope="col" | Technical<br><small>(Vegan Tropical Fruit [[Pavlova (food)|Pavlova]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Vegan Celebratory Cake)</small>
+! scope="col" | Result
+|-
+! scope="row" | Briony 
+| French Onion Tartlets<br>Celeriac & Apple Tartlets || 5th || [[Hazelnut]] [[Mocha coffee bean|Mocha]] Cake || {{Safe}}
+|-
+! scope="row" | Jon
+| Garlic Mushroom Tartlets<br>[[Falafel]] & [[Hummus]] Tartlets || 4th || [[Only Fools and Horses|Only Fools Eat Horses]] Cake || {{Eliminated}}
+|-
+! scope="row" | Kim-Joy
+| {{longlisted|align=left|Broccoli & Tomato [[Quiche]]s<br>[[Mascarpone]] Squirrel Tartlets}} || 6th || [[Lavender]] & Lemon [[Fox]] Cake || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Manon
+| Summer & Winter Tartlets || 2nd || Spiced Apple Cake || {{Safe}}
+|-
+! scope="row" | Rahul
+| Coriander [[Posto]] & Veg Tartlets<br>[[Ghugni]] [[Chaat]] Tartlets || 1st || Chocolate & Coconut Layer Cake with Raspberry Jam || {{Safe}}
+|-
+! scope="row" | Ruby
+| Sage & [[Butternut squash|Butternut]] Tartlets<br>'Cheesy Greens' Tartlets || 3rd || Chocolate, Lemon & Coconut Cake || {{Safe}}
+|}
+
+=== Episode 8: Danish (Quarterfinals) ===
+In the quarterfinal signature challenge, the final 5 bakers were tasked to make a [[rye bread]] and from it to make 2 types of ''[[Smørrebrød]]'' in {{frac|3|1|2}} hours. For the technical challenge, the bakers were instructed to make 14 ''[[Æbleskiver]]'' containing a cinnamon and apple filling, and served with a strawberry jam dipping sauce in 1 hour. For the showstopper challenge, the bakers were required to make a [[kagemand]] or a kagekone, a traditional Danish birthday cake made from [[Danish pastry]] that resembles a boy or a girl, in {{frac|4|1|2}} hours. The bakers' kagemand/kagekone must be based on someone the bakers recognised and they must use at least three different [[confectionery]] making skills within it.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2018/oct/16/the-great-british-bake-off-2018-episode-eight-live |title =The Great British Bake Off 2018: episode eight - as it happened|date=16 October 2018|work=Guardian|accessdate=1 November 2018}}</ref>{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(2 ''[[Smørrebrød]]'')</small>
+! scope="col" | Technical<br><small>(14 ''[[Æbleskiver]]'')</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(''[[Kagemand]]/Kagekone'')</small>
+! scope="col" | Result
+|-
+! scope="row" | Briony
+| Spanish & West Country Smørrebrød || 1st || Nana Pat Kagekone || {{Safe}}
+|-
+! scope="row" | Kim-Joy
+| Bumblebee Eggs & Fish Smørrebrød || 2nd || Off to the Opera Kagekone || {{Safe}}
+|-
+! scope="row" | Manon
+| Cheese and Fruit Smørrebrød || 4th || Birthday Girl Kagekone || {{Eliminated}}
+|-
+! scope="row" | Rahul
+| Smoked Salmon & Roasted Vegetable Smørrebrød || 5th || Indian King Kagemand || {{Safe}}
+|-
+! scope="row" | Ruby
+| Post-Gym Smørrebrød || 3rd || Sister Kagekone || {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 9: Pâtisserie (Semi-final) ===
+In the [[pâtisserie]] semifinal signature challenge, the bakers were tasked to make 24 dipped [[Madeleine (cake)|Madeleines]], in 2 designs and flavours, in {{frac|1|1|2}} hours. For the technical challenge, the bakers tackled Prue Leith's complex recipe for [[Torta setteveli|Torta Setteveli]], a 7-layered cake containing 2 light chocolate [[genoise]] sponges, hazelnut [[Bavarian cream|bavarois]], crunchy [[Praline (nut confection)|praline]] base and a chocolate [[mousse]], topped with a chocolate mirror glaze, to be completed in {{frac|3|1|2}} hours. For the penultimate showstopper challenge, the bakers were tasked to create a Parisian [[pâtisserie]] window containing 36 pâtisserie in 3 types: [[choux pastry]], {{lang|fr|italic=no|[[shortcrust pastry|pate sucree]]}} and [[puff pastry]] [[mille-feuille]], in 5 hours.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2018/oct/23/great-british-bake-off-2018-semi-final-live |title =The Great British Bake Off 2018: semi-final - as it happened|date=23 October 2018|work=Guardian|accessdate=1 November 2018}}</ref>{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(24 Dipped [[Madeleine (cake)|Madeleines]])</small>
+! scope="col" | Technical<br><small>([[Torta setteveli|Torta Setteveli]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Parisian Pâtisserie Window)</small>
+! scope="col" | Result
+|-
+! scope="row" | Briony 
+| [[Mojito]] Madeleines<br>[[Espresso Martini]] Madeleines || 3rd || British Tea to French Pâtisserie Window || {{Eliminated}}
+|-
+! scope="row" | Kim-Joy
+| Ginger and Lemon Madeleines<br>Orange Bunny Madeleines || 2nd || Flavourite Flavours Window Display || {{Safe}}
+|-
+! scope="row" | Rahul
+| Lemon and Raspberry Madeleines<br>Orange Curd Madeleines || 4th || Classic Tribute to Pâtisserie Window || {{Safe}}
+|-
+! scope="row" | Ruby
+| Pick Your Own Madeleines || 1st || Parisian Un Bouquet de Fleurs Window Display || {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 10: Final ===
+For the final signature challenge, the last 3 bakers were required to make 12 iced [[doughnuts]] of 2 types, filled and ring, in 3 hours. The technical challenge was another Bake Off first, where the bakers were asked to carry out the challenge outside the tent. Using Paul Hollywood's recipe, the bakers needed to produce 6 [[pita]] breads in 90 minutes, to be served with 3 different dips: [[baba ghanoush]], smoked garlic [[salsa verde]] and burnt pepper salsa, using the open campfire set up outside. For the final showstopper, the bakers were asked to create an incredible landscape dessert with at least 3 different elements within it, in {{frac|4|1|2}} hours. During the showstopper, one of Rahul's storage glass jars exploded under the intense heat, which resulted in shards of broken glass shattered all over his bench and potentially contaminated his bakes, requiring clean up from the production team. As a result, he was given an extra 15 minutes for the challenge.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2018/oct/30/the-great-british-bake-off-2018-final-find-out-who-takes-the-crown |title =The Great British Bake Off 2018: final - as it happened|date=30 October 2018|work=Guardian|accessdate=1 November 2018}}</ref>{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(12 Iced [[Doughnuts]])</small>
+! scope="col" | Technical<br><small>(6 [[Campfire]] [[Pita]] Breads)</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Landscape Dessert)</small>
+! scope="col" | Result
+|-
+! scope="row" | Kim-Joy
+| [[Amaretto]] Diplomat Filled Doughnuts<br>Lemon Ring Doughnuts
+| 1st || Lost City of [[Atlantis]] Dessert Landscape || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Rahul
+| Mango Créme Pâtissière Filled Doughnuts<br>Spiced Orange Ring Doughnuts
+| 2nd || Edible Rock Garden || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" | Ruby
+| [[Dulce de leche|Dulce De Leche]] Filled Doughnuts<br>Raspberry and Cardamom Ring Doughnuts
+| 3rd || Magical Edible Landscape || {{sort|2.5|}}{{Runner-up}}
+|}
+
+== Specials ==
+The two holiday specials each feature four returning contestants from the series 5–8.
+
+The Great Christmas Bake Off featured [[Liam Charles]] (Series 8), Flo Atkins (Series 8), [[Andrew Smyth (engineer)|Andrew Smyth]] (Series 7) and Jane Beedle (Series 7). The special was won by Jane Beedle.
+
+The Great Festive Bake Off featured the return of winner [[Candice Brown]] (Series 7), [[Steven Carter-Bailey]] (Series 8), Tamal Ray (Series 6) and Kate Henry (Series 5). The special was won by Steven Carter-Bailey.<ref>{{cite web|url=https://www.radiotimes.com/news/tv/2019-01-01/great-new-years-bake-off-cast-bakers/ |title=The Great New Year's Bake Off: meet the bakers|date=1 January 2019|work=Radio Times|accessdate=1 January 2019}}</ref>	
+
+=== ''The Great Christmas Bake Off'' ===
+For the signature challenge, the bakers were asked to create 12 iced biscuits based on the theme of [[The Twelve Days of Christmas (song)|The Twelve Days of Christmas]], which can be the bakers' own personal interpretation, in {{frac|2|1|2}} hours. The technical challenge was set by Paul, where the bakers were tasked to produce 6 Icelandic [[Laufabrauð]] in {{frac|1|1|4}} hours. The final showstopper challenge gave the bakers 4 hours to make a cake in the shape of a [[Christmas present]] that reveals a spectacular hidden design when cut open.
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(12 Iced Biscuits)</small>
+! scope="col" | Technical<br><small>(6 [[Laufabrauð]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Hidden Design Christmas Present Cake)</small>
+! scope="col" | Result
+|-
+! scope="row" | Andrew
+| '12 Days Home For Christmas' Biscuits || 2nd || 'Boozy Bauble' Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Flo
+| Spiced [[Treacle]] & Ginger Biscuits || 4th || 'Very Merry Prezzie!' || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Jane
+| '12 Days of Decorating' Biscuits || 1st || 'Practically Perfect [[Penguin]] Present' Cake || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" | Liam
+| '12 Essentials of Liam' Vanilla [[Mince Pie]] [[Shortbread]] || 3rd || '3-In-1 It's Gotta Be Fun' Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+|}
+
+=== ''The Great Festive Bake Off'' ===
+The returning bakers were tasked to bake an iced [[stollen]] [[wreath]] for their signature challenge in only 3 hours. The technical challenge was set by Prue, who asked the bakers to make 4 [[Floating island (dessert)|snow eggs]] crowned with delicate spun sugar cages in {{frac|1|1|2}} hours. For the final showstopper challenge, the bakers were tasked to make a 3D [[New Year's Resolution]] Cake, where all decorations must be edible, in {{frac|4|1|2}} hours.
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(Iced [[Stollen]] [[Wreath]])</small>
+! scope="col" | Technical<br><small>(4 [[Floating island (dessert)|Snow Eggs]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(3D [[New Year's Resolution]] Cake)</small>
+! scope="col" | Result
+|-
+! scope="row" | Candice
+| 'Festive' Apple Stollen || 2nd || 'Wear More Lipstick' Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Kate
+| {{longlisted|align=left|Ginger & Almond Stollen}} || 4th || 'Dream Restaurant' Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Steven
+| {{longlisted|align=left|'[[Bachelor party|Stag Night]]' Stollen}} || 1st || 'Communication' Cake{{efn|Received a "Hollywood hug"}} || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" | Tamal
+| Orange & Rum Stollen || 3rd || 'Tailor's Dummy' Cake || {{sort|2.5|}}{{Runner-up}}
+|}
+{{notelist}}
+
+== Ratings ==
+The final was watched by an overnight viewing audience figure of 7.5 million, down from the previous final of 7.7 million and the lowest since 2012.<ref>{{cite web |url=https://inews.co.uk/culture/television/great-british-bake-off-final-7-5-million-viewers-watch-rahul-win-as-ratings-fall/ |title=Great British Bake Off final viewing figures – 7.5 million viewers watch Rahul crowned 2018 winner as ratings fall|first=Adam |last=Sherwin|work=iNews |date=31 October 2018 }}</ref> The ratings below are cumulative figures over longer periods, and they include multiple-screen viewing figures (on TV, computer, tablet and smartphone), the first year this system was implemented, and the figures are therefore slightly higher than it would have been without the multiple-screen viewing figures.<ref name="BARB2"/>
+
+{{table alignment}}
+{| class="wikitable defaultcenter col2left"
+|-
+! scope="col" | Episode<br />no.
+! scope="col" | Airdate
+! scope="col" | 7 day viewers<br /><small>(millions)</small>
+! scope="col" | 28 day viewers<br /><small>(millions)</small>
+! scope="col" | Channel 4<br />weekly ranking
+! scope="col" | Weekly ranking<br />all channels<ref name="BARB2">{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard|publisher=[[Broadcasters' Audience Research Board]]|accessdate=1 September 2017}}</ref>
+|-
+! scope="row" | 1
+| {{Start date|2018|08|28|df=y}} || 9.55 || 9.92 || rowspan="10" | 1 || rowspan="2" | 3
+|-
+! scope="row" | 2
+| {{Start date|2018|09|04|df=y}} || 9.31 || 9.76 
+|-
+! scope="row" | 3
+| {{Start date|2018|09|11|df=y}} || 8.91 || 9.35 || 2
+|-
+! scope="row" | 4
+| {{Start date|2018|09|18|df=y}} || 8.88 || 9.41 || rowspan="2" | 3
+|-
+! scope="row" | 5
+| {{Start date|2018|09|25|df=y}} || 8.67 || 9.15 
+|-
+! scope="row" | 6
+| {{Start date|2018|10|02|df=y}} || 8.91 || 9.30 || 4
+|-
+! scope="row" | 7
+| {{Start date|2018|10|09|df=y}} || 9.22 || 9.54 || 3
+|-
+! scope="row" | 8
+| {{Start date|2018|10|16|df=y}} || 9.69 || 9.93 || 2
+|-
+! scope="row" | 9
+| {{Start date|2018|10|23|df=y}} || 9.50 || 9.70 || 3
+|-
+! scope="row" | 10
+| {{Start date|2018|10|30|df=y}} || 10.34 || 10.54 || 2
+|}
+
+== References ==
+{{Reflist}}
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off (series 9), The}}
+[[Category:The Great British Bake Off|Series 9]]
+[[Category:2018 British television seasons]]

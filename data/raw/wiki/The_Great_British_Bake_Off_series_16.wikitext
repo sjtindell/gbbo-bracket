@@ -1,0 +1,1008 @@
+{{Short description|Sixteenth series of The Great British Bake Off}}
+{{Use dmy dates|date=September 2025}}
+{{Infobox television season
+ | image                = 
+ | caption              = 
+ | series_number        = 16
+ | module1              = {{Infobox reality competition season
+ | presenter       = [[Noel Fielding]]<br>[[Alison Hammond]]
+ | judges          = [[Paul Hollywood]]<br>[[Prue Leith]]
+ | num_contestants = 12
+ | winner          = Jasmine Mitchell 
+ | runner_up       = Tom Arden<br>Aaron Mountford-Myles
+ | location        = [[Welford Park]], near Newbury, Berkshire
+}}
+| num_episodes         = 10
+| network              = [[Channel 4]]
+| first_aired          = {{Start date|df=y|2025|09|02}}
+| last_aired           = {{End date|df=y|2025|11|04}}
+}}
+
+The '''sixteenth series''' of ''[[The Great British Bake Off]]'' began on 2 September 2025, again presented by [[Alison Hammond]] and [[Noel Fielding]] and judged by [[Paul Hollywood]] and [[Prue Leith]].<ref>{{cite web |last1=O'Grady |first1=Sean |title=The Great British Bake Off review – What an emotional rollercoaster |url=https://www.the-independent.com/arts-entertainment/tv/reviews/the-great-british-bake-off-review-b2818510.html |website=The Independent |access-date=2 September 2025}}</ref> The bakers competing in the series were announced on 19 August 2025.<ref>{{cite web |last1=Mensah |first1=Katelyn |title=The Great British Bake Off confirms return date for season 16 and reveals cast {{!}} Radio Times |url=https://www.radiotimes.com/tv/entertainment/the-great-british-bake-off-2025-cast/ |website=[[Radio Times]] |access-date=19 August 2025}}</ref><ref>{{cite web |last1=Heritage |first1=Stuart |title=From a ‘Yeastie Boy’ to the ultimate fairytale contestant: meet the stars of the 2025 Great British Bake Off |url=https://www.theguardian.com/tv-and-radio/2025/aug/19/great-british-bake-off-meet-the-contestants |website=[[The Guardian]] |access-date=19 August 2025 |date=19 August 2025}}</ref> This series is the last to feature [[Prue Leith]].
+
+The series was won by Jasmine Mitchell, with Tom Arden and Aaron Mountford-Myles finishing as the runners-up.
+
+== Bakers ==
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col"| Baker<ref>{{cite web |title=The Great British Bake Off 2025: Meet the Bakers {{!}} Channel 4 |url=https://www.channel4.com/press/news/great-british-bake-2025-meet-bakers |website=[[Channel 4]] |access-date=19 August 2025}}</ref><ref>{{cite web |title=Meet the 12 new Great British Bake Off contestants for 2025's brand new series |url=https://www.digitalspy.com/tv/reality-tv/g65808587/great-british-bake-off-2025-cast/ |website=[[Digital Spy]] |access-date=19 August 2025 |date=18 August 2025}}</ref>
+! scope="col"| Age
+! scope="col"| Hometown
+! scope="col"| Occupation
+! scope="col"| Finish
+! scope="col"| Place
+|-
+! scope="row" | Hassan Islam
+| align="center" | 30
+| nowrap|[[Rotherham]], [[England]]
+| nowrap|Analytical research & development scientist<ref>{{cite web |title=Hassan |url=https://thegreatbritishbakeoff.co.uk/bakers/series-16-hassan/ |website=[[The Great British Bake Off]] |access-date=19 August 2025}}</ref>
+|{{nowrap|Episode 1}}
+|12th
+|-
+! scope="row" | Leighton Morgan
+| align="center" | 59
+| nowrap|[[Surrey]], England
+| nowrap|Software delivery manager<ref>{{cite web |title=Leighton |url=https://thegreatbritishbakeoff.co.uk/bakers/series-16-leighton/ |website=[[The Great British Bake Off]] |access-date=19 August 2025}}</ref>
+|{{nowrap|Episode 2}}
+|11th
+|-
+! scope="row" | Carol 'Pui Man' Li{{efn|Originally from [[Hong Kong]]}}
+| align="center" | 51
+| [[Essex]], England
+| Bridal designer<ref>{{cite web |title=Pui Man |url=https://thegreatbritishbakeoff.co.uk/bakers/series-16-pui-man/ |website=[[The Great British Bake Off]] |access-date=19 August 2025}}</ref>
+|{{nowrap|Episode 3}}
+|10th
+|-
+! scope="row" | Jessika Trassel
+| align="center" | 32
+| [[London]], England
+| Service designer<ref>{{cite web |title=Jessika |url=https://thegreatbritishbakeoff.co.uk/bakers/series-16-jessika/ |website=[[The Great British Bake Off]] |access-date=19 August 2025}}</ref>
+|{{nowrap|Episode 4}}
+|9th
+|-
+! scope="row" | Nadia Mercuri
+| align="center" | 41
+| [[Liverpool]], England
+| Hairdresser<ref>{{cite web |title=Nadia |url=https://thegreatbritishbakeoff.co.uk/bakers/series-16-nadia/ |website=[[The Great British Bake Off]] |access-date=19 August 2025}}</ref>
+|{{nowrap|Episode 5}}
+|8th
+|-
+! scope="row" | Nataliia Richardson{{efn|Originally from [[Ukraine]]}}
+| align="center" | 32
+| [[East Yorkshire]], England
+| Office assistant<ref>{{cite web |title=Nataliia |url=https://thegreatbritishbakeoff.co.uk/bakers/series-16-nataliia/ |website=[[The Great British Bake Off]] |access-date=19 August 2025}}</ref>
+|{{nowrap|Episode 6}}
+|7th
+|-
+! scope="row" | Lesley Holloway
+| align="center" | 59
+| [[Kent]], England
+| Hairdresser<ref>{{cite web |title=Lesley |url=https://thegreatbritishbakeoff.co.uk/bakers/series-16-lesley/ |website=[[The Great British Bake Off]] |access-date=19 August 2025}}</ref>
+|{{nowrap|Episode 7}}
+|6th
+|-
+! scope="row" | Iain Ross
+| align="center" | 29
+| [[Belfast]], [[Northern Ireland]]
+| Software engineer<ref>{{cite web |title=Iain |url=https://thegreatbritishbakeoff.co.uk/bakers/series-16-iain/ |website=[[The Great British Bake Off]] |access-date=19 August 2025}}</ref>
+|{{nowrap|Episode 8}}
+|5th
+|-
+! scope="row" | Toby Littlewood
+| align="center" | 29
+| [[Warwickshire]], England
+| Business development executive<ref>{{cite web |title=Toby |url=https://thegreatbritishbakeoff.co.uk/bakers/series-16-toby/ |website=[[The Great British Bake Off]] |access-date=19 August 2025}}</ref>
+|{{nowrap|Episode 9}}
+|4th
+|-
+! scope="row" | {{nowrap|Aaron Mountford-Myles}}
+| align="center" | 38
+| nowrap|[[Stoke-on-Trent]], England
+| Senior systems architect<ref>{{cite web |title=Aaron |url=https://thegreatbritishbakeoff.co.uk/bakers/series-16-aaron/ |website=[[The Great British Bake Off]] |access-date=19 August 2025}}</ref>
+| rowspan="3"|Episode 10
+|rowspan="2"|{{sort|2.5|}}Runner-up
+|-
+! scope="row" | Thomas "Tom" Arden
+| align="center" | 31
+| [[London]], England
+| Creative entrepreneur<ref>{{cite web |title=Tom |url=https://thegreatbritishbakeoff.co.uk/bakers/series-16-tom/ |website=[[The Great British Bake Off]] |access-date=19 August 2025}}</ref>
+|-
+! scope="row" | Jasmine Mitchell
+| align="center" | 23
+| [[London]], England
+| Medical student<ref>{{cite web |title=Jasmine |url=https://thegreatbritishbakeoff.co.uk/bakers/series-16-jasmine/ |website=[[The Great British Bake Off]] |access-date=19 August 2025}}</ref>
+|1st
+|-
+|}
+
+{{notelist}}
+
+== Results summary ==
+{| class="wikitable" style="text-align:center; font-size:92%"
+! rowspan="02" | Baker
+! colspan="10" | Episodes
+|-
+! scope="col"| 1
+! scope="col"| 2
+! scope="col"| 3
+! scope="col"| 4
+! scope="col"| 5
+! scope="col"| 6
+! scope="col"| 7
+! scope="col"| 8
+! scope="col"| 9
+! scope="col"| 10
+|-
+! scope="row" | Jasmine
+| SAFE
+| style="background:CornflowerBlue"|HIGH
+| style="background:LemonChiffon"|SB
+| style="background:LemonChiffon"|SB
+| style="background:CornflowerBlue"|HIGH
+| style="background:LemonChiffon"|SB
+| style="background:CornflowerBlue"|HIGH
+| style="background:LemonChiffon"|SB
+| style="background:LemonChiffon"|SB
+| style="background:Yellow;"|WINNER
+|-
+! scope="row" | Aaron
+| SAFE
+| style="background:Plum"|LOW
+| SAFE
+| SAFE
+| style="background:LemonChiffon"|SB
+| style="background:Plum"|LOW
+| SAFE
+| style="background:CornflowerBlue;"| HIGH
+| style="background:Plum"|LOW{{ref|1|[a]}}
+| rowspan="2" style="background:LimeGreen"|RUNNER-UP
+|-
+! scope="row" | Tom
+| style="background:CornflowerBlue"|HIGH
+| style="background:LemonChiffon"|SB 
+| style="background:CornflowerBlue"|HIGH
+| style="background:CornflowerBlue"|HIGH
+| style="background:CornflowerBlue"|HIGH
+| SAFE
+| SAFE
+| style="background:Plum"|LOW
+| style="background:Plum"|LOW{{ref|1|[a]}}
+|-
+! scope="row" | Toby
+| style="background:Plum"|LOW
+| style="background:Plum"|LOW
+| SAFE
+| style="background:CornflowerBlue"|HIGH
+| style="background:Plum"|LOW
+| SAFE
+| style="background:LemonChiffon"|SB 
+| SAFE
+| style="background:OrangeRed"|OUT{{ref|1|[a]}}
+| colspan="2"style="background:darkgray"|
+|-
+|-
+! scope="row" | Iain
+| SAFE
+| SAFE
+| style="background:Plum"|LOW
+| style="background:Plum"|LOW
+| SAFE
+| SAFE
+| style="background:Plum"|LOW
+| style="background:OrangeRed"|OUT
+| colspan="3"style="background:darkgray"|
+|-
+! scope="row" | Lesley
+| SAFE
+| SAFE
+| SAFE
+| SAFE
+| SAFE
+| style="background:CornflowerBlue"|HIGH
+| style="background:OrangeRed"|OUT
+| colspan="4"style="background:darkgray"|
+|-
+! scope="row" | Nataliia
+| style="background:LemonChiffon"|SB
+| SAFE
+| style="background:Plum"|LOW
+| SAFE
+| SAFE
+| style="background:OrangeRed"|OUT
+| colspan="5"style="background:darkgray"|
+|-
+! scope="row" | Nadia
+| SAFE
+| SAFE
+| style="background:CornflowerBlue"|HIGH
+| SAFE
+| style="background:OrangeRed"|OUT
+| colspan="6"style="background:darkgray"|
+|-
+! scope="row" | Jessika
+| style="background:CornflowerBlue"|HIGH
+| SAFE
+| SAFE
+| style="background:OrangeRed"|OUT
+| colspan="7"style="background:darkgray"|
+|-
+! scope="row" | Pui Man
+| SAFE
+| style="background:Plum"|LOW
+| style="background:OrangeRed"|OUT
+| colspan="8"style="background:darkgray"|
+|-
+! scope="row" | Leighton
+| style="background:Plum"|LOW
+| style="background:OrangeRed"|OUT
+| colspan="9" style="background:darkgray"|
+|-
+! scope="row" | Hassan
+| style="background:OrangeRed"|OUT
+| colspan="10" style="background:darkgray"|
+|-
+|}
+
+<small>{{ref|1|[a]}} With the exception of Jasmine, none of the bakers could be considered for Star Baker due to missteps in the showstopper round and were all considered for elimination.</small>
+
+'''Colour key:'''
+
+:{{Color box|Plum|border=darkgray}} Baker was one of the judges' least favourite bakers that week, but was not eliminated.
+:{{Color box|CornflowerBlue|border=darkgray}} Baker was one of the judges' favourite bakers that week, but was not the Star Baker.
+:{{Color box|White|border=darkgray}} Baker got through to the next round.
+:{{Color box|OrangeRed|border=darkgray}} Baker was eliminated.
+:{{Color box|LemonChiffon|border=darkgray}} Baker was the Star Baker.
+:{{Color box|LimeGreen|border=darkgray}} Baker was a series runner-up.
+:{{Color box|Yellow|border=darkgray}} Baker was the series winner.
+
+== Episodes ==
+
+=== Episode 1: Cake ===
+The first episode is Cake Week.<ref>{{cite web |last1=Middleton |first1=Howard |title=The Great British Bake Off 2025: cake week recap |url=https://www.greatbritishchefs.com/features/great-british-bake-off-2025-cake-week-recap |website=[[Great British Chefs]] |access-date=10 September 2025 |language=en |date=3 September 2025}}</ref> For the first challenge, the bakers were given two hours to produce a decorative [[Swiss roll]]. For the technical challenge, set by Paul, the bakers were asked to create nine [[Fondant Fancies]]. The bakers were given five minutes to inspect and taste a mini Fondant Fancy cake with no additional recipe, and were then given two and a quarter hours to complete the challenge. For the showstopper challenge, the bakers were asked to make a landscape cake in four hours. 
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small> (Swiss Roll)</small>
+! scope="col"| Technical/Taste and Bake<br /><small>(9 Fondant Fancies)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Landscape Cake)</small>
+! scope="col"| Result
+|-
+! scope="row" | Aaron
+| 'Pure (But No) Honey' Swiss Roll
+| align="center"| 4th
+| 'Pastel Paradiso' Landscape Cake
+| {{Safe}}
+|-
+! scope="row" | Hassan
+| Chocolate, Coffee & Caramel Swiss Roll
+| align="center"| 10th
+| 'Japanese Bamboo Forest' Landscape Cake
+| {{Eliminated}}
+|-
+! scope="row" | Iain
+| 'Fift-Queen's University' Swiss Roll
+| align="center"| 8th
+| 'It's All Downhill From Here' Landscape Cake
+| {{Safe}}
+|-
+! scope="row" | Jasmine
+| Lemon & Raspberry Swiss Roll
+| align="center"| 9th
+| 'Scottish Highland' Landscape Cake
+| {{Safe}}
+|-
+! scope="row" | Jessika
+| Coconut & Grapefruit Swiss Roll
+| align="center"| 2nd
+| 'Birthday Morning' Landscape Cake
+| {{Safe}}
+|-
+! scope="row" | Leighton
+| 'Amalfi Coast Lemon Glade' Swiss Roll
+| align="center"| 6th
+| 'The Green, Green Grass of Home' Landscape Cake
+| {{Safe}}
+|-
+! scope="row" | Lesley
+| 'Lemons & Daisies' Swiss Roll
+| align="center"| 5th
+| 'Dad's Bob Ross' Landscape Cake
+| {{Safe}}
+|-
+! scope="row" | Nadia
+| 'Cherry Amour' Swiss Roll
+| align="center"| 7th
+| 'My Island Dream' Landscape Cake
+| {{Safe}}
+|-
+! scope="row" | Nataliia
+| 'Ukrainian Passion Petal' Swiss Roll
+| align="center"| 3rd
+| 'Ukraine' Landscape Cake
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Pui Man
+| Lemon & Matcha Swiss Roll
+| align="center"| 11th
+| 'Hong Kong Lion Rock' Landscape Cake
+| {{Safe}}
+|-
+! scope="row" | Toby
+| Rhubarb & Custard Swiss Roll
+| align="center"| 1st
+| 'PB and J-acob's Ladder' Landscape Cake
+| {{Safe}}
+|-
+! scope="row" | Tom
+| 'Tartan' Swiss Roll
+| align="center"| 12th
+| 'Icelandic' Landscape Cake
+| {{Safe}}
+|-
+|}
+
+=== Episode 2: Biscuits ===
+The second episode is Biscuit Week.<ref>{{cite web |last1=Middleton |first1=Howard |title=The Great British Bake Off 2025: biscuit week recap |url=https://www.greatbritishchefs.com/features/great-british-bake-off-2025-biscuit-week-recap |website=[[Great British Chefs]] |access-date=11 September 2025 |language=en |date=10 September 2025}}</ref> For the first challenge, the bakers were given two hours to produce twelve Slice and Bake biscuits. For the technical challenge, set by Prue, the bakers were asked to bake in two hours a batch of Chocolate [[Hobnob biscuit|Hobnob]] biscuits, topped with a thin layer of caramel and contain two different feathered chocolate designs. For the showstopper challenge, the bakers were asked to make a biscuit time capsule filled with five edible mementos in four hours.
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small> (12 Slice & Bake Biscuits)</small>
+! scope="col"| Technical<br /><small>(Chocolate Hobnobs)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Biscuit Time Capsule)</small>
+! scope="col"| Result
+|-
+! scope="row" | Aaron
+| 'Mini Winnies' Slice & Bake Biscuits
+| align="center"| 8th
+| 'Sugar in Spring' Biscuit Time Capsule
+| {{Safe}}
+|-
+! scope="row" | Iain
+| 'Mince Pie Cat-astrophe' Slice & Bake Biscuits
+| align="center"| 5th
+| 'If I Could Turn-table Back Time' Biscuit Time Capsule
+| {{Safe}}
+|-
+! scope="row" | Jasmine
+| 'Sail Around the World' Slice & Bake Biscuits
+| align="center"| 4th
+| 'Our Favourite Scottish Summers' Biscuit Time Capsule
+| {{Safe}}
+|-
+! scope="row" | Jessika
+| 'Egg-cellent Brunch' Slice & Bake Biscuits
+| align="center"| 7th
+| 'Trails and Tales' Biscuit Time Capsule
+| {{Safe}}
+|-
+! scope="row" | Leighton
+| 'Orange Slices of Delight' Slice & Bake Biscuits
+| align="center"| 10th
+| 'Piano Memories' Biscuit Time Capsule
+| {{Eliminated}}
+|-
+! scope="row" | Lesley
+| 'Cupcake' Slice & Bake Biscuits
+| align="center"| 9th
+| 'Happy Memories' Biscuit Time Capsule
+| {{Safe}}
+|-
+! scope="row" | Nadia
+| 'Amma's Avos' Slice & Bake Biscuits
+| align="center"| 2nd
+| 'Picnic Basket' Biscuit Time Capsule
+| {{Safe}}
+|-
+! scope="row" | Nataliia
+| 'Yorkshire Welcome' Slice & Bake Biscuits
+| align="center"| 3rd
+| 'A Slice of Life' Biscuit Time Capsule
+| {{Safe}}
+|-
+! scope="row" | Pui Man
+| 'Year of the Ox' Slice & Bake Biscuits
+| align="center"| 11th
+| 'Jumbo Boat' Biscuit Time Capsule
+| {{Safe}}
+|-
+! scope="row" | Toby
+| 'Bex's Breakfast' Slice & Bake Biscuits
+| align="center"| 1st
+| 'Treasure Chest' Biscuit Time Capsule
+| {{Safe}}
+|-
+! scope="row" | Tom
+| 'Hagia Sophia' Slice & Bake Biscuits
+| align="center"| 6th
+| 'Granny's Cottage' Biscuit Time Capsule
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+|}
+
+=== Episode 3: Bread ===
+The third episode is Bread Week.<ref>{{cite web |last1=Middleton |first1=Howard |title=The Great British Bake Off 2025: bread week recap |url=https://www.greatbritishchefs.com/features/great-british-bake-off-2025-bread-week-recap |website=[[Great British Chefs]] |access-date=19 September 2025 |language=en |date=17 September 2025}}</ref> For the first challenge, the bakers were given two hours to produce a savoury [[Monkey bread]]. For the technical challenge, set by Paul, the bakers were asked to bake in two hours a dozen glazed [[doughnuts]], six of which containing a strawberry glazing. For the showstopper challenge, the bakers were given five hours to make their own celebratory tiered Sweet Bread.
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small> (Savoury Monkey Bread)</small>
+! scope="col"| Technical<br /><small>(12 Glazed Ring Doughnuts)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Celebratory Tiered Sweet Bread)</small>
+! scope="col"| Result
+|-
+! scope="row" | Aaron
+| 'Not For Everyone' Monkey Bread
+| align="center"|3rd
+| 'Flowers in Paradise' Sweet Bread
+| {{Safe}}
+|-
+! scope="row" | Iain
+|'Irish Cheese Board' Monkey Bread
+| align="center"|6th
+| 'It's A Samhain-derful Time of the Year' Sweet Bread
+| {{Safe}}
+|-
+! scope="row" | Jasmine
+| 'Mediterranean Mezze' Monkey Bread
+| align="center"|1st
+|'Midsummer Flower Crown' Sweet Bread
+| {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Jessika
+| 'Picnic Season' Monkey Bread
+| align="center"|7th
+| 'Rain, Dance, Celebration' Sweet Bread
+| {{Safe}}
+|-
+! scope="row" | Lesley
+| 'Family Favourite' Monkey Bread
+| align="center"|9th
+| 'Korovai' Sweet Bread
+| {{Safe}}
+|-
+! scope="row" | Nadia
+| Italian Monkey Bread
+| align="center"|2nd
+| 'Gâteaux de Mariage de Rêve' Sweet Bread
+| {{Safe}}
+|-
+! scope="row" | Nataliia
+| 'Family Table' Monkey Bread
+| align="center"|8th
+| 'Three Generations Korovai' Sweet Bread
+| {{Safe}}
+|-
+! scope="row" | Pui Man
+| 'Festival Basin' Monkey Bread
+| align="center"|10th
+| 'Coconut Cocktail Wedding' Sweet Bread
+| {{Eliminated}}
+|-
+! scope="row" | Toby
+| 'Tre Scimmie (Three Monkeys)' Monkey Bread
+| align="center"|4th
+| 'The Bread That Stolle Christmas' Sweet Bread
+| {{Safe}}
+|-
+! scope="row" | Tom
+| 'French Dègustation' Monkey Bread
+| align="center"|5th
+| 'Cinnamon Tower' Sweet Bread
+| {{Safe}}
+|-
+|}
+
+=== Episode 4: Back To School ===
+The fourth episode is Back To School Week.<ref>{{cite web |last1=Middleton |first1=Howard |title=The Great British Bake Off 2025: back to school week recap |url=https://www.greatbritishchefs.com/features/great-british-bake-off-2025-back-to-school-week-recap |website=[[Great British Chefs]] |access-date=29 September 2025 |language=en |date=24 September 2025}}</ref> For the first challenge, the bakers were given two hours to produce 12 [[Flapjack (oat bar)|flapjacks]]. For the technical challenge, set by Prue, the bakers were asked to bake in two hours a batch of [[school cake]], made with vanilla sponge, white glacé icing, and covered in sprinkles, with a jug of custard to go with it. For the showstopper challenge, the bakers were given four and a half hours to make their own [[Fête|Summer Fête School Display]] containing one large bake, and two batches of twelve small bakes.
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small> (12 Flapjacks)</small>
+! scope="col"| Technical<br /><small>(16 School Cakes)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Summer Fête School Display)</small>
+! scope="col"| Result
+|-
+! scope="row" | Aaron
+| 'Lat Snacks' Flapjacks
+| align="center"| 2nd
+| 'Four Hour Relay: Bake Edition' Summer Fête Stall
+| {{Safe}}
+|-
+! scope="row" | Iain
+| 'Banana Jacks' Flapjacks
+| align="center"| 3rd
+| 'The Auld' Summer Fête Stall
+|  {{Safe}}
+|-
+! scope="row" | Jasmine
+| Raspberry, Chocolate and Hazelnut Flapjacks
+| align="center"| 1st
+|'My Favourite Games' Summer Fête Stall
+|  {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Jessika
+| 'Red Wine Rendezvous' Flapjacks 
+| align="center"| 7th
+| 'Prehistoric Pantry' Summer Fête Stall
+|  {{Eliminated}}
+|-
+! scope="row" | Lesley
+| 'Dan's Cherry Bakewell' Flapjacks
+| align="center"| 5th
+|'Happy Memories of the 70's' Summer Fête Stall
+| {{Safe}}
+|-
+! scope="row" | Nadia
+| Cherry and Coconut Flapjacks
+| align="center"| 9th
+| 'Traditional Bake Sale' Summer Fête Stall
+| {{Safe}}
+|-
+! scope="row" | Nataliia
+| 'First Day' Flapjacks
+| align="center"| 8th
+| 'Rucksack Memories' Summer Fête Stall
+| {{Safe}}
+|-
+! scope="row" | Toby
+| 'Carrot Patch' Flapjacks 
+| align="center"| 4th
+| 'Schooldays' Summer Fête Stall
+| {{Safe}}
+|-
+! scope="row" | Tom
+|Apple Crumble Flapjacks
+| align="center"| 6th
+| 'Cocknowle' Summer Fête Stall
+| {{Safe}}
+|-
+|}
+
+=== Episode 5: Chocolate ===
+The fifth episode is Chocolate Week.<ref>{{cite web |last1=Middleton |first1=Howard |title=The Great British Bake Off 2025: chocolate week recap |url=https://www.greatbritishchefs.com/features/great-british-bake-off-2025-chocolate-week-recap |website=[[Great British Chefs]] |access-date=8 October 2025 |language=en |date=3 October 2025}}</ref> For the first challenge, the bakers were given two and a half hours to produce some highly decorated chocolate [[mousse]] cups. For the technical challenge, set by Paul, the bakers were asked to bake in two and a half hours a white chocolate tart, featuring a buttery shortcrust pastry, and a silky smooth set white chocolate [[ganache]], all while selecting their own ingredients with no recipe. For the showstopper challenge, the bakers were given four and a half hours to make their own Chocolate Fondue Display, including a highly decorated chocolate centrepiece with an edible dipping pot to hold their chocolate sauce.
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small> (6 Chocolate Mousse Cups)</small>
+! scope="col"| Technical<br /><small>(White Chocolate Tart)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Chocolate Fondue Display)</small>
+! scope="col"| Result
+|-
+! scope="row" | Aaron
+|'Caramel Tiramoussiato' Mousse Cups
+| align="center"| 3rd
+| 'Pianola Grande' Chocolate Fondue
+|  {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Iain
+|'Kriek Craic' Mousse Cups
+| align="center"| 7th
+| 'Glenariff Park' Chocolate Fondue
+|   {{Safe}}
+|-
+! scope="row" | Jasmine
+| Chocolate Praline Mousse Cups
+| align="center"| 2nd
+| 'Chocolate Tree' Chocolate Fondue
+|  {{Safe}}
+|-
+! scope="row" | Lesley
+| 'Tiramisu' Mousse Cups
+| align="center"| 1st
+| 'Death by Chocolate' Chocolate Fondue
+|  {{Safe}}
+|-
+! scope="row" | Nadia
+| 'Summer Strawberry' Delight Mousse Cups
+| align="center"| 8th
+| 'Ladies Day' Chocolate Fondue
+| {{Eliminated}}
+|-
+! scope="row" | Nataliia
+| 'Granny's Garden' Mousse Cups
+| align="center"| 6th
+| 'Last Day of Pompeii' Chocolate Fondue
+|  {{Safe}}
+|-
+! scope="row" | Toby
+| Chocolate Orange Mousse Cups
+| align="center"| 5th
+| 'Campsite Delight' Chocolate Fondue
+|  {{Safe}}
+|-
+! scope="row" | Tom
+|'Tiramousoooo' Chocolate Mousse Cups
+| align="center"| 4th
+| 'Ocean Scene' Chocolate Fondue
+|  {{Safe}}
+|-
+|}
+
+=== Episode 6: Pastry ===
+The sixth episode is Pastry Week.<ref>{{cite web |last1=Middleton |first1=Howard |title=The Great British Bake Off 2025: pastry week recap |url=https://www.greatbritishchefs.com/features/great-british-bake-off-2025-pastry-week-recap |website=[[Great British Chefs]] |access-date=14 October 2025 |language=en |date=8 October 2025}}</ref> For the signature challenge, the bakers were given two and a half hours to produce a savoury [[Puff_pastry#Variants_and_distinctions|pastry]] plait with a savoury filling. For the technical challenge, set by Paul, the bakers were asked to bake in two and a half hours a [[gala pie]] with [[piccalilli]]. For the showstopper challenge, the bakers were given four hours to make their own visually stunning sculpted tart.
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small> (Savoury Plait)</small>
+! scope="col"| Technical<br /><small>(Gala Pie)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Sculpted Tart)</small>
+! scope="col"| Result
+|-
+! scope="row" | Aaron
+| 'Jamaican Beef Patty' Savoury Plait
+| align="center"| 7th
+| 'No One Gnomes' Sculpted Tart 
+|  {{Safe}}
+|-
+! scope="row" | Iain
+| 'Irish Stew-sage Roll' Savoury Plait
+| align="center"| 2nd
+| 'Giant's Causeway' Sculpted Tart
+|   {{Safe}}
+|-
+! scope="row" | Jasmine
+| 'Aunt Pom's Sausage Roll' Savoury Plait
+| align="center"| 1st
+| 'The Orchard' Sculpted Tart
+|  {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Lesley
+| 'Dad's Favourite' Savoury Plait
+| align="center"| 3rd
+| 'Mabel's Bumblebee' Sculpted Tart
+|  {{Safe}}
+|-
+! scope="row" | Nataliia
+| 'Kyiv in a Crust' Savoury Plait
+| align="center"| 5th
+| Swan Sculpted Tart
+| {{Eliminated}}
+|-
+! scope="row" | Toby
+| 'Sivell Place' Savoury Plait
+| align="center"| 4th
+| 'Rollercoast-tart' Sculpted Tart
+|  {{Safe}}
+|-
+! scope="row" | Tom
+| 'Hong Kong Sausage Roll' Savoury Plait
+| align="center"| 6th
+| 'Risalamande' Sculpted Tart
+|  {{Safe}}
+|-
+|}
+
+=== Episode 7: Meringue ===
+The seventh episode is Meringue Week.<ref>{{cite web |last1=Middleton |first1=Howard |title=The Great British Bake Off 2025: meringue week recap |url=https://www.greatbritishchefs.com/features/great-british-bake-off-2025-meringue-week-recap |website=[[Great British Chefs]] |access-date=21 October 2025 |language=en |date=17 October 2025}}</ref> For the signature challenge, the bakers were given two hours to produce 12 Mini Meringue Pies with a Meringue topping. For the technical challenge, set by Paul, the bakers were asked to bake some perfectly risen raspberry [[soufflé]]'s in a staggered start and finish time. For the showstopper challenge, the bakers were given four and a half hours to make their own beautifully decorated "[[Vacherin Glacé]]" with a Meringue shell and ice cream.
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small> (12 Mini Meringue Pies)</small>
+! scope="col"| Technical<br /><small>(4 Soufflés)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Vacherin Glacé)</small>
+! scope="col"| Result
+|-
+! scope="row" | Aaron
+| 'Almost Mont Blanc' Meringue Pies
+| align="center"| 2nd
+| 'Kitsune Sundae' Vacherin Glacé
+| {{Safe}}
+|-
+! scope="row" | Iain
+| 'Lucky Rhubarb' Meringue Pies
+| align="center"| 1st
+| 'Bingate Redemption' Vacherin Glacé
+|  {{Safe}}
+|-
+! scope="row" | Jasmine
+| Raspberry & Passion Fruit Meringue Pies
+| align="center"| 4th
+| 'Scallop Shell' Vacherin Glacé
+|  {{Safe}}
+|-
+! scope="row" | Lesley
+| Lemon & Raspberry Meringue Pies
+| align="center"| 6th
+| 'Wedding Cake' Vacherin Glacé
+|  {{Eliminated}}
+|-
+! scope="row" | Toby
+| 'Apple Lattice' Meringue Pies
+| align="center"| 3rd
+| 'Mango Tree' Vacherin Glacé
+|  {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Tom
+| Rhubarb & Strawberry Meringue Pies
+| align="center"| 5th
+| 'Family Forage' Vacherin Glacé
+|  {{Safe}}
+|-
+|}
+
+=== Episode 8: Desserts (Quarterfinals) ===
+The eighth episode is Desserts Week.<ref>{{cite web |last1=Middleton |first1=Howard |title=The Great British Bake Off 2025: meringue week recap |url=https://www.greatbritishchefs.com/features/great-british-bake-off-2025-dessert-week-recap |website=[[Great British Chefs]] |access-date=4 November 2025 |language=en |date=23 October 2025}}</ref> For the signature challenge, the bakers were asked to produce a [[Basque cheesecake]]. For the technical challenge, set by Prue, the bakers were asked to bake six orange and cardamom steamed puddings drizzled with golden syrup and served with crème anglaise. For the showstopper challenge, the bakers were given four and a half hours to make a celebratory free-standing trifle.
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small> (Basque Style Cheesecake)</small>
+! scope="col"| Technical<br /><small>(6 Gluten-Free Orange Upside Down Puddings)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Celebratory Free-Standing Trifle)</small>
+! scope="col"| Result
+|-
+! scope="row" | Aaron
+| 'Basque in Sake' Cheesecake 
+| align="center"| 5th
+| 'Trifle Haters' Trifle
+|  {{Safe}}
+|-
+! scope="row" | Iain
+| 'Christmas Box' Basque Cheesecake
+| align="center"| 2nd
+| 'Triflemina' Trifle
+|   {{Eliminated}}
+|-
+! scope="row" | Jasmine
+| Mango and Passion Fruit Basque Cheesecake 
+| align="center"| 4th
+| Strawberry and Lemon Trifle
+|  {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Toby
+| White Chocolate and Passion Fruit Basque Cheesecake 
+| align="center"| 3rd
+| 'Nanny Mo's' Sherry Trifle
+|  {{Safe}}
+|-
+! scope="row" | Tom
+| Black Sesame & Lemon Curd Basque Cheesecake 
+| align="center"| 1st
+| 'Greek' Trifle
+|  {{Safe}}
+|-
+|}
+
+=== Episode 9: Pâtisserie (Semifinal) ===
+The ninth episode is Pâtisserie Week.<ref>{{cite web |last1=Middleton |first1=Howard |title=The Great British Bake Off 2025: meringue week recap |url=https://www.greatbritishchefs.com/features/great-british-bake-off-2025-patisserie-week-recap |website=[[Great British Chefs]] |access-date=4 November 2025 |language=en |date=30 October 2025}}</ref> For the signature challenge, the bakers were given two hours and forty-five minutes to bake twelve cream horns in two different flavors. For the technical challenge, set by Paul, the bakers were asked to bake a framboisier with a fondant rose and a sugar glass dome. For the showstopper challenge, the bakers were asked to make a macaron centerpiece depicting something meaningful to them, with an edible structure at least forty-five centimetres high and displaying a minimum of thirty filled macarons.
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small> (Cream Horns)</small>
+! scope="col"| Technical<br /><small> (Framboisier) </small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Macaron Centerpiece)</small>
+! scope="col"| Result
+|-
+! scope="row" | Aaron
+| 'Puddings Reimagined' Cream Horns
+| align="center"| 3rd
+| 'Sloth' Macaron Centerpiece 
+|  {{Safe}}
+|-
+! scope="row" | Jasmine
+| Mocha & Raspberry Pistachio Cream Horns
+| align="center"| 1st
+| 'Christmas Tree' Macaron Centerpiece 
+|  {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Toby
+| Chocolate, Coffee & Lemon Meringue Pie Cream Horns
+| align="center"| 4th
+| 'Crate of Lemons' Macaron Centerpiece
+|  {{Eliminated}}
+|-
+! scope="row" | Tom
+| Chocolate Orange & Lemon Raspberry Cream Horns
+| align="center"| 2nd
+| 'The Beehive' Macaron Centerpiece
+|  {{Safe}}
+|-
+|}
+
+{{note|1|1}} With the exception of Jasmine, none of the bakers could be considered for Star Baker due to missteps in the showstopper round and were all considered for elimination.
+
+=== Episode 10: Final ===
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small> (12 Iced Finger Buns)</small>
+! scope="col"| Technical<br /><small>(White Chocolate and Lemon Madeleines)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Table Cake)</small>
+! scope="col"| Result
+|-
+! scope="row" | Aaron
+| Pear & Rhubarb Iced Finger Buns
+| align="center"| 2nd
+| 'Final Tea Party' Table Cake
+|  {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Jasmine
+| Apricot & Strawberry Iced Finger Buns
+| align="center"| 3rd
+| 'Summer Celebration' Table Cake
+| {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" | Tom
+| Piña Colada & Hot Dog Iced Finger Buns
+| align="center"| 1st
+| 'All Roads Lead To The Tent' Table Cake
+|  {{sort|2.5|}}{{Runner-up}}
+|-
+|}
+
+== Specials ==
+
+Two specials were commissioned for the festive season:
+
+=== ''The Great Christmas Bake Off'' ===
+The Great Christmas Bake Off featured ''[[Peep Show (British TV series)|Peep Show]]'''s [[David Mitchell (comedian)|David Mitchell]], [[Isy Suttie]], [[Matt King (comedian)|Matt King]], [[Olivia Colman]], and [[Sophie Winkleman]].<ref>{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a69493590/olivia-colman-david-mitchell-bake-off-christmas/ |title=Olivia Colman and David Mitchell reunite for Bake Off's celebrity Christmas special|date=20 November 2025|work=Digital Spy|accessdate=20 November 2025}}</ref> It first screened on Channel 4 on Christmas Day 2025.<ref>{{cite web |title=The Great British Bake Off: Festive Specials |url=https://www.channel4.com/programmes/the-great-british-bake-off-festive-specials/on-demand/77763-001 |website=Channel 4 |publisher=Channel4.com |access-date=3 April 2026}}</ref> The Signature Challenge was Christmas Tree Decorations made in biscuit. The Technical Challenge was to make six miniature Turkey Pies. The Showstopper involved the contestants baking a cake representing their favourite Peep Show moment. 
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"|Signature<br /><small>(Christmas Tree Decorations)</small>
+! scope="col"| Technical<br /><small>(Miniature Turkey Pies)</small>
+! scope="col" class="unsortable"|Showstopper<br /><small>(Favourite Peep Show Moment Cake)</small>
+! scope="col"| Result
+|-
+! scope="row" | David
+| 'Shortbread Baubles' Biscuit Tree Decorations
+| align="center"|2nd
+| 'Cauliflower is Traditional' Cake
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Isy
+| 'Christmas Jumpers' Biscuit Tree Decorations
+| align="center"|4th
+| 'Mark and Dobby's Meet Cute' Cake
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Matt
+| 'Birds Oft' Forgotten at Christmas' Biscuit Tree Decorations 
+| align="center"|3rd
+| 'Super Hans in Windsor' Cake
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Olivia
+| 'Stained Glass' Biscuit Tree Decorations 
+| align="center"|1st
+| 'Sophie Buried in the Ball Pit' Cake
+| {{sort|1st|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" | Sophie
+| 'Christmas Angels' Biscuit Tree Decorations 
+| align="center"|5th
+| 'Big Suze & Mark in Bed' Cake
+| {{sort|2.5|}}{{Runner-up}}
+|-
+|}
+
+=== ''The Great New Year Bake Off'' ===
+The Great New Year Bake Off featured eight bakers from past series competing in pairs: Selasi Gbormittah and Val Stones from [[The Great British Bake Off series 7|Series 7]], [[Briony May Williams|Briony Williams]] from [[The Great British Bake Off series 9|Series 9]] and Tasha Stones from [[The Great British Bake Off series 14|Series 14]], Series 9 winner [[Rahul Mandal]] and [[The Great British Bake Off series 12|Series 12]] winner [[Giuseppe Dell'Anno]], and Andy Ryan and Nelly Ghaffar from [[The Great British Bake Off series 15|Series 15]].<ref>{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a69508345/great-british-bake-off-favourites-return-special-episode/|title=Bake Off fan favourites confirm return for "unexpected" special episode and fans "can't wait"|date=21 November 2025|work=Digital Spy|accessdate=21 November 2025}}</ref>
+ 
+{| class="wikitable sortable"
+|-
+! scope="col"| Bakers
+! scope="col" class="unsortable"| Signature <br /><small>(Festive Pie Display)</small>
+! scope="col"| Technical<br /><small>(New Year's Entremets)</small>
+! scope="col" class="unsortable"| Showstopper <br /><small>(Christmas Film Biscuit Scene)</small>
+! scope="col"| Result
+|-
+! scope="row" | Andy & Nelly
+| 'Going Off with a Bang!' Pie Display
+| align="center"|4th
+| [[The Polar Express (film)|'Ticket to the North Pole' Biscuit Scene]]
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Briony & Tasha
+| 'Christmas Wreath' Pie Display
+| align="center"|3rd
+| [[How the Grinch Stole Christmas!|'Stolen Christmas' Biscuit Scene]]
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Giuseppe & Rahul
+| 'Lucky Feather' Pie Display
+| align="center"|2nd
+| [[Mary Poppins (film)|'Spoonful of Sugar' Biscuit Scene]]
+| {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Selasi & Val
+| 'Christmas Tree' Pie Display
+| align="center"|1st
+| [[Elf (film)|'Buddy & the Empire State' Biscuit Scene]]
+| {{sort|1st|}}{{Won|Winners|color=gold}}
+|-
+|-
+|}
+
+==Ratings==
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|7-day viewers<br /><small>(millions)</small>
+! scope="col"|28-day viewers<br /><small>(millions)</small>
+! scope="col"|Channel 4<br />weekly ranking
+! scope="col"|Weekly ranking<br />all channels
+|-
+! scope="row"| 1
+| {{Start date|df=y|2025|09|02}}
+| 7.26
+| 8.73
+| 1
+| 1
+|-
+! scope="row"| 2
+| {{Start date|df=y|2025|09|09}}
+| 7.05
+| 8.50
+| 1
+| 1 
+|-
+! scope="row"| 3
+| {{Start date|df=y|2025|09|16}}
+| 6.72
+| 8.10
+| 1
+| 1
+|-
+! scope="row"| 4
+| {{Start date|df=y|2025|09|23}}
+| 6.70
+| 8.03
+| 1
+| 2
+|-
+! scope="row"| 5
+| {{Start date|df=y|2025|09|30}}
+| 6.72
+| 7.92
+| 1
+| 3
+|-
+! scope="row"| 6
+| {{Start date|df=y|2025|10|07}}
+| 6.97
+| 8.05
+| 1
+| 4
+|-
+! scope="row"| 7
+| {{Start date|df=y|2025|10|14}}
+| 6.70
+| 7.71
+| 1
+| 5
+|-
+!scope="row"| 8
+| {{Start date|df=y|2025|10|21}}
+| 6.84
+| 7.81
+| 1
+| 5
+|-
+!scope="row"| 9
+| {{Start date|df=y|2025|10|28}}
+| 7.00
+| 7.65
+| 1
+| 5
+|-
+!scope="row"| 10
+| {{Start date|df=y|2025|11|04}}
+| 6.94
+| 7.36
+| 1
+| 4
+|-
+|}
+
+== References ==
+{{reflist}}
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off series 16, The}}
+[[Category:2025 British television seasons]]
+[[Category:The Great British Bake Off|Series 16]]

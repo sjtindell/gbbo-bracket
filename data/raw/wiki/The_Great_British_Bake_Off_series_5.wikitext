@@ -1,0 +1,705 @@
+{{short description|Fifth series of The Great British Bake Off}}
+{{about|the fifth series, which aired as the first season of the PBS broadcast|the first series|The Great British Bake Off series 1}}
+{{Use dmy dates|date=August 2019}}
+{{Use British English|date=August 2019}}
+{{Infobox television season
+| image         = 
+| caption       = 
+| series_number = 5
+| module1       = {{Infobox reality competition season
+ | presenter       = [[Mel Giedroyc]]<br>[[Sue Perkins]]
+ | judges          = [[Mary Berry]]<br>[[Paul Hollywood]]
+ | num_contestants = 12
+ | winner          = [[Nancy Birtwhistle]]
+ | runner_up       = Richard Burr<br>Luis Troyano
+ | location        = [[Welford Park]] (Berkshire)
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 30
+}}
+| num_episodes  = 10
+| network       = [[BBC One]]
+| first_aired   = {{start date|2014|8|06|df=y}}
+| last_aired    = {{end date|2014|10|08|df=y}}
+}}
+
+The '''fifth series''' of ''[[The Great British Bake Off]]'' first aired on 6 August 2014, with twelve contestants.<ref name="digital">{{cite news |url=http://www.digitalspy.co.uk/tv/s215/great-british-bake-off/news/a585984/fire-up-your-ovens-the-great-british-bake-off-return-date-confirmed.html#~oL11ELb7S7EU2j |title= Fire up your ovens! The Great British Bake Off return date confirmed |work=Digital Spy |date=23 July 2014  |author= Sam Rigby }}</ref> [[Mel Giedroyc]] and [[Sue Perkins]] presented the show and [[Mary Berry]] and [[Paul Hollywood]] returned as judges.  Twelve contestants competed in this series, and the competition was held in [[Welford Park]] in Berkshire.<ref>{{cite web |url=http://www.radiotimes.com/news/2014-08-06/bake-off-insiders-reveal-what-really-goes-on-inside-the-tent |title=Bake Off insiders reveal what really goes on inside the tent |author=Rosie Millard|date=6 August 2014 |work=Radio Times }}</ref> The series was won by [[Nancy Birtwhistle]], with Luis Troyano and Richard Burr finishing as runners-up.
+
+The programme was moved from [[BBC Two]] to [[BBC One]] starting this year, but the Masterclass episodes remained on BBC Two.  A companion series, ''[[The Great British Bake Off: An Extra Slice]]'', hosted by comedian [[Jo Brand]], started this year on BBC Two.
+
+The fifth series was broadcast as the first season on [[PBS]] in the United States.
+
+== Bakers ==
+
+{{table alignment}}
+{| class="wikitable sortable col2center"
+|-
+! scope="col"|Baker<ref>{{cite news |url=http://www.bbc.co.uk/programmes/profiles/4fB8YW68M3BX4LVd9XkRGxv/bakers |title=Bakers |work=BBC |date=29 July 2014}}</ref>
+! scope="col"|Age
+! scope="col" class="unsortable"|Occupation
+! scope="col" class="unsortable"|Hometown
+! scope="col" class="unsortable"|Links
+|-
+! scope="row"| Chetna Makan
+| 35 || Fashion Designer ||[[Broadstairs]], Kent ||<ref>{{cite news |url=http://www.thanetgazette.co.uk/Chetna-Makan-shines-Great-British-Bake/story-22123450-detail/story.html |title=Chetna Makan shines on Great British Bake Off |author= David Archer  | date= 6 August 2014 |work = Isle of Thanet Gazette }}</ref><ref>{{cite web |url=http://chetnamakan.co.uk/chetna/ |title=Chetna Makan: About Me |author=Chetna Makan}}</ref>
+|-
+! scope="row"| Claire Goodwin
+| 31 || Speech Therapist ||[[Ashton upon Mersey]], [[Trafford]] || <ref>{{cite news |url=http://www.manchestereveningnews.co.uk/in-your-area/trafford-speech-therapist-bake-star-7568644 |title=Speech therapist to be Bake Off star |date=5 August 2014 |author= Helen Johnson |work=Manchester Evening News }}</ref><ref>{{cite web |url=http://baketherapy.co.uk/ |title=Claire Goodwin's Bake Therapy Bake You Better |author=Clair Goodwin}}</ref>
+|-
+! scope="row"| Diana Beard
+| 69 || Women's Institute (WI) Judge||[[Alkington, Shropshire]] ||<ref>{{cite news |url=https://www.telegraph.co.uk/culture/tvandradio/great-british-bake-off/11003621/No-more-tears-on-Great-British-Bake-Off-says-shows-oldest-contestant.html |title=No more tears on Great British Bake Off, says shows oldest contestant |date=4 August 2014 |author =Anita Singh |work=Daily Telegraph }}</ref>
+|-
+! scope="row"| Enwezor Nzegwu
+| 39 || Business Consultant ||[[Portsmouth]], Hampshire ||<ref>{{cite news |url=http://www.getwestlondon.co.uk/news/local-news/harrow-born-bred-contestant-enwezor-nzegwu-7580180 |title=Harrow-born and bred contestant on The Great British Bake Off survives first week&nbsp;– but 'overbaked' twice |date= 7 August 2014 |author = Ian Proctor |work=Get West London}}</ref>
+|-
+! scope="row"| Iain Watters
+| 31 || Construction Engineer ||[[London]]/[[Belfast]] ||<ref>{{cite news |url=http://www.belfasttelegraph.co.uk/entertainment/film-tv/news/great-british-bake-off-belfasts-bearded-baker-iain-watters-whips-up-a-reaction-online-30489369.html |title=Great British Bake Off: Belfast's bearded baker Iain Watters whips up a reaction online |author=Claire Cromie |date=6 August 2014 |work=Belfast Telegraph}}</ref>
+|-
+! scope="row"| Jordan Cox
+| 32 || IT Manager ||[[Sneinton]], Nottingham ||<ref>{{cite news |url=http://www.nottinghampost.com/Great-British-Bake-Jordan-Cox-round/story-22123216-detail/story.html |title=Great British Bake Off: Jordan Cox through to next round |author= Marcus Boocock  | date=6 August 2014 |work=Nottingham Post }}</ref><ref>{{citation |url=http://muffinimpossible.com/ |title=Muffin Impossible |author=Jordan Cox }}</ref>
+|-
+! scope="row"| Kate Henry
+| 41 || Furniture Restorer ||[[Brighton]], East Sussex ||<ref>{{cite news |url=http://www.brightonandhovenews.org/2014/08/06/swiss-roll-swirl-keeps-brighton-baker-kate-in-great-british-bake-off/33047 |title=Swiss roll swirl keeps Brighton baker Kate in Great British Bake Off |date=6 August 2014 |work=Brighton and Hove News}}</ref>
+|-
+! scope="row"| Luis Troyano
+| 42 || Graphic Designer ||[[Poynton]], Cheshire ||<ref>{{cite news |url=http://www.manchestereveningnews.co.uk/whats-on/whats-on-news/great-british-bake-2014-greater-7570710 |title=GBBO 2014: Greater Manchester's bakers ready for the off |date=6 August 2014 |author= Denise Evans |work=Manchester Evening News }}</ref><ref>{{cite web |url=http://luistroyano.com/ |archive-url=https://archive.today/20140812041804/http://luistroyano.com/ |url-status=usurped |archive-date=12 August 2014 |title=Luis Troyano }}</ref>
+|-
+! scope="row"| [[Martha Collison]]
+| 17 || Student || [[Ascot, Berkshire]] ||<ref>{{cite news|url=http://www.thevillager.co.uk/news/ascot/articles/2014/08/07/102546-young-ascot-baker-wows-judges-on-the-great-british-bake-off/ |title=Young Ascot baker wows judges on The Great British Bake Off |date=7 August 2014 |work=The Villager |url-status=dead |archive-url=https://web.archive.org/web/20140808055934/http://www.thevillager.co.uk/news/ascot/articles/2014/08/07/102546-young-ascot-baker-wows-judges-on-the-great-british-bake-off/ |archive-date=8 August 2014 }}</ref>
+|-
+! scope="row"| [[Nancy Birtwhistle]]
+| 60 || Retired Practice Manager ||[[Barton-upon-Humber]], Lincolnshire ||<ref>{{cite news |url=http://www.scunthorpetelegraph.co.uk/Barton-baker-Nancy-Birtwhistle-Great-British-Bake/story-22122519-detail/story.html |title=Barton baker Nancy Birtwhistle on The Great British Bake Off on BBC1 tonight with Mary Berry & Paul Hollywood |author=David Scun  |date= 6 August 2014 |work=Scunthorpe Telegraph}}</ref>
+|-
+! scope="row"| Norman Calder
+| 66 || Retired Naval Officer ||[[Portknockie]], [[Moray]] ||<ref>{{citation |url= http://www.heraldscotland.com/news/home-news/scottish-bake-off-contestant-hopes-to-inspire-a-revival-of-traditional-skills.24913866 |title=Scottish Bake Off contestant hopes to inspire a revival of traditional skills |author=Vicky Allan |date= 31 July 2014 |work=The Herald }}</ref>
+|-
+! scope="row"| Richard Burr
+| 38 || Builder || [[Mill Hill]], London ||<ref>{{cite news |url=https://www.standard.co.uk/news/uk/bake-off-star-richard-burr-my-mother-banned-me-from-kitchen-9779547.html |title=Great British Bake Off favourite Richard Burr: My mother banned me from kitchen |author= Josh Pettitt |work=Evening Standard |date=7 October 2014 }}</ref><ref>{{cite web |url=https://twitter.com/RichardPBurr |title=Richard Burr |work=Twitter }}</ref>
+|}
+
+== Results summary ==
+
+{| class="wikitable" style="text-align:center"
+|+ Elimination chart
+! scope="col"|Baker
+! scope="col"|1
+! scope="col"|2
+! scope="col"|3
+! scope="col"|4
+! scope="col"|5{{ref|1|[a]}}
+! scope="col"|6{{ref|2|[b]}}
+! scope="col"|7
+! scope="col"|8
+! scope="col"|9
+! scope="col"|10
+|-
+! scope="row"|Nancy
+| style="background:LemonChiffon;"|SB || SAFE || SAFE || SAFE || style="background:CornFlowerBlue;"| {{color|white|HIGH}} || style="background:CornFlowerBlue;"| {{color|white|HIGH}} || style="background:CornFlowerBlue;"| {{color|white|HIGH}} || style="background:Plum;"| LOW || style="background:Plum;"| LOW || style="background:Yellow;"|WINNER
+|-
+! scope="row"|Luis
+| SAFE|| style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:LemonChiffon;"|SB || style="background:CornflowerBlue;"| {{color|white|HIGH}} || SAFE || style="background:CornflowerBlue;"| {{color|white|HIGH}} || SAFE || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:CornflowerBlue;"| {{color|white|HIGH}} ||rowspan="2" style="background:LimeGreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row"| Richard
+| style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:LemonChiffon;"|SB  || SAFE || style="background:LemonChiffon;"|SB || style="background:plum;"| LOW ||  style="background:plum;"| LOW || style="background:LemonChiffon;"|SB || style="background:LemonChiffon;"|SB || style="background:LemonChiffon;"|SB
+|-
+! scope="row"| Chetna
+| SAFE || SAFE || SAFE || SAFE || SAFE || style="background:LemonChiffon;"|SB || SAFE || SAFE || style="background:OrangeRed;"|OUT || style="background:Silver;" |
+|-
+! scope="row"| Martha
+| style="background:CornFlowerBlue;"| {{color|white|HIGH}} ||SAFE || SAFE || SAFE || style="background:plum;"| LOW || SAFE || style="background:Plum;"| LOW || style="background:OrangeRed;"|OUT || colspan="2" style="background:Silver;" |
+|-
+! scope="row"|Kate
+| SAFE || SAFE || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:CornflowerBlue;"| {{color|white|HIGH}} || style="background:LemonChiffon;"|SB || style="background:plum;"| LOW || style="background:OrangeRed;"|OUT || colspan="3" style="background:Silver;" | 
+|-
+! scope="row"| Norman
+| SAFE || style="background:plum;"| LOW || style="background:plum;"| LOW || style="background:plum;"| LOW || style="background:OrangeRed;"|OUT || colspan="5" style="background:Silver;"|
+|-
+! scope="row"|Diana
+| SAFE || SAFE || SAFE || SAFE || style="background:Chocolate;"|WD || colspan="5" style="background:Silver;" |
+|-
+! scope="row"| Iain
+| style="background:Plum;"| LOW || SAFE || SAFE || style="background:OrangeRed;"|OUT || colspan="6" style="background:Silver;"|
+|-
+! scope="row"| Jordan
+| style="background:Plum;"| LOW || SAFE || style="background:OrangeRed;"|OUT || colspan="7" style="background:Silver;"|
+|-
+! scope="row"| Enwezor
+| SAFE || style="background:OrangeRed;"|OUT || colspan="8" style="background:Silver;"|
+|-
+! scope="row"| Claire
+| style="background:OrangeRed;"|OUT || colspan="9" style="background:Silver;"|
+|}
+<small>{{note|1|[a]}}Diana left the show after episode 4 due to illness. Her departure was announced at the start of episode 5. The night before episode 5 was scheduled to be taped, she suffered a head injury, resulting in an overnight stay in [[Emergency department|A&E]] and a loss of her senses of taste and smell that persisted.<ref>{{cite news |url=https://www.bbc.co.uk/news/entertainment-arts-28964737 |title=Great British Bake Off: Diana Beard's exit announced |work=BBC |date=28 August 2014}}</ref><ref>{{cite news |url=http://www.radiotimes.com/news/2014-09-12/great-british-bake-offs-diana-beard-says-her-conscience-is-clear-following-bingate-row |title=Great British Bake Off's Diana Beard says her "conscience is clear" following 'bingate' row |work=RadioTimes |date=12 September 2014}}</ref></small>
+
+<small>{{note|2|[b]}}Because the judges were unable to agree, no-one was eliminated this week.</small>
+
+'''Colour key:'''
+
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|CornflowerBlue|outline=darkgray|Baker was one of the judges' favourite bakers that week, but was not the Star Baker.}}
+{{legend|<!--default colour-->|outline=darkgray|Baker got through to the next round.}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated.}}
+{{legend|Chocolate|outline=darkgray|Baker withdrew from the show.}}
+{{legend|LemonChiffon|outline=darkgray|Baker was the Star Baker.}}
+{{legend|LimeGreen|outline=darkgray|Baker was the series runner-up.}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner.}}
+
+== Episodes ==
+'''Colour key:'''
+{{legend|#FFC7C7|Baker was eliminated at conclusion of episode}}
+{{legend|#BFD|Baker was named "Star Baker" at conclusion of episode}}
+{{legend|#DFF|Baker was named runner-up for the series}}
+{{legend|gold|Baker won series}}
+=== Episode 1: Cakes ===
+For their first bake, the contestants were required to make a [[Swiss roll|Swiss Roll]] as their signature challenge in {{frac|2|1|2}} hours. For the technical bake, the bakers were set the challenge of baking a [[Pound cake#Cherry cake|cherry cake]] in 2 hours using Mary Berry's recipe. In the showstopper challenge, the bakers were given 3<sup>1</sup>⁄<sub>2</sub> hours to bake their own choice of classic British cakes in miniature. The bakers needed to make 36 cakes of identical size, shape and texture.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[Swiss Roll]])</small>
+! scope="col"|Technical<br><small>([[Pound cake#Cherry cake|Cherry Cake]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(36 Classic Miniature British Cakes)</small>
+! scope="col"|Result
+|-
+! scope="row"| Chetna
+| Cardamom, Pistachio and Coffee Swiss Roll || 3rd || Tiered [[Victoria Sponge]]s with Lemon Curd and Raspberry Cream || {{Safe}}
+|-
+! scope="row"| Claire
+| Chocolatey Orangey Swiss Roll || 8th || Mini Chocolate and Cherry Cakes || {{Eliminated}}
+|-
+! scope="row"| Diana
+| Mum's Sunday Tea Lemon Curd Swiss Roll || 5th || Chocolate [[Ganache]] Surprises || {{Safe}}
+|-
+! scope="row"| Enwezor
+| Raspberry and Lemon Swiss Roll || 9th || Coffee and Walnut [[Battenberg Cake|Battenberg]] Squares || {{Safe}}
+|-
+! scope="row"| Iain
+| Apricot and Basil Swiss Roll with [[Mascarpone]] and White Chocolate Cream || 4th || Lemon Drizzle Cakes with [[Mascarpone]] Filling, Drizzled Icing and Candied Lemon || {{Safe}}
+|-
+! scope="row"| Jordan
+| [[Kawaii]] Frasier Swiss Roll || 12th || Lemon Drizzle Cakes with Blueberry and Lemon Curd || {{Safe}}
+|-
+! scope="row"| Kate
+| Red Velvet and White Chocolate Swiss Roll || 6th || Mini Tiered Victoria Sponges || {{Safe}}
+|-
+! scope="row"| Luis
+| Spanish Swiss Roll ||align="center"| 7th || Raspberry and Lemon [[Genoise]] Slices with Lemon Drizzles || {{Safe}}
+|-
+! scope="row"| Martha
+| [[Tiramisu]] Swiss Roll || 2nd || Mini Lemon and Thyme Drizzle Cakes || {{Safe}}
+|-
+! scope="row"| Nancy
+| Coffee and Hazelnut Swiss Roll || 1st || [[Jaffa Cakes|Jaffa]] Orange Cakes || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Norman
+| [[Black Forest Cake|Black Forest]] Swiss Roll || 11th || Almond and Raspberry Mini Cakes || {{Safe}}
+|-
+! scope="row"| Richard
+| Pistachio and Strawberry Swiss Roll || 10th || Miniature Coffee and Walnut Cakes || {{Safe}}
+|}
+
+=== Episode 2: Biscuits ===
+In the signature, the bakers had 2 hours to bake 36 savoury biscuits. In the technical challenge, they had {{frac|1|1|4}} hours with Mary Berry's recipe for 18 [[florentine biscuit|florentines]], which the bakers found difficult. In the final challenge, the bakers had 4 hours to make a 3D biscuit scene/structure.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(36 Savoury Biscuits)</small>
+! scope="col"|Technical<br><small>(18 [[Florentine biscuit|Florentines]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(3D Biscuit Scene)</small>
+! scope="col"|Result
+|-
+! scope="row"| Chetna
+| [[Fenugreek]] and [[Ajwain|Carom]] Crackers || 8th || Day On The Beach || {{Safe}}
+|-
+! scope="row"| Diana
+| Parmesan Triangles || 7th || Express, First Class || {{Safe}}
+|-
+! scope="row"| Enwezor
+| Pumpkin and Sunflower Seed Savoury Biscuits || 9th || Space Adventure Moon Scene || {{Eliminated}}
+|-
+! scope="row"| Iain
+| [[Za'atar]] and Fig Biscuits || 11th || Wild West Scene || {{Safe}}
+|-
+! scope="row"| Jordan
+| [[Sourdough]], Parmesan and Chilli Biscuits || 6th || Monster Attack || {{Safe}}
+|-
+! scope="row"| Kate
+| Parmesan and Apple Biscuits || 4th || Tea Time || {{Safe}}
+|-
+! scope="row"| Luis
+| [[Black olive|Black Olive]] and Rosemary Biscuits with Caramelised Onion Glaze || 3rd || George Versus The Dragon || {{Safe}}
+|-
+! scope="row"| Martha
+| Caramelised Onion and Goat's Cheese Sandwich Biscuits || 5th || Ski Village Scene || {{Safe}}
+|-
+! scope="row"| Nancy
+| Fennel and Rye Thins || 2nd || Hansel and Gretel Scene || {{Safe}}
+|-
+! scope="row"| Norman
+| [[Farthing (British coin)|Farthing]] Biscuits || 10th || Zulu Boats at Dawn || {{Safe}}
+|-
+! scope="row"| Richard
+| Rosemary Seeded Crackers || 1st || Pirates! || {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 3: Bread ===
+In bread week, the bakers firstly had to make 12 [[rye bread]] [[Bread roll|rolls]] in {{frac|3|1|2|}} hours. In the technical challenge, they were given 3 hours to make 4 [[ciabatta]] loaves using Paul Hollywood's recipe with the advice from Paul that they should be patient. In the showstopper, the bakers were required to make a bread centrepiece in 4 hours. The centrepiece should be a filled-loaf that is spectacular and tasty, and would be judged on its appearance, design and crust, and should be well-baked on the inside.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br /><small>(12 [[Rye bread|Rye Bread]] [[Bread roll|Rolls]])</small>
+! scope="col"|Technical<br><small>(4 [[Ciabatta]]s)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Filled Centrepiece Loaf)</small>
+! scope="col"|Result
+|-
+! scope="row"| Chetna
+| Onion and [[Pine Nut]] Rolls || 8th || Rolled and Filled Twin Loaf || {{Safe}}
+|-
+! scope="row"| Diana
+| Rustic Picnic Rolls || 7th || Sharing Savoury Pinwheel || {{Safe}}
+|-
+! scope="row"| Iain
+| Cranberry and Walnut Rye Bread Rolls || 9th || Moroccan Plaited with a [[Bessara]] Dip || {{Safe}}
+|-
+! scope="row"| Jordan
+| Rye and [[Spelt]] Bread Rolls || 10th || Strawberry Raspberry [[Cheesecake]] [[Brioche]] || {{Eliminated}}
+|-
+! scope="row"| Kate
+| Orange and [[Cardamom]] Rye Bread Knots || 1st || [[Prosciutto]], Olive & [[Coriander]] Bread || {{Safe}}
+|-
+! scope="row"| Luis
+| Opposites Attract Rolls || 2nd || [[Roscón de Reyes]] || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Martha
+| Date and Walnut Rye Rolls || 3rd || Stuffed Sunflower Loaf || {{Safe}}
+|-
+! scope="row"| Nancy
+| Cider and Walnut Crusty Rolls || 5th || '[[Full English]]' [[Stromboli (food)|Stromboli]] || {{Safe}}
+|-
+! scope="row"| Norman
+| Rye Bread Rolls || 4th || Chicken and Roasted Vegetable Picnic Loaf || {{Safe}}
+|-
+! scope="row"| Richard
+| Rye and Cranberry Rolls || 6th || [[Pesto]] Pinwheel || {{Safe}}
+|}
+
+=== Episode 4: Desserts ===
+For the signature bake, the judges gave the bakers 2 hours to make 8 self-saucing puddings, meaning the sauce should come from the bake itself. The bakers may choose to make either a [[Molten chocolate cake|fondant]] or a sponge which creates its own sauce at the bottom. In the technical, they had to bake Mary Berry's own [[tiramisu]] cake recipe in {{frac|2|1|2}} hours. In the showstopper, they had {{frac|4|1|2}} hours to make [[baked Alaska]]s.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(8 Self-Saucing Puddings)</small>
+! scope="col"|Technical<br><small>(Tiramisu Cake)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Baked Alaska]])</small>
+! scope="col"|Result
+|-
+! scope="row"| Chetna
+| Rhubarb, Strawberry and Orange Puddings || 3rd || Mango, Raspberry and Coconut Baked Alaska || {{Safe}}
+|-
+! scope="row"| Diana
+| [[Fruit curd|Orange and Lemon Curd]] Pots || 9th || Raspberry Ripple Alaska Swan || {{Safe}}
+|-
+! scope="row"| Iain
+| Chocolate, Lime and Raspberry Fondants || 6th || Chocolate, Black Sesame Seed and Coffee Caramel Baked Alaska* || {{Eliminated}}
+|-
+! scope="row"| Kate
+| Chocolate and Salted Caramel Molten Puddings || 7th || Pistachio, Raspberry and Chocolate Baked Alaska || {{Safe}}
+|-
+! scope="row"| Luis
+| Pears in Puddings || 2nd || [[Bakewell tart|Bakewell]] Alaska || {{Safe}}
+|-
+! scope="row"| Martha
+| Peanut Butter Chocolate Fondants || 1st || [[Key Lime Pie|Key Lime]] Baked Alaska || {{Safe}}
+|-
+! scope="row"| Nancy
+| Pistachio Puddings with Chocolate Sauce || 4th || [[Summer pudding|Summer Pudding]] Alaska || {{Safe}}
+|-
+! scope="row"| Norman
+| Mini [[Sticky toffee pudding|Sticky Toffee Pudding]]s || 8th || Baked Alaska with Strawberry Surprise || {{Safe}}
+|-
+! scope="row"| Richard
+| Black Forest Chocolate Fondants || 5th || Tiramisu Baked Alaska || {{sort|1|}}{{Good|Star Baker}}
+|}
+<nowiki>*</nowiki>Many of the bakers struggled to make baked Alaskas, as it was the hottest day of the year so far, and two of five refrigerators were broken, resulting in a struggle among the contestants for enough freezer space.<ref name="guardian-ian">{{cite web|url=https://www.theguardian.com/tv-and-radio/2014/aug/28/great-british-bake-off-ian-watters-speaks-diana-beard|title=Great British Bake Off: Iain Watters speaks out as Diana Beard quits|last=Ellis-Petersen|first=Hannah|date=August 28, 2014|work=[[The Guardian]]|access-date=May 12, 2017}}</ref> During the bake, Diana took Iain's ice cream and sponge cake assembly out of the freezer to make room for hers, mistakenly leaving it out on a counter in the hot tent. When Iain found it, the ice cream had melted and, frustrated, he threw the sponge cake and melted ice cream in the dustbin. (It was later stated by producers that the dessert was only out for one minute.) Paul and Mary chastised him for this decision, explaining that they would rather have judged sample pieces of each baked Alaska component or even a melted final product than nothing at all, and his decision to present Paul and Mary with nothing to judge contributed to his elimination. Viewers of the show objected on Twitter, attacking Diana.<ref name="guardian-ian" /> Iain spoke out against these online attacks,<ref name="guardian-ian" /> and Diana claimed that the editing had distorted the truth, "stitching [her] up". She subsequently withdrew from the show after suffering an injury from a fall.<ref name=guardian />
+
+=== Episode 5: Pies and Tarts ===
+For signature challenge, the bakers were set the task of a family-sized [[custard tart]] in 2<sup>1</sup>⁄<sub>2</sub> hours. The tart should have a crispy base and silky custard. The technical challenge is set using one of Paul Hollywood's recipes, and the bakers were required to make 6 mini pear pies, which are poached pears surrounded by rough [[puff pastry]], to be completed in 5 hours. In the showstopper, the bakers were tasked with making tiered pies in 4<sup>1</sup>⁄<sub>2</sub> hours. The pies needed to be able to support themselves, and should have at least 3 tiers and share a common theme.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[custard tart|Custard Tart]])</small>
+! scope="col"|Technical<br><small>(6 Mini Pear Pies)</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Three-Tiered Pie)</small>
+! scope="col"|Result
+|-
+! scope="row"| Chetna
+| Rice Custard Tart with Mangoes and Raspberries  || 2nd || Fusion Tiered Pies || {{Safe}}
+|-
+! scope="row"| Diana
+| colspan="4" {{n/a|''Withdrew''}}{{efn|Before the signature round began, it was announced that Diana had withdrawn from the competition for health reasons; though specifics were not mentioned on air, Diana stated later that she had lost her sense of taste and smell in a fall.<ref name=guardian>{{cite news|url=https://www.theguardian.com/tv-and-radio/2014/aug/28/diana-beard-quit-bake-off-smell-taste|title=Diana Beard: I quit Bake Off after losing sense of taste and smell|last=Ellis-Petersen|first=Hannah|date=28 August 2014|work=The Guardian}}</ref>}}
+|-
+! scope="row"| Kate
+| Rhubarb and Custard Tart || 3rd || Rhubarb, Prune and Apple Pies || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Luis
+| Tropical [[Manchester tart|Manchester Tart]] || 6th || Four Fruity Seasons Tower || {{Safe}}
+|-
+! scope="row"| Martha
+| Pistachio, Apricot and Honey Custard Tart || 1st || [[Three Little Pigs]] Pie || {{Safe}}
+|-
+! scope="row"| Nancy
+| Chocolate Crusted Passion Fruit Tart || 4th || Trio of Apple Pies || {{Safe}}
+|-
+! scope="row"| Norman
+| [[Tarte au Citron]] || 5th || Pieful Tower || {{Eliminated}}
+|-
+! scope="row"| Richard
+| Fig and Orange Tart || 7th || Three Course Autumn Pie Feast || {{Safe}}
+|}
+{{notelist}}
+
+=== Episode 6: European Cakes ===
+For the signature bake, the challenge was to bake a European-inspired cake, but it had to be [[leavened]] with yeast. The bakers were given 3 hours for the challenge. The technical challenge was set using one of Mary Berry's recipes for a Swedish Princess cake, ''[[Princess cake|Prinsesstårta]]''. The recipe is the most complicated yet, requiring 26 separate ingredients with 14 stages, and to be completed in 2<sup>1</sup>⁄<sub>4</sub> hours. For the showstopper challenge, the bakers were required to make a contemporary version of the Hungarian [[Dobos torte|Dobos Torte]] in 5 hours. The cake should have at least two tiers, with particular emphasis on caramel sugar work on the cake.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(Yeast-Leavened Cake)</small>
+! scope="col"|Technical<br><small>([[Princess cake|Prinsesstårta]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Dobos Torte]])</small>
+! scope="col"|Result{{efn|No one was eliminated this week as the judges could not agree on the worst-performing baker, stating it was between Richard and Kate. As Diana left the show before the previous week's contest due to illness, it was possible not to eliminate anyone.}}
+|-
+! scope="row"| Chetna
+| Orange [[Savarin cake|Savarin]] with Cinnamon Cream || 2nd || Almond Liqueur Dobos Torte with Chocolate Caramel [[Buttercream]] || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Kate
+| Pecan, Chocolate and Sour Cherry [[Babka (cake)|Yeast Cake]] || 6th || Trio of Dobos Tortes || {{Safe}}
+|-
+! scope="row"| Luis
+| Apple and Cinnamon [[Gugelhupf|Kugelhopf]] with Honeyed Apples || 3rd || The Cage on the Rocky Hill || {{Safe}}
+|-
+! scope="row"| Martha
+| Dark Chocolate and Almond Liqueur Savarin || 4th || Chess-Themed Chocolate and Salted Caramel Dobos Torte || {{Safe}}
+|-
+! scope="row"| Nancy
+| Rum Punch Savarin with Coconut Cream and Tropical Fruits || 1st || Chocolate and Caramel Dobos Torte || {{Safe}}
+|-
+! scope="row"| Richard
+| Fruity [[Gugelhupf|Guglhupf]] with an Orange Glaze  || 5th || Sugar Forest Dobos Torte || {{Safe}}
+|}
+{{notelist}}
+
+=== Episode 7: Pastry ===
+
+In their first task, the bakers were set the challenge of making 12 savoury pastry parcels, to be completed in 1<sup>3</sup>⁄<sub>4</sub> hours. The parcels can be of any type of pastries, but should be uniform in size, well-filled, perfectly cooked and well-sealed to prevent leaks. The technical bake was, for the first time that none of the bakers had heard of, the [[Breton people|Breton]] pastry, [[kouign-amann]], using one of Paul Hollywood's recipes. The bakers should make 12 identical kouign-amanns in 3<sup>1</sup>⁄<sub>2</sub> hours. For the final challenge, the bakers were required to make 24 [[éclair]]s of two different flavours (12 of each) in 4 hours. The éclairs should be made of [[choux pastry]] and éclair-shaped, otherwise the bakers were free to do as they wished to produce a showstopper.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(12 Savoury Parcels)</small>
+! scope="col"|Technical<br><small>(12 [[Kouign-amann|Kouign-Amann]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(24 [[Éclair]]s)</small>
+! scope="col"|Result
+|-
+! scope="row"| Chetna
+| Crispy Lentil [[Kachori]] || 6th || Chocolate and Mango & Lemon [[Meringue]] Éclairs || {{Safe}}
+|-
+! scope="row"| Kate
+| Spinach and [[Paneer]] Spicy [[Samosa]] || 4th || [[Neapolitan ice cream|Neapolitan]] & Lemon Meringue Éclairs || {{Eliminated}}
+|-
+! scope="row"| Luis
+| Childhood [[Empanadas]] || 5th || Stars and Stripes Éclairs || {{Safe}}
+|-
+! scope="row"| Martha
+| Mini [[Beef Wellington]]s || 3rd || Rhubarb and Custard & Maple Syrup and Bacon Éclairs || {{Safe}}
+|-
+! scope="row"| Nancy
+| Spicy Duck [[Pasty|Pasties]] || 2nd || Smoked Salmon and Horseradish & [[Raspberry Ripple]] Éclairs || {{Safe}}
+|-
+! scope="row"| Richard
+| Minted Lamb Pasties || 1st || Stair of Éclairs|| {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 8: Advanced Dough (Quarterfinals) ===
+For the signature bake, they were given the challenge of making sweet fruit loaves that must be free form. They had 2<sup>1</sup>⁄<sub>2</sub> hours for the bake which is challenging as the bakers were required to use enriched dough which takes longer to [[Proofing (baking technique)|proof]]. In the technical, they had 2<sup>1</sup>⁄<sub>2</sub> hours to make a [[povitica]], which Chetna had made for her signature loaf. This technical challenge was particularly hard for most of the bakers, many of whose loafs were raw inside and deemed unsafe to eat. [[Doughnuts]] were set as the challenge in the final task, and the bakers were required to make 18 each of two different sorts, to be completed in 4 hours.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(Fruit Loaf)</small>
+! scope="col"|Technical<br><small>([[Povitica]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(36 [[Doughnuts]])</small>
+! scope="col"|Result
+|-
+! scope="row"| Chetna
+| Date and Walnut Swirl Bread || 1st || Chocolate Mousse Filled Doughnuts<br>Braided Doughnuts || {{Safe}}
+|-
+! scope="row"| Luis
+| Black Forest Cherry Tree || 2nd || Cocktail Doughnuts || {{Safe}}
+|-
+! scope="row"| Martha
+| Spiced Plum Iced Bread Swirl || 5th || Glazed Lemon & Poppyseed Doughnuts<br>Chocolate & Passion Fruit Doughnuts || {{Eliminated}}
+|-
+! scope="row"| Nancy
+| [[Lincolnshire]] Plum Braid || 3rd || Doughnut Family Tree || {{Safe}}
+|-
+! scope="row"| Richard
+| Fruit Swedish Tea Ring || 4th || Rhubarb and Custard and Toffee Apple Doughnuts || {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 9: Pâtisserie (Semi-final) ===
+For the signature challenge, the bakers had to make [[baklava]], including their own [[Filo|filo pastry]], with a time limit of 3<sup>1</sup>⁄<sub>2</sub> hours to complete the challenge. There had to be two different types of baklava, and 24 portions in total. For the technical challenge, the bakers had to make a [[Baumkuchen#Schichttorte|schichttorte]], and had 2 hours to complete it. There had to be 20 layers in their schichttorte, and was one of Paul Hollywood's recipes. For the showstopper challenge, the bakers had to make [[entremets]], very small and fine cakes put in a window of a French [[pâtisserie]]. They had to make two different types of entremets, 12 of each, and had 5 hours to complete the challenge.
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(24 [[Baklava]])</small>
+! scope="col"|Technical<br><small>([[Baumkuchen#Schichttorte|Schichttorte]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(24 [[Entremets]])</small>
+! scope="col"|Result
+|-
+! scope="row"| Chetna
+| Chocolate Orange Baklava<br>[[Masala Chai]] Baklava || 4th || Chocolate, Orange & Nut Entremets<br>Cappuccino Entremets || {{Eliminated}}
+|-
+! scope="row"| Luis
+| Indian Rose Baklava<br>[[Halwa]] Baklava Rolls || 1st || [[Chocolate Mousse]] & Cherry Entremets<br>Pomegranate, Fig & Pistachio Sponge || {{Safe}}
+|-
+! scope="row"| Nancy
+| Coffee and Chocolate Baklava<br>Breakfast Baklava || 3rd || Raspberry [[Nonnette (dessert)|Nonnettes]]<br>Lime and Passion Fruit Entremets || {{Safe}}
+|-
+! scope="row"| Richard
+| Rose and Pistachio Baklava<br>Walnut and Almond Baklava || 2nd || Hazelnut Mocha Entremets<br>Pink Grapefruit Entremets || {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 10: Final ===
+In the final signature challenge, the bakers had to make [[Viennoiserie]] in 3<sup>1</sup>⁄<sub>2</sub> hours. They had to make 2 different types of the pastry. In the final technical, the judges decided to bring things "back to basics" by asking the bakers to bake 12 [[Victoria Sandwich]]es, [[Tarte au Citron|Tartes au Citron]] and [[Scone]]s. The challenge, however, was that they had only 2 hours to make this with only 3 instructions. The final showstopper was a [[Pièce montée|Pièce Montée]]. The bakers were given 5 hours to make this, and the judges said it must be in some self-standing structure.
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>([[Viennoiserie]])</small>
+! scope="col"|Technical<br><small>(12 Mini [[Victoria Sandwich]]es, 12 Mini [[Tarte au Citron]], 12 Mini [[Scones]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>([[Pièce montée|Pièce Montée]])</small>
+! scope="col"|Result
+|-
+! scope="row"| Luis
+| Apple, Walnut, Raisin and [[Cheshire cheese|Cheshire Cheese]] [[Turnover (food)|Chaussons]]<br />[[Pain au chocolat|Pain au Chocolat Blanc]] with Raspberries and Cream Cheese || align="center"|2nd || Village in Chocolate || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"| Nancy
+| Apple and Lemon Kites<br>Raspberry and Almond Croissants || align="center"|1st || [[Moulin Rouge|Red Windmill]] || {{sort|1|}}{{Won|color=gold|Winner}}
+|-
+! scope="row"| Richard
+| Pear [[Pain au chocolat|Pain au Chocolat]]<br>Pain au Lait || align="center" |3rd || [[Mill Hill#History|Mill on the Hill]] || {{sort|2.5|}}{{Runner-up}}
+|}
+
+=== Masterclasses ===
+Mary and Paul demonstrated how to bake the technical challenges that they set for the bakers as well as their own favorite recipes for some of the other challenges set in the series. They also gave some tips on baking techniques. The Masterclasses episodes were shown on BBC2.
+
+==== Episode 1 ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2
+! scope="col"|Bake 3
+|-
+! scope="row"| Mary
+| [[Pound cake#Cherry cake|Cherry Cake]] || [[Florentine biscuit|Florentines]] || Miniature Coffee and Walnut Cakes
+|-
+! scope="row"| Paul
+| Blackcurrant and Liquorice<br />Swiss Roll || Savoury Biscuits || {{n/a}}
+|}
+
+==== Episode 2 ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2
+! scope="col"|Bake 3
+|-
+! scope="row"| Mary
+| Tiramisu Cake || Neapolitan Baked Alaska || {{n/a}}
+|-
+! scope="row"| Paul
+| Ciabatta ||  Roquefort and Walnut Loaf || Chocolate Volcanoes
+|}
+
+==== Episode 3 ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2
+! scope="col"|Bake 3
+|-
+! scope="row"| Mary
+| Chocolate and Orange Tart || Prinsesstårta || Almond Praline and Caramel-Coated Hazelnut Dobos Torte
+|-
+! scope="row"| Paul
+| Mini Sausage Plaits || Kouign-Amann || {{n/a}}
+|}
+
+==== Episode 4 ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2
+! scope="col"|Bake 3
+|-
+! scope="row"| Mary
+| Lemon and Raspberry Éclairs<br /> || Double Chocolate Mousse Entremets || {{n/a}}
+|-
+! scope="row"| Paul
+| Chocolate and Cherry Loaf || Povitica || Chocolate and Raspberry Doughnuts
+|}
+
+==== Christmas special ====
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|
+! scope="col"|Bake 1
+! scope="col"|Bake 2
+! scope="col"|Bake 3
+|-
+! scope="row"| Mary
+| White Chocolate and Ginger Cheesecake|| [[Genoa Cake]] || Almond [[Galette]]
+|-
+! scope="row"| Paul
+| [[Saffron bun|St. Lucia Buns]]|| [[Mincemeat]] and [[Marzipan]] Couronne || [[Kransekake]]
+|}
+
+== Controversy ==
+
+=== "Bingate" ===
+In the fourth episode of the series, there was controversy over the events that preceded the elimination of contestant Iain Watters. During the final showstopper round contestants were tasked with producing a baked Alaska. Iain's ice cream was shown as having not set, and in a show of frustration, he threw his bake in the bin. The editing of the show suggested that another contestant, Diana Beard, had caused the failure by removing the ice cream from a freezer for her own ice cream, and the perceived "sabotage" resulted in a furore on social media networks.<ref>{{cite news|url=https://www.independent.co.uk/arts-entertainment/tv/news/the-great-british-bake-off-rocked-by-baked-alaska-sabotage-scandal-9695831.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/the-great-british-bake-off-rocked-by-baked-alaska-sabotage-scandal-9695831.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title=Great British Bake Off rocked by Baked Alaska 'sabotage' scandal |work=The Independent |date=28 August 2014 |access-date=28 August 2014}}</ref>
+
+More than 800 complaints were lodged with the BBC, and some complained to the communication watchdog [[Ofcom]].<ref>{{cite news |url=https://www.theguardian.com/media/2014/aug/29/great-british-bake-off-ofcom-complaints-bbc-diana-beard-iain-watters |title=Great British Bake Off: Ofcom rules out investigation despite complaints |author=Jason Deans |date=29 August 2014 |work=The Guardian }}</ref> Some members of the cast, however, posted comments in support of Diana,<ref>{{cite web|url=https://www.theguardian.com/media/2014/aug/28/great-british-bake-off-paul-hollywood-sue-perkins-bingate-iain-watters |title=Great British Bake Off: Paul Hollywood and Sue Perkins speak out on 'bingate' |publisher=guardian.com |date=28 August 2014 |access-date=28 August 2014}}</ref> and a BBC spokesman later issued a statement:
+
+<blockquote>"As shown in the episode, Iain became the fourth baker to leave the tent because he didn't present Paul and Mary with anything to judge in the showstopper challenge and both judges were very clear about the reasoning behind the decision. Due to the extreme temperature in the tent that day, many of the bakers struggled to get their ice cream to set as seen in the episode. Diana removing Iain's ice cream from the freezer for less than a minute was in no way responsible for Iain's departure."<ref>{{cite web|url=http://metro.co.uk/2014/08/28/great-british-bake-off-2014-bbc-receives-over-500-bingate-complaints-while-justiceforiain-dominates-twitter-4849049/ |title=Great British Bake Off 2014: BBC receives over 500 'bingate' complaints while #justiceforiain dominates Twitter |publisher=metro.co.uk |date=28 August 2014 |access-date=28 August 2014}}</ref></blockquote>
+
+The claim that his dish was only left out for a short time was, however, challenged by Iain Watters, who said that it was left long enough to ruin the dessert.<ref>{{cite news |url=https://www.theguardian.com/tv-and-radio/2014/aug/28/great-british-bake-off-ian-watters-speaks-diana-beard |title=Great British Bake Off: Iain Watters speaks out as Diana Beard quits |author=Hannah Ellis-Petersen |date= 28 August 2014 |work=The Guardian }}</ref>
+
+Fellow contestant Jordan Cox criticized the show's production, claiming the freezers were not very good in quality, and were chosen only for their aesthetics.<ref>{{cite web |url=http://www.digitalspy.co.uk/tv/s215/great-british-bake-off/news/a593577/jordan-cox-criticises-in-your-face-great-british-bake-off-team.html|title=Jordan Cox criticises "in your face" Great British Bake Off team|author = Ryan Love |date=31 August 2014  |work = Digital Spy}}</ref>
+
+Diana Beard left the show before the next episode was filmed due to illness.<ref>{{cite news |url=http://www.radiotimes.com/news/2014-08-28/diana-quits-the-great-british-bake-off-2014 |title=Diana quits The Great British Bake Off 2014 |author=Susanna Lazarus|date= 28 August 2014 |work=Radio Times }}</ref><ref>{{cite news |url=https://www.theguardian.com/tv-and-radio/2014/aug/28/diana-beard-quit-bake-off-smell-taste |title=Diana Beard: I quit Bake Off after losing sense of taste and smell |author=Hannah Ellis-Petersen |date= 28 August 2014 |work=The Guardian }}</ref>
+
+Beard later gave an interview to [[BBC Radio Shropshire]]: <blockquote>"I'm disappointed with the way it's been portrayed. I've been stitched up, haven't I? We were 12 amateur bakers, [there's] no prize money involved. Why would I sabotage Iain's Baked Alaska? This has made it look like some cutthroat competition. I think someone's culpable for the editing, really."<ref name="beardexit"/> </blockquote> Beard also said that Iain's ice cream had been out of the freezer for no more than 40 seconds, and that her conscience was clear.<ref name="beardexit">{{cite news |url=https://www.bbc.co.uk/news/entertainment-arts-28964737|title=Great British Bake Off: Diana Beard's exit announced|date=29 August 2014|work=BBC}}</ref>
+
+The incident would later be referenced by contestant Iain Ross (also from Belfast) in [[The Great British Bake Off series 16|series 16]]. Tasked to create a showstopper '[[vacherin glacé]]' consisting of ice cream and meringue, Ross was inspired by his and Watters' shared first name and hometown, creating a 'Bingate Redemption' dessert using the same flavours of Watters' baked Alaska.
+
+=== Innuendo ===
+A number of viewers complained to the BBC feedback show ''[[Points of View (TV series)|Points of View]]'' in the fifth series about the "constant smutty remarks" from the presenters Mel and Sue.<ref>{{cite news |url=https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2014-viewers-complain-about-smutty-innuendos-as-we-pick-the-best-9752461.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2014-viewers-complain-about-smutty-innuendos-as-we-pick-the-best-9752461.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title=Great British Bake Off 2014: Viewers complain about 'smutty' innuendos |work=The Independent |author=Jess Denham |date=24 September 2014}}</ref><ref>{{cite news |url=https://www.independent.co.uk/arts-entertainment/tv/features/bake-off-2014-from-a-good-forking-to-erect-biscuits--our-favourite-great-british-innuendos-9782163.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/features/bake-off-2014-from-a-good-forking-to-erect-biscuits--our-favourite-great-british-innuendos-9782163.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title=Great British Bake Off innuendos: we pick our favourites |author=Matilda Battersby |date=8 October 2014 |work=The Independent }}</ref> This series was seen as having more innuendos than previous ones; some reviewers noted the "extra pinch of saucy spice" and "the increasingly filthy-minded hosts Mel Giedroyc and Sue Perkins",<ref>{{cite news |url=https://www.bbc.co.uk/news/blogs-the-papers-28684187 |date=7 August 2014 |title=Boris Johnson's 'Commons comeback', Bake Off 'smut' and who is James Corden?
+|author= Andy McFarlane |work=BBC }}</ref><ref>{{cite news |url=https://www.thetimes.com/culture/tv-radio/article/tv-review-the-great-british-bake-off-57xr8925fmr |title=TV Review: The Great British Bake Off |author=Andrew Billen |date=7 August 2014 }}</ref> though Series 3 winner John Whaite argued that innuendo is part of what made the show a success,<ref>{{citation |url=https://www.telegraph.co.uk/culture/tvandradio/11115090/Soggy-bottoms-and-hot-buns-why-the-Bake-Off-thrives-on-innuendo.html |title=Soggy bottoms and hot buns: why the Bake Off thrives on innuendo |author=John Whaite |date= 23 September 2014 |work=The Daily Telegraph }}</ref> while Paul Hollywood described the innuendo as banter in the spirit of the [[Carry On (franchise)|''Carry On'' films]] and is a part of British culture,<ref>{{cite news |url=https://www.telegraph.co.uk/culture/tvandradio/great-british-bake-off/11141937/Great-British-Bake-Off-smut-Its-just-a-bit-of-banter-says-Paul-Hollywood.html |title=Great British Bake Off smut? It's just a bit of banter, says Paul Hollywood |author= Anita Singh |date=6 Oct 2014 |work= Daily Telegraph}}</ref> a view shared by others.<ref>{{cite news |url=https://www.theguardian.com/commentisfree/2014/oct/08/great-british-bake-off-sprinkling-smut-sexual-innuendo |title=Why the Great British Bake Off needs a sprinkling of smut |author=Martin Rowson |work=The Guardian |date= 8 October 2014 }}</ref><ref>{{cite news |url=http://blogs.telegraph.co.uk/culture/harrymount/100076314/great-british-bake-off-smut-ooh-matron-why-innuendo-comes-so-easily-for-the-british/ |archive-url=https://web.archive.org/web/20141008034609/http://blogs.telegraph.co.uk/culture/harrymount/100076314/great-british-bake-off-smut-ooh-matron-why-innuendo-comes-so-easily-for-the-british/ |url-status=dead |archive-date=8 October 2014 |title=Great British Bake Off smut: Ooh, Matron! Why innuendo comes so easily for the British |author= Harry Mount |date=6 October 2014 |work=The Daily Telegraph}}</ref>
+
+== Post-show careers ==
+Richard Burr's book on baking, ''BIY: Bake it Yourself'', was released on 16 August 2015.<ref>{{cite news |url=http://www.westerndailypress.co.uk/Bake-s-Richard-Burr-new-book-BIY-Bake/story-27811512-detail/story.html |title=Great British Bake Off's Richard Burr on his new book BIY: Bake It Yourself|work= Western Daily Press |date= 19 September 2015 }}</ref>
+
+Luis Troyano also wrote a book, ''Bake It Great'', released on 20 August 2015.<ref>{{cite news |url=https://www.independent.co.uk/extras/indybest/10-best-cookbooks-by-great-british-bake-off-contestants-james-morton-ruby-tandoh-a6680291.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/extras/indybest/10-best-cookbooks-by-great-british-bake-off-contestants-james-morton-ruby-tandoh-a6680291.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title=Great British Bake Off: 10 best cookbooks |author=Pippa Bailey Monday |date=5 October 2015 |work=The Independent}}</ref> He died of oesophageal cancer in November 2020 at the age of 48.<ref>{{cite news |url=https://www.radiotimes.com/news/tv/entertainment/2020-11-03/luis-troyano-dead-great-british-bake-off.html |title=Great British Bake Off finalist Luis Troyano dies aged 48 |author=Minnie Stewart |date=3 November 2020 |work=Radio Times}}</ref>
+
+Chetna Makan has written a baking book ''The Cardamom Trail,'' released on 21 March 2016, as well as a cookbook ''Chai, Chaat & Chutney: A Street Food Journey Through India'', published on 6 July 2017.<ref>{{cite news |url=http://www.thebookseller.com/news/gbbo-semi-finalist-chetna-makan-publish-second-cookbook-490676 |title=GBBO semi-finalist Chetna Makan to publish second cookbook |author=Katherine Cowdrey |date=20 February 2017 |work=The Bookseller}}</ref><ref>{{cite book| url=https://www.octopusbooks.co.uk/books/detail.page?isbn=9781784722876| title=Chai, Chaat & Chutney| publisher=[[Mitchell Beazley]]| access-date=2017-08-11| website=octopusbooks.co.uk| date=5 September 2017| isbn=9781784722876}}</ref> Makan has continued to write cookbooks focused on Indian cooking, with ''Chetna's Healthy Indian, Chetna's Healthy Indian Vegetarian, and Chetna's 30-Minute Indian'' published in 2019, 2020, and 2021 respectively.<ref>{{Cite web|title=Chetna Makan|url=https://www.amazon.com/kindle-dbs/entity/author/B074QNL241?_encoding=UTF8&node=283155&offset=0&pageSize=12&searchAlias=stripbooks&sort=author-sidecar-rank&page=1&langFilter=default#formatSelectorHeader|access-date=2021-12-18|website=www.amazon.com|language=en-us}}</ref>
+
+Martha Collison has written two baking books, ''Twist,'' released on 14 July 2016, and ''Crave'', published 13 July 2017 with Harper Collins.<ref>{{Cite web|url=https://www.harpercollins.com/author/cr-123733/martha-collison/|title=Martha Collison}}</ref> She also has a weekly column with [[Waitrose]]<ref>{{Cite web|url=https://www.waitrose.com/home/recipes/baking/bake-with/martha-collison.html|title=Martha Collison Baking Recipes &#124; Waitrose}}</ref> and is a charity ambassador for [[Tearfund]].<ref>https://www.tearfund.org/en/media/press_releases/tv_bakers_martha_and_will_team_up_with_tearfund_to_host_baking_events_this_october/ {{Dead link|date=February 2022}}</ref>
+
+[[Nancy Birtwhistle]] released her first book ‘Sizzle and Drizzle’<ref>{{Cite web|url=https://www.nancybirtwhistle.co.uk/sizzle-and-drizzle-book/|title=Sizzle and Drizzle – Nancy Birtwhistle}}</ref> in 2020. She released her second book, Clean & Green: 101 Hints and Tips for a More Eco-Friendly Home in 2021.<ref>{{Cite web|url=https://www.bookdepository.com/Clean-Green-Nancy-Birtwhistle/9781529049725|title=Clean & Green : Nancy Birtwhistle : 9781529049725}}</ref>
+
+== Ratings ==
+The series started with its highest ratings for its opening episode after its move to BBC One, with over 7 million tuning in according to overnight figures.<ref>{{cite news |url=https://www.theguardian.com/media/2014/aug/07/great-british-bake-off-bbc1-ratings |title=John Plunkett |date= 7 August 2014 |work=The Guardian }}</ref> This is adjusted to 8.5 million for its 7-day final viewing figure, making this its second most-watched episode after previous year's final.<ref>{{cite news |url= http://www.broadcastnow.co.uk/ratings/bbc1s-in-the-club-delivers/5076466.article |title=BBC1's In The Club delivers |date= 21 August 2014 |author= Stephen Price|work=Broadcast Now }}</ref> In the fourth episode, 8.1 million watched the original broadcast,<ref>{{cite web |url=http://www.digitalspy.co.uk/tv/news/a593041/great-british-bake-off-climbs-to-huge-ratings-of-810m.html |title=Great British Bake Off climbs to huge ratings of 8.10m |author= Tom Eames |date=8 Aug 2014 |work=Digital Spy }}</ref> but the "bingate" controversy gained the show a further 2 million viewers on the [[BBC iPlayer]] catch-up service, giving the show the biggest ever audience with 10.248 million viewers for the episode.<ref>{{cite news |url=https://www.telegraph.co.uk/culture/tvandradio/great-british-bake-off/11088494/Great-British-Bake-Off-shock-as-no-one-is-eliminated.html |title=Great British Bake Off shock as no one is eliminated |author=Hannah Furness |date= 10 September 2014 |work=The Daily Telegraph}}</ref><ref>{{cite news |url=https://www.mirror.co.uk/tv/tv-news/great-british-bake-draws-highest-4170904 |title=Great British Bake Off draws highest ever ratings as 10.3 million viewers tune in |author=Nicola Methven |date= 5 September 2014 |work=Mirror }}</ref> The final of the show gained an overnight viewing figure of 12.29 million,<ref>{{cite web |url=http://www.digitalspy.co.uk/tv/s215/great-british-bake-off/news/a602261/great-british-bake-off-final-is-most-watched-non-sporting-tv-event-of-year.html |title=Great British Bake Off final is most-watched non-sporting TV event of year |author=Ben Lee |date=9 October 2014 |work=Digital Spy |access-date=9 October 2014 |archive-date=10 October 2014 |archive-url=https://web.archive.org/web/20141010070158/http://www.digitalspy.co.uk/tv/s215/great-british-bake-off/news/a602261/great-british-bake-off-final-is-most-watched-non-sporting-tv-event-of-year.html |url-status=dead }}</ref> and a consolidated average figure of 13.5 million, the highest viewing figure for a non-sporting event of the year on UK TV, after [[2014 FIFA World Cup]]'s England vs Uruguay match.<ref>{{cite news |url=https://www.theguardian.com/media/2014/dec/17/the-great-british-bake-off-tv-ratings-2014 |title=The Great British Bake Off rises to top of most-watched TV of 2014 so far |author=Tara Conlan|date= 17 December 2014 |work=Guardian }}</ref> Series 5 had an average of viewing figure of 10.1 million.<ref>{{cite news |url=http://www.broadcastnow.co.uk/ratings/bbc1-rises-to-the-challenge/5082034.article |title=BBC1 rises to the challenge|date=22 January 2015 |author= Stephen Price |work=Broadcast }}</ref>
+
+Official episode viewing figures are from [[BARB]].<ref>{{Cite web|url=http://www.barb.co.uk/whats-new/weekly-top-30|title=Weekly Top 30 Programmes|publisher=[[Broadcasters' Audience Research Board]]|access-date=16 September 2015}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC One<br />weekly ranking
+! scope="col"|Weekly ranking<br />all channels<ref>{{Cite web|url=http://www.barb.co.uk/whats-new/weekly-top-10?_s=4|title=Weekly Top 10 Programmes|publisher=[[Broadcasters' Audience Research Board]]|access-date=16 September 2015}}</ref>
+|-
+! scope="row"| 1
+| {{Start date|2014|08|06|df=y}} || 8.51 || rowspan="7" | 1 || rowspan="3" | 1
+|-
+! scope="row"| 2
+| {{Start date|2014|08|13|df=y}} || 8.79 
+|-
+! scope="row"| 3
+| {{Start date|2014|08|20|df=y}} || 9.28 
+|-
+! scope="row"| 4
+| {{Start date|2014|08|27|df=y}} || 10.25 || rowspan="4" | 2
+|-
+! scope="row"| 5
+| {{Start date|2014|09|03|df=y}} || 9.95 
+|-
+! scope="row"| 6
+| {{Start date|2014|09|10|df=y}} || 10.13 
+|-
+! scope="row"| 7
+| {{Start date|2014|09|17|df=y}} || 10.28 
+|-
+! scope="row"| 8
+| {{Start date|2014|09|24|df=y}} || 9.02{{ref|3|3}} || 2 || 4
+|-
+! scope="row"| 9
+| {{Start date|2014|10|01|df=y}} || 10.67 || colspan="2" rowspan="2" | 1 
+|-
+! scope="row"| 10
+| {{Start date|2014|10|08|df=y}} || 13.51 
+|}
+<sup>{{note|3|Note 3}}</sup> The programme was rescheduled to BBC Two in Scotland due to a football game.
+
+=== Specials ===
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off Masterclass''
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row"| 1
+| {{Start date|2014|10|09|df=y}} || 1.99 || 12
+|-
+! scope="row"| 2
+| {{Start date|2014|10|10|df=y}} || 1.53 || 24
+|-
+! scope="row"| 3
+| {{Start date|2014|10|15|df=y}} || 2.16 || 7
+|-
+! scope="row"| 4
+| {{Start date|2014|10|16|df=y}} || 1.42 || 23
+|}
+
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off'', Class of 2013
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row" style="background:silver;"|
+| {{Start date|2014|10|12|df=y}} || {{N/A}} || {{N/A}}
+|}
+
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off'', Christmas Masterclass
+! scope="col"|Episode<br />no.
+! scope="col"|Airdate
+! scope="col"|Viewers<br /><small>(millions)</small>
+! scope="col"|BBC Two<br />weekly ranking
+|-
+! scope="row" style="background:silver;"|
+| {{Start date|2014|12|16|df=y}} || 3.03 || 5
+|}
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* {{BBC programme}}
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off, The}}
+[[Category:The Great British Bake Off|Series 5]]
+[[Category:2014 British television seasons]]

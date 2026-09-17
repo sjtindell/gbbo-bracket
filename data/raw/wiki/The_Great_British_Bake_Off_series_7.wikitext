@@ -1,0 +1,771 @@
+{{short description|Seventh series of The Great British Bake Off}}
+{{about|the seventh series, which aired as the fourth season of the PBS broadcast|the fourth series|The Great British Bake Off series 4}}
+{{Use dmy dates|date=August 2019}}
+{{Use British English|date=August 2019}}
+{{Infobox television season
+| image         = 
+| caption       = 
+| series_number = 7
+| module1       = {{Infobox reality competition season
+ | presenter       = [[Mel Giedroyc]]<br>[[Sue Perkins]]
+ | judges          = [[Mary Berry]]<br>[[Paul Hollywood]]
+ | num_contestants = 12
+ | winner          = [[Candice Brown]]
+ | runner_up       = [[Andrew Smyth (baker)|Andrew Smyth]]<br>Jane Beedle
+ | location        = [[Welford Park]], Berkshire
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 30
+}}
+| num_episodes  = 10
+| network       = [[BBC One]]
+| first_aired   = {{start date|2016|8|24|df=y}}
+| last_aired    = {{end date|2016|10|26|df=y}}
+}}
+
+The '''seventh series''' of ''[[The Great British Bake Off]]'' aired from 24 August 2016, with twelve contestants competing to be crowned the series 7 winner.<ref>{{Cite news |url=https://www.telegraph.co.uk/tv/2016/07/11/the-great-british-bake-off-2016-everything-you-need-to-know/ |publisher=Telegraph |title=The Great British Bake Off 2016: everything you need to know – Olympics will delay new series |date=5 August 2016 |access-date=6 August 2016|newspaper=The Telegraph |last1=Hogan |first1=Michael }}</ref><ref>{{cite news|url=https://www.independent.co.uk/arts-entertainment/tv/news/the-great-british-bake-off-2016-start-date-bbc-one-show-delayed-thanks-to-the-rio-olympics-a7174311.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/the-great-british-bake-off-2016-start-date-bbc-one-show-delayed-thanks-to-the-rio-olympics-a7174311.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |date=5 August 2016 |work=The Independent |title=The Great British Bake Off 2016 start date: BBC One show delayed thanks to the Rio Olympics |access-date=6 August 2016}}</ref>
+
+This series was the last to be broadcast on [[BBC One]], as the production company Love Productions opted to move the show to [[Channel 4]].<ref>{{cite news |url=https://www.bbc.co.uk/news/entertainment-arts-37353262 |title=Why did The Great British Bake Off move to Channel 4? |first= David |last=Sillito|date=13 September 2016 |work=BBC }}</ref> As such, it was also the last series to feature Sue Perkins, Mel Giedroyc, and Mary Berry.<ref>{{cite news |url=https://www.bbc.co.uk/news/entertainment-arts-37355065 |title=Great British Bake Off: Mel and Sue to quit as hosts |date=19 September 2016 |work=BBC }}</ref><ref>{{cite news |url=https://www.bbc.com/news/entertainment-arts-37437907 |title=Great British Bake Off: Mary Berry leaves but Paul Hollywood stays |date=22 September 2016 |work=BBC }}</ref>
+
+In the United States, the seventh series was broadcast as the fourth season on [[PBS]] and streamed as Collection 4 on [[Netflix]].
+
+[[Sue Perkins]] does not appear in episode 2. When the episode was being filmed in April 2016 she needed time off to deal with a bereavement. She does appear vocally in the narration.<ref>{{cite news |url=https://www.bbc.com/news/newsbeat-37231057 |title=Sue Perkins will not appear in tonight's Great British Bake Off |date= 21 August 2016 |work= BBC }}</ref>
+
+== Bakers ==
+{| class="wikitable sortable" style="text-align:center;"
+!scope="col"|Contestant<ref>{{cite web|url=http://www.radiotimes.com/news/2016-08-16/follow-the-new-great-british-bake-off-stars-on-twitter|title=Great British Bake Off 2016 contestants: which ones are on Twitter? Rav, Tom, Candice, Jane, Lousie, Andrew, Selasi, Michael, Benjamani<!-- Bot generated title -->}}</ref><ref>[http://www.edp24.co.uk/going-out/norfolk_nurse_vying_to_be_star_baker_in_new_series_of_the_great_british_bake_off_1_4658663 Norfolk nurse vying to be star baker in new series of The Great British Bake Off – Going Out – Eastern Daily Press<!-- Bot generated title -->]</ref>
+!scope="col"|Age
+!scope="col"|Hometown
+!scope="col"|Occupation
+!scope="col"|Finish
+!scope="col"|Place
+|-
+! scope="row" | Lee Banfield
+| 67 
+| nowrap|[[Bolton]], [[England]]  
+| Pastor <ref>{{cite news |url=https://www.telegraph.co.uk/news/2016/08/20/great-british-bake-off-contestant-reverend-lee-banfield-has-god/ |title=Great British Bake Off contestant Reverend Lee Banfield has God on his side |author=Hannah Furness |author2=Alice Shaw |date=20 August 2016 |work=The Daily Telegraph }}</ref>
+|Episode 1
+|12th
+|-
+! scope="row" | Louise Williams
+| 46 
+| [[Cardiff]], [[Wales]] 
+| Hairdresser  <ref>{{cite web |url=https://twitter.com/LouBaraDa |title=Louise Williams on Twitter }}</ref>
+|Episode 2
+|11th
+|-
+! scope="row" | Michael Georgiou
+| 20 
+| [[Durham, England|Durham]], England 
+| Student <ref>{{cite web |url=https://twitter.com/michaelgeo96 |title=Michael Georgiou on Twitter }}</ref>
+|Episode 3
+|10th
+|-
+! scope="row" | Kate Barmby
+| 37 
+| [[Brooke, Norfolk|Brooke]], England
+| Nurse  <ref>{{cite web |url=https://twitter.com/katebarmby |title=Kate Barmby on Twitter }}</ref><ref>{{cite news |url=http://www.edp24.co.uk/going-out/norfolk_s_great_british_bake_off_hopeful_kate_barmby_reveals_her_baking_secrets_1_4661192 |title=Norfolk's Great British Bake Off hopeful Kate Barmby reveals her baking secrets |date=18 August 2016 |first=Jessica|last= Long }}</ref>
+|Episode 4
+|9th
+|-
+! scope="row" | Valerie "Val" Stones
+| 66 
+| [[Yeovil]], England 
+| nowrap|Semi-retired, Substitute teacher  <ref>{{cite web |url=https://www.instagram.com/cake.walks/ |title=Val Stones on Instagram }}</ref>
+|Episode 5
+|8th
+|-
+! scope="row" | Rav Bansal
+| 28 
+| [[Erith]], England 
+| Student support  <ref>{{cite web |url=https://twitter.com/RavSBansal |title=Rav Bansal on Twitter }}</ref>
+|Episode 6
+|7th
+|-
+! scope="row" | Tom Gilliford
+| 26 
+| [[Rochdale]], England 
+| Project engagement manager  <ref>{{cite web |url=https://twitter.com/Tom_gilliford |title=Tom Gilliford on Twitter }}</ref>
+|Episode 7
+|6th
+|-
+! scope="row" | Benjamina Ebuehi
+| 23 
+| [[South London]], England
+| Teaching assistant  <ref>{{cite web |url=https://twitter.com/bakedbybenji |title=Benjamina Ebuehi on Twitter }}</ref>
+|Episode 8
+|5th
+|-
+! scope="row" | Selasi Gbormittah
+| 30 
+| [[London]], England 
+| Client service associate  <ref>{{cite web |url=https://twitter.com/selasigb |title=Selasi Gbormittah on Twitter }}</ref>
+|Episode 9
+|4th
+|-
+! scope="row" |[[Andrew Smyth (engineer)|Andrew Smyth]]
+| 25 
+| nowrap|[[Holywood, County Down|Holywood]], [[Northern Ireland]]
+| Aerospace engineer  <ref>{{cite web |url=https://twitter.com/cakesmyth |title=Andrew Smyth on Twitter }}</ref><ref>{{cite news |url=https://www.bbc.co.uk/news/entertainment-arts-37785885 |title=GBBO: How Andrew Smyth kept the result a secret |date=27 October 2016|work=BBC}}</ref>
+|rowspan="3"|{{nowrap|Episode 10}}
+|rowspan="2"|{{sort|2.5|}}Runner-up
+|-
+! scope="row" | Jane Beedle
+| 61 
+| [[Beckenham]], England 
+| Garden designer  <ref>{{cite web |url=https://twitter.com/Janebbakes |title=Jane Beedle on Twitter }}</ref>
+|-
+! scope="row" | [[Candice Brown]]
+| 31 
+|[[Barton-Le-Clay]], England
+| PE teacher  <ref>{{cite web |url=https://twitter.com/CJ_Brownie |title=Candice Brown on Twitter }}</ref><ref>{{cite news |url=http://www.bedfordshire-news.co.uk/great-british-bake-off-final-candice-crowned-the-winner-of-this-year-s-baking-competition/story-29844790-detail/story.html |title=Great British Bake Off Final: Bedfordshire's Candice crowned winner of baking competition |work=Bedfordshire On Sunday  | date= October 26, 2016}}</ref>
+|1st
+|}
+
+== Results summary ==
+
+This series was won by [[Candice Brown]], with [[Andrew Smyth (engineer)|Andrew Smyth]] and Jane Beedle finishing as runners-up.
+
+{| class="wikitable" style="text-align:center"
+|+ Elimination chart
+! scope="col" | Baker
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+|-
+! scope="row" style="text-align:center;"| Candice
+| style="background:Plum;"| LOW
+| style="background:LemonChiffon;"|SB
+| style="background:Plum;"| LOW
+| SAFE
+| style="background:LemonChiffon;"|SB
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| style="background:LemonChiffon;"|SB
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:yellow;"|WINNER
+|-
+! scope="row" style="text-align:Center;"| Andrew
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| style="background:Plum;"| LOW
+| style="background:LemonChiffon;"|SB
+| SAFE
+| style="background:LemonChiffon;"|SB
+| style="background:limegreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row" style="text-align:center;"| Jane
+| style="background:LemonChiffon;"|SB
+| SAFE
+| SAFE
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Plum;"| LOW
+| style="background:limegreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row" style="text-align:center;"| Selasi
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| SAFE
+| SAFE
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Plum;" | LOW
+| style="background:Plum;" | LOW
+| style="background:orangered;"|OUT
+| colspan="8" style="background:darkgrey;"|
+|-
+! scope="row" style="text-align:center;"| Benjamina
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| SAFE
+| style="background:LemonChiffon;"|SB
+| SAFE
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:orangered;"|OUT
+| colspan="8" style="background:darkgrey;"|
+|-
+! scope="row" style="text-align:center;"| Tom
+| SAFE
+| SAFE
+| style="background:LemonChiffon;"|SB
+| style="background:Plum;"| LOW
+| style="background:Plum;"| LOW
+| style="background:LemonChiffon;"|SB
+| style="background:orangered;"|OUT
+| colspan="9" style="background:darkgrey;"|
+|-
+! scope="row" style="text-align:center;"| Rav
+| SAFE
+| SAFE
+| SAFE
+| style="background:Plum;"| LOW
+| SAFE
+| style="background:orangered;"|OUT
+| colspan="8" style="background:darkgrey;"|
+|-
+! scope="row" style="text-align:center;"| Val
+| style="background:Plum;"| LOW
+| style="background:Plum;"| LOW
+| style="background:Plum;"| LOW
+| SAFE
+| style="background:orangered;"|OUT
+| colspan="8" style="background:darkgrey;"|
+|-
+! scope="row" style="text-align:center;"| Kate
+| SAFE
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:orangered;"|OUT
+| colspan="8" style="background:darkgrey;"|
+|-
+! scope="row" style="text-align:center;"| Michael
+| SAFE
+| SAFE
+| style="background:orangered;"|OUT
+| colspan="8" style="background:darkgrey;"|
+|-
+! scope="row" style="text-align:center;"| Louise
+| SAFE
+| style="background:orangered;"|OUT
+| colspan="9" style="background:darkgrey;"|
+|-
+! scope="row" style="text-align:center;"| Lee
+| style="background:orangered;"|OUT
+| colspan="9" style="background:darkgrey;"|
+|}
+
+'''Colour key:'''
+
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|CornflowerBlue|outline=darkgray|Baker was one of the judges' favourite bakers that week, but was not the Star Baker.}}
+{{legend|<!--default colour-->|outline=darkgray|Baker got through to the next round.}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated.}}
+{{legend|LemonChiffon|outline=darkgray|Baker was the Star Baker.}}
+{{legend|LimeGreen|outline=darkgray|Baker was a series runner-up.}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner.}}
+
+== Episodes ==
+'''Colour key:'''
+{{legend|#FFC7C7|Baker was eliminated at conclusion of episode}}
+{{legend|#BFD|Baker was named "Star Baker" at conclusion of episode}}
+{{legend|#DFF|Baker was named runner-up for the series}}
+{{legend|gold|Baker won series}}
+
+=== Episode 1: Cake ===
+For the first challenge, the bakers were given 2 hours to make a drizzle cake, the brief being that the cake be moist and well permeated with the drizzle. For the technical challenge, the bakers were instructed to make Mary Berry's recipe for 12 [[Jaffa Cakes|jaffa cakes]]. The recipe used a whipped fatless [[Sponge cake|sponge]], orange jelly and tempered chocolate with a design of sorts. For the final challenge, the bakers were instructed to make a mirror glaze cake. The cake had to have a [[Genoise|genoise sponge]] and have a very shiny, mirror-like top, covering the cake entirely, all in 3 hours.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(Drizzle Cake)</small>
+! scope="col" | Technical<br><small>(12 [[Jaffa cake|Jaffa Cake]]s)</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Mirror [[Glaze (cooking technique)|Glaze]] Cake)</small>
+! scope="col" | Result
+|-
+! scope="row" | Andrew
+| Lemon and Rosemary Drizzle Cake || 12th || 'Ultimate Indulgence' Mirror Glaze Cake || {{Safe}}
+|-
+! scope="row" | Benjamina
+| Pistachio, Cardamom and Lemon Drizzle Cake || 6th || White Chocolate Mirror Glaze with Salted Praline Buttercream || {{Safe}}
+|-
+! scope="row" | Candice
+| Raspberry and Rhubarb Drizzle Custard [[Bundt cake|Bundt Cake]] || 5th || Mirror Mirror On The Wall, Who Is The Shiniest Cake Of Them All? || {{Safe}}
+|-
+! scope="row" | Jane
+| Lemon and Poppy Seed Drizzle Cake || 7th || Chocolate Orange Mirror Cake || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Kate
+| Berry Best Apple and [[Bramble]] Drizzle Cake || 4th || One Swallow Does Not Make A Summer Cake || {{Safe}}
+|-
+! scope="row" | Lee
+| [[Oranges and Lemons|St. Clements Orange and Lemon]] Drizzle Cake || 11th || Strawberry Surprise Mirror Cake || {{Eliminated}}
+|-
+! scope="row" | Louise
+| Orange Liqueur and Lemonade Drizzle Cake || 9th || White Chocolate Trifle Mirror Glaze Cake || {{Safe}}
+|-
+! scope="row" | Michael
+| Lime, Ginger and Honey Drizzle Cake || 3rd || Matcha Tea Chocolate Mirror Glaze  || {{Safe}}
+|-
+! scope="row" | Rav
+| Ginger Spice [[Yuzu]] Drizzle Cake || 8th || Colombian Mocha Mirror Glaze Cake || {{Safe}}
+|-
+! scope="row" | Selasi
+| Citrus and Spice Drizzle Cake || 1st || Raspberry, [[Prunus spinosa|Sloe]] and White Chocolate Mirror Glaze Cake || {{Safe}}
+|-
+! scope="row" | Tom
+| [[gin and tonic|G&T]] Drizzle Cake || 2nd || Black Forest Broken Mirror || {{Safe}}
+|-
+! scope="row" | Val
+| Mum's Orange and Lemon Drizzle  || 10th || Chocolate Sponge with Four Fruit Frosting || {{Safe}}
+|}
+
+=== Episode 2: Biscuits ===
+For the Signature Challenge, the bakers were given {{frac|2|1|2}} hours to make 24 iced biscuits (cookies). The biscuits had to be crisp and uniform. 12[[Viennese Whirls]] were set as the technical challenge. To be completed in {{frac|1|1|2}} hours, they had to be filled with buttercream and jam, and had have a defined shape. For the showstopper, a gingerbread scene was set as the challenge, the only brief being it that it had to be {{convert|30|cm|in|abbr=on}} high, and contain eight characters or objects. The bakers had 4 hours for this challenge.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(24 [[Icing (food)|Iced]] Biscuits)</small>
+! scope="col" | Technical<br><small>(12 [[Viennese Whirls]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>([[Gingerbread]] 3D Scene)</small>
+! scope="col" | Result
+|-
+! scope="row" | Andrew
+| Beehive Biscuits || 4th || [[Punt (boat)|Punting]] in Cambridge || {{Safe}}
+|-
+! scope="row" | Benjamina
+| Bouquet Biscuits || 3rd  || New York, New York || {{Safe}}
+|-
+! scope="row" | Candice
+| Salted Caramel, Chocolate Iced Shiny Hearts || 8th || Gingerbread Pub with Sticky Ginger Carpet || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Jane
+| Flower Pot Iced Biscuits || 2nd  || [[Hastings]] Old Town Fishing Net Shops and Boat || {{Safe}}
+|-
+! scope="row" | Kate
+| "A Biscuit for the Broads" || 1st || "I Promise I will do my best" || {{Safe}}
+|-
+! scope="row" | Louise
+| Baa [[Bara brith|Bara Brith]] Biscuits || 10th || Gingerbread Wedding || {{Eliminated}}
+|-
+! scope="row" | Michael
+| Malt, Chocolate and Orange Iced "Beer" Biscuits || 9th || Trip to See Santa in [[Sápmi|Lapland]] || {{Safe}}
+|-
+! scope="row" | Rav
+| Union Jack Bunting Biscuits || 6th || Gingerbread Christmas Fairground || {{Safe}}
+|-
+! scope="row" | Selasi
+| "Wheelie Hot Iced Biscuits" || 11th  || Stained Glass Window Gingerbread Church || {{Safe}}
+|-
+! scope="row" | Tom
+| Chai Frappelatteccino Biscuits || 7th || Tom and Pod's Near Death Experience || {{Safe}}
+|-
+! scope="row" | Val
+| Sunday Treat Iced Ice Cream Cone Biscuits || 5th || From Holland to New York via Yorkshire || {{Safe}}
+|}
+
+Host Sue Perkins did not appear in the episode.<ref>{{cite web|url=https://www.bbc.co.uk/news/newsbeat-37231057|title=Sue Perkins will be missing from tonight's Great British Bake Off episode|date=2016-08-31|website=BBC|access-date=2016-09-01}}</ref><ref>{{cite web|url=http://www.radiotimes.com/news/2016-08-31/why-is-sue-perkins-not-presenting-the-great-british-bake-off-episode-2|title=Why is Sue Perkins not presenting The Great British Bake Off episode 2?|website=Radio Times|access-date=2016-09-01}}</ref>
+
+=== Episode 3: Bread ===
+For the bakers' first challenge, they had to make a chocolate loaf in {{frac|2|1|2}} hours. The loaf had to contain chocolate in some form, whether it be cocoa powder or actual pieces of chocolate. For the technical challenge, the bakers were required to make 12 [[Dampfnudel]], a recipe Paul Hollywood called "notoriously difficult". In 2 hours, the bakers had to make 12 steamed bread rolls with two types of sauce. A savoury plaited (braided) centrepiece was set as the showstopper, to be created using at least 3 different flours, in 4 hours.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(Chocolate Loaf)</small>
+! scope="col" | Technical<br><small>(12 [[Dampfnudel]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Savoury Plaited (Braided) Centrepiece)</small>
+! scope="col" | Result
+|-
+! scope="row" | Andrew
+| Chocolate [[Barmbrack]] Bread || 2nd || Braided Harvest Bread Basket || {{Safe}}
+|-
+! scope="row" | Benjamina
+| Chocolate, [[Tahini]] and Almond [[Easter bread|Babka]] || 6th || Braided Bread Heart || {{Safe}}
+|-
+! scope="row" | Candice
+| Chocolate, Salted Caramel & [[Brittle (food)|Pecan Brittle]] [[Brioche]] Bread || 3rd || Italian Light and Dark Rye Twist || {{Safe}}
+|-
+! scope="row" | Jane
+| Chocolate and Cranberry Couronne || 9th || [[Chorizo]] and Chilli Flower with [[Parmesan]] and [[Pesto]] Centre || {{Safe}}
+|-
+! scope="row" | Kate
+| Cobbled Loaf || 8th || The [[corn dolly|Corn Maiden]] || {{Safe}}
+|-
+! scope="row" | Michael
+| Chocolate and Chilli Swirl Plait || 7th || Cypriot Dove and Olive Branch Plaited Loaf with [[Houmous]] || {{Eliminated}}
+|-
+! scope="row" | Rav
+| Chocolate, [[Cardamom]] and Hazelnut Loaf || 10th || Three Tier [[Diwali]] Bread Centrepiece || {{Safe}}
+|-
+! scope="row" | Selasi
+| Chocolate, Orange and Cinnamon Bread || 5th || [[Bedouin]] Escape Tear and Share Bread || {{Safe}}
+|-
+! scope="row" | Tom
+| Chocolate Orange and Chilli Swirl Bread || 4th || [[Jörmungandr]] and [[Mjölnir]] || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Val
+| Double Chocolate Cinnamon Twist Loaf || 1st || "And They All Went Into The Ark To Get Out Of The Rain" || {{Safe}}
+|}
+
+=== Episode 4: Batter ===
+The first task was to make 24 [[yorkshire pudding]]s in 2 hours.  The bakers used the standard recipe filled with a variety of savory ingredients and flavors. The technical challenge gave the bakers 1 hour to make 12 heart-shaped "lace" [[pancake]]s, which required them to draw a heart-shaped design with the batter. They were only allowed 1 practice pancake.  The showstopper challenge was to make 36 sweet [[churro]]s in 3 hours.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(24 Filled [[Yorkshire pudding|Yorkshire Pudding]]s)</small>
+! scope="col" | Technical<br><small>(12 Heart-Shaped Lace [[Pancake]]s)</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(36 [[Churro]]s)</small>
+! scope="col" | Result
+|-
+! scope="row" | Andrew
+| Yorkshire '[[Tapas]]' Puddings || 4th || Churros Window Box || {{Safe}}
+|-
+! scope="row" | Benjamina
+| Red Onion Chutney, [[Brie]] and Bacon Yorkshire Puddings || 1st  || Tropical Churros || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Candice
+| Yorkshire [[Beef Wellington|Wellingtons]] || 2nd|| Two-Way Peanut Butter Churros || {{Safe}}
+|-
+! scope="row" | Jane
+| Meat and Two Veg Yorkshires || 3rd|| Pistachio and White Chocolate Churros || {{Safe}}
+|-
+! scope="row" | Kate
+| Christmas Dinner Compromise || 7th  || [[Hot cross bun|Hot Cross]] Bunny Churros || {{Eliminated}}
+|-
+! scope="row" | Rav
+| Thai Tofu [[Phanaeng curry|Panang]] Yorkshires || 9th  || Three Dip Matcha Pistachio Churros || {{Safe}}
+|-
+! scope="row" | Selasi
+| Perfect Sunday Roast Accompaniment || 8th || Lemon and [[Anise]] Churros || {{Safe}}
+|-
+! scope="row" | Tom
+| West Yorkshire Fusion Puddings || 5th || Fennel Churros Snake In The Grass || {{Safe}}
+|-
+! scope="row" | Val
+| Mum's Chilli Yorkshire Puddings || 6th || Orange Chocolate Churros || {{Safe}}
+|}
+
+=== Episode 5: Pastry ===
+For the signature bake, bakers were tasked with baking 24 [[Danish pastry|breakfast pastries]], using 2 different batches of dough (total 12 each) in {{frac|3|1|2}} hours. The technical challenge required the bakers to make a feathered [[Bakewell tart]] in {{frac|2|1|2}} hours. For the showstopper challenge, the bakers were challenged to make 48 filled [[filo]] [[amuse-bouche]]; 24 with a savoury filling and 24 with a sweet filling, in 4 hours.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(24 [[Danish pastry|Breakfast Pastries]])</small>
+! scope="col" | Technical<br><small>([[Bakewell tart|Bakewell Tart]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(48 [[Filo]] [[amuse-bouche|Amuse-Bouche]])</small>
+! scope="col" | Result
+|-
+! scope="row" | Andrew
+| Mum and Dad's Breakfast Pastries || 6th  || Spicy [[Chorizo]] Squash Parcels<br>[[Baklava]] Bites || {{Safe}}
+|-
+! scope="row" | Benjamina
+| 'Good Morning America' Swirls<br>Peanut Butter and Banana Pinwheels || 5th || [[Cooking banana|Plantain]] and Spinach [[Samosas]]<br>[[Masala chai|Chai]] Pear Cups || {{Safe}}
+|-
+! scope="row" | Candice
+| Danish Pastry Croque Monsieur Kites<br>Cinnamon Apple, Vanilla Crème Rose Danish || 2nd || Sausage, Black Pudding and Apple Rounds<br>[[Banoffee pie|Banoffee]] Whiskey Cups || {{Good|Star Baker}}
+|-
+! scope="row" | Jane
+| Orange Pain au Raisin<br>Raspberry, Chocolate and Almond Danish || 1st || [[Roquefort]], Fig and Walnut Parcels<br>Cherry and Chocolate Cones || {{Safe}}
+|-
+! scope="row" | Rav
+| Cinnamon Swirls<br>Pecan, Walnut and Maple Plaits || 8th || Chinese Style Prawn Filo Tartlets<br>Spiced White Chocolate and Hazelnut Samosas || {{Safe}}
+|-
+! scope="row" | Selasi
+| Rhubarb, Mango and Ginger Plait<br>Pineapple and Coconut Pinwheels || 3rd || Parma Ham, Asparagus and Cheese Filo Cigars<br>Coffee Cream Filo Cups || {{Safe}}
+|-
+! scope="row" | Tom
+| Mega Breakfast Bonanzas (Granola Spirals and Wheat Foldovers) || 4th || [[Yin and Yang]] Amuse-bouche || {{Safe}}
+|-
+! scope="row" | Val
+| Pecan and Maple Syrup Pinwheels<br>Apple, Sultana and Cinnamon Swirls || 7th || Caramelised Red Onion, Goats Cheese Tartlets<br>Mincemeat and Apple Spiced Parcels || {{Eliminated}}
+|}
+
+=== Episode 6: Botanical ===
+In the signature, the 7 remaining bakers were asked to create a meringue pie containing citrus fruit, such as orange, grapefruits and lemons, in 2 hours. In the technical, the contestants had to create 2 leaf-shaped herb [[Fougasse (bread)|fougasses]] in 2 hours. In the showstopper, the contestants were asked to create a three-tier cake with a flower theme. All the tiers could be the same flavour, or each with a different flavour, and the cakes could be decorated with flowers, all to be done in 4 hours.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br /><small>(Citrus [[Meringue]] Pie)</small>
+! scope="col" | Technical<br /><small>(2 Herb [[Fougasse (bread)|Fougasse]])</small>
+! scope="col" class="unsortable" | Showstopper<br /><small>(Three-Tier Flower Cake)</small>
+! scope="col" | Result
+|-
+! scope="row" | Andrew
+| Tangy Lime and Ginger Meringue Pie || style="text-align:center;"|6th || Spring Elderflower Trio || {{Safe}}
+|-
+! scope="row" | Benjamina
+| Grapefruit and Ginger Meringue Pie || style="text-align:center;"|2nd || Floral Tea Cake || {{Safe}}
+|-
+! scope="row" | Candice
+| Lime, Coconut and Lemongrass Sugar Meringue Pie || style="text-align:center;"|5th || Four Seasons Cake || {{Safe}}
+|-
+! scope="row" | Jane
+| Lime and Coconut Meringue Pie || style="text-align:center;"|4th || Three Tier Orange Cake with a Floral Chocolate Collar || {{Safe}}
+|-
+! scope="row" | Rav
+| [[Mandarin orange|Mandarin]] Margarita Meringue Pie || style="text-align:center;"|3rd || Blossom Cake || {{Eliminated}}
+|-
+! scope="row" | Selasi
+| Grapefruit, Orange and Mint Meringue Pie || style="text-align:center;"|7th || Three Tiered Ombré Floral Cake || {{Safe}}
+|-
+! scope="row" | Tom
+| Blood Orange Halloween Pumpkin Pie || style="text-align:center;"|1st || Floral Tea Cake || {{sort|1|}}{{Good|Star Baker}}
+|}
+
+=== Episode 7: Desserts ===
+The Signature challenge required the bakers to make a family-sized [[swiss roll|roulade]] in {{frac|1|1|2}} hours. The judges were looking for a light sponge cake, even layers of filling, and a clean swirl. The technical challenge gave the bakes 3 hours to make a [[Dacquoise|marjolaine]], an unusual layered cake made with meringue, decorated with ganache and nuts. The showstopper challenge allocated 4 hours for the bakers to make 24 mini [[mousse]] cakes with 2 flavours (12 of each).<ref>{{cite news|last1=Newall|first1=Sally|title=The Great British Bake Off 2016 episode seven recap|url=https://www.independent.co.uk/arts-entertainment/tv/the-great-british-bake-off-2016-episode-seven-recap-dessert-week-a7347451.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/the-great-british-bake-off-2016-episode-seven-recap-dessert-week-a7347451.html |archive-date=18 June 2022 |url-access=subscription |url-status=live|access-date=6 October 2016|work=The Independent|date=6 October 2016}}</ref><ref>{{cite news|last1=Hogan|first1=Michael|title=The Great British Bake Off: how a 'millennium wheel of lard' stole the show – plus the rest of the action from Dessert Week|url=https://www.telegraph.co.uk/tv/2016/10/05/the-great-british-bake-off-how-a-triumphant-millennium-wheel-of/|access-date=6 October 2016|work=The Telegraph|date=6 October 2016}}</ref>{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(Family-Sized [[Swiss roll|Roulade]])</small>
+! scope="col" | Technical<br><small>([[Dacquoise|Marjolaine]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(24 Mini [[Mousse]] Cakes)</small>
+! scope="col" | Result
+|-
+! scope="row" | Andrew
+| Tropical Holiday Roulade || 1st || Childhood Ice Cream Mousse Cakes || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Benjamina
+| Piña Colada Roulade || 3rd || Apple Crumble Mousse Cake<br>Chocolate Coffee Mousse Cake || {{Safe}}
+|-
+! scope="row" | Candice
+| Crowd Pleaser Roulade || 2nd || Blackberry and Raspberry Bubbles<br>After Dinner Mousse || {{Safe}}
+|-
+! scope="row" |Jane
+|Chocolate and Hazelnut Roulade || 4th ||Chocolate, Coffee, and Vanilla [[Opera cake|Joconde]] Cakes<br>Blackcurrant and Vanilla [[Ombré]] Mousses || {{Safe}}
+|-
+! scope="row" | Selasi
+| Summer Picnic Roulade || 6th || Lemon, Raspberry and Passionfruit and Chocolate and Mint Mini Mousse Cakes || {{Safe}}
+|-
+! scope="row" | Tom
+| Millionaire's Roulade || 5th || Hipster Picnic || {{Eliminated}}
+|}
+
+=== Episode 8: Tudor (Quarterfinals) ===
+Week eight featured the show's first [[Tudor period|Tudor]] theme, featuring food common in the 16th century. During the signature challenge, the 5 remaining bakers were asked to bake a shaped pie with Tudor flavours in 3 hours. The pie could be any type of pastry and they could use whichever fillings they wanted. In the technical, the contestants were asked to produce 12 [[Jumble (cookie)|jumbles]]—6 [[Monkey's fist|knot balls]] and 6 [[Triquetra|Celtic knots]]—in  {{frac|1|1|2}} hours. In the showstopper challenge, the contestants were asked to bake a marchpane ([[marzipan]]) cake in a [[three-dimensional space|three-dimensional]] shape in {{frac|3|1|2}} hours. However, all of the cakes had to be Tudor-themed.<ref>{{cite news|last1=Hogan|first1=Michael|title=The Great British Bake Off: Tudor Week proved to be unexpectedly tricky – with an even more unexpected ending|url=https://www.telegraph.co.uk/tv/2016/10/12/the-great-british-bake-off-tudor-week-proved-to-be-unexpectedly/|access-date=13 October 2016|work=[[The Daily Telegraph]]|date=13 October 2016}}</ref>{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(Shaped [[meat pie|Savoury Pies]])</small>
+! scope="col" | Technical<br><small>(12 [[Jumble (cookie)|Jumbles]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(3D [[Marchpane]] Cake)</small>
+! scope="col" | Result
+|-
+! scope="row" | Andrew
+| [[Leonardo da Vinci|Da Vinci]] Inspired Geared Pies || 2nd || Jousting Knights Marchpane || {{Safe}}
+|-
+! scope="row" | Benjamina
+| Mexican Adventure || 4th || Tudor Garden || {{Eliminated}}
+|-
+! scope="row" | Candice
+| Cheesy Cheeky Fish Pies || 1st || Peacock || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Jane
+| [[Tudor Rose]] Pies || 5th || Swans || {{Safe}}
+|-
+! scope="row" | Selasi
+| Bouquet of Flowers || 3rd || Fruity Tudor Marchpane || {{Safe}}
+|}
+
+=== Episode 9: Pâtisserie (Semi-final) ===
+The first task for [[pâtisserie]] week required the remaining 4 contestants to bake 24 [[palmier]]s, with 2 different savoury fillings and shapes, in 3 hours. The technical challenge was to make a [[Savarin cake|Savarin]], a liqueur-soaked yeast cake, which none of the contestants had made before, in {{frac|2|1|2}} hours. The final challenge was to make 36 [[Fondant Fancy|fondant fancies]] in {{frac|4|1|2}} hours.<ref>{{cite news|last1=Samadder|first1=Rhik|title=The Great British Bake Off 2016 semi-final – as it happened|url=https://www.theguardian.com/tv-and-radio/live/2016/oct/19/the-great-british-bake-off-2016-semi-final-live-selasi-jane-candice-andrew|access-date=20 October 2016|work=The Guardian|date=19 October 2016}}</ref><ref>{{cite news|title=Great British Bake Off semi-final: Selasi is eliminated, Andrew named Star Baker but Candice is favourite|url=https://www.telegraph.co.uk/tv/2016/10/19/the-great-british-bake-off-semi-final-patisserie-week/|access-date=20 October 2016|work=The Daily Telegraph|date=19 October 2016}}</ref>{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(24 Savoury [[Palmier]]s)</small>
+! scope="col" | Technical<br><small>([[Savarin cake|Savarin]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(36 [[Fondant Fancy|Fondant Fancies]])</small>
+! scope="col" | Result
+|-
+! scope="row" | Andrew
+| Cheesy Elephant Ears<br>Herby Treble Clefs
+| 2nd || Philharmonic [[Fondant icing|Fondants]] || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Candice
+| Red Onion, [[Cambozola]] and Walnut Palmiers<br>Mushroom, Streaky Bacon, and [[Parmesan]] Palmiers
+| 3rd || Chocolate [[Praline (nut confection)|Praline]] Fondant Fancies<br>Cherry Bakewell Fondant Fancies || {{Safe}}
+|-
+! scope="row" | Jane
+| [[Pesto]] and Sundried Tomato Palmiers<br>Goats Cheese, Olive and [[Prosciutto|Parma Ham]] Palmiers
+| 1st || Pistachio and Raspberry Fondant Fancies<br>Lemon Curd Surprise Fondant Fancies || {{Safe}}
+|-
+! scope="row" | Selasi
+| Sundried Tomato, Onion, Peppers and Parmesan Palmiers<br />Salmon, Spinach and Mushroom Palmiers
+| 4th || Lime and Ginger Fondant Fancies<br />Pink Velvet and Raspberry [[Prosecco]] Fondant Fancies || {{Eliminated}}
+|}
+
+=== Episode 10: Royal Picnic (Final) ===
+In the final signature challenge, the bakers had to make a filled meringue crown, which had to contain at least three layers of meringue, in 3 hours. In the technical, the judges decided to make a familiar bake challenging: the bakers had to make a Victoria sandwich, with no recipe or method given, in {{frac|1|1|2}} hours. The final showstopper involved the largest number of bakes ever requested in a challenge. The bakers were given 5 hours to make a picnic fit for the Queen, including 1 chocolate celebration cake, 12 sausage rolls, 12 mini [[quiche]]s, 12 savoury [[scones]] and 12 fruit and custard tarts.<ref>{{cite news|last1=Newall|first1=Sally|title=Our recap of The Great British Bake Off 2016 final|url=https://www.independent.co.uk/arts-entertainment/tv/the-great-british-bake-off-2016-final-recap-a7381311.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/the-great-british-bake-off-2016-final-recap-a7381311.html |archive-date=18 June 2022 |url-access=subscription |url-status=live|access-date=28 October 2016|work=The Independent|date=26 October 2016}}</ref><ref>{{cite news|last1=Wollaston|first1=Sam|title=The Great British Bake Off final review – equal parts flour, butter, sugar, eggs and tears|url=https://www.theguardian.com/tv-and-radio/2016/oct/27/great-british-bake-off-gbbo-final-flour-butter-sugar-eggs-tears|access-date=28 October 2016|work=The Guardian|date=27 October 2016}}</ref>
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(Meringue Crowns)</small>
+! scope="col" | Technical<br><small>([[Victoria Sandwich]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Picnics)</small>
+! scope="col" | Result
+|-
+! scope="row" | Andrew
+| Crunchy Caramel [[Crème de cassis|Cassis]] Crown || 1st || Family and Friends' Favourites Picnic || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Candice
+| Queen Victoria's Mango and Strawberry Crown || 2nd || Picnic for Pearly Kings and Queens || {{sort|1|}}{{Won|color=gold|Winner}}
+|-
+! scope="row" | Jane
+| Red, White and Blue Meringue Crown || 3rd || Family Favourites Feast || {{sort|2.5|}}{{Runner-up}}
+|}
+
+== Christmas specials ==
+The Masterclass episodes were replaced by two Christmas specials, which featured eight contestants from the series 2–5. The two Christmas specials were the last to be aired on BBC before the channel move, and thus featured the last appearances of hosts [[Mel Giedroyc]] and [[Sue Perkins]] and judge [[Mary Berry (food writer)|Mary Berry]]. Judge [[Paul Hollywood]] then followed the channel move.<ref>{{Cite web|title=Paul Hollywood WILL move to Channel 4 with 'The Great British Bake Off'|url=https://www.her.ie/entertainment/paul-hollywood-will-move-channel-4-great-british-bake-off-312482|access-date=2020-11-03|website=Her.ie|date=22 September 2016 |language=en}}</ref>
+
+The first Christmas special featured Mary-Anne Boermans (Series 2), Cathryn Dresser (Series 3), [[Ali Imdad]] (Series 4) and Norman Calder (Series 5). The competition was won by Mary-Anne Boermans.  The second Christmas special featured Janet Basu (Series 2), [[James Morton (baker)|James Morton]] (Series 3), Howard Middleton (Series 4) and Chetna Makan (Series 5). The competition was won by Chetna Makan.
+
+=== Episode 1 ===
+The signature challenge required the bakers to create 2 batches of edible Christmas tree decorations, 12 of each type, using biscuits in 2 hours. The technical challenge, set by Mary, tasked the bakers to make a [[Choux pastry|choux]] [[wreath]] consisting of 36 choux buns, filled and decorated festively with chocolate in 2 hours. For the showstopper challenge, the bakers were required to make a Christmas scene cake, with at least three tiers, in four hours.
+{| class="wikitable sortable" style="text-align:left;"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br /><small>(24 Edible Biscuit [[Christmas ornament|Tree Decorations]])</small>
+! scope="col" | Technical<br /><small>([[Choux pastry|Choux]] [[Wreath]])</small>
+! scope="col" class="unsortable" | Showstopper<br /><small>(Christmas Scene Cake)</small>
+! scope="col" | Result
+|-
+! scope="row" | Ali
+| Rose & Fennel [[Henna]]-Inspired Biscuits
+Date & Orange [[Ma'amoul]] Bauble Biscuits
+| style="text-align:center;" |1st || Celebration of [[Jesus]] Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Cathryn
+| Chocolate Peppermint [[Candy Canes]]
+Clementine, Cranberry & Rosemary [[Holly]] Leaf Biscuits
+| style="text-align:center;" |2nd || Our [[Christmas Eve]] || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Mary-Anne
+| [[Christmas Pudding]] and Christmas [[Wreath]] Biscuits || style="text-align:center;"|3rd || My Christmas Cakey Bakey || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" | Norman
+| Orange & Cinnamon Dufrickies
+Whisky Shortbread Ding Dangs
+| style="text-align:center;" |4th || Gâteau De [[Joyeux Noël]] || {{sort|2.5|}}{{Runner-up}}
+|}
+
+=== Episode 2 ===
+The bakers were tasked to make 24 savoury Christmas canapés, 12 of two types in the signature challenge, in 2<sup>1</sup>⁄<sub>2</sub> hours. The technical challenge was set by Paul, in which the bakers were tasked of baking a Kanellängd, a spiced Scandinavian celebratory Christmas loaf with the meaning of "[[cinnamon]] length", in 2 hours. For the showstopper challenge, the bakers were required to make 36 sweet Christmas miniatures, 12 each of three types, arranged as a celebratory centerpiece, in 4<sup>1</sup>⁄<sub>2</sub> hours. 
+{| class="wikitable sortable" style="text-align:left;"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br /><small>(24 Savoury Christmas [[Canapés]])</small>
+! scope="col" | Technical<br /><small>(Kanellängd)</small>
+! scope="col" class="unsortable" | Showstopper<br /><small>(36 Sweet Christmas Miniatures)</small>
+! scope="col" | Result
+|-
+! scope="row" | Chetna
+| [[Aubergine]] & Tomato Canapés
+Spiced Potato Canapés
+| style="text-align:center;" |3rd || Family Favourites || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" | Howard
+| Smoked [[Trout]] Trees with Pea Pastry
+[[Partridge]] & Pear Treats
+| style="text-align:center;" |2nd || Camp as Christmas Trio || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | James
+| [[Mackerel]] Mousse [[Mille-feuille]]
+Red Onion & Goats Cheese Swirls
+| style="text-align:center;" |1st || Merry Extravaganza || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Janet
+| Crab [[Pâté]] [[Gougère]] Barguettes
+Mushroom & Chicken Liver [[Tartlets]]
+| style="text-align:center;" |4th || Festive Friends || {{sort|2.5|}}{{Runner-up}}
+|}
+
+== Controversies ==
+Before the series had begun, some viewers complained of the "gendered" icing in preview pictures of the bakers. In the promo shots of the bakers, the male bakers were given blue icing while the female bakers were given pink icing, whereas the previous year, every baker was given the same colour regardless.<ref>{{cite web|url=https://www.mirror.co.uk/tv/tv-news/great-british-bake-sexism-storm-8644923|title=Great British Bake Off in sexism storm as viewers kick-off over icing|first=Danny|last=Walker|website=[[Daily Mirror]] |date=16 August 2016}}</ref><ref>{{Cite news|url=https://www.telegraph.co.uk/news/2016/08/16/bbc-accused-of-sexism-over-gendered-great-british-bake-off-icing/|title=BBC accused of sexism over 'gendered' Great British Bake Off icing|first=Hannah|last=Furness|date=16 August 2016|via=www.telegraph.co.uk|newspaper=The Telegraph}}</ref><ref>{{cite news|url=https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2016-contestants-promo-shots-controversy-gendered-icing-pink-blue-start-date-a7193201.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2016-contestants-promo-shots-controversy-gendered-icing-pink-blue-start-date-a7193201.html |archive-date=18 June 2022 |url-access=subscription |url-status=live|title=Great British Bake Off is already sparking controversy}}</ref> As a result, the BBC altered the colouring of the icing.<ref>{{cite news|url=https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2016-bbc-digitally-alter-icing-colours-following-gender-controversy-a7195711.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/great-british-bake-off-2016-bbc-digitally-alter-icing-colours-following-gender-controversy-a7195711.html |archive-date=18 June 2022 |url-access=subscription |url-status=live|title=The BBC has digitally altered Great British Bake Off icing colours following outrage|date=2016-08-17|language=en-GB|access-date=2016-08-21}}</ref>
+
+==Post-show career==
+[[Candice Brown]] was an occasional cook on ITV's ''[[This Morning (TV programme)|This Morning]]''. She appeared as a contestant on [[Dancing on Ice (series 10)|series 10]] of ''[[Dancing on Ice]]'' in 2018.<ref>{{cite web |url=https://www.bustle.com/p/where-are-all-the-past-bake-off-winners-now-these-star-bakers-have-been-busy-since-winning-the-series-19276029 |title=Where Are All The Past 'Bake Off' Winners Now? These Star Bakers Have Been Busy Since Winning The Series |first= Sophie|last= McEvoy|date=29 October 2019|work=Bustle }}</ref> as well as on ''The Great New Year's Bake Off'' and ''[[Celebrity Mastermind]]'' which she won.<ref>{{cite news |url=https://www.bedfordtoday.co.uk/news/pictures-show-many-faces-candice-brown-bedford-bake-star-wins-celebrity-mastermind-163342 |title=Pictures show the many faces of Candice Brown as Bedford Bake Off Star wins Celebrity Mastermind |date=8 January 2019 |work=Bedford Today }}</ref> She runs a pub, ''Green Man'', in [[Eversholt]], Bedfordshire.<ref>{{cite web |url=https://www.hellomagazine.com/cuisine/2019082576877/candice-brown-love-baking-exclusive-interview/ |title=Exclusive: Inside Candice Brown's stunning new pub and home |work=Hello Magazine |date=25 August 2019 }}</ref> She has written a cookbook ''Comfort: delicious bakes and family treats'' released in 2017.<ref>{{cite web |url=https://talkradio.co.uk/news/gbbo-winner-candice-brown-her-new-book-and-next-series-bake-17072016513 |title=GBBO winner Candice Brown on her new book and the next series of Bake Off |first=Amy |last=Southall|date=20 July 2017|work=talkRadio}}</ref>
+
+[[Andrew Smyth (engineer)|Andrew Smyth]] has appeared on ''[[Lorraine (TV programme)|Lorraine]]'' on ITV,<ref>{{cite news |url=https://metro.co.uk/2016/11/23/lorraine-and-her-viewers-horrified-as-bake-off-star-andrew-smyth-almost-cuts-hand-open-on-live-tv-6277390/ |title=Lorraine and her viewers horrified as Bake Off star Andrew Smyth almost cuts hand open on live TV |date= 23 November 2016|work=Metro |first=Seamus|last= Duff}}</ref>{{unreliable source?|sure=yes|reason=Metro is unreliable per WP:RSP|date=May 2021}} ''Christmas Kitchen'' on BBC One.<ref>{{cite web |url=https://www.bbc.co.uk/programmes/b0873dvh |title=Christmas Kitchen |work=BBC }}</ref> He baked a cake as a rotating jet engine for [[Prince William]] when he visited the [[Rolls-Royce Limited|Rolls-Royce]] factory in [[Derby]] where Smyth worked.<ref>{{cite news |url=https://www.bbc.co.uk/news/av/uk-england-derbyshire-38161051 |title=Prince William says Andrew Smyth should have won GBBO |work=BBC |date=30 November 2016 }}</ref>
+
+Several bakers participated in ''The Great Christmas Bake Off'' and ''The Great New Year's Bake Off'' in the following years. In 2017, Selasi Gbormittah and Val Stones participated in ''The Great Christmas Bake Off'' while Rav Bansal and Benjamina Ebuehi participated in ''The Great New Year's Bake Off'' with Bansal winning the special's star baker title. In 2018, Jane Beedle and Andrew Smyth participated in ''The Great Christmas Bake Off'' with Beedle winning the special's star baker title, while Candice Brown participated in ''The Great New Year's Bake Off''.
+
+== Ratings ==
+The opening episode had an average viewing figure of 10.4 million according to overnight ratings, an improvement over the figure of 9.3 million for the corresponding episode in 2015. This made it the most watched TV show of 2016 so far, with the official figure also making it the most watched TV show since the 2015 Bake Off Final.<ref>{{cite news |url=https://www.bbc.co.uk/news/entertainment-arts-37183261 |title=Great British Bake Off: More than 10 million tune in to first episode |date=25 August 2016 |work=BBC }}</ref>  Its run on the BBC ended with an average overnight viewing figure of 14 million for the final, peaking at 14.8 million, which is a record for the show.<ref>{{cite news |url=https://www.bbc.co.uk/news/entertainment-arts-37786108 |title=The Great British Bake Off reaches record audience |work=BBC |date=27 October 2016}}</ref>  The series dominated the list of most-watched programmes in 2016, with nine of the top ten being episodes of the show.<ref>{{cite news |url=https://www.telegraph.co.uk/news/2016/12/21/great-british-bake-hands-bbc-clean-sweep-top-ten-most-viewed/ |title=Great British Bake Off hands BBC clean sweep of top 10 most-viewed shows of 2016 – but how will the corporation cope next year? |first=Patrick|last= Foster|date=21 December 2016 |work=The Daily Telegraph }}</ref>  Its finale was watched by 15.9 million viewers (7 days cumulative figure), which makes it the most-watched TV shows in the UK in four years since the [[2012 Summer Olympics closing ceremony|closing ceremony]] of the [[2012 Summer Olympics|London Olympics]] in 2012,<ref>{{Cite news |url=https://www.bbc.co.uk/news/entertainment-arts-37897727 |title=Great British Bake Off final was the UK's most watched TV show since 2012 |date=7 November 2016 |work=BBC }}</ref> and the most-watched TV show of the year.<ref>{{cite news |url=https://www.independent.co.uk/arts-entertainment/tv/news/the-great-british-bake-off-bbc-most-watched-2016-a7488231.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/the-great-british-bake-off-bbc-most-watched-2016-a7488231.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title=The Great British Bake Off most watched TV show of 2016|first=Jack |last=Shepherd |date= 21 December 2016 |work=The Telegraph}}</ref>
+
+Official episode viewing figures are from [[BARB]].<ref>{{cite web|url=http://www.barb.co.uk/whats-new/weekly-top-30?_s=4|title=Weekly Top 30 Programmes|publisher=[[Broadcasters' Audience Research Board]]|access-date=17 August 2016}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col" | Episode<br />no.
+! scope="col" | Airdate
+! scope="col" | 7 day viewers<br /><small>(millions)</small>
+! scope="col" | 28 day viewers<br /><small>(millions)</small>
+! scope="col" | BBC One<br />weekly ranking
+! scope="col" | Weekly ranking<br />all channels<ref>{{cite web|url=http://www.barb.co.uk/whats-new/weekly-top-10?_s=4|title=Weekly Top 10 Programmes|publisher=[[Broadcasters' Audience Research Board]]|access-date=6 August 2016}}</ref>
+! scope="col" | BBC iPlayer requests 
+|-
+! scope="row" | 1
+| {{Start date|2016|08|24|df=y}} || 13.58 || 13.86 || colspan="2" rowspan="10" | 1 || 1,989,000<ref name="BBCiplayer">{{cite web|url=https://downloads.bbc.co.uk/mediacentre/iplayer/iplayer-performance-nov16.pdf |title=Slide 1 |date=2016 |access-date=2018-09-17}}</ref>
+|-
+! scope="row" | 2
+| {{Start date|2016|08|31|df=y}} || 13.45 || 13.74 || 1,949,000<ref name="BBCiplayer"/>
+|-
+! scope="row" | 3
+| {{Start date|2016|09|07|df=y}} || 13.01 || 13.38 || 2,314,000<ref name="BBCiplayer"/>
+|-
+! scope="row" | 4
+| {{Start date|2016|09|14|df=y}} || 13.29 || 13.88 || 2,291,000<ref name="BBCiplayer"/>
+|-
+! scope="row" | 5
+| {{Start date|2016|09|21|df=y}} || 13.12 || 13.33 || 1,984,000<ref name="BBCiplayer"/>
+|-
+! scope="row" | 6
+| {{Start date|2016|09|28|df=y}} || 13.13 || 13.41 || 1,397,000<ref name="BBCiplayer"/>
+|-
+! scope="row" | 7
+| {{Start date|2016|10|05|df=y}} || 13.45 || 13.72 || 2,154,000<ref name="BBCiplayer"/>
+|-
+! scope="row" | 8
+| {{Start date|2016|10|12|df=y}} || 13.26 || 13.45 || 1,957,000<ref name="BBCiplayer"/>
+|-
+! scope="row" | 9
+| {{Start date|2016|10|19|df=y}} || 13.44 || 13.65 || 1,901,000<ref name="BBCiplayer"/>
+|-
+! scope="row" | 10
+| {{Start date|2016|10|26|df=y}} || 15.90 || 16.03 || 1,602,000<ref name="BBCiplayer"/>
+|}
+
+=== Specials ===
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great British Bake Off'', Class of 2015
+! scope="col" | Episode<br />no.
+! scope="col" | Airdate
+! scope="col" | 7 day viewers<br /><small>(millions)</small>
+! scope="col" | 28 day viewers<br /><small>(millions)</small>
+! scope="col" | BBC One<br />weekly ranking
+! scope="col" | BBC iPlayer requests
+|-
+! scope="row" {{n/a|}}
+| {{Start date|2016|10|27|df=y}} || 4.28 || 4.45 || 25 || {{n/a}}
+|}
+
+{| class="wikitable" style="text-align:center;"
+|+ ''The Great Christmas Bake Off''
+! scope="col" | Episode<br />no.
+! scope="col" | Airdate
+! scope="col" | 7 day viewers<br /><small>(millions)</small>
+! scope="col" | 28 day viewers<br /><small>(millions)</small>
+! scope="col" | BBC One<br />weekly ranking
+! scope="col" | BBC iPlayer requests
+|-
+! scope="row" {{n/a|}}
+| {{Start date|2016|12|25|df=y}} || 8.21 || 8.35 || 4 || 853,000<ref>{{cite web|url=https://downloads.bbc.co.uk/mediacentre/iplayer/iplayer-performance-dec16.pdf |title=Slide 1 |date=2016 |access-date=2018-09-17}}</ref>
+|-
+! scope="row" {{n/a|}}
+| {{Start date|2016|12|26|df=y}} || 6.37 || 6.52 || 15 || {{n/a}}
+|}
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{BBC programme}}
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off, The}}
+[[Category:The Great British Bake Off|Series 7]]
+[[Category:2016 British television seasons]]

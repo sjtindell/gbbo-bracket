@@ -1,0 +1,736 @@
+{{short description|Eighth series of The Great British Bake Off}}
+{{Use dmy dates|date=August 2019}}
+{{Use British English|date=August 2019}}
+{{Infobox television season
+| image         = 
+| caption       = 
+| series_number = 8
+| module1       = {{Infobox reality competition season
+ | presenter       = [[Noel Fielding]]<br>[[Sandi Toksvig]]
+ | judges          = [[Paul Hollywood]]<br>[[Prue Leith]]
+ | num_contestants = 12
+ | winner          = [[Sophie Faldo]]
+ | runner_up       = Kate Lyon<br>[[Steven Carter-Bailey]]
+ | location        = [[Welford Park]], Berkshire
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 30
+}}
+| num_episodes  = 10
+| network       = [[Channel 4]]
+| first_aired   = {{start date|2017|08|29|df=y}}
+| last_aired    = {{end date|2017|10|31|df=y}}
+}}
+
+The '''eighth series''' of ''[[The Great British Bake Off]]'' began on 29 August 2017,<ref name="Launch2017">{{cite web|url=https://www.bbc.co.uk/news/entertainment-arts-40949537|title=Great British Bake Off: BBC moves rival cooking show in scheduling spat|work=BBC News|date=16 August 2017|access-date=17 August 2017}}</ref> with this being the first of ''The Great British Bake Off'' to be broadcast on [[Channel 4]], after the production company Love Productions moved the show from [[BBC One]].<ref>{{cite news |url=https://www.bbc.co.uk/news/entertainment-arts-37353262 |title=Why did The Great British Bake Off move to Channel 4? |first= David |last=Sillito|date=13 September 2016 |work=BBC }}</ref> It is the first series for new hosts [[Noel Fielding]] and [[Sandi Toksvig]], and new judge [[Prue Leith]].<ref>{{cite web|url= https://www.theguardian.com/tv-and-radio/live/2017/aug/29/the-great-british-bake-off-2017-channel-4-episode-one-live|title= The Great British Bake Off 2017, episode one – as it happened|date=29 August 2017|work=Guardian|access-date=30 August 2017}}</ref>
+
+This series was won by [[Sophie Faldo]], with Kate Lyon and Steven Carter-Bailey finishing as runners-up.<ref>{{cite web|url=https://www.telegraph.co.uk/tv/0/great-british-bake-series-verdict-bake-break-channel-4-played/ |title= The Great British Bake Off series verdict: it was bake or break, but Channel 4 played a blinder|date=31 October 2017|work=The Telegraph|access-date=1 November 2017}}</ref>
+
+== Bakers ==
+{| class="wikitable sortable" style="text-align:center;"
+!scope="col"|Contestant<ref>{{cite web|url=http://www.digitalspy.com/tv/great-british-bake-off/feature/a821305/great-british-bake-off-2017-channel-4-presenters-judges/|title=Great British Bake Off 2017 – all you need to know|website=[[Digital Spy]] |date=22 August 2017}}</ref><ref>{{cite web|url=http://www.channel4.com/info/press/news/the-great-british-bake-off-series-8-baker-biogs|title=Meet The Great British Bake Off series 8 bakers - Channel 4 - Info - Press|website=www.channel4.com}}</ref>
+!scope="col"|Age
+!scope="col"|Hometown
+!scope="col"|Occupation
+!scope="col"|Finish
+!scope="col"|Place
+|-
+! scope="row" | Peter Abatan
+| 52 
+| [[Southend]], [[England]]
+| IT Programme Manager <ref>{{cite web |url=http://www.essexlive.news/great-british-bake-off-here-s-everything-we-know-about-peter-from-southend-who-twitter-already-love/story-30498475-detail/story.html|title=Great British Bake Off: Here's everything we know about Peter from Southend|author=SophFinnegan   |date= 20 August 2017 |work=Essex Live}}</ref>
+|Episode 1
+|12th
+|-
+! scope="row" |Chris Geiger
+| 50 
+| [[Bristol]], England
+| Software Developer <ref>{{cite web |url= http://www.radiotimes.com/news/tv/2017-09-05/bake-off-2017-contestant-chris-geiger/ |title=Who is Great British Bake Off 2017 contestant Chris Geiger? |first=James |last=Gill |work=Radio Times}}</ref>
+|Episode 2
+|11th
+|-
+! scope="row" | Flo Atkins
+| 71 
+|[[Merseyside]], England 
+| Retired <ref>{{cite web |url= http://www.radiotimes.com/news/tv/2017-09-05/who-is-great-british-bake-off-2017-contestant-flo/ |title=Who is Great British Bake Off 2017 contestant Flo Atkins?|first=Eleanor  |last= Bley Griffiths  |work=Radio Times}}</ref>
+|Episode 3
+|10th
+|-
+! scope="row" | Tom Hetherington
+| 29 
+| nowrap|[[Edinburgh]], [[Scotland]] 
+| Architect <ref>{{cite web |url=http://www.radiotimes.com/news/2017-09-05/who-is-the-great-british-bake-off-2017-contestant-tom/|title=Who is The Great British Bake Off 2017 contestant Tom Hetherington? |work=Radio Times}}</ref>
+|Episode 4
+|9th
+|-
+! scope="row" | James Hillery
+| 46 
+| [[Brentwood, Essex|Brentwood]], England
+| Banker <ref>{{cite news |url= http://www.essexlive.news/great-british-bake-off-here-s-everything-we-know-about-the-brentwood-banker-contestant/story-30498381-detail/story.html |title=Great British Bake Off: Here's everything we know about banker James from Brentwood |author= SophFinnegan  | date=29 August 2017|work=Essex Live }}</ref>
+|Episode 5
+|8th
+|-
+! scope="row" | Julia Chernogorova
+| 21 
+|nowrap|[[Crawley]], England
+| Aviation Broker <ref>{{cite news |url=http://www.wscountytimes.co.uk/news/get-set-for-tears-and-tension-as-bake-off-returns-tonight-with-a-horsham-lass-1-8125209 |title=Get set for tears and tension as Bake Off returns tonight ... with a Horsham lass|first=Sarah |last= Page |date=29 August 2017|work=West Sussex county Times }}</ref>
+|Episode 6
+|7th
+|-
+! scope="row" | Chuen-Yan "Yan" Tsou
+| 46 
+| [[North London]], England 
+| Laboratory Research Scientist <ref>{{cite web |url=http://www.radiotimes.com/news/2017-09-05/bake-off-2017-contestant-yan/|title=Who is Great British Bake Off 2017 contestant Chuen-Yan 'Yan'? |first=Ben |last=Allen|work=Radio Times}}</ref>
+|Episode 7
+|6th
+|-
+! scope="row" | [[Liam Charles]]
+| 19 
+| North London, England
+| Student <ref>{{cite web |url= http://www.radiotimes.com/news/tv/2017-09-05/bake-off-2017-contestant-liam-charles/|title=Who is Great British Bake Off 2017 contestant Liam Charles? |first=Eleanor  |last= Bley Griffiths |work=Radio Times}}</ref>
+|Episode 8
+|5th
+|-
+! scope="row" | Stacey Hart
+| 42 
+| [[Radlett]], England
+| Former School Teacher <ref>{{cite news |url=http://www.hertsad.co.uk/news/great-british-bake-off-2017-radlett-being-represented-by-stacey-hart-1-5159353 |title=Great British Bake Off 2017: Radlett being represented by Stacey Hart |work=The Herts Advertiser |date=22 August 2017}}</ref>
+|Episode 9
+|4th
+|-
+! scope="row" | Kate Lyon
+| 29 
+| Merseyside, England 
+| Health and Safety Inspector <ref>{{cite web |url= http://www.radiotimes.com/news/tv/2017-09-05/who-is-great-british-bake-off-2017-contestant-kate-lyon/|title=Who is Great British Bake Off 2017 contestant Kate Lyon? |first=Eleanor  |last= Bley Griffiths |work=Radio Times}}</ref>
+|rowspan="3"|{{nowrap|Episode 10}}
+|rowspan="2"|{{sort|2.5|}}Runner-up
+|-
+! scope="row" | Steven Carter-Bailey
+| 34 
+| [[Watford]], England
+| Marketer <ref>{{cite web |url=http://www.watfordobserver.co.uk/news/15515046.Get_to_know_Watford_s__star_baker__ahead_of_second_episode_of_The_Great_British_Bake_Off_tonight/|title=Get to know Watford's 'star baker' Steven Carter-Bailey ahead of second episode of The Great British Bake Off tonight on Channel 4|first=Mattie |last=Lacey-Davidson |work=Watford Observer |date=5 September 2017 }}</ref>
+|-
+! scope="row" | [[Sophie Faldo]]
+| 33 
+| nowrap|[[West Molesey]], England
+| nowrap|Former Army Officer and Trainee Stunt Woman <ref>{{cite news |url=http://www.getsurrey.co.uk/whats-on/food-drink-news/great-british-bake-off-surreys-13547617 |title=Great British Bake Off: Surrey's Sophie gets Hollywood handshake during first week in the tent |first=Laura|last= Nightingale |work=Get Surrey |date= 30 August 2017 }}</ref>
+|1st
+|}
+
+== Results summary ==
+{| class="wikitable" style="text-align:center"
+|+ Elimination chart
+|-
+! scope="col" | Baker
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+|-
+! scope="row" | Sophie
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| SAFE
+| style="background:LemonChiffon;"|SB
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| style="background:LemonChiffon;"|SB
+| style="background:yellow;"|WINNER
+|-
+! scope="row" | Kate
+| SAFE
+| style="background:Plum;" | LOW
+| SAFE
+| style="background:LemonChiffon;"|SB
+| SAFE
+| SAFE
+| style="background:Plum;" | LOW
+| style="background:Plum;" | LOW
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:limegreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row" | Steven
+| style="background:LemonChiffon;"|SB
+| style="background:LemonChiffon;"|SB
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| SAFE
+| SAFE
+| style="background:LemonChiffon;"|SB
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Plum;" | LOW
+| style="background:limegreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row" | Stacey
+| style="background:Plum;" | LOW
+| style="background:Plum;" | LOW
+| SAFE
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Plum;" | LOW
+| style="background:Plum;" | LOW
+| style="background:LemonChiffon;" |SB
+| style="background:orangered;"|OUT
+| colspan="1" style="background:darkgrey;"|
+|-
+! scope="row" | Liam
+| SAFE
+| SAFE
+| style="background:Plum;" | LOW
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:Plum;" | LOW 
+| style="background:LemonChiffon;"|SB
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:orangered;"|OUT
+| colspan="2" style="background:darkgrey;"|
+|-
+! scope="row" | Yan
+| SAFE
+| SAFE
+| SAFE
+| SAFE
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| style="background:orangered;"|OUT
+| colspan="3" style="background:darkgrey;"|
+|-
+! scope="row" | Julia
+| SAFE
+| SAFE
+| style="background:LemonChiffon;"|SB
+| SAFE
+| style="background:Plum;" | LOW
+| style="background:orangered;"|OUT
+| colspan="4" style="background:darkgrey;"|
+|-
+! scope="row" | James
+| SAFE
+| SAFE
+| SAFE
+| style="background:Plum;" | LOW
+| style="background:orangered;"|OUT
+| colspan="5" style="background:darkgrey;"|
+|-
+! scope="row" | Tom
+| SAFE
+| style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| style="background:orangered;"|OUT
+| colspan="6" style="background:darkgrey;"|
+|-
+! scope="row" | Flo
+| style="background:CornflowerBlue;" | {{color|white|HIGH}}
+| style="background:Plum;" | LOW
+| style="background:orangered;"|OUT
+| colspan="7" style="background:darkgrey;"|
+|-
+! scope="row" | Chris
+| style="background:Plum;" | LOW
+| style="background:orangered;"|OUT
+| colspan="8" style="background:darkgrey;"|
+|-
+! scope="row" | Peter
+| style="background:orangered;"|OUT
+| colspan="9" style="background:darkgrey;"|
+|-
+|}
+
+'''Colour key:'''
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|CornflowerBlue|outline=darkgray|Baker was one of the judges' favourite bakers that week, but was not the Star Baker.}}
+{{legend|<!--default colour-->|outline=darkgray|Baker got through to the next round.}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated.}}
+{{legend|LemonChiffon|outline=darkgray|Baker was the Star Baker.}}
+{{legend|LimeGreen|outline=darkgray|Baker was a series runner-up.}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner.}}
+
+== Episodes ==
+'''Colour key:'''
+{{legend|#FFC7C7|Baker was eliminated at conclusion of episode}}
+{{legend|#E7E7FF|Baker received a "Hollywood handshake" for respective bake}}
+{{legend|#BFD|Baker was named "Star Baker" at conclusion of episode}}
+{{legend|#DFF|Baker was named runner-up for the series}}
+{{legend|gold|Baker won series}}
+
+=== Episode 1: Cakes ===
+For the first challenge, the bakers were instructed to make a cake using fresh fruit, with no dried fruit permitted, in 2 hours. For the technical challenge, the bakers were instructed to make 12 chocolate [[Swiss roll|mini rolls]] using Prue Leith's recipe which contains [[peppermint]] cream, in 2 hours. The showstopper challenge required the bakers to make an illusion cake: a cake that appears to be some other object. They had 4 hours to complete the task.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(Fruity Cake)</small>
+! scope="col" | Technical<br><small>(12 Chocolate [[Swiss roll|Mini Rolls]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Illusion Cake)</small>
+! scope="col" | Result
+|-
+! scope="row" | Chris
+| Tropical Fresh Fruit Cake || 12th || 'Raised Pork Pie and Egg Surprise' Cake || {{Safe}}
+|-
+! scope="row" | Flo
+| Citrus Layer Cake || 9th || 'One in a Melon' Cake || {{Safe}}
+|-
+! scope="row" | James
+| Orange, Rhubarb & Ginger Crumble Cake || 2nd || 'Mock-accino and Croissant' Cake || {{Safe}}
+|-
+! scope="row" | Julia
+| Courgette and Lemon Cake || 3rd || '[[Matryoshka doll|Russian Doll]]' Cake || {{Safe}}
+|-
+! scope="row" | Kate
+| Moroccan Strawberry and Rose Cake || 1st || 'Chocolate Terrarium' Cake || {{Safe}}
+|-
+! scope="row" | Liam
+| Apple and Almond Crumble Maple Loaf || 8th || 'Stackin' Sunday' Cake || {{Safe}}
+|-
+! scope="row" | Peter
+| Coconut Cake || 10th || 'Bread on a Breadboard' Cake || {{Eliminated}}
+|-
+! scope="row" | Sophie
+| {{longlisted|align=left|Pineapple and Coconut Sandwich Cake}} || 5th || 'Champagne Bottle and Bucket' Cake || {{Safe}}
+|-
+! scope="row" | Stacey
+| Granny Smith Apple and Walnut Cake || 11th || 'Black Evening Clutch Bag' Cake || {{Safe}}
+|-
+! scope="row" | Steven
+| {{longlisted|align=left|[[Guy Fawkes Night|Bonfire Night]] Cake}} || 6th || 'A Baker's Lunch' Cake || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Tom
+| Gilded Pear and Cardamom Cake || 7th || 'Stack of Books' Cake || {{Safe}}
+|-
+! scope="row" | Yan
+| Windfall [[Crumble|Apple Crumble]] Cake || 4th || 'Banana-[[ramen]]' Cake || {{Safe}}
+|}
+
+=== Episode 2: Biscuits ===
+For the signature challenge, the bakers were instructed to make 24 [[sandwich cookie|sandwich biscuits]] in 2 hours and 15 minutes. For the technical challenge, the bakers faced a very difficult challenge of making 12 [[fortune cookie]]s of 2 types of flavours – 6 almond and 6 orange, in 2 hours. For the final showstopper challenge, the bakers were required to make a biscuit [[board game]] that should be at least {{convert|40|cm|in|abbr=on}} long in diameter and has at least eight elements in {{frac|3|1|2}} hours.<ref>{{cite web|url= https://www.theguardian.com/tv-and-radio/live/2017/sep/05/the-great-british-bake-off-2017-episode-two-live|title= The Great British Bake Off 2017, episode two – as it happened|date=5 September 2017|work=Guardian|access-date=6 September 2017}}</ref>
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(24 [[sandwich cookie|Sandwich Biscuits]])</small>
+! scope="col" | Technical<br><small>(12 [[fortune cookie|Fortune Cookie]]s)</small>
+! scope="col" class="unsortable" | Showstopper<br /><small>(Biscuit [[Board Games]])</small>
+! scope="col" | Result
+|-
+! scope="row" | Chris
+| Chocolate Chia Seed Biscuits with Whisky Caramel Filling || 11th || 'The Great British Sail Off' Game || {{Eliminated}}
+|-
+! scope="row" | Flo
+| Gin Jam Butties || 10th || '[[Operation (game)|Pick My Bones]]' Game || {{Safe}}
+|-
+! scope="row" | James
+| Rhubarb and Custard Whirls || 3rd || '[[Coppit]]' Game || {{Safe}}
+|-
+! scope="row" | Julia
+| Middle Eastern Delight Sandwich Biscuits || 4th || 'A British Baking' Game || {{Safe}}
+|-
+! scope="row" | Kate
+| Coconut Seashells for a Titanic Afternoon Tea || 8th || '[[Jumanji (film)|Jungle]]' Game || {{Safe}}
+|-
+! scope="row" | Liam
+| Coffee [[Malt]]ed Pecan Shorties || 7th || 'Classroom Classics' Game || {{Safe}}
+|-
+! scope="row" | Sophie
+| Lemon [[limoncello|Limoncino]] Sandwich Biscuits || 2nd || '[[Snakes and Ladders]]' Game || {{Safe}}
+|-
+! scope="row" | Stacey
+| Sparkly Chocolate and Marshmallow Fluff Cookies || 9th || 'Get to School' Game || {{Safe}}
+|-
+! scope="row" | Steven
+| Amarpressi Biscuits || 6th || '[[Chess|Check Bake]]' Game || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Tom
+| Coffee and Amaretto Kisses || 5th || '[[Snakes and ladders|Drain Pipes and Ladders]]' Game || {{Safe}}
+|-
+! scope="row" | Yan
+| 'Mrs. Marian's PB 'n' B' Biscuits || 1st || 'Adventures in Bakeland' Game || {{Safe}}
+|}
+
+=== Episode 3: Bread ===
+The bakers were instructed to make 12 [[teacake]]s in {{frac|2|3|4}} hours in the signature challenge. For the technical challenge, the bakers were tasked to make a [[cottage loaf]] in {{frac|2|1|2}} hours. For the showstopper challenge, the bakers were required to make a multicoloured bread sculpture with at least 3 colours using natural food colouring in {{frac|4|1|2}} hours.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2017/sep/12/the-great-british-bake-off-2017-episode-three-live|title=The Great British Bake Off 2017, episode three – as it happened|date=12 September 2017|work=Guardian|access-date=26 September 2017}}</ref>
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(12 [[Teacake]]s)</small>
+! scope="col" | Technical<br><small>([[Cottage loaf|Cottage Loaf]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Multicoloured Bread Sculpture)</small>
+! scope="col" | Result
+|-
+! scope="row" | Flo
+| Cinnamon and Orange Teacakes || 7th || '[[Davy Jones' Locker]]' Bread Sculpture || {{Eliminated}}
+|-
+! scope="row" | James
+| Nordic Teacakes || 9th || 'Owl in the Woods' Bread Sculpture || {{Safe}}
+|-
+! scope="row" | Julia
+| Earl Grey Dried Fruit Teacakes || 2nd || 'The Snail Under a Mushroom' Bread Sculpture || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" | Kate
+| Blueberry Buns || 10th || '[[Kraken]]' Bread Sculpture || {{Safe}}
+|-
+! scope="row" | Liam
+| Jamaican Spiced Teacakes || 5th || '[[Neapolitan ice cream|Kneadapolitan]]' Bread Sculpture || {{Safe}}
+|-
+! scope="row" | Sophie
+| Tagine Teacakes || 6th || 'Picnic Basket' Bread Sculpture || {{Safe}}
+|-
+! scope="row" | Stacey
+| Cranberry and Cinnamon Teacakes || 1st || '[[Royal Ascot|Ascot]] Hat' Bread Sculpture || {{Safe}}
+|- 
+! scope="row" | Steven
+| Madras Cocktail Teacakes || 3rd || 'The Bag I Knead' Bread Sculpture || {{Safe}}
+|-
+! scope="row" | Tom
+| Orange and Cranberry Teacakes || 4th || 'Pink & Yellow Rose Centrepiece' Bread Sculpture || {{Safe}}
+|-
+! scope="row" | Yan
+| 'Mrs P's' Masala Chai Spiced Teacakes || 8th || 'Basil the Vegetarian Dragon with his Pumpkin Hoard' Bread Sculpture || {{Safe}}
+|}
+
+===Episode 4: Caramel===
+For the first signature challenge, the bakers were required to produce 18 identical [[caramel shortbread|millionaire shortbread]] bars in 2 hours and 15 minutes. The technical challenge was set by Prue Leith where the bakers were tasked to make 12 [[stroopwafel]]s in 1 hour and 45 minutes. Only one test waffle was allowed, and the challenge proved to be a very difficult one for the bakers with none of them producing an adequate [[caramel]]. For the final showstopper challenge, the bakers were required to make a caramel cake consisting of at least three layers of [[sponge cake|sponge]] in {{frac|3|1|2}} hours. They were required to incorporate [[spun sugar]] into their decorations.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2017/sep/19/the-great-british-bake-off-2017-episode-four-live|title=The Great British Bake Off 2017, episode four – as it happened|date=19 September 2017|work=Guardian|access-date=26 September 2017}}</ref>{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(18 [[Caramel shortbread|Millionaire Shortbreads]])</small>
+! scope="col" | Technical<br><small>(12 [[Stroopwafel]]s)</small>
+! scope="col" class="unsortable" | Showstopper<br><small>([[Caramel]] Cake)</small>
+! scope="col" | Result
+|-
+! scope="row" |James
+| 'Windy City' Millionaire Shortbreads || 2nd || Nutty Caramel Cake || {{Safe}}
+|-
+! scope="row" |Julia
+| Pecan Salted Caramel Millionaire Shortbreads || 9th || Poppy Seed Caramel Cake || {{Safe}}
+|-
+! scope="row" |Kate
+| Salted [[Bay leaf|Bay]] Caramel Millionaire Shortbreads || 6th || Sticky Toffee Apple Caramel Cake || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Liam
+| {{longlisted|align=left|Salted Peanut Butter Millionaire Shortbreads}} || 3rd || White Layered Ginger Caramel Cake || {{Safe}}
+|-
+! scope="row" |Sophie
+| [[Jaffa Cakes|Jaffa]] Millionaire Shortbreads || 4th || Bird's Nest Caramel Cake || {{Safe}}
+|-
+! scope="row" |Stacey
+| Rum Salted Caramel Millionaire Shortbreads || 1st || Chocolate and Coffee Caramel Cake || {{Safe}}
+|-
+! scope="row" |Steven
+| Orange Macadamia Nut Millionaire Shortbreads || 7th || Caramel Crown Cake || {{Safe}}
+|-
+! scope="row" |Tom
+| Stem Ginger Caramel Shortbreads || 5th || [[Hummingbird cake|Hummingbird Cake]] || {{Eliminated}}
+|-
+! scope="row" |Yan
+| 'Lil' Red's Ginger and Nuts' Millionaire Shortbreads || 8th || Animals of the Rainforest Caramel Cake || {{Safe}}
+|}
+
+=== Episode 5: Puddings ===
+For the signature challenge, the 8 remaining bakers were required to bake a [[Pudding#Baked, steamed and boiled puddings|steamed school pudding]] with an accompaniment such as a [[compote]] or a [[custard]] in 3 hours. The technical challenge was set by Paul Hollywood where the bakers had to bake 6 [[Molten chocolate cake|molten chocolate]] puddings with a [[peanut butter]] filling in 1 hour. Each baker was called one at a time so their puddings could be ready at different times for Paul and Prue to judge (starting with Julia, followed by Sophie, Liam, Steven, Yan, Kate, James and finally Stacey). For the showstopper challenge, the bakers were asked to bake an ornamental [[trifle]] [[terrine (food)|terrine]] with three elements—a baked element, a set [[custard]] or [[mousse]], and a [[Gelatin dessert|jelly]]—in {{frac|4|1|2}} hours .<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2017/sep/26/the-great-british-bake-off-2017-episode-five-live|title=The Great British Bake Off 2017, episode five – as it happened|date=26 September 2017|work=Guardian|access-date=29 September 2017}}</ref>{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(Steamed School Pudding)</small>
+! scope="col" | Technical<br><small>(6 [[Molten chocolate cake|Molten Chocolate]] Puddings)</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Ornamental [[Trifle]] [[terrine (food)|Terrine]])</small>
+! scope="col" | Result
+|-
+! scope="row" |James
+| Orange and Ginger Steamed School Pudding || 7th || 'The Missed Silver Jubilee' Trifle Terrine || {{Eliminated}}
+|-
+! scope="row" |Julia
+| Orange & Treacle Steamed School Pudding || 3rd || 'Opulent Ornament' Trifle Terrine || {{Safe}}
+|-
+! scope="row" |Kate
+| 'Mr Darcy's Steamy Lake Scene' Steamed School Pudding || 8th || 'My Great Great Nan's' Raspberry Trifle Terrine || {{Safe}}
+|-
+! scope="row" |Liam
+| Cherries & Lemons that are '[[Bakewell tart|Baked Well]]' || 2nd || 'Cheers Lads' Trifle Terrine || {{Safe}}
+|-
+! scope="row" |Sophie
+| Ginger, Fig and Honey Steamed School Pudding || 1st || Raspberry, [[Citrus junos|Yuzu]] & White Chocolate Bûche Trifle Terrine || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Stacey
+| {{longlisted|align=left|[[Bakewell tart|Bakewell Tart]] Steamed School Pudding}} || 4th || Tropical Trifle Terrine || {{Safe}}
+|-
+! scope="row" |Steven
+| {{longlisted|align=left|Lemon & Blackcurrant Drizzle Steamed School Pudding}} || 5th || 'From Across the Jelly Pond' Trifle Terrine || {{Safe}}
+|-
+! scope="row" |Yan
+| {{longlisted|align=left|Mango Fruit Hat Steamed School Pudding}} || 6th || 'Heart of a Hero' Trifle Terrine || {{Safe}}
+|}
+
+=== Episode 6: Pastry ===
+In the signature challenge, the bakers were required to produce 4 decorative savoury pies using [[shortcrust pastry]] with different designs on the pies that share a common theme in {{frac|2|1|2}} hours. For the technical challenge, set by Paul, the bakers were tasked to produce 12 [[Pastel de nata|pastéis de nata]] using [[flaky pastry|rough puff]] pastry in 2 hours. For the final showstopper challenge, the bakers were required to produce a family-sized hand-raised pie with a savoury filling using [[hot water crust pastry]], topped with glazed fruits in 4 hours.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2017/oct/03/the-great-british-bake-off-2017-episode-six-live |title=The Great British Bake Off 2017, episode six – as it happened|date=3 October 2017|work=Guardian|access-date=18 October 2017}}</ref>{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(4 Shortcrust Savoury Pies)</small>
+! scope="col" | Technical<br><small>(12 [[Pastel de nata|Pastéis de Nata]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Family-Sized Hand-Raised Pie)</small>
+! scope="col" | Result
+|-
+! scope="row" |Julia
+| 'Pies from the Tree' Decorative Pies || 7th || 'Special Occasion' Pie || {{Eliminated}}
+|-
+! scope="row" |Kate
+| 'Vegetarian Pie Faces' Decorative Pies || 5th || Potato Curry Pie with Mango & Chilli Glaze || {{Safe}}
+|-
+! scope="row" |Liam
+| 'Standard FC' Decorative Pies || 4th || 'Nan's Sunday Dinner' Pie || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Sophie
+| 'The Four Seasons' Decorative Pies || 2nd || Game Pie with Glazed Forest Fruits || {{Safe}}
+|-
+! scope="row" |Stacey
+| 'Love Theme' Decorative Pies || 6th || Indian Hand Raised Pie with Mango || {{Safe}}
+|-
+! scope="row" |Steven
+| '[[Fleetwood Mac]]' Decorative Pies || 3rd || Christmas Pie || {{Safe}}
+|-
+! scope="row" |Yan
+| '[[Area of a circle|{{pi}}r<sup>2</sup>]]' Decorative Pies || 1st || [[Chequer-board|Chequerboard]] Pie || {{Safe}}
+|}
+
+=== Episode 7: Italian ===
+For the first ever Italian week in Bake Off, the bakers were given {{frac|2|1|2}} hours to make the required 18 Sicilian [[cannoli]]s with 3 different types of fillings. This week's Italian technical challenge was set by Prue Leith, where the bakers were tasked to make the well-known, yet tricky, [[pizza margherita|Pizza Margherita]] with a thin crispy base in {{frac|1|1|2}} hours. For the showstopper challenge, the bakers were required to make a very technically challenging and fiddly Italian bake: 24 [[Sfogliatella|sfogliatelles]] with 2 types of fillings in {{frac|4|1|2}} hours.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2017/oct/10/the-great-british-bake-off-2017-episode-seven-live |title=The Great British Bake Off 2017, episode seven – as it happened|date=10 October 2017|work=Guardian|access-date=18 October 2017}}</ref>
+{| class="wikitable sortable col3center sticky-header"
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(18 [[Cannoli]]s)</small>
+! scope="col" | Technical<br><small>([[Pizza margherita|Pizza Margherita]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(24 [[Sfogliatella|Sfogliatelle]])</small>
+! scope="col" | Result
+|-
+! scope="row" |Kate
+| 'Happy Hour' Cocktail Cannoli || 6th || 'Flavour Fusion' Sfogliatelle || {{Safe}}
+|-
+! scope="row" |Liam
+| 'Just Doing Me' Cannoli || 2nd || 'Morning Delivery' Sfogliatelle || {{Safe}}
+|-
+! scope="row" |Sophie
+| 'Classics with a Twist' Cannoli || 3rd || 'Classics' Sfogliatelle || {{Safe}}
+|-
+! scope="row" |Stacey
+| My All Time Favourite Desserts || 4th || Pastry Surprise || {{Safe}}
+|-
+! scope="row" |Steven
+| Italian Style Cannoli || 1st || 'Sicilian-style' Sfogliatelle || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Yan
+| Cannoli Cocktails || 5th || Canadian Style Sfogliatelle || {{Eliminated}}
+|}
+
+=== Episode 8: Forgotten Bakes (Quarterfinals) ===
+The bakers were required to make 4 [[Bedfordshire clanger|Bedfordshire Clanger]]s within 2 hours in the signature challenge. Each must contain a savoury filling at one end and a sweet filling at the other, and be made from [[suet]] crust pastry. In the technical challenge, set by Paul Hollywood, the bakers were given 1<sup>1</sup>⁄<sub>2</sub> hours to make a traditional [[Cumberland Rum Nicky]]: a large tart consisting of a sweet [[shortcrust]] pastry, a [[rum]]-soaked fruity filling covered with a [[lattice (pastry)|lattice]] top, and served with a smooth [[Hard sauce|rum butter]]. For the historic showstopper, the bakers had 3<sup>1</sup>⁄<sub>2</sub> hours to make a Victorian Savoy cake, a sponge cake baked in a mold, often in elaborate architectural shapes, with a hard sugar crust or coating that helped preserve it as it served as a banquet centrepiece.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2017/oct/17/the-great-british-bake-off-2017-episode-eight-live |title=The Great British Bake Off 2017, episode eight – as it happened|date=17 October 2017|work=Guardian|access-date=18 October 2017}}</ref>{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(4 [[Bedfordshire clanger|Bedfordshire Clanger]]s)</small>
+! scope="col" | Technical<br><small>([[Cumberland]] Rum Nicky)</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Victorian Savoy Cake)</small>
+! scope="col" | Result
+|-
+! scope="row" |Kate
+| Burrito Bedfordshire Clangers || 2nd || '[[Royal Liver Building|Liver Building Turret]]' Savoy Cake || {{Safe}}
+|-
+! scope="row" |Liam
+| 'Take Out' Bedfordshire Clangers || 5th || 'Fort Wizardore' Savoy Cake || {{Eliminated}}
+|-
+! scope="row" |Sophie
+| [[Char siu|Char Siu]] & Banana Praline Bedfordshire Clangers || 4th || Citrus with Green Apple [[Croquembouche]] Savoy Cake || {{Safe}}
+|-
+! scope="row" |Stacey
+| {{longlisted|align=left|Camembert & Onion and Apple & Blueberry Bedfordshire Clangers}} || 3rd || 'Bright' Lemon & Orange Savoy Cake || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Steven
+| 'Mediterranean Medley' Bedfordshire Clangers || 1st || [[Chestnut]] Rum Savoy Cake || {{Safe}}
+|}
+
+=== Episode 9: Pâtisserie (Semi-final) ===
+For the semifinal signature bakes, the bakers were asked to make 24 [[Choux pastry|choux]] buns—12 must have a crunchy [[craquelin]] on top, and the other 12 must be covered with icing—in {{frac|2|1|2}} hours. For the technical challenge, which was set by Prue Leith, the bakers were tasked with a very difficult job of making 9 [[Misérable cake|Les Misérables slices]] to be done in 3 hours. For the showstopper challenge before the final, the bakers were asked to make a [[meringue]] centrepiece, containing at least two different types of meringue and a dessert element, in 4 hours and 45 minutes.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2017/oct/24/great-british-bake-off-2017-semi-final-follow-it-live |title=The Great British Bake Off 2017 semi-final – as it happened|date=24 October 2017|work=Guardian|access-date=31 October 2017}}</ref>{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(24 [[Choux pastry|Choux]] Buns)</small>
+! scope="col" | Technical<br><small>(9 [[Misérable cake|Les Misérables Slices]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>([[Meringue]] Centrepiece)</small>
+! scope="col" | Result
+|-
+! scope="row" |Kate
+| [[Bellini (cocktail)|Bellini]] and [[Valencia orange|Valencian Orange]] Choux Buns || 4th || 'Rainbow' Meringue Centrepiece || {{Safe}}
+|-
+! scope="row" |Sophie
+| Strawberry & Rhubarb and Chestnut & Vanilla Choux Buns || 1st || '[[Tutu (clothing)|Tutu]] with [[Opera cake|Opera]] Filling' Meringue Centrepiece || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Stacey
+| 'Choux-[[unicorn|nicorn]] and Choux-[[emoji|moji]]' Choux Buns || 2nd || 'Flamingos in Love' Meringue Centrepiece || {{Eliminated}}
+|-
+! scope="row" |Steven
+| Key Lime Cheesecake and Bakewell Tart Choux Buns || 3rd || 'Some Air Over the Rainbow' Meringue Centrepiece || {{Safe}}
+|}
+
+=== Episode 10: Final ===
+For the signature challenge in the final, the last 3 bakers were tasked to make a batch of 12 small loaves. There must be 3 different types of loaves—4 need to be intricately shaped (e.g. plaited), 4 need to be flavoured, and 4 need to be made from an alternative grain such as [[spelt]] or [[buckwheat]]—in 3 hours. Prue set the final technical challenge, asking the bakers to make 10 [[ginger biscuit]]s—5 oval and 5 square—in {{frac|2|1|2}} hours.<ref>{{cite web|url=https://www.bbc.com/news/entertainment-arts-41822794 |title= The Great British Bake Off 2017: How the final unfolded|date=31 October 2017|work=BBC News|access-date=1 November 2017}}</ref> They each should have a great snap and be intricately iced with two complicated patterns. For the ultimate showstopper challenge, the bakers were tasked to make 1 large [[entremet]], having a minimum of 5 elements, one of which must be a [[sponge cake|sponge]], and covered with a [[Glaze (cooking technique)|glaze]] or [[ganache]], all in 5 hours.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2017/oct/31/great-british-bake-off-2017-final-watch-live |title=The Great British Bake Off 2017 final – as it happened|date=31 October 2017|work=Guardian|access-date=1 November 2017}}</ref>
+{| class="wikitable sortable col3center sticky-header"
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(12 Small [[Loaf|Loaves]])</small>
+! scope="col" | Technical<br><small>(10 [[ginger biscuit|Ginger Biscuits]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Large [[Entremet]])</small>
+! scope="col" | Result
+|-
+! scope="row" |Kate
+| Roman Spelt, Coconut Kala Chana & Flower Breads || 3rd || White Chocolate, [[Yuzu]] and [[Lychee]] Entremet || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" |Sophie
+| Spelt [[Boule (bread)|Boules]], Mushroom [[Ciabatta]] & Orange Plaited [[Brioche]] || 2nd ||'Ode to the Honey Bee' Entremet || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" |Steven
+| Spelt & Rye, Toasted Garlic & [[Fontina]] and Sweet Chocolate Breads || 1st || '[[Yin Yang]]' Entremet || {{sort|2.5|}}{{Runner-up}}
+|}
+
+== Specials ==
+The two holiday specials each featured four returning contestants from the series 2–7.{{citation needed|date=January 2020}}
+
+The first special featured Selasi Gbormittah (Series 7), Val Stones (Series 7), Paul Jagger (Series 6) and [[Beca Lyne-Pirkis]] (Series 4). The competition was won by Paul Jagger.
+
+The second special featured Benjamina Ebuehi (Series 7), Rav Bansal (Series 7), Sandy Docherty (Series 6) and Rob Billington (Series 2). The competition was won by Rav Bansal.
+
+=== ''The Great Christmas Bake Off'' ===
+For the signature challenge, the bakers were given 2 hours to create a Christmas family favourite: a [[Yule log (cake)|Yule Log]]. The technical challenge was set by Prue, and allowed the bakers {{frac|1|1|2}} hours to make 12 [[mince pies]] with lattice tops, served with [[brandy butter]], with very limited instructions and ingredients provided. The showstopper challenge featured the bakers creating 8 [[snow globe]] cakes using a sugar glass dome to encase an edible Christmas scene on top of an [[entremet]] in 4 hours.
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>([[Yule log (cake)|Yule Log]])</small>
+! scope="col" | Technical<br><small>(12 [[Mince Pies]])</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(8 [[snow globe|Snow Globe]] Cakes)</small>
+! scope="col" | Result
+|-
+! scope="row" | Beca
+| [[Gingerbread]] [[Latte]] Yule Log || 3rd || [[Macaron]] [[Snowmen]] Globes || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Paul
+| Nutty About Christmas Yule Log || 1st || [[Penguins]] At Play Snow Globes || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" | Selasi
+| Souche de Noel || 2nd || Chocolate Chestnut [[Wreath]] Globes || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Val
+| [[Black Forest gateau|Black Forest]] Yule Log || 4th || Memory Lane Snow Globes || {{sort|2.5|}}{{Runner-up}}
+|-
+|}
+
+=== ''The Big Festive Bake Off'' ===
+The bakers were required to make 6 snowy [[Bombe Alaska]] tarts in the signature challenge in 2 hours and 15 minutes. The technical challenge was set by Paul, where the bakers were tasked to make a pistachio [[Kransekake]] Christmas tree consisting of twelve layers of concentric rings, topped with a star, in 2 hours and 15 minutes. For the final showstopper challenge, the bakers were required to make a magical ice cake with elaborate sugar work that create a scene of winter wonderland in 4 hours.
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col" | Baker
+! scope="col" class="unsortable" | Signature<br><small>(6 Snowy [[Bombe Alaska]] Tarts)</small>
+! scope="col" | Technical<br><small>(Pistachio [[Kransekake]] Christmas Tree)</small>
+! scope="col" class="unsortable" | Showstopper<br><small>(Magical Ice Cake)</small>
+! scope="col" | Result
+|-
+! scope="row" | Benjamina
+|Minty Mocha Tarts || 3rd || Icy the Future || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Rav
+| Frosty Ginger Bombe Tarts || 1st || Frozen Fantasy Cake || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" | Rob
+| Warming Winter Spiced Apple Alaska Tarts || 4th || Frozen Mist Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Sandy
+| After Dinner Mint Surprise || 2nd || Home for Christmas Cake || {{sort|2.5|}}{{Runner-up}}
+|-
+|}
+
+==Post-show career==
+[[Liam Charles]] was chosen as a co-presenter for the revamped professional version of ''Great British Bake Off'', ''[[Bake Off: The Professionals]]'',<ref>{{cite news |url=http://metro.co.uk/2018/02/07/liam-charles-host-great-british-bake-off-professionals-spin-off-show-channel-4-7294552/ |title= Liam Charles to host Great British Bake Off: The Professionals spin-off show on Channel 4 |first=Adam|last= Bloodworth|date= 7 February 2018 |work=Metro}}</ref> and in 2019 returned as co-judge for ''[[Junior Bake Off]]''.  He has written two recipe books on baking; ''Cheeky Treats: 70 Brilliant Bakes and Cakes'',<ref>{{cite news |url=https://www.theguardian.com/lifeandstyle/2018/jul/11/liam-charles-cake-best-way-to-make-people-happy|title= Bake Off's Liam Charles: 'Cake is the best way to make people happy' |first=Zoe |last=Williams |date=11 July 2018|work=The Guardian }}</ref> and '' Second Helpings''.<ref>{{cite news |url=https://books.telegraph.co.uk/Product/Liam-Charles/Liam-Charles-Second-Helpings--70-wicked-recipes-that-will/23626339 |title= Liam Charles Second Helpings : 70 wicked recipes that will leave you wanting more Hardback by Liam Charles |work=The Telegraph}}</ref>
+
+[[Sophie Faldo]] runs her own business, Sophie Faldo Cakes.<ref>{{cite web |url=https://www.bustle.com/p/where-are-all-the-past-bake-off-winners-now-these-star-bakers-have-been-busy-since-winning-the-series-19276029 |title=Where Are All The Past 'Bake Off' Winners Now? These Star Bakers Have Been Busy Since Winning The Series |first= Sophie|last= McEvoy|date=29 October 2019|work=Bustle }}</ref> She has also appeared in an episode of a travelogue TV series ''Travels with a Goat''.<ref>{{cite news |url=https://www.telegraph.co.uk/tv/2019/01/14/travels-goat-review-grime-caked-travelogue-confronting-ethics/ |title=Travels with a Goat, review - a grime-caked travelogue confronting the ethics of eating meat |work=The Telegraph|date= 14 January 2019|first=Ed|last=Power}}</ref>
+
+Several bakers participated in ''The Great Christmas Bake Off'' and ''The Great New Year's Bake Off'' in the following years. In 2018, Flo Atkins and Liam Charles participated in ''The Great Christmas Bake Off'' while Steven Carter-Bailey participated in ''The Great New Year's Bake Off'' and won the special's star baker title. In 2019, Tom Hetherington and Yan Tsou participated in ''The Great Christmas Bake Off''. In 2020, James Hillery participated in ''The Great Christmas Bake Off''. In 2023, Sophie Faldo participated in ''The Great Christmas Bake Off'' and won the special's star baker title.
+
+== Controversies ==
+On 31 October 2017, judge [[Prue Leith]] accidentally revealed [[Sophie Faldo]] as the winner of the series  on [[Twitter]] twelve hours before the finale was due to air. This caused uproar among many fans of the show. She quickly deleted the tweet and apologised to the fans who saw the tweet.<ref>{{cite news |last= McCormack |first=Kirsty |date= 31 October 2017 |title= Great British Bake Off 2017 winner REVEALED by judge Prue Leith: 'I'm mortified' |url= http://www.express.co.uk/showbiz/tv-radio/873509/Great-British-Bake-Off-2017-winner-judge-Prue-Leith-spoiler-Twitter |work= [[Daily Express]] |access-date= 31 October 2017}}</ref>
+
+== Ratings ==
+The first episode to be broadcast on Channel 4 received an overnight viewing figure of 6.5 million, which is the channel's highest viewing figure since the opening ceremony for the [[2012 Summer Paralympics|2012 Paralympics]], but down from the 10 million obtained in the previous series on BBC One.<ref>{{cite news |url=https://www.theguardian.com/tv-and-radio/2017/aug/30/great-british-bake-off-proves-ratings-winner-for-channel-4 |title=Great British Bake Off proves ratings winner for Channel 4 |first=Graham |last=Ruddick |date= 30 August 2017 |work=The Guardian }}</ref>  The overnight viewing figure for the final was 7.7 million (8.9 million at its peak), lower than the 14 million for the equivalent episode on BBC One in 2016.<ref>{{cite news |url=https://www.standard.co.uk/stayingin/tvfilm/great-british-bake-off-2017-final-brings-in-channel-4-s-biggest-audience-for-six-years-despite-gbbo-a3673481.html |title=Great British Bake Off final brings in Channel 4's biggest audience for six years despite judge Prue Leith's accidental early reveal |first= Aimée |last=Grant Cumberbatch  |work= The Evening Standard |date=1 November 2017}}</ref>
+
+Official episode viewing figures are from [[BARB]]. Figures are total counts including HD and Channel 4 +1.<ref>{{cite web|url=http://www.barb.co.uk/whats-new/weekly-top-30?_s=4|title=Weekly Top 30 Programmes|publisher=[[Broadcasters' Audience Research Board]]|access-date=1 September 2017}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col" | Episode<br />no.
+! scope="col" | Airdate
+! scope="col" | 7 day viewers<br /><small>(millions)</small>
+! scope="col" | 28 day viewers<br /><small>(millions)</small>
+! scope="col" | Channel 4<br />weekly ranking
+! scope="col" | Weekly ranking<br />all channels<ref name="BARB2">{{cite web|url=http://www.barb.co.uk/whats-new/weekly-top-10?_s=4|title=Weekly Top 10 Programmes|publisher=[[Broadcasters' Audience Research Board]]|access-date=1 September 2017}}</ref>
+|-
+! scope="row" | 1
+| align="left" |{{Start date|2017|08|29|df=y}} || 9.46 || 9.72 || colspan="2" | 1 
+|-
+! scope="row" | 2
+| align="left" | {{Start date|2017|09|05|df=y}} || 9.23 || 9.53 || rowspan="9" | 1 || rowspan="2" | 2
+|-
+! scope="row" | 3
+| align="left" | {{Start date|2017|09|12|df=y}} || 8.68 || 9.06 
+|-
+! scope="row" | 4
+| align="left" | {{Start date|2017|09|19|df=y}} || 8.55 || 8.87 || 3
+|-
+! scope="row" | 5
+| align="left" | {{Start date|2017|09|26|df=y}} || 8.61 || 8.98 || rowspan="2" | 4
+|-
+! scope="row" | 6
+| align="left" | {{Start date|2017|10|03|df=y}} || 8.61 || 8.91 
+|-
+! scope="row" | 7
+| align="left" | {{Start date|2017|10|10|df=y}} || 9.01 || 9.32 || 3
+|-
+! scope="row" | 8
+| align="left" | {{Start date|2017|10|17|df=y}} || 8.95 || 9.19 || rowspan="3" | 4
+|-
+! scope="row" | 9
+| align="left" |{{Start date|2017|10|24|df=y}} || 9.03 || 9.16 
+|-
+! scope="row" | 10
+| align="left" |{{Start date|2017|10|31|df=y}} || 10.04 || 10.13 
+|}
+
+=== Specials ===
+{| class="wikitable" style="text-align:center;"
+|+ The Great Christmas Bake Off
+|-
+! scope="col" | Episode<br />no.
+! scope="col" | Airdate
+! scope="col" | 7 day viewers<br /><small>(millions)</small>
+! scope="col" | 28 day viewers<br /><small>(millions)</small>
+! scope="col" | Channel 4<br />weekly ranking
+! scope="col" | Weekly ranking<br />all channels<ref name="BARB2"/>
+|-
+! scope="row" {{n/a|}}
+| {{Start date|2017|12|25|df=y}} || 4.77 || 5.00 || 1 || 34
+|}
+
+{| class="wikitable" style="text-align:center;"
+! colspan="6" | The Great Festive Bake Off
+|-
+! scope="col" | Episode<br />no.
+! scope="col" | Airdate
+! scope="col" | 7 day viewers<br /><small>(millions)</small>
+! scope="col" | 28 day viewers<br /><small>(millions)</small>
+! scope="col" | Channel 4<br />weekly ranking
+! scope="col" | Weekly ranking<br />all channels<ref name="BARB2"/>
+|-
+! scope="row" {{n/a|}}
+| {{Start date|2018|01|01|df=y}} || 3.83 || 3.91 || 1 || {{TBA}}
+|}
+
+== References ==
+{{Reflist}}
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off (series 8), The}}
+[[Category:The Great British Bake Off|Series 8]]
+[[Category:2017 British television seasons]]

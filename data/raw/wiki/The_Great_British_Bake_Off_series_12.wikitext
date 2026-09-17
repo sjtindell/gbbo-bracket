@@ -1,0 +1,715 @@
+{{Short description|Twelfth series of The Great British Bake Off}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox television season
+| image         = 
+| caption       = 
+| series_number = 12
+| module1       = {{Infobox reality competition season
+ | presenter       = [[Noel Fielding]]<br>[[Matt Lucas]]
+ | judges          = [[Paul Hollywood]]<br>[[Prue Leith]]
+ | num_contestants = 12
+ | winner          = [[Giuseppe Dell'Anno]]
+ | runner_up       = Chigs Parmar<br>Crystelle Pereira
+ | location        = [[Down Hall]], near Bishop's Stortford
+ | label1          = {{abbr|No.|Number}} of {{abbr|max.|maximum}} bakes
+ | data1           = 30
+}}
+| num_episodes  = 10
+| network       = [[Channel 4]]
+| first_aired   = {{start date|df=y|2021|09|21}}
+| last_aired    = {{end date|df=y|2021|11|23}}
+}}
+
+The '''twelfth series''' of ''[[The Great British Bake Off]]'' began airing on 21 September 2021.<ref>{{cite news |url=https://www.bbc.co.uk/news/entertainment-arts-58544950 |title=Great British Baking Show 2021 contestants revealed |work=BBC |date=14 September 2021 }}</ref> It is presented by [[Noel Fielding]] and [[Matt Lucas]], and judged by returning judges [[Paul Hollywood]] and [[Prue Leith]]. The bakers were announced on 14 September 2021.<ref name=":0">{{Cite web|date=2021-09-13|title=Meet the contestants for the 12th series of The Great British Bake Off|url=https://www.independent.co.uk/arts-entertainment/tv/news/bake-off-contestants-who-2021-b1919307.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/arts-entertainment/tv/news/bake-off-contestants-who-2021-b1919307.html |archive-date=18 June 2022 |url-access=subscription |url-status=live|access-date=2021-09-13|website=The Independent|language=en}}</ref>
+
+The series was won by [[Giuseppe Dell'Anno]], with Chigs Parmar and Crystelle Pereira finishing as the runners-up. Dell'Anno is the first Italian winner of the programme.<ref>{{cite web|url= https://www.theguardian.com/tv-and-radio/live/2021/nov/23/the-great-british-bake-off-2021-final-live|title=The Great British Bake Off 2021: final – as it happened|date=23 November 2021|work=Guardian|accessdate=24 November 2021}}</ref><ref>{{cite web|url= https://www.bbc.com/news/entertainment-arts-59390446|title=The Great British Bake Off crowns its 2021 winner|date=23 November 2021|work=BBC|accessdate=24 November 2021}}</ref><ref>{{Cite web |last=Bennett |first=Paige |title=First vegan baker on the 'Great British Baking Show' shares what it was really like on the series |url=https://www.insider.com/bake-off-vegan-baker-what-show-judges-like-freya-cox-interview-2022 |access-date=2022-09-27 |website=Insider |language=en-US}}</ref>
+
+== Bakers ==
+{| class="wikitable sortable" style="text-align:center;"
+!scope="col"|Contestant
+!scope="col"|Age
+!scope="col"|Hometown
+!scope="col"|Occupation
+!scope="col"|Finish
+!scope="col"|Place
+|-
+! scope="row" | Tom Fletcher
+| 28 
+| [[Maidstone]], [[England]]
+| Software developer<ref>{{cite news |url= https://www.kentonline.co.uk/maidstone/news/kent-bake-off-star-says-show-was-an-experience-i-won-t-forg-254483/ |title=The Great British Bake Off contestant Tom Fletcher from Maidstone reacts to his time on the Channel 4 show after becoming first to leave|date=23 September 2021 |first=Liane |last= Castle|work=Kent Online}}</ref>
+|Episode 1
+|12th
+|-
+! scope="row" | {{nowrap|Jairzinho Parris}}
+| 51 
+| nowrap|[[London]], England
+| nowrap|Head of Finance<ref>{{cite web |url=https://www.instagram.com/baked_by_jairzinho/ |title=baked_by_jairzinho |work=Instagram }}</ref><ref>{{cite news |url=https://www.walesonline.co.uk/news/uk-news/great-british-bake-off-three-21678099 |title=Great British Bake Off: The dog-loving contestants with 'star bakers' back home |work=Wales Online |date=26 September 2021 |first=Bethan |last=Shufflebotham }}</ref>
+|Episode 2
+|11th
+|-
+! scope="row" | Rochica Copeland
+| 27 
+| [[Birmingham]], England
+| Junior HR business partner<ref>{{cite web |url=https://www.instagram.com/rochica_/ |title=Rochica |work=Instagram }}</ref>
+|Episode 3
+|10th
+|-
+! scope="row" | Maggie Richardson
+| 70 
+| [[Poole]], England
+| Retired nurse and midwife<ref>{{cite news |url= https://www.bournemouthecho.co.uk/news/19595101.watch-maggie-poole-great-british-bake-off-tonight/ |title=Watch Maggie from Poole on The Great British Bake Off tonight|date=21 September 2021 |first= Nicole  |last= Baddeley |work=Daily Echo}}</ref><ref>{{cite web |url=https://www.instagram.com/maggietheseasidebaker/ |title=Maggie |work=Instagram }}</ref>
+|Episode 4
+|9th
+|-
+! scope="row" | Freya Cox
+| 19 
+| nowrap|[[Scarborough, North Yorkshire|Scarborough]], England
+| nowrap|Student<ref>{{cite news|url=https://www.instagram.com/freyacox_/ |title=Freya Cox|work=Instagram |date=29 November 2021}}</ref>
+|Episode 5
+|8th
+|-
+! scope="row" | Amanda Georgiou
+| 56 
+| London, England
+| [[Metropolitan Police]] detective<ref>{{cite web |url=https://www.instagram.com/amanda_foreverbaking/ |title=Amanda Geo |work=Instagram }}</ref>
+|Episode 6
+|7th
+|-
+! scope="row" | George Aristidou
+| 34 
+| nowrap|London, England
+| nowrap|[[Shared lives]] coordinator<ref>{{cite web |url=https://www.instagram.com/george_bake_ari/ |title=George Aristidou |work=Instagram}}</ref>
+|Episode 7
+|6th
+|-
+! scope="row" | Lizzie Acker
+| 28 
+| [[Liverpool]], England
+| Car production operative<ref>{{cite news |url= https://theguideliverpool.com/liverpool-great-british-bake-off-contestant-lizzie-reveals-she-was-in-a-panic-meeting-other-bakers/ |title=Liverpool Great British Bake-Off contestant Lizzie reveals she was in a panic meeting other bakers|date=20 September 2021 |work=Liverpool Echo}}</ref><ref>{{cite web |url=https://www.instagram.com/lizzieacker_/ |title=Lizzie Acker |work=Instagram }}</ref>
+|Episode 8
+|5th
+|-
+! scope="row" | Jürgen Krauss
+| 56 
+| [[Brighton]], England
+| Physicist<ref>{{cite web |url=https://www.instagram.com/juergenthebread/ |title=Juergen Thebread |work=Instagram }}</ref>
+|Episode 9
+|4th
+|-
+! scope="row" | Chigs Parmar
+| 40 
+| nowrap|[[Leicester]], England
+| Sales manager<ref>{{cite web |url=https://www.instagram.com/thelatebloomeruk/ |title=Chigs Parmar |work=Instagram }}</ref>
+|rowspan="3"|Episode 10
+|rowspan="2"|{{sort|2.5|}}Runner-up
+|-
+! scope="row" | Crystelle Pereira
+| 26 
+| nowrap|London, England
+| nowrap|Client relationship manager<ref>{{cite web |url=https://www.instagram.com/crystellepereira/ |title=Crystelle Pereira|work=Instagram }}</ref>
+|-
+! scope="row" | [[Giuseppe Dell'Anno]]
+| 45 
+| [[Bristol]], England
+| Chief engineer<ref>{{cite web |url=https://www.business-live.co.uk/retail-consumer/great-british-bake-2021-national-21617345 |title=The Great British Bake Off 2021: National Composite Centre's chief engineer Giuseppe Dell'Anno to compete |first=Hannah |last=Baker |work=Business Live |date=20 September 2021 }}</ref>
+|1st
+|-
+|}
+
+== Results summary ==
+{| class="wikitable" style="text-align:center; font-size:92%"
+! rowspan="02" | Baker
+! colspan="10" | Episodes
+|-
+! scope="col"| 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+|-
+! scope="row"| Giuseppe
+|style="background:Cornflowerblue"| {{color|white|HIGH}}
+|style="background:Cornflowerblue"| {{color|white|HIGH}}
+|style="background:LemonChiffon;"|SB
+|style="background:Cornflowerblue"| {{color|white|HIGH}}
+|style="background:LemonChiffon;"|SB
+|style="background:Cornflowerblue"| {{color|white|HIGH}}
+|style="background:Cornflowerblue"| {{color|white|HIGH}}
+| SAFE
+|style="background:Plum;"| LOW
+|style="background:Yellow;"|WINNER
+|-
+! scope="row"| Chigs
+| SAFE
+|style="background:Cornflowerblue;" | {{color|white|HIGH}}
+| SAFE
+|style="background:LemonChiffon;"|SB
+| SAFE
+| SAFE
+|style="background:Cornflowerblue;" | {{color|white|HIGH}}
+|style="background:LemonChiffon;"|SB
+|style="background:Cornflowerblue;"| {{color|white|HIGH}}
+|style="background:limegreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row"| Crystelle
+|style="background:Cornflowerblue;" | {{color|white|HIGH}}
+| SAFE
+| SAFE
+| SAFE
+|style="background:Cornflowerblue"| {{color|white|HIGH}}
+|style="background:LemonChiffon;"|SB
+|style="background:Cornflowerblue;" | {{color|white|HIGH}}
+|style="background:Plum;"| LOW
+|style="background:LemonChiffon;"|SB
+|style="background:limegreen;"|{{nowrap|Runner-up}}
+|-
+! scope="row"| Jürgen
+|style="background:LemonChiffon;"|SB
+|style="background:LemonChiffon;"|SB
+| SAFE
+|style="background:Cornflowerblue"| {{color|white|HIGH}}
+|style="background:Cornflowerblue"| {{color|white|HIGH}}
+| SAFE
+|style="background:LemonChiffon;"|SB
+|style="background:Cornflowerblue"| {{color|white|HIGH}}
+| style="background:orangered;"|OUT
+|colspan="9" style="background:darkgrey;"|
+|-
+! scope="row"| Lizzie
+| SAFE
+| SAFE
+|style="background:cornflowerblue;" | {{color|white|HIGH}}
+| SAFE
+| SAFE
+| SAFE
+|style="background:Plum;"| LOW
+| style="background:orangered;"|OUT
+|colspan="9" style="background:darkgrey;"|
+|-
+! scope="row"| George
+|style="background:Plum;"| LOW
+|style="background:Cornflowerblue;"| {{color|white|HIGH}}
+| SAFE
+| SAFE
+|style="background:Plum;"| LOW
+|style="background:Plum;"| LOW
+| style="background:orangered;"|OUT
+|colspan="9" style="background:darkgrey;"|
+|-
+! scope="row"| Amanda
+|style="background:Plum;"| LOW
+|style="background:Plum;"| LOW
+| SAFE
+|style="background:Plum;"| LOW
+| SAFE
+| style="background:orangered;"|OUT
+|colspan="9" style="background:darkgrey;"|
+|-
+! scope="row"| Freya
+| SAFE
+| SAFE
+|style="background:Cornflowerblue"| {{color|white|HIGH}}
+|style="background:Plum;"| LOW
+|style="background:orangered;"|OUT
+|colspan="9" style="background:darkgrey;"|
+|-
+! scope="row"| Maggie
+|style="background:Cornflowerblue"| {{color|white|HIGH}}
+|style="background:Plum;"| LOW
+|style="background:Plum;"| LOW
+|style="background:orangered;"|OUT
+|colspan="9" style="background:darkgrey;"|
+|-
+! scope="row"| Rochica
+| SAFE
+| SAFE
+|style="background:orangered;"|OUT
+|colspan="9" style="background:darkgrey;"|
+|-
+! scope="row"| Jairzeno
+|style="background:Plum;"| LOW
+|style="background:orangered;"|OUT
+|colspan="9" style="background:darkgrey;"|
+|-
+! scope="row"| Tom
+|style="background:orangered;"|OUT
+|colspan="9" style="background:darkgrey;"|
+|-
+|}
+
+'''Colour key:'''
+{{legend|Plum|outline=darkgray|Baker was one of the judges' least favourite bakers that week, but was not eliminated.}}
+{{legend|CornflowerBlue|outline=darkgray|Baker was one of the judges' favourite bakers that week, but was not the Star Baker.}}
+{{legend|White|outline=darkgray|Baker got through to the next round.}}
+{{legend|OrangeRed|outline=darkgray|Baker was eliminated.}}
+{{legend|LemonChiffon|outline=darkgray|Baker was the Star Baker.}}
+{{legend|LimeGreen|outline=darkgray|Baker was a series runner-up.}}
+{{legend|Yellow|outline=darkgray|Baker was the series winner.}}
+
+== Episodes ==
+'''Colour key:'''
+{{legend|#FFC7C7|Baker was eliminated at conclusion of episode}}
+{{legend|#E7E7FF|Baker received a "Hollywood handshake" for respective bake}}
+{{legend|#BFD|Baker was named "Star Baker" at conclusion of episode}}
+{{legend|#DFF|Baker was named runner-up for the series}}
+{{legend|gold|Baker won series}}
+
+=== Episode 1: Cake ===
+For the signature challenge, the bakers were tasked with making 12 decorative mini rolls in 2 hours. The technical challenge, set by Prue, required the bakers to make a [[malt loaf]] served with homemade butter in 2 hours. In the showstopper challenge, the bakers were given 4 hours to create an anti-gravity illusion cake, representing a precious memory.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(12 Mini Decorative Rolls)</small>
+! scope="col"| Technical<br><small>([[Malt Loaf]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(Anti-Gravity Illusion Cake)</small>
+! scope="col"| Result
+|-
+! scope="row"| Amanda
+| 'Cherry Soldier' Mini Rolls || 12th || [[Elderflower]] & [[Lemon]] Surf Explosion || {{Safe}}
+|-
+! scope="row"| Chigs
+| Strawberries & Cream Mini Rolls || 11th || 'Where it all Began' || {{Safe}}
+|-
+! scope="row"| Crystelle
+| 'Chai and Chai Again' Mini Rolls || 8th || '[[Flower bouquet|Bouq]]-cake' of Flowers || {{Safe}}
+|-
+! scope="row"| Freya
+| Vegan Lemon & Raspberry Mini Rolls || 2nd || 'Flower Potty' || {{Safe}}
+|-
+! scope="row"| George
+| Chocolate & Hazelnut Mini Rolls || 3rd || Greek Table || {{Safe}}
+|-
+! scope="row"| Giuseppe
+| Easter Mini Rolls || 10th || '[[Jack and the Beanstalk|Jack and The Beanstalk]]' || {{Safe}}
+|-
+! scope="row"| Jairzeno
+| Lime & Passion Fruit Mini Rolls || 9th || 'Kick the Can' Cake || {{Safe}}
+|-
+! scope="row"| Jürgen
+| Schwarzwald Mini Rolls || 6th || 'Night Time Reading' || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"| Lizzie
+| Zoo Mini Rolls || 4th || Nana's Peaches & Cream || {{Safe}}
+|-
+! scope="row"| Maggie
+| 'Knit & Natter' Mini Rolls || 1st || Ice-cream Cornet || {{Safe}}
+|-
+! scope="row"| Rochica
+| Colin Rolls || 7th || Apple Cake || {{Safe}}
+|-
+! scope="row"| Tom
+| Black Forest Mini Rolls || 5th || Classically Spectacular Showstopper || {{Eliminated}}
+|-
+|}
+
+=== Episode 2: Biscuits ===
+For the signature challenge, the bakers were tasked with making 24 identical [[brandy snaps]] in 2 hours. The technical challenge, set by Paul, required the bakers to make 12 sandwiched jammy biscuits, consisting of two baked biscuits, jam, and buttercream, in 1 hour and 45 minutes. For the showstopper challenge, the bakers needed to create a three-dimensional biscuit replica of a favorite childhood toy and needed to have an interactive element with it in 4 hours.
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(24 [[Brandy snaps|Brandy Snaps]])</small>
+! scope="col"| Technical<br><small>(12 Sandwiched [[Jammie Dodgers|Jammy Biscuit]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(3-D Childhood Toy)</small>
+! scope="col"| Result
+|-
+! scope="row"|Amanda
+| 'Open Sesame' Brandy Snaps || 4th || Carousel Rocking Horse || {{Safe}}
+|-
+! scope="row"|Chigs
+| '[[Espresso]] Martini' Brandy Snaps || 7th || Snooker Table || {{Safe}}
+|-
+! scope="row"|Crystelle
+| 'Apple of My P-eye' Brandy Snaps || 10th || Vanity Playset || {{Safe}}
+|-
+! scope="row"|Freya
+| 'Brandy Snapuccinos' || 3rd || 'Winnie' || {{Safe}}
+|-
+! scope="row"|George
+| [[Cypriot cuisine|Cypriot]] Brandy Snaps || 8th || 'Paul & Prue Airlines' || {{Safe}}
+|-
+! scope="row"|Giuseppe
+| [[Gianduja (chocolate)|Gianduja]] Snaps || 2nd || Reversi Board Game || {{Safe}}
+|-
+! scope="row"|Jairzeno
+| [[Chocolate]], [[Passiflora edulis|Passion Fruit]] & [[Pineapple]] Brandy Snaps || 9th || Tall Ship || {{Eliminated}}
+|-
+! scope="row"|Jürgen
+| 'A Cup of Chai' Brandy Snaps || 1st || 'Grandpa's Windmill' || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row"|Lizzie
+| Fast-Food [[Apple Pie]] Brandy Snaps || 6th || 'Paint a Truck' || {{Safe}}
+|-
+! scope="row"|Maggie
+| [[Blackcurrant]] Brandy Snaps || 5th || Beach Playset || {{Safe}}
+|-
+! scope="row"|Rochica
+| [[Coffee]] Brandy Snaps || 11th || Gingerbread Pinball Game || {{Safe}}
+|-
+|}
+
+=== Episode 3: Bread ===
+The signature challenge tasked the bakers with making a [[focaccia]] in 2 hours and 45 minutes. The technical challenge, set by Paul, tasked the bakers with making 15 olive and cheese [[ciabatta]] breadsticks, served with a [[tzatziki]] dip, in 2 hours. For the showstopper challenge, the bakers were asked to create a three-dimensional themed display using milk bread in {{frac|4|1|2}} hours.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>([[Focaccia]])</small>
+! scope="col"| Technical<br><small>(15 Olive and Cheese [[Ciabatta]] [[Breadsticks]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(Themed Milk Bread Display)</small>
+! scope="col"| Result
+|-
+! scope="row" |Amanda
+| 'Chasing Grainbows' Focaccia || 3rd || 'I Just FISH We Had More Time' || {{Safe}}
+|-
+! scope="row" |Chigs
+| Spanish Cheesy Meaty Focaccia || 6th || Honey Milk Bread Picnic Basket || {{Safe}}
+|-
+! scope="row" |Crystelle
+| Feta & Grape Focaccia with Fennel & Walnut || 9th || 'Bready' for Sunday Roast || {{Safe}}
+|-
+! scope="row" |Freya
+| Mexican Fajita Focaccia || 4th || 'Under the Sea' Milk Bread Display || {{Safe}}
+|-
+! scope="row" |George
+| Greek Inspired Focaccia || 7th || 'The Very Hungry Koala' || {{Safe}}
+|-
+! scope="row" |Giuseppe
+| {{longlisted|align=left|'Breakfast in [[Gaeta]]' Focaccia}} || 1st || 'Your Five-a-Day' || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Jürgen
+| '[[Kipper]]-caccia' Focaccia || 5th || 'The Baby' || {{Safe}}
+|-
+! scope="row" |Lizzie
+| 'Final Furlong' Focaccia || 2nd || Pig Banquet || {{Safe}}
+|-
+! scope="row" |Maggie
+| Classic Focaccia || 8th || 'Things You'd Find in a Rock Pool' || {{Safe}}
+|-
+! scope="row" |Rochica
+| Roast Garlic Focaccia with Tomato, Feta & Pesto || 10th || Birdcage || {{Eliminated}}
+|-
+|}
+
+=== Episode 4: Desserts ===
+The signature challenge tasked the bakers with making a beautifully decorated [[Pavlova (cake)|pavlova]] in 2 hours and 45 minutes. For the technical challenge, set by Prue, the bakers were asked to make 4 individual [[sticky toffee pudding]]s, served with sticky toffee sauce, 2 [[tuile]] triangles, and a [[Crème anglaise|creme anglaise]]. The bakers had 90 minutes. For the showstopper challenge, the bakers were given the task of making a celebratory [[Sponge cake|joconde imprimé]] dessert, composed of a highly decorated joconde sponge wrapped around at least 2 elements, in {{frac|4|1|2}} hours.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>([[Pavlova (cake)|Pavlova]])</small>
+! scope="col"| Technical<br><small>(4 [[Sticky toffee pudding|Sticky Toffee Pudding]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>([[Sponge cake#Joconde cake|Joconde Imprimé Dessert]])</small>
+! scope="col"| Result
+|-
+! scope="row" |Amanda
+| 'Chocolate Pav-Love' || 8th || 'Adam's Temptation' Imprimé Dessert || {{Safe}}
+|-
+! scope="row" |Chigs
+| {{longlisted|align=left|Tropical Pavlova}} || 3rd || Black Forest Imprimé Dessert || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Crystelle
+| 'Kiwi Lime Pie' Pam-lova || 5th || 'Una Piña Colada, Por Favor' || {{Safe}}
+|-
+! scope="row" |Freya
+| Peach Melba Vegan Pavlova || 6th || Chocolate & Orange Imprimé Dessert || {{Safe}}
+|-
+! scope="row" |George
+| Lemon Curd & Biscuit Cream Pavlova || 7th || Peanut Butter & Chocolate Imprimé Dessert || {{Safe}}
+|-
+! scope="row" |Giuseppe
+| 'Every Day at the Beach' Pavlova || 4th || Red Fruit & Pistachio Imprimé Dessert || {{Safe}}
+|-
+! scope="row" |Jürgen
+| 'Passover Pavlova' || 1st || 'Passtyme with Good Companye' || {{Safe}}
+|-
+! scope="row" |Lizzie
+| Easter Pavlova || 2nd || Liverpool Skyline Imprimé Dessert || {{Safe}}
+|-
+! scope="row" |Maggie
+| Traditional Pavlova || 9th || Paris Skyline Imprimé Dessert || {{Eliminated}}
+|}
+
+=== Episode 5: German ===
+The signature challenge tasked the bakers with making 2 types of 12 German biscuits, which needed to be dipped, coated, or decorated, in 2 hours and 15 minutes. For the technical challenge, Prue asked the bakers to make a [[Prinzregententorte]], consisting of eight thin layers of [[Genoise|genoises sponge]] sandwiched with chocolate cream, coated with a shiny chocolate [[ganache]], decorated with rosettes and tempered chocolate crowns, in 2 hours and 45 minutes. The showstopper gave the bakers {{frac|4|1|2}} hours to produce a yeast-leavened cake. The cakes must be at least two-tiered and inspired by the yeasted cakes popular in Germany.{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(24 German Biscuits)</small>
+! scope="col"| Technical<br><small>([[Prinzregententorte]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(Yeast Leavened Cake)</small>
+! scope="col"| Result
+|-
+! scope="row" |Amanda
+| [[Spritzgebäck]] & Glühweinplätzchen || 8th || Rum. Plum & Raisin Cake || {{Safe}}
+|-
+! scope="row" |Chigs
+| Marzipan Hausfreunde & Almond [[Macaroon#Germany|Mandelhörnchen]] || 2nd || Lemon & Mixed Peel Cake || {{Safe}}
+|-
+! scope="row" |Crystelle
+| Chocolate Engelsaugen & Pistachio Heidesand || 7th || Bavarian Brioche || {{Safe}}
+|-
+! scope="row" |Freya
+| [[Lebkuchen]] & [[Zimtstern]]e || 5th || Upside-down Cake || {{Eliminated}}
+|-
+! scope="row" |George
+| Cherry Marzipan Biscuits & Aniseed Springerle || 6th || Chocolate & Tahini Anniversary Cake || {{Safe}}
+|-
+! scope="row" |Giuseppe
+| [[Bethmännchen]] & Italian Linzer Augen || 1st || Amarena Cherry Cake || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Jürgen
+| {{longlisted|align=left|Tee-Sterne & Milchkaffee-Gipfele}} || 4th || Beer Soaked Cake || {{Safe}}
+|-
+! scope="row" |Lizzie
+| Mandelhörnchen & Cheeky Boys || 3rd || Bavarian Fairy Tale || {{Safe}}
+|}
+
+=== Episode 6: Pastry ===
+For the signature, the bakers were tasked with making 2 batches of glazed or iced [[Cruller#French_cruller|chouxnuts]]: 6 filled and 6 not filled, to be done in 2 hours. For the technical challenge, Paul required the bakers to make a large [[baklava]]. They were asked to layer filo pastry with a pistachio and walnut filling, and cut into a star design, in 2 hours and 45 minutes. For the showstopper, the bakers were given the intricate task of making a [[Terrine (food)|terrine]] pie, in {{frac|4|1|2}} hours. The pies needed to have an ornated pastry decoration on the outside and a neat pattern or design when cut open.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small> (12 Chouxnuts) </small>
+! scope="col"| Technical<br><small>(Large [[Baklava]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>([[Terrine (food)|Terrine Pie]])</small>
+! scope="col"| Result
+|-
+! scope="row" |Amanda
+| Sweet & Savoury Chouxnuts || 5th || 'Fancy Terrine Pie' || {{Eliminated}}
+|-
+! scope="row" |Chigs
+| 'Oo La La Chouxnuts' || 3rd || 'Leicester [[Pork Pie]]' || {{Safe}}
+|-
+! scope="row" |Crystelle
+| Mango Maracujá & Miso Caramel Chouxnuts || 2nd || {{longlisted|align=left|'Lily Nana's Pickle Cottage'}} || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |George
+| Classic Chouxnuts || 6th || '[[Christmas]] Dinner' || {{Safe}}
+|-
+! scope="row" |Giuseppe
+| Bellissima Chouxnuts || 4th || 'Laura's Terrine Pie' || {{Safe}}
+|-
+! scope="row" |Jürgen
+| 'Exotic Flavour & 70's Colour' || 1st || 'Lunch in [[Freiburg]]' || {{Safe}}
+|-
+! scope="row" |Lizzie
+| Caramel & Floral Chouxnuts || 7th || '[[Neptune (mythology)|Neptune]] Pie' || {{Safe}}
+|}
+
+=== Episode 7: Caramel ===
+For the first signature challenge, the bakers were required to produce a sharing-sized decorative [[caramel]] tart in {{frac|2|1|2}} hours. The technical challenge was set by Paul where the bakers were tasked to make 10 caramel biscuit bars in {{frac|1|1|2}} hour. For the showstopper challenge, the bakers were required to make a caramel-flavored dessert with a sugar-work dome or sphere in {{frac|4|1|2}} hours.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(Caramel Tart)</small>
+! scope="col"| Technical<br><small>(10 Caramel Biscuit Bars)</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(Domed or Sphered Caramel Dessert)</small>
+! scope="col"| Result
+|-
+! scope="row" |Chigs
+| Chocolate, Coconut & Ginger Caramel Tart || 3rd || 'Caramel Mistake' || {{Safe}}
+|-
+! scope="row" |Crystelle
+| Apple, Pecan & Miso Caramel Tart || 4th || 'Grandad Greg's Cactus Garden' || {{Safe}}
+|-
+! scope="row" |George
+| Caramel Custard & Banana Tart || 6th || Salted Caramel Almond & Hazelnut [[Dacquoise]] || {{Eliminated}}
+|-
+! scope="row" |Giuseppe
+| Apricot & Hazelnut Caramel Tart || 1st || Salted Caramel & [[Praline (nut confection)|Praline]] Dessert || {{Safe}}
+|-
+! scope="row" |Jürgen
+| Triple Nut Caramel Delight || 2nd || 'Caramel Contrasts' || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Lizzie
+| 'My Tart Will Go On' || 5th || 'Roses Really Smell Like Caramel' || {{Safe}}
+|}
+
+=== Episode 8: Free-from (Quarterfinals) ===
+For the signature bake, the bakers were given the challenge of baking 8 dairy-free ice cream sandwiches in 3 hours The technical challenge was to make 8 identical vegan sausage rolls accompanied by a sticky red onion chutney in 2 hours. In the showstopper, the bakers needed to make a gluten-free celebration cake with at least two tiers. They were given 4 hours for the bake.{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(8 Dairy-free [[Ice cream sandwich|Iced Cream Sandwiches]])</small>
+! scope="col"| Technical<br><small>(8 Vegan [[Sausage roll|Sausage Rolls]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(Gluten-free Celebration Cake)</small>
+! scope="col"| Result
+|-
+! scope="row" |Chigs
+| Mum's Tropical Delight || 1st || Gluten-Free Red Velvet Cake || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Crystelle
+| Tahini and Miso Coffee Ice Cream Sandwiches || 5th || 'My Nana's Cascading Dress' Gluten-Free Cake || {{Safe}}
+|-
+! scope="row" |Giuseppe
+| Ginger and Orange Ice Cream Sandwich || 2nd || Gluten-Free Black Forest Cake || {{Safe}}
+|-
+! scope="row" |Jürgen
+| 'Meet My Favourites' || 4th || Ultimate Gluten-Free Birthday Cake || {{Safe}}
+|-
+! scope="row" |Lizzie
+| Best Thing About Walks || 3rd || Gluten-Free ‘Extraordinary' Cake || {{Eliminated}}
+|}
+
+=== Episode 9: Pâtisserie (Semifinals) ===
+In the semifinal signature challenge, the bakers were tasked to make eight [[pâtisserie]]-style layered slices in 3 hours. For the technical bake, set by Prue, the bakers are tasked in making a Sablé Breton Tart, consisting of a [[Sablé (biscuit)|sablé]] breton pastry base, topped with raspberry [[confiture]], piped with pistachio [[Custard#In_French_cuisine|crème mousseline]], filled with fresh berries and topped with glided [[meringue]] [[Kisses (confectionery)|kisses]] and chocolate curls, all in two hours and forty-five minutes. A themed banquet display consisting of a crafted edible centrepiece surrounded by least twelve individual [[Entremet|entremets]] desserts was set as the showstopper. The bakers were given five hours.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>(8 Pâtisserie-style Layered Slices)</small>
+! scope="col"| Technical<br><small>([[Sablé (biscuit)|Sablé]] Breton Tart)</small>
+! scope="col" class="unsortable"| Showstopper<br><small>(Themed Banquet Display)</small>
+! scope="col"| Result
+|-
+! scope="row" |Chigs
+| {{longlisted|align=left|Raspberry & Chocolate Slices}} || 4th || 'The Apple Doesn't Fall Far from the Tree' || {{Safe}}
+|-
+! scope="row" |Crystelle
+|{{longlisted|align=left| [[Yuzu]], Coconut & Black Sesame Slices}} || 3rd || 'Tropical Wedding' Entremets || {{sort|1|}}{{Good|Star Baker}}
+|-
+! scope="row" |Giuseppe
+| {{longlisted|align=left|[[Tiramisu]] Slices}} || 2nd || '[[Leaning Tower of Pisa]]' || {{Safe}}
+|-
+! scope="row" |Jürgen 
+| Murder at the Opera || 1st || '[[Torii]] Gate in the Sea' || {{Eliminated}}{{efn|Jürgen's elimination received public backlash following the episode's airing with [[Ofcom]] receiving 115 complaints.<ref>{{cite web|url= https://www.theguardian.com/tv-and-radio/2021/dec/05/bake-off-contestant-jurgen-krauss-interview-faces-of-year|title=Bake-Off contestant Jürgen Krauss: ‘I had to call three families with crying kids to comfort them’|date=23 November 2021|work=Guardian|accessdate=11 April 2025}}</ref> }}
+|}
+{{notelist}}
+
+=== Episode 10: Final ===
+The finalists were set the task of making a carrot cake in two hours and fifteen minutes for the signature challenge. For the final technical challenge, set by Paul, the bakers were given two hours and thirty minutes to create twelve [[Belgian bun|Belgian buns]] filled with sultanas and lemon curd, with only two instructions given. For the ultimate showstopper challenge, the bakers were tasked to make a [[Mad Hatter]] tea party display with sweet and savory afternoon tea treats, showcasing at least four different baking disciplines in {{frac|4|1|2}} hours. The judges expect to see the madness feel of [[Alice's Adventures in Wonderland|Alice in Wonderland]] in the bakes.
+
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br><small>([[Carrot Cake]])</small>
+! scope="col"| Technical<br><small>(12 [[Belgian bun|Belgian Buns]])</small>
+! scope="col" class="unsortable"| Showstopper<br><small>([[Mad Hatter]] Tea Party Display)</small>
+! scope="col"| Result
+|-
+! scope="row" |Chigs
+| 'Take Two' || 2nd || Party Treats || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" |Crystelle
+| Pistachio, Cardamom & Orange Carrot Cake || 1st || Crazy Tea Party || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" |Giuseppe
+| 'Torta Camilla' || 3rd || 'What Is the Hatter with Me' || {{sort|1|}}{{Won|Winner|color=gold}}{{efn|Giuseppe was the only finalist to kiss "Mr. Spatula," a prop of [[Noel Fielding]]'s that can purportedly grant the finalist(s) the winning title if they "just...kiss [Mr. Spatula's] head."<ref>{{cite web |first=Maria |last=Scinto |title=Why Great British Bake Off Fans Are Freaking Out Over A Spatula |url=https://www.mashed.com/670086/why-great-british-bake-off-fans-are-freaking-out-over-a-spatula/ |website=Mashed |date=November 24, 2021 |access-date=January 12, 2025}}</ref>}}
+|}
+{{notelist}}
+
+==Specials==
+Two specials were commissioned for the festive season:
+
+=== ''The Great Christmas Bake Off'' ===
+The Great Christmas Bake Off featured [[It's a Sin (TV series)|It's a Sin]]'s [[Olly Alexander]], [[Nathaniel Curtis]], [[Lydia West]] and [[Shaun Dooley]].
+
+The signature challenge required the bakers to make a Christmas Dinner's leftovers pie, in two hours, it can be made with any type of pastry, but the fillings must be made with leftovers from the baker's favorite Christmas Dinner. Prue's technical challenge tasked the bakers with making a chocolate [[Yule log (cake)|Yule Log]], in one hour and fifteen minutes. The bakers were given 3 hours to make a Christmas Tree out of biscuit or meringue for the showstopper challenge.
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! scope="col"|Baker
+! scope="col" class="unsortable"|Signature<br><small>(Christmas Dinner's leftovers pie)</small>
+! scope="col"|Technical<br><small>(Chocolate [[Yule log (cake)|Yule Log]])</small>
+! scope="col" class="unsortable"|Showstopper<br><small>(Biscuit/Meringue Christmas Tree)</small>
+! scope="col"| Result
+|-
+! scope="row" | Lydia
+| [[Tom Yum]] Turkey Christmas Pie || 4th || Lemon [[Sablé (biscuit)|Sablé]] Biscuit Christmas Tree || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Nathaniel
+| {{longlisted|align=left|Turkey & Pancetta Christmas Leftovers Pie}} || 1st || Orange & Cinnamon Christmas Tree || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row" | Olly
+| {{longlisted|align=left|Curried Vegetable Pie}} || 3rd || Meringue Christmas Tree || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row" | Shaun
+| Turkey & Ham Leftover Pie || 2nd || Pistachio Meringue Christmas Tree || {{sort|2.5|}}{{Runner-up}}
+|-
+|}
+
+=== ''The Great New Year Bake Off'' ===
+
+The Great New Year Bake Off features Jon Jenkins and [[Kim-Joy Hewlett]] from [[The Great British Bake Off (series 9)|Series 9]], along with Rowan Williams and Hermine Dossou from [[The Great British Bake Off (series 11)|Series 11]].
+
+For the signature challenge, the bakers were asked to create twelve [[buns]], suitable for a New Year's day Breakfast, the buns can be any flavor or shape, but must be yeasted and feature a topping of the baker's choice, three hours are given. Paul's technical challenge required the bakers to make a New Years Eve cake inspired by the traditional Greek Vasilopita, consisting of a perfectly baked lemon [[mahleb]] and [[mastika]] sponge and decorated with water icing, lemon curd and crystallized citrus peel in one hour and thirty minutes. A shadow box winter scene with a frame, to all be created with at least three different biscuits in four hours is the showstopper.
+{{sticky header}}{{table alignment}}
+{| class="wikitable sortable col3center sticky-header"
+|-
+! Baker
+! class="unsortable"|Signature<br><small>(12 [[buns]] for a New Years Breakfast)</small>
+! Technical<br><small>([[Vasilopita]])</small>
+! class="unsortable"|Showstopper<br><small>(Shadow Box Winter Scene)</small>
+! scope="col"| Result
+|-
+! scope="row"|Hermine
+| {{longlisted|align=left|Apricot Custard Crumble Buns}} || 3rd || 'Festive Outdoors' Shadow Box || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"|Jon
+| 'Bacon & Eggs' Pecan & Maple Buns || 4th || 'Our Dream Wedding Scene' Shadow Box || {{sort|2.5|}}{{Runner-up}}
+|-
+! scope="row"|[[Kim-Joy]]
+| Sticky Pecan Breakfast Buns || 1st || Cosy Winter Scene Shadow Box || {{sort|1|}}{{Won|Winner|color=gold}}
+|-
+! scope="row"|Rowan
+| 'Fried Egg' Breakfast Buns || 2nd || Winter Dream Shadow box || {{sort|2.5|}}{{Runner-up}}
+|-
+|}
+
+== Ratings ==
+''Bake Off'' launched with 5.7 million viewers and a 30.8% share—its lowest overnight rating since its move to Channel 4 in 2017—down 1.3 million in 2020.<ref>{{cite web |url=https://www.digitalspy.com/tv/reality-tv/a37687829/great-british-bake-off-2021-launch-show-ratings/ |title=Great British Bake Off suffers lowest launch show ratings since Channel 4 move |first=Sam|last= Warner|date= 22 September 2021|work=Digital Spy}}</ref>  However, it was the show's biggest ever launch episode on Channel 4 in terms of younger viewers, securing 61.9% of all young viewers watching TV at the time of broadcast.<ref>{{cite web |url=https://twitter.com/C4Press/status/1440609899201773572 |title=Delicious #GBBO return last night is highest rating @Channel4 commission so far this year |date= 22 September 2021|work=Channel 4 Press}}</ref>{{primary source inline|date=August 2024}}
+
+{{table alignment}}
+{| class="wikitable sortable defaultcenter col2left"
+|-
+! scope="col"|Episode<br>no.
+! scope="col"|Airdate
+! scope="col"|7-day viewers<br><small>(millions)</small>
+! scope="col"|28-day viewers<br><small>(millions)</small>
+! scope="col"|Channel 4<br>weekly ranking
+! scope="col"|Weekly ranking<br>all channels<ref name="BARB2">{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard|publisher=[[Broadcasters' Audience Research Board]]|accessdate=17 September 2019}}</ref>
+|-
+! scope="row"| 1
+| {{Start date|df=y|2021|09|21}} || 9.57 || 10.18 || rowspan=10|1 || 3
+|-
+! scope="row"| 2
+| {{Start date|df=y|2021|09|28}} || 8.98 ||9.64 || rowspan=3| 2
+|-
+! scope="row"| 3
+| {{Start date|df=y|2021|10|05}} || 8.69|| 9.39 
+|-
+! scope="row"| 4
+| {{Start date|df=y|2021|10|12}} || 8.75 || 9.13 
+|-
+! scope="row"| 5
+| {{Start date|df=y|2021|10|19}} || 8.71 || 9.27 || 3
+|-
+! scope="row"| 6
+| {{Start date|df=y|2021|10|26}} || 9.15 || 9.57 || rowspan=2| 2
+|-
+! scope="row"| 7
+| {{Start date|df=y|2021|11|02}} || rowspan=2| 9.05 || 9.50 
+|-
+! scope="row"| 8
+| {{Start date|df=y|2021|11|09}} || 9.49 || rowspan=3| 3
+|-
+! scope="row"| 9
+| {{Start date|df=y|2021|11|16}} || 9.39 || 9.61 
+|-
+! scope="row"| 10
+| {{Start date|df=y|2021|11|23}} || 9.61 || 9.73 
+|}
+
+== References ==
+{{reflist}}
+
+{{The Great British Bake Off}}
+
+{{DEFAULTSORT:Great British Bake Off (series 12), The}}
+[[Category:The Great British Bake Off|Series 12]]
+[[Category:2021 British television seasons]]

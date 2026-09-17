@@ -1,0 +1,4 @@
+# Runtime is Python 3.11+ stdlib only.
+# Optional extras for local experiments:
+# pandas>=2.2
+# beautifulsoup4>=4.12

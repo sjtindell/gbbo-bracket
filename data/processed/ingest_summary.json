@@ -1,0 +1,93 @@
+{
+  "n_series": 17,
+  "n_bakers": 206,
+  "n_episodes": 169,
+  "n_baker_episode": 1174,
+  "n_technical_ranks": 984,
+  "warnings": [
+    "series 17: only 1 episode sections parsed",
+    "series 17: only 0 technical ranks"
+  ],
+  "history": {
+    "n_bakers": 206,
+    "n_winners": 16,
+    "winner_ages": [
+      24,
+      41,
+      22,
+      31,
+      60,
+      30,
+      31,
+      33,
+      30,
+      36,
+      20,
+      45,
+      32,
+      28,
+      34,
+      23
+    ],
+    "winner_age_mean": 32.5,
+    "winner_age_median": 31.0,
+    "winner_age_min": 20,
+    "winner_age_max": 60,
+    "winner_occupation_groups": {
+      "other": 8,
+      "student": 2,
+      "creative": 1,
+      "retired": 1,
+      "stem_medical": 4
+    },
+    "winner_star_baker_counts": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      3,
+      3,
+      2,
+      2,
+      0,
+      2,
+      2,
+      3,
+      2,
+      2,
+      5
+    ],
+    "winner_star_baker_mean": 1.88,
+    "winners_with_zero_sb": 2,
+    "winner_median_technical_percentile_mean": 0.575,
+    "field_median_technical_percentile_mean": 0.451,
+    "week1_last_technical_winners": [
+      "Nadiya"
+    ],
+    "week1_HIGH_to_final": [
+      34,
+      15,
+      0.4411764705882353
+    ],
+    "week1_LOW_to_final": [
+      31,
+      4,
+      0.12903225806451613
+    ],
+    "week1_SB_to_final": [
+      15,
+      6,
+      0.4
+    ],
+    "week1_SAFE_to_final": [
+      109,
+      22,
+      0.2018348623853211
+    ],
+    "bread_week_sb_to_final": {
+      "n": 12,
+      "final": 5
+    }
+  }
+}
