@@ -32,6 +32,7 @@ After an episode:
 1. Fill `data/weekly/s17eNN.md` from `data/weekly/_template.md` (your notes + URLs, not pasted recaps).
 2. Re-run `ingest-history --through 17 --force` once Wikipedia has the new table.
 3. Run `weekly-report --week N` and edit the markdown so it sounds like you.
+4. **Commit and push** (`git add -A && git commit && git push`). Weekly reports are part of the project, not local scratch.
 
 Cursor skill: `.cursor/skills/gbbo-weekly/SKILL.md` (invoke with `/gbbo-weekly`).
 

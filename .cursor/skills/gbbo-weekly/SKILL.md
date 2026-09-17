@@ -81,6 +81,20 @@ Then **edit** `reports/weekly/s17eNN-YYYY-MM-DD.md` so it reads like a person. R
 
 This report is a **new file every week**. Keep the preseason report on disk.
 
+### F. Commit and push before you stop
+
+Do this **every weekly run**, and after any parser/model/report change. Do not leave outputs only on disk.
+
+```bash
+git add reports/weekly data/processed data/weekly outputs
+git add -A   # if code or docs changed too
+git status
+git commit -m "Add S17 week N report and updated rankings."
+git push origin HEAD
+```
+
+If there is nothing to commit, still check `git status -sb` so we know origin is current. Bugbot and GitHub reviews only see what is pushed.
+
 ## Facts that are easy to get wrong
 
 - Official bios are first names. Do not treat Bracketology/OLBG surnames as official.
