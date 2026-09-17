@@ -342,7 +342,7 @@ series,episode,baker_id,baker_short,result,technical_rank,n_in_technical,signatu
 6,2,6-marie,Marie,OUT,11,11,Biscotti Italiano,Russian Box,,,1
 6,2,6-mat,Mat,HIGH,5,11,"Pistachio, Cranberry and White Chocolate Biscotti",Gingerbread Fire Engine,,,1
 6,2,6-nadiya,Nadiya,SAFE,9,11,"Coconut, Fennel and Pistachio Biscotti",Box of Fortunes,,,1
-6,2,6-paul,Paul,SAFE,10,11,"Chocolate, Hazelnut and Fig Biscotti",Memory Box,,,1
+6,2,6-paul,Paul,LOW,10,11,"Chocolate, Hazelnut and Fig Biscotti",Memory Box,,,1
 6,2,6-sandy,Sandy,HIGH,4,11,Chocolate Chunk and Hazelnut Biscotti,Sundried Tomato Cheese Biscuit Box,,,1
 6,2,6-tamal,Tamal,SAFE,8,11,"Cinnamon, Maple and Cranberry Biscotti",Chessboard Box,,,1
 6,2,6-ugn,Ugnė,SAFE,7,11,White Wine Biscotti,Baby Climbing into the Cookie Box,,,1
@@ -352,7 +352,7 @@ series,episode,baker_id,baker_short,result,technical_rank,n_in_technical,signatu
 6,3,6-ian,Ian,SB,1,10,Wild Garlic Pesto Soda Breads,Flour Power,,,1
 6,3,6-mat,Mat,LOW,8,10,"Jalapeño, Mexican Cheddar and Smoked Salt Soda Breads",Curry Inspired Brighton Pavilion,,,1
 6,3,6-nadiya,Nadiya,SAFE,9,10,Mexican Bread with Warm Tomato Salsa,Snake Charmer's Basket,,,1
-6,3,6-paul,Paul,SAFE,10,10,Cranberry and Orange Sweet Soda Breads,King of the Jungle,,,1
+6,3,6-paul,Paul,HIGH,10,10,Cranberry and Orange Sweet Soda Breads,King of the Jungle,,,1
 6,3,6-sandy,Sandy,SAFE,7,10,Soda Breads with Smoked Bacon and Onion,Basket of Bread Flowers with a Walnut and Blue Cheese Centre,,,1
 6,3,6-tamal,Tamal,SAFE,3,10,"Fig, Cheese and Walnut Breads",Breadcycle,,,1
 6,3,6-ugn,Ugnė,SAFE,5,10,Chocolate Quick Breads with Salted Caramel Sauce,Easter Basket,,,1
@@ -361,7 +361,7 @@ series,episode,baker_id,baker_short,result,technical_rank,n_in_technical,signatu
 6,4,6-ian,Ian,SB,4,9,Pomegranate Two Ways Crème Brûlées,Trio of Spicy and hide=y Baked Cheesecakes,,,1
 6,4,6-mat,Mat,SAFE,7,9,Coconut Crème Brûlées,Chocolate Bar Cheesecakes,,,1
 6,4,6-nadiya,Nadiya,HIGH,8,9,Cinnamon Tea Crème Brûlées,Fizzy Pop Cheesecakes,,,1
-6,4,6-paul,Paul,SAFE,1,9,Almond Crème Brûlées,Berry Cheesecake Tower,,,1
+6,4,6-paul,Paul,LOW,1,9,Almond Crème Brûlées,Berry Cheesecake Tower,,,1
 6,4,6-sandy,Sandy,OUT,6,9,Pontefract Crème Brûlées,"Cassata, Whisky and Orange & Apple Pie Cheesecakes",,,1
 6,4,6-tamal,Tamal,HIGH,5,9,Rhubarb and Ginger Crème Brûlées,"Mango, Hazelnut and Rosemary Cheesecake Trio",,,1
 6,4,6-ugn,Ugnė,SAFE,2,9,Marula Fruit and Coffee Liqueur Crème Brûlées,"Lime, Coconut and Hazelnut Cheesecakes",,,1
@@ -398,10 +398,6 @@ series,episode,baker_id,baker_short,result,technical_rank,n_in_technical,signatu
 6,10,6-ian,Ian,RUNNER_UP,2,3,Elderflower and Lemon & Spiced Buns,Colossal Curvy Carrot Cake,,,1
 6,10,6-nadiya,Nadiya,WINNER,1,3,Cardamom and Almond Buns & Nutmeg and Sour Cherry Fingers,My Big Fat British Wedding Cake,,,1
 6,10,6-tamal,Tamal,RUNNER_UP,3,3,Cinnamon and Apple & Toffee and Marmalade Iced Buns,Sticky Toffee Pudding Cake,,,1
-6,1,6-paul,Paul,SAFE,,0,,,,,1
-6,2,6-paul,Paul,LOW,,0,,,,,1
-6,3,6-paul,Paul,HIGH,,0,,,,,1
-6,4,6-paul,Paul,LOW,,0,,,,,1
 7,1,7-andrew,Andrew,SAFE,12,12,Lemon and Rosemary Drizzle Cake,'Ultimate Indulgence' Mirror Glaze Cake,,,1
 7,1,7-benjamina,Benjamina,HIGH,6,12,"Pistachio, Cardamom and Lemon Drizzle Cake",White Chocolate Mirror Glaze with Salted Praline Buttercream,,,1
 7,1,7-candice,Candice,LOW,5,12,Raspberry and Rhubarb Drizzle Custard Bundt Cake,"Mirror Mirror On The Wall, Who Is The Shiniest Cake Of Them All?",,,1
@@ -486,7 +482,7 @@ series,episode,baker_id,baker_short,result,technical_rank,n_in_technical,signatu
 8,1,8-peter,Peter,OUT,10,12,Coconut Cake,'Bread on a Breadboard' Cake,,,1
 8,1,8-sophie,Sophie,HIGH,5,12,Pineapple and Coconut Sandwich Cake,'Champagne Bottle and Bucket' Cake,,,1
 8,1,8-stacey,Stacey,LOW,11,12,Granny Smith Apple and Walnut Cake,'Black Evening Clutch Bag' Cake,,,1
-8,1,8-steven,Steven,SB,6,12,Bonfire Night]] Cake,'A Baker's Lunch' Cake,,,1
+8,1,8-steven,Steven,SB,6,12,Bonfire Night Cake,'A Baker's Lunch' Cake,,,1
 8,1,8-tom,Tom,SAFE,7,12,Gilded Pear and Cardamom Cake,'Stack of Books' Cake,,,1
 8,1,8-yan,Yan,SAFE,4,12,Windfall Apple Crumble Cake,'Banana-ramen' Cake,,,1
 8,2,8-chris,Chris,OUT,11,11,Chocolate Chia Seed Biscuits with Whisky Caramel Filling,'The Great British Sail Off' Game,,,1
@@ -566,7 +562,7 @@ series,episode,baker_id,baker_short,result,technical_rank,n_in_technical,signatu
 9,1,9-terry,Terry,LOW,9,12,Lake District Ginger Shortbread,"""Brandy Snap Selfie""",,,1
 9,2,9-antony,Antony,SAFE,9,11,Cardamom and Coconut Burfi Traybake,"Pistachio, Saffron and Rose Cake",,,1
 9,2,9-briony,Briony,LOW,5,11,Turron and Orange Traybake,Chocolate Fudge and Salted Caramel Creation,,,1
-9,2,9-dan,Dan,HIGH,3,11,Black Forest]] Slice,Dark Chocolate and Raspberry Birthday Cake,,,1
+9,2,9-dan,Dan,HIGH,3,11,Black Forest Slice,Dark Chocolate and Raspberry Birthday Cake,,,1
 9,2,9-jon,Jon,HIGH,1,11,Lemon Meringue Traybake,Hawaiian Shirt Pina Colada Cake,,,1
 9,2,9-karen,Karen,SAFE,11,11,Almond and Marzipan Traybake with Rhubarb Jam,Strawberry Fayre Chocolate Cake,,,1
 9,2,9-kim-joy,Kim-Joy,SAFE,4,11,Pandan Chiffon Cake with Palm Sugar Cream,Yuzu and Raspberry Genoise Cat Cake,,,1
@@ -789,7 +785,7 @@ series,episode,baker_id,baker_short,result,technical_rank,n_in_technical,signatu
 12,1,12-freya,Freya,SAFE,2,12,Vegan Lemon & Raspberry Mini Rolls,'Flower Potty',,,1
 12,1,12-george,George,LOW,3,12,Chocolate & Hazelnut Mini Rolls,Greek Table,,,1
 12,1,12-giuseppe,Giuseppe,HIGH,10,12,Easter Mini Rolls,'Jack and The Beanstalk',,,1
-12,1,12-jairzeno,Jairzeno,LOW,9,12,Lime & Passion Fruit Mini Rolls,'Kick the Can' Cake,,,1
+12,1,12-jairzinho,Jairzinho,LOW,9,12,Lime & Passion Fruit Mini Rolls,'Kick the Can' Cake,,,1
 12,1,12-j-rgen,Jürgen,SB,6,12,Schwarzwald Mini Rolls,'Night Time Reading',,,1
 12,1,12-lizzie,Lizzie,SAFE,4,12,Zoo Mini Rolls,Nana's Peaches & Cream,,,1
 12,1,12-maggie,Maggie,HIGH,1,12,'Knit & Natter' Mini Rolls,Ice-cream Cornet,,,1
@@ -801,7 +797,7 @@ series,episode,baker_id,baker_short,result,technical_rank,n_in_technical,signatu
 12,2,12-freya,Freya,SAFE,3,11,'Brandy Snapuccinos','Winnie',,,1
 12,2,12-george,George,HIGH,8,11,Cypriot Brandy Snaps,'Paul & Prue Airlines',,,1
 12,2,12-giuseppe,Giuseppe,HIGH,2,11,Gianduja Snaps,Reversi Board Game,,,1
-12,2,12-jairzeno,Jairzeno,OUT,9,11,"Chocolate, Passion Fruit & Pineapple Brandy Snaps",Tall Ship,,,1
+12,2,12-jairzinho,Jairzinho,OUT,9,11,"Chocolate, Passion Fruit & Pineapple Brandy Snaps",Tall Ship,,,1
 12,2,12-j-rgen,Jürgen,SB,1,11,'A Cup of Chai' Brandy Snaps,'Grandpa's Windmill',,,1
 12,2,12-lizzie,Lizzie,SAFE,6,11,Fast-Food Apple Pie Brandy Snaps,'Paint a Truck',,,1
 12,2,12-maggie,Maggie,LOW,5,11,Blackcurrant Brandy Snaps,Beach Playset,,,1
@@ -1095,7 +1091,7 @@ series,episode,baker_id,baker_short,result,technical_rank,n_in_technical,signatu
 16,1,16-lesley,Lesley,SAFE,5,12,'Lemons & Daisies' Swiss Roll,'Dad's Bob Ross' Landscape Cake,,,1
 16,1,16-nadia,Nadia,SAFE,7,12,'Cherry Amour' Swiss Roll,'My Island Dream' Landscape Cake,,,1
 16,1,16-nataliia,Nataliia,SB,3,12,'Ukrainian Passion Petal' Swiss Roll,'Ukraine' Landscape Cake,,,1
-16,1,16-pui,Pui,SAFE,11,12,Lemon & Matcha Swiss Roll,'Hong Kong Lion Rock' Landscape Cake,,,1
+16,1,16-pui-man,Pui Man,SAFE,11,12,Lemon & Matcha Swiss Roll,'Hong Kong Lion Rock' Landscape Cake,,,1
 16,1,16-toby,Toby,LOW,1,12,Rhubarb & Custard Swiss Roll,'PB and J-acob's Ladder' Landscape Cake,,,1
 16,1,16-tom,Tom,HIGH,12,12,'Tartan' Swiss Roll,'Icelandic' Landscape Cake,,,1
 16,2,16-aaron,Aaron,LOW,8,11,'Mini Winnies' Slice & Bake Biscuits,'Sugar in Spring' Biscuit Time Capsule,,,1
@@ -1106,7 +1102,7 @@ series,episode,baker_id,baker_short,result,technical_rank,n_in_technical,signatu
 16,2,16-lesley,Lesley,SAFE,9,11,'Cupcake' Slice & Bake Biscuits,'Happy Memories' Biscuit Time Capsule,,,1
 16,2,16-nadia,Nadia,SAFE,2,11,'Amma's Avos' Slice & Bake Biscuits,'Picnic Basket' Biscuit Time Capsule,,,1
 16,2,16-nataliia,Nataliia,SAFE,3,11,'Yorkshire Welcome' Slice & Bake Biscuits,'A Slice of Life' Biscuit Time Capsule,,,1
-16,2,16-pui,Pui,LOW,11,11,'Year of the Ox' Slice & Bake Biscuits,'Jumbo Boat' Biscuit Time Capsule,,,1
+16,2,16-pui-man,Pui Man,LOW,11,11,'Year of the Ox' Slice & Bake Biscuits,'Jumbo Boat' Biscuit Time Capsule,,,1
 16,2,16-toby,Toby,LOW,1,11,'Bex's Breakfast' Slice & Bake Biscuits,'Treasure Chest' Biscuit Time Capsule,,,1
 16,2,16-tom,Tom,SB,6,11,'Hagia Sophia' Slice & Bake Biscuits,'Granny's Cottage' Biscuit Time Capsule,,,1
 16,3,16-aaron,Aaron,SAFE,3,10,'Not For Everyone' Monkey Bread,'Flowers in Paradise' Sweet Bread,,,1
@@ -1116,7 +1112,7 @@ series,episode,baker_id,baker_short,result,technical_rank,n_in_technical,signatu
 16,3,16-lesley,Lesley,SAFE,9,10,'Family Favourite' Monkey Bread,'Korovai' Sweet Bread,,,1
 16,3,16-nadia,Nadia,HIGH,2,10,Italian Monkey Bread,'Gâteaux de Mariage de Rêve' Sweet Bread,,,1
 16,3,16-nataliia,Nataliia,LOW,8,10,'Family Table' Monkey Bread,'Three Generations Korovai' Sweet Bread,,,1
-16,3,16-pui,Pui,OUT,10,10,'Festival Basin' Monkey Bread,'Coconut Cocktail Wedding' Sweet Bread,,,1
+16,3,16-pui-man,Pui Man,OUT,10,10,'Festival Basin' Monkey Bread,'Coconut Cocktail Wedding' Sweet Bread,,,1
 16,3,16-toby,Toby,SAFE,4,10,'Tre Scimmie (Three Monkeys)' Monkey Bread,'The Bread That Stolle Christmas' Sweet Bread,,,1
 16,3,16-tom,Tom,HIGH,5,10,'French Dègustation' Monkey Bread,'Cinnamon Tower' Sweet Bread,,,1
 16,4,16-aaron,Aaron,SAFE,2,9,'Lat Snacks' Flapjacks,'Four Hour Relay: Bake Edition' Summer Fête Stall,,,1

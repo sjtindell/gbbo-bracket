@@ -70,3 +70,18 @@ Paul is the constant. Fit technical features across eras. Do not pretend Prue-er
 ## Calibration honesty
 
 Sixteen trophies. One new co-judge. Pre-recorded show, so late “markets” (when they exist) have leaked. Friend-pool edge is: don’t crown the first Star Baker, don’t zero someone after Cake Week, don’t treat handshake as destiny, do update after every boot.
+
+## Agent commands
+
+Humans do not drive a CLI. The weekly skill runs:
+
+```bash
+python3 -m gbbo ingest         # cache → CSVs
+python3 -m gbbo ingest force   # refetch Wikipedia
+python3 -m gbbo report         # week 0
+python3 -m gbbo report N       # week N markdown, then edit
+```
+
+## Not building
+
+Leave-one-series-out scoreboard, Monica Kim handshake merge, YAML auto-ingest, friend-consensus fade. Do not grow a flag surface to hold those.

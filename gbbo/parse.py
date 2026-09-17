@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import difflib
 import re
 from typing import Any
 
@@ -78,6 +79,12 @@ PRESENTER_RE = re.compile(r"presenter\s*=\s*(.+)", re.I)
 NETWORK_RE = re.compile(r"network\s*=\s*(.+)", re.I)
 EPISODES_RE = re.compile(r"num_episodes\s*=\s*(\d+)", re.I)
 CONTESTANTS_RE = re.compile(r"num_contestants\s*=\s*(\d+)", re.I)
+
+# Wikipedia results-chart typos / truncations that must map to the bakers table.
+CHART_NAME_ALIASES = {
+    "jairzeno": "jairzinho",
+    "pui": "pui man",
+}
 
 
 def _template_name_and_args(text: str) -> list[tuple[str, list[str]]]:
@@ -284,20 +291,82 @@ def parse_bakers_table(table: str, series: int) -> list[dict[str, Any]]:
 
 
 def _short_name(full: str) -> str:
-    """Use the name the results chart will use: usually first given name or quoted nickname."""
+    """Tent name: quoted nickname if present, otherwise the first given name."""
     full = strip_markup(full)
     nick = re.search(r"[\"']([^\"']+)[\"']", full)
-    # Carol 'Pui Man' Li -> Pui Man if that's how the chart labels them.
     if nick:
         alias = nick.group(1).strip()
-        # If alias is a middle nickname like Connie, use it.
         if alias and alias.lower() not in {"jr", "jnr"}:
-            # Prefer alias when it is the show name (Connie, Pui Man)
             return alias
-    # First token before space, but keep hyphenated first names.
-    first = full.split()[0]
-    first = first.replace(",", "")
-    return first
+    parts = [p.strip(",") for p in full.split() if p.strip(",")]
+    return parts[0] if parts else full
+
+
+def _resolve_baker_id(name: str, bakers: list[dict[str, Any]]) -> str | None:
+    key = name.lower().strip()
+    key = CHART_NAME_ALIASES.get(key, key)
+    if not key or key.isdigit() or key in {"-", "elimination"}:
+        return None
+    by_short = {b["baker_short"].lower(): b["baker_id"] for b in bakers}
+    if key in by_short:
+        return by_short[key]
+    slug = slugify(key)
+    for b in bakers:
+        if slugify(b["baker_short"]) == slug:
+            return b["baker_id"]
+        short = b["baker_short"].lower()
+        if short.startswith(key + " ") or key.startswith(short + " "):
+            return b["baker_id"]
+    best_id = None
+    best = 0.0
+    for b in bakers:
+        ratio = difflib.SequenceMatcher(None, key, b["baker_short"].lower()).ratio()
+        if ratio > best:
+            best = ratio
+            best_id = b["baker_id"]
+    if best >= 0.84:
+        return best_id
+    return None
+
+
+def _canonical_short(name: str, bakers: list[dict[str, Any]]) -> str:
+    baker_id = _resolve_baker_id(name, bakers)
+    if baker_id:
+        for b in bakers:
+            if b["baker_id"] == baker_id:
+                return b["baker_short"]
+    return name
+
+
+def _merge_baker_episodes(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """One row per (baker_id, episode); keep the more complete copy."""
+
+    def score(r: dict[str, Any]) -> tuple[int, int, int, int]:
+        return (
+            int(r.get("technical_rank") not in (None, "")),
+            int(bool(r.get("signature_name"))),
+            int(bool(r.get("showstopper_name"))),
+            int(r.get("result") not in {None, "", "SAFE"}),
+        )
+
+    by_key: dict[tuple[str, int], dict[str, Any]] = {}
+    for row in rows:
+        baker_id = row.get("baker_id")
+        if not baker_id:
+            continue
+        key = (baker_id, int(row["episode"]))
+        prev = by_key.get(key)
+        if prev is None:
+            by_key[key] = row
+            continue
+        keep, other = (row, prev) if score(row) >= score(prev) else (prev, row)
+        if keep.get("result") in {None, "", "SAFE"} and other.get("result"):
+            keep["result"] = other["result"]
+        for field in ("signature_name", "showstopper_name", "technical_rank", "n_in_technical"):
+            if keep.get(field) in (None, "") and other.get(field) not in (None, ""):
+                keep[field] = other[field]
+        by_key[key] = keep
+    return list(by_key.values())
 
 
 def parse_results_summary(table: str) -> dict[str, list[str | None]]:
@@ -438,8 +507,15 @@ def parse_series_page(wikitext: str, series: int) -> dict[str, Any]:
         elif "result" in title_l and tables:
             results = parse_results_summary(tables[0])
         elif re.match(r"episode\s+\d+", title_l):
+            # Masterclass subsections are ==== Episode 1 ==== with no theme.
+            if level >= 4:
+                continue
             meta = parse_episode_meta(title, body)
             if meta["episode"] is None:
+                continue
+            if not meta["theme"]:
+                continue
+            if any(e["episode"] == meta["episode"] for e in episodes):
                 continue
             ep_rows = []
             if tables:
@@ -458,14 +534,24 @@ def parse_series_page(wikitext: str, series: int) -> dict[str, Any]:
 
     # Overlay HIGH/LOW from results chart onto baker_episode rows.
     by_key = {(r["baker_short"].lower(), r["episode"]): r for r in baker_episodes}
-    junk_names = {"wikitable", "baker", "bakers", "contestant", "colour key", "color key"}
+    junk_names = {
+        "wikitable",
+        "baker",
+        "bakers",
+        "contestant",
+        "colour key",
+        "color key",
+        "elimination",
+        "elimination chart",
+    }
     for short, weekly in results.items():
         if short.lower() in junk_names or short.lower().startswith("class="):
             continue
+        canon = _canonical_short(short, bakers) if bakers else short
         for i, code in enumerate(weekly, start=1):
             if not code:
                 continue
-            rec = by_key.get((short.lower(), i))
+            rec = by_key.get((canon.lower(), i)) or by_key.get((short.lower(), i))
             if rec:
                 if code in {"HIGH", "LOW"} and rec["result"] in {"SAFE", "HIGH", "LOW", None}:
                     rec["result"] = code
@@ -478,7 +564,7 @@ def parse_series_page(wikitext: str, series: int) -> dict[str, Any]:
                     {
                         "series": series,
                         "episode": i,
-                        "baker_short": short,
+                        "baker_short": canon,
                         "signature_name": "",
                         "technical_rank": None,
                         "showstopper_name": "",
@@ -486,8 +572,18 @@ def parse_series_page(wikitext: str, series: int) -> dict[str, Any]:
                         "n_in_technical": None,
                     }
                 )
+                by_key[(canon.lower(), i)] = baker_episodes[-1]
 
-    junk_names = {"wikitable", "baker", "bakers", "contestant", "colour key", "color key"}
+    junk_names = {
+        "wikitable",
+        "baker",
+        "bakers",
+        "contestant",
+        "colour key",
+        "color key",
+        "elimination",
+        "elimination chart",
+    }
     known = {b["baker_short"].lower() for b in bakers}
     known.update(_short_name(b["baker_full"]).lower() for b in bakers)
     for short in results:
@@ -496,6 +592,8 @@ def parse_series_page(wikitext: str, series: int) -> dict[str, Any]:
         if short.isdigit() or short in {"-", "Elimination"}:
             continue
         if short.lower() in known:
+            continue
+        if _resolve_baker_id(short, bakers):
             continue
         bakers.append(
             {
@@ -522,12 +620,17 @@ def parse_series_page(wikitext: str, series: int) -> dict[str, Any]:
     cleaned_be = []
     for row in baker_episodes:
         key = row["baker_short"].lower()
-        baker_id = aliases.get(key) or aliases.get(slugify(row["baker_short"]))
+        baker_id = (
+            aliases.get(key)
+            or aliases.get(slugify(row["baker_short"]))
+            or _resolve_baker_id(row["baker_short"], bakers)
+        )
         if not baker_id:
             continue
         row["baker_id"] = baker_id
+        row["baker_short"] = _canonical_short(row["baker_short"], bakers)
         cleaned_be.append(row)
-    baker_episodes = cleaned_be
+    baker_episodes = _merge_baker_episodes(cleaned_be)
     # drop duplicate baker_ids keeping the row with more demographic fields
     by_id: dict[str, dict[str, Any]] = {}
     for b in bakers:

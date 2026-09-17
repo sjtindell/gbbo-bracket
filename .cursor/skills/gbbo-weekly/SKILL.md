@@ -38,11 +38,10 @@ Store **URLs + original notes** in `data/weekly/s17eNN.md` from `data/weekly/_te
 ### B. Update data
 
 ```bash
-python3 -m gbbo ingest-history --through 17 --force
-python3 -m gbbo status
+python3 -m gbbo ingest force
 ```
 
-After Wikipedia has the new episode table, that refresh is enough for structured results. Merge user valences from the weekly notes into the prediction step.
+That refetches Wikipedia series 1–17 and rebuilds `data/processed/`. Cached ingest (no network): `python3 -m gbbo ingest`. Merge user valences from the weekly notes into the prediction step. There is no separate status / seed / ingest-week command.
 
 ### C. Rank
 
@@ -67,7 +66,7 @@ Then pick one stack. Default v1: weekly 0–10 score → softmax elim; EWMA + Mo
 ### E. Weekly report LAST
 
 ```bash
-python3 -m gbbo weekly-report --week N
+python3 -m gbbo report N
 ```
 
 Then **edit** `reports/weekly/s17eNN-YYYY-MM-DD.md` so it reads like a person. Requirements:

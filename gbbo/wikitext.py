@@ -16,9 +16,36 @@ NOWIKI_RE = re.compile(r"<nowiki>.*?</nowiki>", re.I | re.S)
 def strip_templates(text: str) -> str:
     """Unwrap or drop innermost {{templates}}, keeping visible text."""
 
+    def split_args(inner: str) -> list[str]:
+        parts: list[str] = []
+        buf: list[str] = []
+        link_depth = 0
+        i = 0
+        while i < len(inner):
+            two = inner[i : i + 2]
+            if two == "[[":
+                link_depth += 1
+                buf.append(two)
+                i += 2
+                continue
+            if two == "]]" and link_depth:
+                link_depth -= 1
+                buf.append(two)
+                i += 2
+                continue
+            if inner[i] == "|" and link_depth == 0:
+                parts.append("".join(buf))
+                buf = []
+                i += 1
+                continue
+            buf.append(inner[i])
+            i += 1
+        parts.append("".join(buf))
+        return [p.strip() for p in parts]
+
     def repl(match: re.Match[str]) -> str:
         inner = match.group(1)
-        parts = [p.strip() for p in inner.split("|")]
+        parts = split_args(inner)
         name = (parts[0] if parts else "").lower()
         args = parts[1:]
         if name in {"nowrap", "nobold", "nobr", "small"} or name.startswith("sort"):
@@ -195,6 +222,10 @@ def iter_table_rows(table: str) -> Iterable[list[str]]:
         inner = inner[2:]
     if inner.endswith("|}"):
         inner = inner[:-2]
+    # Some older GBBO tables omit the first `|-` after `{|`. Insert one
+    # before the first header/data marker so split still yields rows.
+    if not re.search(r"\n\|-", inner):
+        inner = re.sub(r"\n(?=[!|])", "\n|-\n", inner, count=1)
     rows = re.split(r"\n\|-[^\n]*\n", "\n" + inner)
     for row in rows:
         cells = _split_row_cells(row)

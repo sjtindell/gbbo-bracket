@@ -1,5 +1,5 @@
 {
-  "n_bakers": 206,
+  "n_bakers": 204,
   "n_winners": 16,
   "winner_ages": [
     24,
@@ -71,18 +71,18 @@
     0.4
   ],
   "week1_SAFE_to_final": [
-    109,
+    108,
     22,
-    0.2018348623853211
+    0.2037037037037037
   ],
   "bread_week_sb_to_final": {
-    "n": 12,
-    "final": 5
+    "n": 15,
+    "final": 8
   },
   "winners": [
     {
       "series": 1,
-      "name": "Edward 'Edd' Kimber]]",
+      "name": "Edward 'Edd' Kimber",
       "age": 24,
       "occupation": "Debt collector for Yorkshire Bank",
       "occupation_group": "other",
@@ -91,7 +91,7 @@
     },
     {
       "series": 2,
-      "name": "Joanne \"Jo\" Wheatley]]",
+      "name": "Joanne \"Jo\" Wheatley",
       "age": 41,
       "occupation": "Housewife",
       "occupation_group": "other",

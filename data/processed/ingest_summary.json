@@ -1,15 +1,15 @@
 {
   "n_series": 17,
-  "n_bakers": 206,
-  "n_episodes": 169,
-  "n_baker_episode": 1174,
+  "n_bakers": 204,
+  "n_episodes": 155,
+  "n_baker_episode": 1170,
   "n_technical_ranks": 984,
   "warnings": [
     "series 17: only 1 episode sections parsed",
     "series 17: only 0 technical ranks"
   ],
   "history": {
-    "n_bakers": 206,
+    "n_bakers": 204,
     "n_winners": 16,
     "winner_ages": [
       24,
@@ -81,13 +81,13 @@
       0.4
     ],
     "week1_SAFE_to_final": [
-      109,
+      108,
       22,
-      0.2018348623853211
+      0.2037037037037037
     ],
     "bread_week_sb_to_final": {
-      "n": 12,
-      "final": 5
+      "n": 15,
+      "final": 8
     }
   }
 }

@@ -33,10 +33,6 @@ series,episode,title,theme,technical_set_by,n_bakers_start,n_eliminated,n_star_b
 4,8,Episode 8: Alternative Ingredients (Quarterfinals),Alternative Ingredients,,5,1,1,0,0
 4,9,Episode 9: French week (Semi-final),French week,,4,1,1,0,0
 4,10,Episode 10: Final,Final,,3,0,0,0,0
-4,1,Episode 1,,,2,1,1,0,0
-4,2,Episode 2,,,2,1,1,0,0
-4,3,Episode 3,,,2,2,1,0,1
-4,4,Episode 4,,,2,1,1,0,0
 5,1,Episode 1: Cakes,Cakes,,12,1,1,0,0
 5,2,Episode 2: Biscuits,Biscuits,,11,1,1,0,0
 5,3,Episode 3: Bread,Bread,,10,1,1,0,0
@@ -47,10 +43,6 @@ series,episode,title,theme,technical_set_by,n_bakers_start,n_eliminated,n_star_b
 5,8,Episode 8: Advanced Dough (Quarterfinals),Advanced Dough,,5,1,1,0,0
 5,9,Episode 9: Pâtisserie (Semi-final),Pâtisserie,,4,1,1,0,0
 5,10,Episode 10: Final,Final,,3,0,0,0,0
-5,1,Episode 1,,,2,1,1,0,0
-5,2,Episode 2,,,2,1,1,0,0
-5,3,Episode 3,,,2,1,1,0,0
-5,4,Episode 4,,,2,1,1,0,0
 6,1,Episode 1: Cakes,Cakes,,12,1,1,0,0
 6,2,Episode 2: Biscuits,Biscuits,,11,1,1,0,0
 6,3,Episode 3: Bread,Bread,,10,1,1,0,0
@@ -61,10 +53,6 @@ series,episode,title,theme,technical_set_by,n_bakers_start,n_eliminated,n_star_b
 6,8,Episode 8: Pâtisserie (Quarterfinals),Pâtisserie,,5,1,1,0,0
 6,9,Episode 9: Chocolate (Semifinals),Chocolate,,4,1,1,0,0
 6,10,Episode 10: Final,Final,,3,0,0,0,0
-6,1,Episode 1,,,2,1,1,0,0
-6,2,Episode 2,,,2,1,1,0,0
-6,3,Episode 3,,,2,1,1,0,0
-6,4,Episode 4,,,2,1,1,0,0
 7,1,Episode 1: Cake,Cake,,12,1,1,0,0
 7,2,Episode 2: Biscuits,Biscuits,,11,1,1,0,0
 7,3,Episode 3: Bread,Bread,,10,1,1,0,0
@@ -75,8 +63,6 @@ series,episode,title,theme,technical_set_by,n_bakers_start,n_eliminated,n_star_b
 7,8,Episode 8: Tudor (Quarterfinals),Tudor,,5,1,1,0,0
 7,9,Episode 9: Pâtisserie (Semi-final),Pâtisserie,,4,1,1,0,0
 7,10,Episode 10: Royal Picnic (Final),Royal Picnic,,3,0,0,0,0
-7,1,Episode 1,,Mary Berry,4,1,1,0,0
-7,2,Episode 2,,Paul Hollywood,4,1,1,0,0
 8,1,Episode 1: Cakes,Cakes,,12,1,1,0,0
 8,2,Episode 2: Biscuits,Biscuits,,11,1,1,0,0
 8,3,Episode 3: Bread,Bread,,10,1,1,0,0

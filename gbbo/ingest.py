@@ -249,6 +249,11 @@ def ingest_history(through: int = 17, *, force: bool = False) -> dict[str, Any]:
                     }
                 )
 
+    official_ids = {b["baker_id"] for b in S17_BAKERS}
+    baker_rows = [
+        b for b in baker_rows if str(b.get("series")) != "17" or b.get("baker_id") in official_ids
+    ]
+
     # Ensure series 17 metadata row is complete.
     s17_row = next((r for r in series_rows if r["series"] == 17), None)
     if s17_row:

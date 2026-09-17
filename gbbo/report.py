@@ -170,12 +170,14 @@ def render_preseason_report(payload: dict, *, extra_history: dict | None = None)
         lines.append(f"- Occupation groups among winners: {hist.get('winner_occupation_groups')}")
         lines.append(
             f"- Star Baker counts among winners: {hist.get('winner_star_baker_counts')} "
-            f"(mean {hist.get('winner_star_baker_mean')}; zero-SB winners: {hist.get('winners_with_zero_sb')}). "
-            "David Atherton won with none. Richard Burr had five and lost."
+            f"(mean {hist.get('winner_star_baker_mean')}; zeros in the file: {hist.get('winners_with_zero_sb')}). "
+            "David Atherton (S10) is the real zero-SB winner. Edd’s zero is not comparable — the award started in series 2. "
+            "Richard Burr had five and lost."
         )
         lines.append(
             f"- Mean of winners’ median technical percentile: {hist.get('winner_median_technical_percentile_mean')} "
-            f"vs field {hist.get('field_median_technical_percentile_mean')} (1.0 = always first)."
+            f"vs field {hist.get('field_median_technical_percentile_mean')} (1.0 = always first). "
+            "Directionally winners are a bit more consistent on technicals; Wikipedia ranks are missing for chunks of S8/S10/S11, so do not treat the decimal as a law."
         )
         w1 = hist.get("week1_last_technical_winners") or []
         lines.append(f"- Winners who came last in the week-1 technical: {w1 or 'none parsed'}.")
@@ -226,7 +228,7 @@ def render_preseason_report(payload: dict, *, extra_history: dict | None = None)
         "",
         "- Lock weekly elim picks **before** you watch, using the elim board from the previous report (this week: the Cake Week board above).",
         "- After you watch — or after the UK air, if you are ingesting recaps without watching — fill `data/weekly/s17eNN.md` from the template. Rank everyone. You still pick the top one or two.",
-        "- Then rerun `python -m gbbo ingest-week --week N` and `python -m gbbo weekly-report --week N`. The new report is a new file. We do not overwrite this one.",
+        "- Then `python3 -m gbbo ingest force` and `python3 -m gbbo report N`. The new report is a new file. We do not overwrite this one.",
         "- US watchers: mute `#GBBO` and *Second Helpings* from Tuesday 8pm UK until Friday. Last year Extra Slice was Friday, which matched Netflix. This year the recap is the same night.",
         "",
         "## Sources used this week",

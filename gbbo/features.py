@@ -137,7 +137,15 @@ def summarize_history(bakers: list[dict], baker_episodes: list[dict], episodes: 
 
     # bread week star baker -> final
     bread_sb_final = {"n": 0, "final": 0}
-    theme_by = {(int(e["series"]), int(e["episode"])): (e.get("theme") or "").lower() for e in episodes}
+    theme_by: dict[tuple[int, int], str] = {}
+    for e in episodes:
+        key = (int(e["series"]), int(e["episode"]))
+        theme = (e.get("theme") or "").lower().strip()
+        prev = theme_by.get(key, "")
+        if theme and (not prev or len(theme) > len(prev)):
+            theme_by[key] = theme
+        elif key not in theme_by:
+            theme_by[key] = theme
     for row in baker_episodes:
         if row.get("result") != "SB":
             continue
