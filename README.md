@@ -42,6 +42,8 @@ Historical results are parsed from Wikipedia and cached here. Wikipedia text is 
 
 ## Calendar
 
-- UK: Tuesday 22 September 2026, 8pm, Channel 4, Cake Week first.
+- UK: Tuesday 22 September 2026, 8pm, Channel 4, Cake Week first. **Week to Week Elim 1+2 lock at that start.**
 - US: Friday 25 September 2026, Netflix.
+- First Impression locks at the **start of Episode 2** (Tuesday 29 September 2026, 8pm BST). Do not submit it preseason.
+- Pool: Bracketology league **Ready, set, BrAcKEt**. Minus advancers; points = elimination number × people you correctly kept.
 - 10 episodes, 12 bakers, finale of 3 unless a non-elim week forces a double later.

@@ -2,13 +2,13 @@
 
 ## Problem
 
-A friend bracket needs three different answers that people keep collapsing into one ranking:
+A friend Bracketology league needs three different answers that people keep collapsing into one ranking:
 
-1. Who wins the series among bakers still in.
-2. Who goes home **this week**.
-3. A consistent finishing path (the bracket) that can be rebuilt after a surprise boot.
+1. Who wins the series among bakers still in (First Impression winner tab; small last-round score).
+2. Who to **minus** this ceremony and the next (Week to Week). Points are for the people you kept.
+3. A nested survivor path 12→3→winner that can be rebuilt after a surprise boot (First Impression, locks at Episode 2).
 
-Star Baker leaders are decent at (1) mid-season and bad at (2). Flashy showstoppers are the opposite.
+Star Baker leaders are decent at (1) mid-season and bad at (2). Flashy showstoppers are the opposite. Later First Impression ceremonies are worth more than Cake Week.
 
 ## What we can measure
 
@@ -45,7 +45,8 @@ Four seats, then a decision:
 - Elim: softmax of \(-s\) among remaining (temperature ~1.8). Double-elim: two draws.
 - Skill: EWMA \(\mu \leftarrow 0.55\mu + 0.45 s\).
 - Win: 6–8k simulated remaining weeks, drop lowest, noisy final of three.
-- Bracket: greedy boot order from the elim ranking, then the three left. Rebuild after every OUT.
+- Bracket: nested survivor sets from \(\sum_t t\cdot P(\text{survive } t)\). Week to Week uses this-week hazard, two ceremonies ahead.
+- App: Bracketology. Scoring is \(t \times\) correct advancers. FI locks at Episode 2 start; W2W locks two ceremonies at Channel 4 start.
 
 **Models to test against each other once the corpus is in**
 

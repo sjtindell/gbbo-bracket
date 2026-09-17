@@ -1,0 +1,446 @@
+{
+  "app": "Bracketology",
+  "league": "Ready, set, BrAcKEt",
+  "commissioner": "nsardesh",
+  "scoring": "t points per baker you kept who advanced at elimination t",
+  "clock": {
+    "w2w_locks_at": "2026-09-22 20:00 BST",
+    "w2w_locks": "next two elimination ceremonies when the episode starts on Channel 4",
+    "fi_locks_at": "2026-09-29 20:00 BST",
+    "fi_status": "DRAFT \u2014 do not lock before Cake Week",
+    "if_second_ceremony_unused": "picks reopen after scores publish"
+  },
+  "week_to_week": {
+    "do_now": true,
+    "ceremonies": [
+      {
+        "elim_index": 1,
+        "kind": "boot",
+        "n_advance": 11,
+        "minus": [
+          "Gary"
+        ],
+        "keep": [
+          "Connie",
+          "Mo",
+          "Nikki",
+          "Clara",
+          "Danni",
+          "Tom",
+          "Gabe",
+          "Molly",
+          "Moyin",
+          "Shannon",
+          "Yannis"
+        ]
+      },
+      {
+        "elim_index": 2,
+        "kind": "boot",
+        "n_advance": 10,
+        "minus": [
+          "Connie"
+        ],
+        "keep": [
+          "Mo",
+          "Nikki",
+          "Clara",
+          "Danni",
+          "Tom",
+          "Gabe",
+          "Molly",
+          "Moyin",
+          "Shannon",
+          "Yannis"
+        ]
+      }
+    ],
+    "expected_points_elim1_if_minus_top": 10.095,
+    "expected_points_elim1_if_minus_second": 10.093
+  },
+  "first_impression": {
+    "lock_now": false,
+    "winner": "Yannis",
+    "final_three": [
+      "Yannis",
+      "Shannon",
+      "Moyin"
+    ],
+    "drop_order": [
+      "Gary",
+      "Connie",
+      "Mo",
+      "Nikki",
+      "Clara",
+      "Danni",
+      "Tom",
+      "Gabe",
+      "Molly"
+    ],
+    "tabs": [
+      {
+        "elim_index": 1,
+        "kind": "boot",
+        "n_advance": 11,
+        "minus_this_tab": [
+          "Gary"
+        ],
+        "minus_if_still_on_all_12": [
+          "Gary"
+        ],
+        "keep": [
+          "Yannis",
+          "Shannon",
+          "Moyin",
+          "Molly",
+          "Gabe",
+          "Tom",
+          "Danni",
+          "Clara",
+          "Nikki",
+          "Mo",
+          "Connie"
+        ]
+      },
+      {
+        "elim_index": 2,
+        "kind": "boot",
+        "n_advance": 10,
+        "minus_this_tab": [
+          "Connie"
+        ],
+        "minus_if_still_on_all_12": [
+          "Connie",
+          "Gary"
+        ],
+        "keep": [
+          "Yannis",
+          "Shannon",
+          "Moyin",
+          "Molly",
+          "Gabe",
+          "Tom",
+          "Danni",
+          "Clara",
+          "Nikki",
+          "Mo"
+        ]
+      },
+      {
+        "elim_index": 3,
+        "kind": "boot",
+        "n_advance": 9,
+        "minus_this_tab": [
+          "Mo"
+        ],
+        "minus_if_still_on_all_12": [
+          "Mo",
+          "Connie",
+          "Gary"
+        ],
+        "keep": [
+          "Yannis",
+          "Shannon",
+          "Moyin",
+          "Molly",
+          "Gabe",
+          "Tom",
+          "Danni",
+          "Clara",
+          "Nikki"
+        ]
+      },
+      {
+        "elim_index": 4,
+        "kind": "boot",
+        "n_advance": 8,
+        "minus_this_tab": [
+          "Nikki"
+        ],
+        "minus_if_still_on_all_12": [
+          "Nikki",
+          "Mo",
+          "Connie",
+          "Gary"
+        ],
+        "keep": [
+          "Yannis",
+          "Shannon",
+          "Moyin",
+          "Molly",
+          "Gabe",
+          "Tom",
+          "Danni",
+          "Clara"
+        ]
+      },
+      {
+        "elim_index": 5,
+        "kind": "boot",
+        "n_advance": 7,
+        "minus_this_tab": [
+          "Clara"
+        ],
+        "minus_if_still_on_all_12": [
+          "Clara",
+          "Nikki",
+          "Mo",
+          "Connie",
+          "Gary"
+        ],
+        "keep": [
+          "Yannis",
+          "Shannon",
+          "Moyin",
+          "Molly",
+          "Gabe",
+          "Tom",
+          "Danni"
+        ]
+      },
+      {
+        "elim_index": 6,
+        "kind": "boot",
+        "n_advance": 6,
+        "minus_this_tab": [
+          "Danni"
+        ],
+        "minus_if_still_on_all_12": [
+          "Danni",
+          "Clara",
+          "Nikki",
+          "Mo",
+          "Connie",
+          "Gary"
+        ],
+        "keep": [
+          "Yannis",
+          "Shannon",
+          "Moyin",
+          "Molly",
+          "Gabe",
+          "Tom"
+        ]
+      },
+      {
+        "elim_index": 7,
+        "kind": "boot",
+        "n_advance": 5,
+        "minus_this_tab": [
+          "Tom"
+        ],
+        "minus_if_still_on_all_12": [
+          "Tom",
+          "Danni",
+          "Clara",
+          "Nikki",
+          "Mo",
+          "Connie",
+          "Gary"
+        ],
+        "keep": [
+          "Yannis",
+          "Shannon",
+          "Moyin",
+          "Molly",
+          "Gabe"
+        ]
+      },
+      {
+        "elim_index": 8,
+        "kind": "boot",
+        "n_advance": 4,
+        "minus_this_tab": [
+          "Gabe"
+        ],
+        "minus_if_still_on_all_12": [
+          "Gabe",
+          "Tom",
+          "Danni",
+          "Clara",
+          "Nikki",
+          "Mo",
+          "Connie",
+          "Gary"
+        ],
+        "keep": [
+          "Yannis",
+          "Shannon",
+          "Moyin",
+          "Molly"
+        ]
+      },
+      {
+        "elim_index": 9,
+        "kind": "boot",
+        "n_advance": 3,
+        "minus_this_tab": [
+          "Molly"
+        ],
+        "minus_if_still_on_all_12": [
+          "Molly",
+          "Gabe",
+          "Tom",
+          "Danni",
+          "Clara",
+          "Nikki",
+          "Mo",
+          "Connie",
+          "Gary"
+        ],
+        "keep": [
+          "Yannis",
+          "Shannon",
+          "Moyin"
+        ]
+      },
+      {
+        "elim_index": 10,
+        "kind": "winner",
+        "n_advance": 1,
+        "minus_this_tab": [
+          "Shannon",
+          "Moyin"
+        ],
+        "minus_if_still_on_all_12": [
+          "Shannon",
+          "Moyin",
+          "Molly",
+          "Gabe",
+          "Tom",
+          "Danni",
+          "Clara",
+          "Nikki",
+          "Mo",
+          "Connie",
+          "Gary"
+        ],
+        "keep": [
+          "Yannis"
+        ]
+      }
+    ]
+  },
+  "bakers": [
+    {
+      "baker_id": "17-yannis",
+      "baker_short": "Yannis",
+      "p_win": 0.18,
+      "p_elim": 0.0786,
+      "elim_rank": 12,
+      "win_rank": 1,
+      "fi_value": 37.256,
+      "p_finalist": 0.5836
+    },
+    {
+      "baker_id": "17-shannon",
+      "baker_short": "Shannon",
+      "p_win": 0.1741,
+      "p_elim": 0.0787,
+      "elim_rank": 11,
+      "win_rank": 2,
+      "fi_value": 36.42,
+      "p_finalist": 0.5533
+    },
+    {
+      "baker_id": "17-moyin",
+      "baker_short": "Moyin",
+      "p_win": 0.1072,
+      "p_elim": 0.0798,
+      "elim_rank": 10,
+      "win_rank": 3,
+      "fi_value": 30.076,
+      "p_finalist": 0.3855
+    },
+    {
+      "baker_id": "17-molly",
+      "baker_short": "Molly",
+      "p_win": 0.1068,
+      "p_elim": 0.08,
+      "elim_rank": 9,
+      "win_rank": 4,
+      "fi_value": 29.47,
+      "p_finalist": 0.3665
+    },
+    {
+      "baker_id": "17-gabe",
+      "baker_short": "Gabe",
+      "p_win": 0.0979,
+      "p_elim": 0.0801,
+      "elim_rank": 8,
+      "win_rank": 5,
+      "fi_value": 28.794,
+      "p_finalist": 0.3417
+    },
+    {
+      "baker_id": "17-tom",
+      "baker_short": "Tom",
+      "p_win": 0.088,
+      "p_elim": 0.0804,
+      "elim_rank": 7,
+      "win_rank": 6,
+      "fi_value": 27.021,
+      "p_finalist": 0.3024
+    },
+    {
+      "baker_id": "17-danni",
+      "baker_short": "Danni",
+      "p_win": 0.0686,
+      "p_elim": 0.0812,
+      "elim_rank": 6,
+      "win_rank": 7,
+      "fi_value": 23.889,
+      "p_finalist": 0.2313
+    },
+    {
+      "baker_id": "17-clara",
+      "baker_short": "Clara",
+      "p_win": 0.0471,
+      "p_elim": 0.083,
+      "elim_rank": 5,
+      "win_rank": 8,
+      "fi_value": 17.214,
+      "p_finalist": 0.1136
+    },
+    {
+      "baker_id": "17-nikki",
+      "baker_short": "Nikki",
+      "p_win": 0.0366,
+      "p_elim": 0.0849,
+      "elim_rank": 4,
+      "win_rank": 9,
+      "fi_value": 13.279,
+      "p_finalist": 0.0624
+    },
+    {
+      "baker_id": "17-mo",
+      "baker_short": "Mo",
+      "p_win": 0.0349,
+      "p_elim": 0.0851,
+      "elim_rank": 3,
+      "win_rank": 10,
+      "fi_value": 12.635,
+      "p_finalist": 0.054
+    },
+    {
+      "baker_id": "17-connie",
+      "baker_short": "Connie",
+      "p_win": 0.0294,
+      "p_elim": 0.0929,
+      "elim_rank": 2,
+      "win_rank": 11,
+      "fi_value": 4.914,
+      "p_finalist": 0.0035
+    },
+    {
+      "baker_id": "17-gary",
+      "baker_short": "Gary",
+      "p_win": 0.0294,
+      "p_elim": 0.0953,
+      "elim_rank": 1,
+      "win_rank": 12,
+      "fi_value": 4.032,
+      "p_finalist": 0.0022
+    }
+  ]
+}

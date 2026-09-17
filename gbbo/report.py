@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 from datetime import date
 from pathlib import Path
 
@@ -50,6 +51,11 @@ def write_predictions(payload: dict, week: int) -> Path:
         )
     path = PREDICTIONS / f"s17-week{week:02d}.csv"
     write_csv(path, rows, PRED_FIELDS)
+    card = payload.get("bracketology")
+    if card:
+        (PREDICTIONS / f"s17-week{week:02d}-bracketology.json").write_text(
+            json.dumps(card, indent=2), encoding="utf-8"
+        )
     return path
 
 
@@ -63,6 +69,13 @@ def render_preseason_report(payload: dict, *, extra_history: dict | None = None)
     pick = rows[0]
     today = date.today().isoformat()
     hist = extra_history or {}
+    card = payload.get("bracketology") or {}
+    w2w = (card.get("week_to_week") or {}).get("ceremonies") or []
+    fi = card.get("first_impression") or {}
+    e1 = w2w[0] if w2w else {}
+    e2 = w2w[1] if len(w2w) > 1 else {}
+    minus1 = ", ".join(e1.get("minus") or []) or "n/a"
+    minus2 = ", ".join(e2.get("minus") or []) or "n/a"
 
     lines = [
         f"# GBBO Series 17 weekly report — pre-season ({today})",
@@ -88,13 +101,41 @@ def render_preseason_report(payload: dict, *, extra_history: dict | None = None)
         f"- US: Netflix Collection 14, **Friday {S17['us_premiere']}**, about three days later.",
         "- Judges: Paul Hollywood and Nigella Lawson. Hosts: Alison Hammond and Noel Fielding.",
         "- Companion show: *Second Helpings* (Jon Richardson and Judi Love), same Tuesday night. Extra Slice is gone. That tightens the spoiler window for anyone watching on Netflix Friday.",
+        f"- Pool: **{S17['league_app']}** league **{S17['league_name']}** (commissioner {S17['league_commissioner']}). About eight people so far.",
         "",
-        "## The pick, in English",
+        "## Bracketology scoring (read this before you tap)",
         "",
-        f"If you have to lock a champion before episode 1, the model’s top remaining-season probability is **{pick['baker_short']}** "
-        f"at {_pct(pick['p_win'])}. That is a small bump over a flat 8.3 percent, not a mandate. "
+        "Both games pay **advancers**, not the boot. At elimination *t*, you get *t* points "
+        "for each baker you still have selected who actually survived that ceremony. "
+        "Minus the people you think go home. Naming the eliminated baker is how you keep "
+        "the right advancers; it is not a bonus.",
+        "",
+        "- **Week to Week:** lineup resets to whoever is still in. When Cake Week *starts* on Channel 4 "
+        f"({S17['w2w_first_lock']}), the app locks the **next two** ceremonies. If episode 1 is a single "
+        "boot — it has been in 8 of 9 Channel 4 series — the unused Elim 2 pick **reopens** after scores publish. "
+        "A double boot is two ceremonies in one episode, which is why the hedge exists. Cake Week has never "
+        "been a C4 double.",
+        f"- **First Impression:** one nested path for the whole season. It locks at the **start of Episode 2** "
+        f"({S17['fi_lock']}), not tonight. You are allowed to watch Cake Week first. Do **not** lock a champion yet. "
+        "The Elim 2 screen that says “12 selected / 10 advance / drop 2” is the cumulative quota from the original "
+        "12 if you have not minused anyone on Elim 1 yet — not a forecast that week 2 drops two people.",
+        "",
+        "## Do this in the app now (Week to Week)",
+        "",
+        f"- **Elim 1** (Cake Week, locks {S17['w2w_first_lock']}): minus **{minus1}**. Keep the other eleven.",
+        f"- **Elim 2** (locked at the same moment as a double-boot hedge): minus **{minus2}** from whoever is left after Elim 1. "
+        "If episode 1 is a normal single boot, this pick comes back.",
+        "",
+        "This week’s board is almost flat (roughly 9.5% vs 7.9%). Minus Gary because the prior says he is the most exposed, "
+        "not because Cake Week is knowable. First-week disasters recover (Nadiya came last in her first technical and still won). "
+        "You are scoring the eleven you kept, at 1 point each.",
+        "",
+        "## First Impression — draft only, do not lock",
+        "",
+        f"The app stays open until **{S17['fi_lock']}** (start of Episode 2). Watch Cake Week, then freeze a nested path. "
+        f"Draft winner **{fi.get('winner') or pick['baker_short']}** at {_pct(pick['p_win'])} is a small bump over 8.3%, not a mandate. "
         "Pre-season Bake Off favourites are historically shaky (Josh 2023, Dylan 2024, Jürgen as season-long favourite in 2021). "
-        "The useful output this week is the **full ranking** and the **elimination ranking**, not a hot take.",
+        "Later ceremonies are worth more: missing a finalist from Elim 7 onward costs 7+8+9. Missing Cake Week is 1 point.",
         "",
         "If your friends all pile onto Shannon because she was a 2025 reserve and her day job is planning, "
         "the evened-out play is still Shannon or Yannis, with Moyin as the technical-upside ticket and Molly as the consistency ticket. "
@@ -113,15 +154,14 @@ def render_preseason_report(payload: dict, *, extra_history: dict | None = None)
     lines += [
         "",
         "These probabilities are Monte Carlo outcomes (8,000 paths, nine boots, noisy final of three). "
-        "They are flatter than the raw bio multipliers on purpose — that is the “evened out” bracket. "
-        "After each elimination we drop that baker and resimulate. We do not invent a 12-team knockout tree; "
-        "Bake Off is sequential, not March Madness.",
+        "They are flatter than the raw bio multipliers on purpose — that is the “evened out” board. "
+        "After each elimination we drop that baker and resimulate. Bracketology First Impression is a nested "
+        "survivor ladder (12→11→…→3→winner), not a 12-team knockout tree.",
         "",
-        "## Ranked elimination risk for Cake Week",
+        "## Ranked elimination hazard for Cake Week",
         "",
-        "Pick the top one, or two if you want a hedge. Cake Week is noisy. First-week disasters are recoverable "
-        "(Nadiya came last in her first technical and still won). So this board is “who is most exposed if someone has to go”, "
-        "not “this person cannot bake”.",
+        "This is the Week to Week minus order, not “pick two boots.” Cake Week is noisy. "
+        "Use Elim 1 = first row, Elim 2 hedge = second row.",
         "",
         "| Elim rank | Baker | P(this week) |",
         "| ---: | --- | ---: |",
@@ -130,17 +170,21 @@ def render_preseason_report(payload: dict, *, extra_history: dict | None = None)
         lines.append(f"| {r['elim_rank']} | {r['baker_short']} | {_pct(r['p_elim'])} |")
 
     order = payload.get("boot_order") or []
-    finalists = payload.get("projected_finalists") or []
+    finalists = payload.get("projected_finalists") or fi.get("final_three") or []
+    fi_drops = fi.get("drop_order") or order
     lines += [
         "",
-        "## Projected finishing path (the actual bracket)",
+        "## First Impression draft (tap sheet — do not submit yet)",
         "",
-        "Most likely greedy boot order from the current elim ranking, then the three left standing. "
-        "This will be wrong. It is internally consistent: nobody is both week-3 out and a finalist.",
+        "Nested minuses from the survival ranking. Prefix-consistent: nobody is both week-3 out and a finalist. "
+        "Rebuild this after Cake Week.",
         "",
-        f"- Projected boots, weeks 1–9: {' → '.join(order) if order else '(n/a)'}",
-        f"- Projected final three: {', '.join(finalists) if finalists else '(n/a)'}",
-        f"- Projected winner: {rows[0]['baker_short']}",
+        f"- Draft minus order (Elim 1→9): {' → '.join(fi_drops) if fi_drops else '(n/a)'}",
+        f"- Draft final three: {', '.join(finalists) if finalists else '(n/a)'}",
+        f"- Draft winner (Elim 10, keep 1 / minus 2): {fi.get('winner') or pick['baker_short']}",
+        "",
+        "On an Elim 2 tab that still shows 12 selected, minus the first two names in that order "
+        f"({minus1} and {minus2}) so 10 remain. That is two cumulative boots, not a double-elim call.",
         "",
         "## Baker cards",
         "",
@@ -226,8 +270,9 @@ def render_preseason_report(payload: dict, *, extra_history: dict | None = None)
         "",
         "## How to use this in the friend pool",
         "",
-        "- Lock weekly elim picks **before** you watch, using the elim board from the previous report (this week: the Cake Week board above).",
-        "- After you watch — or after the UK air, if you are ingesting recaps without watching — fill `data/weekly/s17eNN.md` from the template. Rank everyone. You still pick the top one or two.",
+        "- Lock **Week to Week Elim 1 and Elim 2** before Cake Week starts on Channel 4. Minus, do not star.",
+        "- Leave **First Impression** open until after you have seen episode 1. It locks at the start of episode 2.",
+        "- After you watch — or after the UK air, if you are ingesting recaps without watching — fill `data/weekly/s17eNN.md` from the template.",
         "- Then `python3 -m gbbo ingest force` and `python3 -m gbbo report N`. The new report is a new file. We do not overwrite this one.",
         "- US watchers: mute `#GBBO` and *Second Helpings* from Tuesday 8pm UK until Friday. Last year Extra Slice was Friday, which matched Netflix. This year the recap is the same night.",
         "",
@@ -248,7 +293,8 @@ def render_preseason_report(payload: dict, *, extra_history: dict | None = None)
         "- DeepBake: https://github.com/dantaki/DeepBake",
         "- Nick Ahamed, Analytics Vidhya: https://medium.com/analytics-vidhya/analyzing-the-great-british-bake-off-part-1-ffcdf3791bf3",
         "- Times / GBBO Data 2025: https://www.thetimes.com/culture/tv-radio/article/bake-off-success-data-who-win-2025-q98wntjps",
-        "- Fantasy Bake Off scoring (for pool design, not our model): https://fantasybakeoff.co.uk/how-to-play/",
+        "- Fantasy Bake Off scoring (different pool, not Bracketology): https://fantasybakeoff.co.uk/how-to-play/",
+        "- Bracketology: https://bracketology.tv/great-british-baking-show",
         "- TVmaze series 17 episode 1: https://www.tvmaze.com/episodes/3744890/the-great-british-bake-off-17x01-cake-week",
         "",
         "Wikipedia material is CC BY-SA 4.0. Recap URLs are cited; full article text is not stored.",
@@ -281,6 +327,11 @@ def render_inseason_stub(week: int, payload: dict, history: dict | None = None) 
         f"# GBBO Series 17 weekly report — week {week} ({date.today().isoformat()})",
         "",
         "Fill this after ingesting the episode. Keep it human. Cite URLs. Do not paste full recaps.",
+        "",
+        "## Bracketology",
+        "",
+        "- Week to Week: minus who this ceremony, minus who next (two-ceremony lock at the next UK air).",
+        "- First Impression: locked at Episode 2 start. If this is the week-1 report, freeze the nested path here.",
         "",
         "## What happened",
         "",

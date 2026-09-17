@@ -13,8 +13,11 @@ This workspace cannot use “other models.” For any sub-agent, use **Grok 4.6 
 
 ## Modes
 
-1. **Pre-episode (week N):** rank remaining bakers for elimination this week; rank remaining P(win). User picks the top 1–2 on the elim board.
-2. **Post-episode:** ingest what happened, update CSVs, resimulate the remaining field, write a new report.
+The pool is **Bracketology**, league **Ready, set, BrAcKEt**. Both games score **correct advancers** × elimination number, not the boot name. Minus in the app.
+
+1. **Week to Week (before every UK air):** minus the required number from the current remaining lineup. The episode start on Channel 4 locks the **next two** ceremonies. If the second ceremony does not happen, those picks reopen after scores. Always print two minus-lists.
+2. **First Impression:** one nested survivor path (12→11→…→3→winner). Locks at the **start of Episode 2**. Do not lock before Cake Week. Rebuild the path after episode 1.
+3. **Post-episode:** ingest what happened, update CSVs, resimulate the remaining field, write a new report. After Ep 1, also freeze the FI card before Ep 2.
 
 Today the user is usually on US Pacific time. UK air is Tuesday 20:00. Netflix Collection 14 drops Friday. *Second Helpings* is the same Tuesday night — spoilers land three days before Netflix.
 
@@ -45,12 +48,12 @@ That refetches Wikipedia series 1–17 and rebuilds `data/processed/`. Cached in
 
 ### C. Rank
 
-- Elimination board = this week’s package if known, else skill + theme + LOW streak.
+- Week to Week minus-list = highest this-week elim hazard, count = expected boots this ceremony (usually 1). Always also emit the next ceremony’s minus, nested on the first (double-elim hedge).
 - Win board = EWMA skill + Monte Carlo of leftover weeks. After a boot, drop that baker and rerun. Probabilities among remaining should sum to 1.
-- Bracket = greedy boot order, then final three. Sequential, not a 12-team tree.
-- Rank **everyone** for elimination even though the user will only pick one or two.
+- First Impression = nested keep-sets from survival value \(\sum_t t\cdot P(\text{survive } t)\), not “pick a champion quote.” Prefix-consistent. Draft until Ep 2.
+- Rank **everyone** for elimination. The tap is minus, not star.
 
-Never use OLBG theoretical odds as a prior. No Polymarket/Kalshi GBBO market exists as of 2026-09-17.
+Never use OLBG theoretical odds as a prior. No Polymarket/Kalshi GBBO market exists as of 2026-09-17. Do not copy Bracketology/OLBG surnames onto official first names.
 
 ### D. Agent council (short, then decide)
 
@@ -72,11 +75,12 @@ python3 -m gbbo report N
 Then **edit** `reports/weekly/s17eNN-YYYY-MM-DD.md` so it reads like a person. Requirements:
 
 - English, not LLM throat-clearing (“In the ever-evolving landscape…”).
-- What happened, who we like to go home, who we like to win, why.
-- Tables: P(win), elim ranks, technical order.
+- What happened, who to **minus** this ceremony and the next, FI status (draft vs locked).
+- Tables: P(win), elim ranks, technical order, nested keep sizes.
 - Links to the recaps you actually used.
 - Per-baker paragraph or bullet.
 - Explicit uncertainty. Small sample. New judge.
+- Clock: W2W locks at Channel 4 start; FI locks at start of Episode 2.
 
 This report is a **new file every week**. Keep the preseason report on disk.
 
@@ -97,6 +101,8 @@ If there is nothing to commit, still check `git status -sb` so we know origin is
 ## Facts that are easy to get wrong
 
 - Official bios are first names. Do not treat Bracketology/OLBG surnames as official.
+- The pool scores advancers × ceremony number. “Pick the boot” is the minus action, not the points formula.
+- Week to Week always needs two ceremonies ahead. First Impression waits until after episode 1.
 - Shannon said she was a 2025 reserve baker (Media Mole Q&A). Small prior, not a lock.
 - Mo’s age is 21 (Good Housekeeping has had 32 — wrong).
 - Danni: they/them in official copy. Gabe: he/they (Pink News).

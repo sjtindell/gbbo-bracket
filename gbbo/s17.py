@@ -20,6 +20,11 @@ S17 = {
     "us_premiere": "2026-09-25",
     "us_platform": "Netflix Collection 14",
     "filming_location": "Welford Park",
+    "league_app": "Bracketology",
+    "league_name": "Ready, set, BrAcKEt",
+    "league_commissioner": "nsardesh",
+    "w2w_first_lock": "2026-09-22 20:00 BST",
+    "fi_lock": "2026-09-29 20:00 BST",
 }
 
 # baker_short is the tent name. Surnames only when Wikipedia or the baker

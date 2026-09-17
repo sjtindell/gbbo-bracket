@@ -148,6 +148,54 @@ def _softmax(xs: list[float], temp: float) -> list[float]:
     return [e / z for e in exps]
 
 
+def monte_carlo_season(
+    mus: list[float],
+    sigmas: list[float],
+    *,
+    n_finalists: int = 3,
+    draws: int = 8000,
+    seed: int = 2026,
+    final_noise: float = 1.6,
+) -> dict[str, Any]:
+    """Simulate boots until `n_finalists`, then a noisy winner.
+
+    `p_survive[t][i]` is P(baker i is still in after t+1 boots) for t = 0..n_boots-1,
+    and `p_survive[n_boots][i]` is P(i wins) — Bracketology's winner ceremony.
+    """
+    rng = random.Random(seed)
+    n = len(mus)
+    n_boots = max(0, n - n_finalists)
+    n_cer = n_boots + 1  # nine boots + winner
+    wins = [0] * n
+    survive = [[0] * n for _ in range(n_cer)]
+    if n == 0:
+        return {"p_win": [], "p_survive": [], "draws": draws}
+    if n == 1:
+        return {"p_win": [1.0], "p_survive": [[1.0]], "draws": draws}
+    for _ in range(draws):
+        alive = list(range(n))
+        boots = 0
+        while len(alive) > n_finalists:
+            scored = [(rng.gauss(mus[i], sigmas[i]), i) for i in alive]
+            scored.sort()
+            victim = scored[0][1]
+            alive = [i for i in alive if i != victim]
+            boots += 1
+            for i in alive:
+                survive[boots - 1][i] += 1
+        final = [(rng.gauss(mus[i], sigmas[i] * final_noise), i) for i in alive]
+        winner = max(final)[1]
+        wins[winner] += 1
+        survive[n_cer - 1][winner] += 1
+    tot = draws or 1
+    return {
+        "p_win": [w / tot for w in wins],
+        "p_survive": [[c / tot for c in row] for row in survive],
+        "draws": draws,
+        "n_boots": n_boots,
+    }
+
+
 def monte_carlo_win(
     mus: list[float],
     sigmas: list[float],
@@ -158,44 +206,11 @@ def monte_carlo_win(
     seed: int = 17,
     final_noise: float = 1.35,
 ) -> list[float]:
-    """Simulate remaining weeks: drop the lowest (or two) each week, then noisy final of 3."""
-    rng = random.Random(seed)
-    n = len(mus)
-    wins = [0] * n
-    if n == 0:
-        return []
-    if n == 1:
-        return [1.0]
-    for _ in range(draws):
-        alive = list(range(n))
-        remaining_weeks = weeks_left
-        first = True
-        while len(alive) > 3 and remaining_weeks > 0:
-            drop = n_elim_this_week if first else 1
-            first = False
-            drop = min(drop, max(0, len(alive) - 3))
-            if drop <= 0:
-                break
-            scored = []
-            for i in alive:
-                scored.append((rng.gauss(mus[i], sigmas[i]), i))
-            scored.sort()  # lowest first
-            victims = {idx for _, idx in scored[:drop]}
-            alive = [i for i in alive if i not in victims]
-            remaining_weeks -= 1
-        # if still more than 3, keep cutting on skill
-        while len(alive) > 3:
-            scored = [(rng.gauss(mus[i], sigmas[i]), i) for i in alive]
-            scored.sort()
-            alive = [idx for _, idx in scored[1:]]
-        # final: extra noise, highest wins
-        if not alive:
-            continue
-        final = [(rng.gauss(mus[i], sigmas[i] * final_noise), i) for i in alive]
-        winner = max(final)[1]
-        wins[winner] += 1
-    tot = sum(wins) or 1
-    return [w / tot for w in wins]
+    """Back-compat wrapper: win probabilities only."""
+    _ = weeks_left, n_elim_this_week
+    return monte_carlo_season(
+        mus, sigmas, draws=draws, seed=seed, final_noise=final_noise
+    )["p_win"]
 
 
 def most_likely_boot_order(
@@ -235,19 +250,20 @@ def _mix_uniform(probs: list[float], cap: float = 0.20) -> list[float]:
 
 
 def predict_week0() -> dict[str, Any]:
+    from gbbo.bracketology import attach_card
+
     ranked = preseason_weights()
     mus = [r["skill_mu"] for r in ranked]
     sigmas = [2.8] * len(ranked)
-    mc = monte_carlo_win(mus, sigmas, weeks_left=9, draws=8000, seed=2026, final_noise=1.6)
-    mc = _mix_uniform(mc, cap=0.18)
-    for r, p in zip(ranked, mc, strict=True):
-        r["p_win_mc"] = p
-        r["p_win"] = p
-    # renormalize already 1
+    sim = monte_carlo_season(mus, sigmas, draws=8000, seed=2026, final_noise=1.6)
+    mixed = _mix_uniform(sim["p_win"], cap=0.18)
+    for i, r in enumerate(ranked):
+        r["p_win_mc_raw"] = sim["p_win"][i]
+        r["p_win"] = mixed[i]
+        r["p_survive"] = [row[i] for row in sim["p_survive"]]
     ranked.sort(key=lambda r: -r["p_win"])
     for i, r in enumerate(ranked, start=1):
         r["win_rank"] = i
-    # elim: inverse of current skill
     inv = [1 / max(math.exp(r["skill_mu"] / 3.0), 1e-6) for r in ranked]
     probs = _softmax(inv, temp=2.2)
     by_id = {r["baker_id"]: p for r, p in zip(ranked, probs, strict=True)}
@@ -260,10 +276,12 @@ def predict_week0() -> dict[str, Any]:
         [{**r} for r in ranked],
         weeks_left=9,
     )
-    return {
+    payload = {
         "week": 0,
         "mode": "preseason",
         "rows": ranked,
         "boot_order": order,
         "projected_finalists": finalists,
     }
+    payload["bracketology"] = attach_card(payload)
+    return payload
