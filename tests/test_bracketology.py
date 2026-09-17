@@ -54,22 +54,22 @@ class PreseasonCard(unittest.TestCase):
     def test_fi_nested_and_unlocked(self):
         fi = self.card["first_impression"]
         self.assertFalse(fi["lock_now"])
+        self.assertEqual(fi["starts_at_elim"], 2)
         tabs = fi["tabs"]
-        self.assertEqual(len(tabs), 10)
+        self.assertEqual(tabs[0]["elim_index"], 2)
+        self.assertEqual(len(tabs[0]["keep"]), 10)
+        self.assertEqual(len(tabs[0]["minus_this_tab"]), 2)
         keeps = [set(t["keep"]) for t in tabs]
         for earlier, later in zip(keeps, keeps[1:]):
             self.assertTrue(later.issubset(earlier))
-        self.assertEqual(len(tabs[0]["keep"]), 11)
-        self.assertEqual(len(tabs[1]["keep"]), 10)
         self.assertEqual(len(tabs[-1]["keep"]), 1)
         self.assertEqual(fi["winner"], tabs[-1]["keep"][0])
-        self.assertEqual(self.card["clock"]["fi_status"].startswith("DRAFT"), True)
+        self.assertEqual(sorted(fi["first_minus"]), ["Connie", "Gary"])
 
-    def test_fi_elim2_cumulative_drop_is_two_if_nobody_minused_yet(self):
-        tab = self.card["first_impression"]["tabs"][1]
+    def test_fi_elim2_is_the_first_pane(self):
+        tab = self.card["first_impression"]["tabs"][0]
         self.assertEqual(tab["elim_index"], 2)
         self.assertEqual(len(tab["minus_if_still_on_all_12"]), 2)
-        self.assertEqual(len(tab["minus_this_tab"]), 1)
 
 
 if __name__ == "__main__":

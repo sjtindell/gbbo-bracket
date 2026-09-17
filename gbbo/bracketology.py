@@ -7,11 +7,11 @@ Week to Week: lineup resets to whoever is still in. Minus the required
 number. UK air locks the next TWO ceremonies; unused second ceremony reopens.
 
 First Impression: one nested survivor path, locked at the start of Episode 2.
-Do not lock it before Cake Week.
+The in-app pane starts at Elimination 2 (10 of 12 advance). Cake Week is the
+episode you watch; there is no Elim 1 tab on that card. Filling the card now
+costs nothing. Change it after episode 1, then leave it.
 
-Elim 2 showing “12/10 drop 2” is the cumulative quota from the original 12
-when earlier tabs are still fully selected — not a scheduled Cake Week double.
-Channel 4 week 1 has been a single boot in 8/9 series (S15 was a non-elim).
+Week to Week is the other game and is where Cake Week itself is picked.
 """
 
 from __future__ import annotations
@@ -50,6 +50,19 @@ def ceremony_specs(n_start: int = N_START, n_finalists: int = N_FINALISTS) -> li
     return specs
 
 
+def fi_ceremony_specs(n_start: int = N_START, n_finalists: int = N_FINALISTS) -> list[dict[str, Any]]:
+    """First Impression in the app starts at Elimination 2: keep 10 of 12."""
+    specs = []
+    for spec in ceremony_specs(n_start=n_start, n_finalists=n_finalists):
+        if spec["elim_index"] == 1:
+            continue
+        if spec["elim_index"] == 2:
+            specs.append({**spec, "n_drop": 2, "n_advance": n_start - 2})
+        else:
+            specs.append(spec)
+    return specs
+
+
 def expected_w2w_correct(p_elim: list[float], drop: int) -> float:
     """Expected correct advancers when exactly one baker goes home and you minus `drop`.
 
@@ -77,6 +90,7 @@ def _names(rows: list[dict[str, Any]]) -> list[str]:
 def attach_card(payload: dict[str, Any]) -> dict[str, Any]:
     rows = list(payload.get("rows") or [])
     specs = ceremony_specs()
+    fi_specs = fi_ceremony_specs()
     w2w_order = sorted(rows, key=lambda r: -r.get("p_elim", 0))
     fi_order = sorted(rows, key=lambda r: (-survival_value(r.get("p_survive") or []), -r.get("p_win", 0)))
 
@@ -99,7 +113,7 @@ def attach_card(payload: dict[str, Any]) -> dict[str, Any]:
         )
 
     fi_tabs = []
-    for spec in specs:
+    for spec in fi_specs:
         keep = fi_order[: spec["n_advance"]]
         minus_this = fi_order[spec["n_advance"] :]
         # People who leave exactly at this ceremony (nested prefix).
@@ -144,7 +158,8 @@ def attach_card(payload: dict[str, Any]) -> dict[str, Any]:
             "w2w_locks_at": S17["w2w_first_lock"],
             "w2w_locks": "next two elimination ceremonies when the episode starts on Channel 4",
             "fi_locks_at": S17["fi_lock"],
-            "fi_status": "DRAFT — do not lock before Cake Week",
+            "fi_status": "open until Episode 2; filling now is free",
+            "fi_starts_at_elim": 2,
             "if_second_ceremony_unused": "picks reopen after scores publish",
         },
         "week_to_week": {
@@ -155,9 +170,11 @@ def attach_card(payload: dict[str, Any]) -> dict[str, Any]:
         },
         "first_impression": {
             "lock_now": False,
+            "starts_at_elim": 2,
             "winner": fi_order[0]["baker_short"] if fi_order else "",
             "final_three": _names(fi_order[:3]),
             "drop_order": _names(list(reversed(fi_order[3:]))),
+            "first_minus": _names(list(reversed(fi_order[10:]))) if len(fi_order) >= 12 else [],
             "tabs": fi_tabs,
         },
         "bakers": bakers,

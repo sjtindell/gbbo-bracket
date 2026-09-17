@@ -7,7 +7,8 @@
     "w2w_locks_at": "2026-09-22 20:00 BST",
     "w2w_locks": "next two elimination ceremonies when the episode starts on Channel 4",
     "fi_locks_at": "2026-09-29 20:00 BST",
-    "fi_status": "DRAFT \u2014 do not lock before Cake Week",
+    "fi_status": "open until Episode 2; filling now is free",
+    "fi_starts_at_elim": 2,
     "if_second_ceremony_unused": "picks reopen after scores publish"
   },
   "week_to_week": {
@@ -60,6 +61,7 @@
   },
   "first_impression": {
     "lock_now": false,
+    "starts_at_elim": 2,
     "winner": "Yannis",
     "final_three": [
       "Yannis",
@@ -77,37 +79,18 @@
       "Gabe",
       "Molly"
     ],
+    "first_minus": [
+      "Gary",
+      "Connie"
+    ],
     "tabs": [
-      {
-        "elim_index": 1,
-        "kind": "boot",
-        "n_advance": 11,
-        "minus_this_tab": [
-          "Gary"
-        ],
-        "minus_if_still_on_all_12": [
-          "Gary"
-        ],
-        "keep": [
-          "Yannis",
-          "Shannon",
-          "Moyin",
-          "Molly",
-          "Gabe",
-          "Tom",
-          "Danni",
-          "Clara",
-          "Nikki",
-          "Mo",
-          "Connie"
-        ]
-      },
       {
         "elim_index": 2,
         "kind": "boot",
         "n_advance": 10,
         "minus_this_tab": [
-          "Connie"
+          "Connie",
+          "Gary"
         ],
         "minus_if_still_on_all_12": [
           "Connie",

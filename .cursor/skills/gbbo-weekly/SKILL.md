@@ -16,7 +16,7 @@ This workspace cannot use “other models.” For any sub-agent, use **Grok 4.6 
 The pool is **Bracketology**, league **Ready, set, BrAcKEt**. Both games score **correct advancers** × elimination number, not the boot name. Minus in the app.
 
 1. **Week to Week (before every UK air):** minus the required number from the current remaining lineup. The episode start on Channel 4 locks the **next two** ceremonies. If the second ceremony does not happen, those picks reopen after scores. Always print two minus-lists.
-2. **First Impression:** one nested survivor path (12→11→…→3→winner). Locks at the **start of Episode 2**. Do not lock before Cake Week. Rebuild the path after episode 1.
+2. **First Impression:** season-long card. In the app it **starts at Elimination 2** (drop 2 from 12 so 10 remain). No Elim 1 pane. Locks at the **start of Episode 2**. Filling it now is free. Change it after episode 1.
 3. **Post-episode:** ingest what happened, update CSVs, resimulate the remaining field, write a new report. After Ep 1, also freeze the FI card before Ep 2.
 
 Today the user is usually on US Pacific time. UK air is Tuesday 20:00. Netflix Collection 14 drops Friday. *Second Helpings* is the same Tuesday night — spoilers land three days before Netflix.
